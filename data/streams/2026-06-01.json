@@ -1,0 +1,52 @@
+[
+  {
+    "id": "Eum-Ly2AUls",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "こだわりがたくさんある藍沢エマ【ぶいすぽっ！/ 藍沢エマ/緋月ゆい/夜絆ニウ/APEX】",
+    "thumbnail": "https://i.ytimg.com/vi/Eum-Ly2AUls/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Eum-Ly2AUls",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-01T22:00:00Z",
+    "startTime": "2026-06-01T22:00:06Z",
+    "endTime": "2026-06-01T22:23:38Z",
+    "ttl": "2026-06-08T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "z7heOsWKHN4",
+    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
+    "title": "【ZATSU】tadaima【#VSPOEN #AryaKuroha】",
+    "thumbnail": "https://i.ytimg.com/vi/z7heOsWKHN4/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=z7heOsWKHN4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-01T22:00:00Z",
+    "startTime": "2026-06-01T22:00:28Z",
+    "endTime": "2026-06-02T00:29:28Z",
+    "ttl": "2026-06-08T22:00:00.000Z",
+    "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "315973336561",
+    "channelId": "ren_kisaragi__",
+    "title": "おはよ～～～～～",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/df520dbe2b9bd590936d_ren_kisaragi___315973336561_1780357220//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2786448330",
+    "scheduledStartTime": "2026-06-01T23:40:25Z",
+    "startTime": "2026-06-01T23:40:25Z",
+    "platform": "twitch",
+    "ttl": "2026-06-08T23:40:25.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "319604265946",
+    "channelId": "aryakuroha",
+    "title": "✦ tadaima !! im back !!",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/7430126dbb0fdcc202fe_aryakuroha_319604265946_1780351212//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2786381298",
+    "scheduledStartTime": "2026-06-01T22:00:21Z",
+    "startTime": "2026-06-01T22:00:21Z",
+    "platform": "twitch",
+    "ttl": "2026-06-08T22:00:21.000Z",
+    "streamerId": "arya_kuroha"
+  }
+]
