@@ -7,8 +7,20 @@
     "url": "https://www.youtube.com/watch?v=zaoL4snMc1U",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-09T11:00:00Z",
+    "startTime": "2026-06-09T11:01:38Z",
     "ttl": "2026-06-16T11:00:00.000Z",
     "streamerId": "kogara_toto"
+  },
+  {
+    "id": "1P7MId-awGE",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【 スト6 】V最顔合わせ！後にカスタムやりたい【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/1P7MId-awGE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=1P7MId-awGE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-09T12:00:00Z",
+    "ttl": "2026-06-16T12:00:00.000Z",
+    "streamerId": "ichinose_uruha"
   },
   {
     "id": "DcezMKGyReQ",
@@ -30,6 +42,7 @@
     "url": "https://www.youtube.com/watch?v=wEbBd7ZEAUE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-09T11:00:00Z",
+    "startTime": "2026-06-09T11:01:50Z",
     "ttl": "2026-06-16T11:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -76,6 +89,7 @@
     "url": "https://www.youtube.com/watch?v=mifujP8whZY",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-09T11:00:00Z",
+    "startTime": "2026-06-09T11:02:08Z",
     "ttl": "2026-06-16T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -91,6 +105,18 @@
     "streamerId": "yano_kuromu"
   },
   {
+    "id": "m7K0Dgk5t1k",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【スト６】#V最協第二幕 チーム4顔合わせ！【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/m7K0Dgk5t1k/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=m7K0Dgk5t1k",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-09T11:00:00Z",
+    "startTime": "2026-06-09T10:55:11Z",
+    "ttl": "2026-06-16T11:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "EuaWqWKAmm0",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【スト６】朝練【ぶいすぽっ！ / 紡木こかげ】",
@@ -101,17 +127,6 @@
     "startTime": "2026-06-09T00:53:19Z",
     "endTime": "2026-06-09T03:44:44Z",
     "ttl": "2026-06-16T01:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "m7K0Dgk5t1k",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【スト６】#V最協第二幕チーム4顔合わせ！【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/m7K0Dgk5t1k/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=m7K0Dgk5t1k",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-09T11:00:00Z",
-    "ttl": "2026-06-16T11:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
   {
@@ -130,7 +145,7 @@
     "id": "LoaavX4pPZA",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　V最用カスタム募集おねがいしますおねがいします！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/LoaavX4pPZA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/LoaavX4pPZA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=LoaavX4pPZA",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-09T07:30:00Z",
@@ -194,20 +209,21 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-09T08:00:00Z",
     "startTime": "2026-06-09T07:59:38Z",
+    "endTime": "2026-06-09T11:34:12Z",
     "ttl": "2026-06-16T08:00:00.000Z",
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316016035314",
-    "channelId": "akarindao",
-    "title": "DAY6本番だ！勝って勝つんだ勝つんだ",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-09T07:46:20Z",
-    "startTime": "2026-06-09T07:46:20Z",
+    "id": "316071198067",
+    "channelId": "ren_kisaragi__",
+    "title": "V最顔合せ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-09T11:05:41Z",
+    "startTime": "2026-06-09T11:05:41Z",
     "platform": "twitch",
-    "ttl": "2026-06-16T07:46:20.000Z",
-    "streamerId": "yumeno_akari"
+    "ttl": "2026-06-16T11:05:41.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316006976113",
@@ -220,5 +236,17 @@
     "platform": "twitch",
     "ttl": "2026-06-16T07:49:19.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316016035314",
+    "channelId": "akarindao",
+    "title": "DAY6本番だ！勝って勝つんだ勝つんだ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-06-09T07:46:20Z",
+    "startTime": "2026-06-09T07:46:20Z",
+    "platform": "twitch",
+    "ttl": "2026-06-16T07:46:20.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
