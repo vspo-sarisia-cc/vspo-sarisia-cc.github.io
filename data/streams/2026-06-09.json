@@ -169,6 +169,18 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "ya5vyYUZq-s",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【朝活雑談】　おはようなのよ！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/ya5vyYUZq-s/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ya5vyYUZq-s",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-09T21:30:00Z",
+    "startTime": "2026-06-09T21:34:04Z",
+    "ttl": "2026-06-16T21:30:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "qF8kX4vyMzM",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【桃太郎電鉄2】　関西メンツで東乗り込み桃鉄！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -192,17 +204,6 @@
     "startTime": "2026-06-09T07:32:06Z",
     "endTime": "2026-06-09T09:29:52Z",
     "ttl": "2026-06-16T07:30:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "ya5vyYUZq-s",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【朝活雑談】　おはようなのよ！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/ya5vyYUZq-s/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=ya5vyYUZq-s",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-09T21:30:00Z",
-    "ttl": "2026-06-16T21:30:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
