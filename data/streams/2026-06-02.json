@@ -1,18 +1,5 @@
 [
   {
-    "id": "mivfMCkiTQI",
-    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
-    "title": "【司書のお仕事：魔導図書館を片付けろ！】睡眠のお供に。チルな深夜のお掃除！【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/mivfMCkiTQI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=mivfMCkiTQI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-02T14:30:00Z",
-    "startTime": "2026-06-02T14:31:53Z",
-    "endTime": "2026-06-02T17:57:48Z",
-    "ttl": "2026-06-09T14:30:00.000Z",
-    "streamerId": "asumi_sena"
-  },
-  {
     "id": "nKQoShSnqEo",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【STREET FIGHTER 6】V最次鋒れちGOところでなるおさんコーチ確定みたいな書き方されてるけどなんで？いやそうだけどさ。【ぶいすぽっ！/神成きゅぴ】",
@@ -24,19 +11,6 @@
     "endTime": "2026-06-02T19:19:25Z",
     "ttl": "2026-06-09T16:30:00.000Z",
     "streamerId": "kaminari_qpi"
-  },
-  {
-    "id": "rovYBFrqMKo",
-    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
-    "title": "【 スト６】少しだけでもやること【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/rovYBFrqMKo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=rovYBFrqMKo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-02T16:10:00Z",
-    "startTime": "2026-06-02T16:11:16Z",
-    "endTime": "2026-06-02T17:45:31Z",
-    "ttl": "2026-06-09T16:10:00.000Z",
-    "streamerId": "shinomiya_runa"
   },
   {
     "id": "Huf0mc2djGE",
@@ -75,29 +49,5 @@
     "platform": "twitch",
     "ttl": "2026-06-09T21:59:01.000Z",
     "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "316039416691",
-    "channelId": "choyahanabi",
-    "title": "V最に向けて全力練習！©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/e2bec53a6471d269644e_choyahanabi_316039416691_1780408840//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2786842337",
-    "scheduledStartTime": "2026-06-02T14:00:45Z",
-    "startTime": "2026-06-02T14:00:45Z",
-    "platform": "twitch",
-    "ttl": "2026-06-09T14:00:45.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "316870530658",
-    "channelId": "remiaaotsuki",
-    "title": "Asia srv 200+ PING Premier grind w/ @akiratsukiyono 🤍",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/ab401e84ae798344fa40_remiaaotsuki_316870530658_1780408910//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2786843226",
-    "scheduledStartTime": "2026-06-02T14:01:56Z",
-    "startTime": "2026-06-02T14:01:56Z",
-    "platform": "twitch",
-    "ttl": "2026-06-09T14:01:56.000Z",
-    "streamerId": "remia_aotsuki"
   }
 ]
