@@ -19,6 +19,7 @@
     "url": "https://www.youtube.com/watch?v=1P7MId-awGE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-09T12:00:00Z",
+    "startTime": "2026-06-09T11:59:02Z",
     "ttl": "2026-06-16T12:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -38,11 +39,12 @@
     "id": "wEbBd7ZEAUE",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 ハートピアスローライフ 】新要素を遊びつくす！！w/つな、荒波子タビちゃん、花子ナナちゃん 【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/wEbBd7ZEAUE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/wEbBd7ZEAUE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=wEbBd7ZEAUE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-09T11:00:00Z",
     "startTime": "2026-06-09T11:01:50Z",
+    "endTime": "2026-06-09T12:41:06Z",
     "ttl": "2026-06-16T11:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -54,6 +56,7 @@
     "url": "https://www.youtube.com/watch?v=7YrquUK2CXA",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-09T12:00:00Z",
+    "startTime": "2026-06-09T12:00:44Z",
     "ttl": "2026-06-16T12:00:00.000Z",
     "streamerId": "kaminari_qpi"
   },
@@ -78,6 +81,7 @@
     "url": "https://www.youtube.com/watch?v=mrwLvjTsZHg",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-09T12:00:00Z",
+    "startTime": "2026-06-09T12:01:04Z",
     "ttl": "2026-06-16T12:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -90,6 +94,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-09T11:00:00Z",
     "startTime": "2026-06-09T11:02:08Z",
+    "endTime": "2026-06-09T12:41:13Z",
     "ttl": "2026-06-16T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -101,6 +106,7 @@
     "url": "https://www.youtube.com/watch?v=Ft8H2szDCAA",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-09T12:00:00Z",
+    "startTime": "2026-06-09T11:56:50Z",
     "ttl": "2026-06-16T12:00:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -201,10 +207,21 @@
     "streamerId": "remia_aotsuki"
   },
   {
+    "id": "0mHszyIkf8w",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【NINTENDO DIRECT WATCHALONG】let's check it out together!!【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/0mHszyIkf8w/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=0mHszyIkf8w",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-09T13:55:00Z",
+    "ttl": "2026-06-16T13:55:00.000Z",
+    "streamerId": "riko_solari"
+  },
+  {
     "id": "vYqgJhvTGcA",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤League of Legends◢ THE WORLD SHALL KNOW FEET | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/vYqgJhvTGcA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/vYqgJhvTGcA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=vYqgJhvTGcA",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-09T08:00:00Z",
@@ -226,18 +243,6 @@
     "streamerId": "kisaragi_ren"
   },
   {
-    "id": "316006976113",
-    "channelId": "ramuneshiranami",
-    "title": "本番Day6 vs CC ＃LTK",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-06-09T07:49:19Z",
-    "startTime": "2026-06-09T07:49:19Z",
-    "platform": "twitch",
-    "ttl": "2026-06-16T07:49:19.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316016035314",
     "channelId": "akarindao",
     "title": "DAY6本番だ！勝って勝つんだ勝つんだ",
@@ -248,5 +253,17 @@
     "platform": "twitch",
     "ttl": "2026-06-16T07:46:20.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316006976113",
+    "channelId": "ramuneshiranami",
+    "title": "本番Day6 vs CC ＃LTK",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-06-09T07:49:19Z",
+    "startTime": "2026-06-09T07:49:19Z",
+    "platform": "twitch",
+    "ttl": "2026-06-16T07:49:19.000Z",
+    "streamerId": "shiranami_ramune"
   }
 ]
