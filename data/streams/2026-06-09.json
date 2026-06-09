@@ -14,11 +14,12 @@
     "id": "5uGLLZq6dV8",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【STREET FIGHTER 6】今日は21:00から風雷叶鬼コーチも全員大集合顔合わせSP【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/5uGLLZq6dV8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/5uGLLZq6dV8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=5uGLLZq6dV8",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-09T04:45:00Z",
     "startTime": "2026-06-09T04:47:33Z",
+    "endTime": "2026-06-09T07:03:36Z",
     "ttl": "2026-06-16T04:45:00.000Z",
     "streamerId": "kaminari_qpi"
   },
@@ -32,6 +33,17 @@
     "scheduledStartTime": "2026-06-09T11:00:00Z",
     "ttl": "2026-06-16T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "Ft8H2szDCAA",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "〖 雑談 〗メガ割明日まで‼️Qoo10見ながら美容トーク。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+    "thumbnail": "https://i.ytimg.com/vi/Ft8H2szDCAA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Ft8H2szDCAA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-09T12:00:00Z",
+    "ttl": "2026-06-16T12:00:00.000Z",
+    "streamerId": "yano_kuromu"
   },
   {
     "id": "EuaWqWKAmm0",
@@ -58,6 +70,18 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "LoaavX4pPZA",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【スト６】　V最用カスタム募集おねがいしますおねがいします！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/LoaavX4pPZA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=LoaavX4pPZA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-09T07:30:00Z",
+    "startTime": "2026-06-09T07:32:06Z",
+    "ttl": "2026-06-16T07:30:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "qF8kX4vyMzM",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【桃太郎電鉄2】　関西メンツで東乗り込み桃鉄！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -78,6 +102,17 @@
     "scheduledStartTime": "2026-06-09T22:00:00Z",
     "ttl": "2026-06-16T22:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "F9Tmpc0RKFs",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤ League of Legends ◢　LTK CC CORE 本番!Day6  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/F9Tmpc0RKFs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=F9Tmpc0RKFs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-09T08:00:00Z",
+    "ttl": "2026-06-16T08:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "Bz-esCTVa2c",
@@ -109,8 +144,33 @@
     "url": "https://www.youtube.com/watch?v=vYqgJhvTGcA",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-09T08:00:00Z",
+    "startTime": "2026-06-09T07:59:38Z",
     "ttl": "2026-06-16T08:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316016035314",
+    "channelId": "akarindao",
+    "title": "DAY6本番だ！勝って勝つんだ勝つんだ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-06-09T07:46:20Z",
+    "startTime": "2026-06-09T07:46:20Z",
+    "platform": "twitch",
+    "ttl": "2026-06-16T07:46:20.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316006976113",
+    "channelId": "ramuneshiranami",
+    "title": "本番Day6 vs CC ＃LTK",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-06-09T07:49:19Z",
+    "startTime": "2026-06-09T07:49:19Z",
+    "platform": "twitch",
+    "ttl": "2026-06-16T07:49:19.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "315220545518",
