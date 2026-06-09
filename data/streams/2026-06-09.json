@@ -97,8 +97,8 @@
     "thumbnail": "https://i.ytimg.com/vi/P1KfhQO61zs/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=P1KfhQO61zs",
     "platform": "youtube",
-    "scheduledStartTime": "2026-06-09T05:00:00Z",
-    "ttl": "2026-06-16T05:00:00.000Z",
+    "scheduledStartTime": "2026-06-09T06:00:00Z",
+    "ttl": "2026-06-16T06:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
   {
@@ -108,8 +108,20 @@
     "thumbnail": "https://i.ytimg.com/vi/vYqgJhvTGcA/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=vYqgJhvTGcA",
     "platform": "youtube",
-    "scheduledStartTime": "2026-06-09T06:00:00Z",
-    "ttl": "2026-06-16T06:00:00.000Z",
+    "scheduledStartTime": "2026-06-09T08:00:00Z",
+    "ttl": "2026-06-16T08:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "315220545518",
+    "channelId": "jirajisaki",
+    "title": "くーーーー still a 6'7\" buff wealthy confident provider protector feminist non performative male 💚 !youtube",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jirajisaki-320x180.jpg",
+    "url": "https://www.twitch.tv/jirajisaki",
+    "scheduledStartTime": "2026-06-09T06:10:24Z",
+    "startTime": "2026-06-09T06:10:24Z",
+    "platform": "twitch",
+    "ttl": "2026-06-16T06:10:24.000Z",
+    "streamerId": "jira_jisaki"
   }
 ]

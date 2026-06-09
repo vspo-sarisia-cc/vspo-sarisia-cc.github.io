@@ -13,19 +13,6 @@
     "streamerId": "ichinose_uruha"
   },
   {
-    "id": "N0Wz15mWP0M",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 VALORANT 】なにをすればいいんだ・・・【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/N0Wz15mWP0M/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=N0Wz15mWP0M",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-02T05:20:00Z",
-    "startTime": "2026-06-02T05:30:59Z",
-    "endTime": "2026-06-02T09:34:21Z",
-    "ttl": "2026-06-09T05:20:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "mivfMCkiTQI",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【司書のお仕事：魔導図書館を片付けろ！】睡眠のお供に。チルな深夜のお掃除！【空澄セナ/ぶいすぽっ！】",
@@ -63,19 +50,6 @@
     "endTime": "2026-06-02T19:19:25Z",
     "ttl": "2026-06-09T16:30:00.000Z",
     "streamerId": "kaminari_qpi"
-  },
-  {
-    "id": "Cj1iKDcXIM0",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】ねみゃ~【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/Cj1iKDcXIM0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Cj1iKDcXIM0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-02T05:15:00Z",
-    "startTime": "2026-06-02T05:05:00Z",
-    "endTime": "2026-06-02T08:20:51Z",
-    "ttl": "2026-06-09T05:15:00.000Z",
-    "streamerId": "aizawa_ema"
   },
   {
     "id": "rovYBFrqMKo",
@@ -143,19 +117,6 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "3IQ0f5Bhp1Y",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【スト６】　V最がんばるぞの気持ちの魂の練習！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/3IQ0f5Bhp1Y/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=3IQ0f5Bhp1Y",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-02T05:30:00Z",
-    "startTime": "2026-06-02T05:31:31Z",
-    "endTime": "2026-06-02T09:36:56Z",
-    "ttl": "2026-06-09T05:30:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
     "id": "CrLhejHMce4",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤ League of Legends ◢　LTK CC Mastersスクリム→ソロランク  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
@@ -205,18 +166,6 @@
     "platform": "twitch",
     "ttl": "2026-06-09T11:53:27.000Z",
     "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "315982908274",
-    "channelId": "ramuneshiranami",
-    "title": "LOLしてぇ～",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/f8bd56cb05ab003e46be_ramuneshiranami_315982908274_1780382059//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2786677127",
-    "scheduledStartTime": "2026-06-02T06:34:25Z",
-    "startTime": "2026-06-02T06:34:25Z",
-    "platform": "twitch",
-    "ttl": "2026-06-09T06:34:25.000Z",
-    "streamerId": "shiranami_ramune"
   },
   {
     "id": "315986112498",
