@@ -16,7 +16,7 @@
     "id": "1P7MId-awGE",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【 スト6 】V最顔合わせ！後にカスタムやりたい【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/1P7MId-awGE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/1P7MId-awGE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=1P7MId-awGE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-09T12:00:00Z",
@@ -151,6 +151,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-09T11:00:00Z",
     "startTime": "2026-06-09T10:55:11Z",
+    "endTime": "2026-06-09T17:40:23Z",
     "ttl": "2026-06-16T11:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
