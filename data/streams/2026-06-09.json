@@ -11,6 +11,18 @@
     "streamerId": "kogara_toto"
   },
   {
+    "id": "DcezMKGyReQ",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 桃太郎電鉄2あなたの町もきっとある🍑 】関西人フルパ/ハセ、ちょや、トナ【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/DcezMKGyReQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=DcezMKGyReQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-09T10:00:00Z",
+    "startTime": "2026-06-09T10:06:08Z",
+    "ttl": "2026-06-16T10:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "wEbBd7ZEAUE",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 ハートピアスローライフ 】新要素を遊びつくす！！w/つな、荒波子タビちゃん、花子ナナちゃん 【ぶいすぽっ！/橘ひなの】",
@@ -20,6 +32,17 @@
     "scheduledStartTime": "2026-06-09T11:00:00Z",
     "ttl": "2026-06-16T11:00:00.000Z",
     "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "7YrquUK2CXA",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【STREET FIGHTER 6】コーチもまるっと全員大集合顔合わせSP【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/7YrquUK2CXA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=7YrquUK2CXA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-09T12:00:00Z",
+    "ttl": "2026-06-16T12:00:00.000Z",
+    "streamerId": "kaminari_qpi"
   },
   {
     "id": "5uGLLZq6dV8",
@@ -92,6 +115,18 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "qF8kX4vyMzM",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【桃太郎電鉄2】　関西メンツで東乗り込み桃鉄！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/qF8kX4vyMzM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=qF8kX4vyMzM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-09T10:00:00Z",
+    "startTime": "2026-06-09T10:06:05Z",
+    "ttl": "2026-06-16T10:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "LoaavX4pPZA",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　V最用カスタム募集おねがいしますおねがいします！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -100,18 +135,8 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-09T07:30:00Z",
     "startTime": "2026-06-09T07:32:06Z",
+    "endTime": "2026-06-09T09:29:52Z",
     "ttl": "2026-06-16T07:30:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "qF8kX4vyMzM",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【桃太郎電鉄2】　関西メンツで東乗り込み桃鉄！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/qF8kX4vyMzM/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=qF8kX4vyMzM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-09T10:00:00Z",
-    "ttl": "2026-06-16T10:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
