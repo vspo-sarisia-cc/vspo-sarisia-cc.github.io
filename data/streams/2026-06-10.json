@@ -68,11 +68,12 @@
     "id": "ephOS4b4PhY",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【STREET FIGHTER 6】なるおさんにJPおせーてもらうよカスタム募【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/ephOS4b4PhY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ephOS4b4PhY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ephOS4b4PhY",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-10T12:00:00Z",
     "startTime": "2026-06-10T12:00:44Z",
+    "endTime": "2026-06-10T15:40:22Z",
     "ttl": "2026-06-17T12:00:00.000Z",
     "streamerId": "kaminari_qpi"
   },
@@ -156,11 +157,12 @@
     "id": "BbZGMNjSYqc",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】く、くやしい【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/BbZGMNjSYqc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/BbZGMNjSYqc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=BbZGMNjSYqc",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-10T13:30:00Z",
     "startTime": "2026-06-10T13:30:56Z",
+    "endTime": "2026-06-10T15:51:04Z",
     "ttl": "2026-06-17T13:30:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -217,11 +219,12 @@
     "id": "rujb883jsaQ",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【POWERWASH SIMULATOR 2】cleaning time~!!【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/rujb883jsaQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/rujb883jsaQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=rujb883jsaQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-10T12:00:00Z",
     "startTime": "2026-06-10T12:08:52Z",
+    "endTime": "2026-06-10T16:07:34Z",
     "ttl": "2026-06-17T12:00:00.000Z",
     "streamerId": "riko_solari"
   },
@@ -239,18 +242,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316011969265",
-    "channelId": "ramuneshiranami",
-    "title": "Masters応援 ＃LTK",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-06-10T10:04:19Z",
-    "startTime": "2026-06-10T10:04:19Z",
-    "platform": "twitch",
-    "ttl": "2026-06-17T10:04:19.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316011429489",
     "channelId": "ren_kisaragi__",
     "title": "スト6をする",
@@ -261,6 +252,18 @@
     "platform": "twitch",
     "ttl": "2026-06-17T07:14:57.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316011969265",
+    "channelId": "ramuneshiranami",
+    "title": "Masters応援 ＃LTK",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/a3d630a7cb9b8aa7d675_ramuneshiranami_316011969265_1781085859//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2793189371",
+    "scheduledStartTime": "2026-06-10T10:04:24Z",
+    "startTime": "2026-06-10T10:04:24Z",
+    "platform": "twitch",
+    "ttl": "2026-06-17T10:04:24.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316075223155",

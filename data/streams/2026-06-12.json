@@ -20,5 +20,16 @@
     "scheduledStartTime": "2026-06-12T11:00:00Z",
     "ttl": "2026-06-19T11:00:00.000Z",
     "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "XtsW-JZBADE",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【日本語勉強】チルスタディタイム【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/XtsW-JZBADE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=XtsW-JZBADE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-12T12:00:00Z",
+    "ttl": "2026-06-19T12:00:00.000Z",
+    "streamerId": "riko_solari"
   }
 ]
