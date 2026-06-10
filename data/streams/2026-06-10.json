@@ -11,6 +11,18 @@
     "streamerId": "vspo_official"
   },
   {
+    "id": "MvVLW6VsV2I",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 Splatoon3 】ちょっと息抜き【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/MvVLW6VsV2I/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=MvVLW6VsV2I",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-10T07:10:00Z",
+    "startTime": "2026-06-10T07:14:20Z",
+    "ttl": "2026-06-17T07:10:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "xdlAhdmN10k",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 OW 〗この世にカッパはひとりだけ。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
@@ -67,6 +79,7 @@
     "url": "https://www.youtube.com/watch?v=P1KfhQO61zs",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-10T07:00:00Z",
+    "startTime": "2026-06-10T07:01:05Z",
     "ttl": "2026-06-17T07:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -100,7 +113,20 @@
     "url": "https://www.youtube.com/watch?v=VVxlUb6Uaig",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-10T07:00:00Z",
+    "startTime": "2026-06-10T07:00:06Z",
     "ttl": "2026-06-17T07:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316011429489",
+    "channelId": "ren_kisaragi__",
+    "title": "スト6をする",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-10T07:14:52Z",
+    "startTime": "2026-06-10T07:14:52Z",
+    "platform": "twitch",
+    "ttl": "2026-06-17T07:14:52.000Z",
+    "streamerId": "kisaragi_ren"
   }
 ]
