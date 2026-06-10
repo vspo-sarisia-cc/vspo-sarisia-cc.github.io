@@ -29,7 +29,7 @@
     "id": "uwxOut3BN_o",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 めっちゃカメレオン 】お絵描きしてかくれんぼ？/CPT、ありさん、バニラさん、ウォッカさん、ぽっぽ、ごっちゃんマイキーさん、かるびちゃん、みみちゃん、つな【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/uwxOut3BN_o/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/uwxOut3BN_o/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=uwxOut3BN_o",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-10T10:45:00Z",
@@ -184,6 +184,7 @@
     "url": "https://www.youtube.com/watch?v=MOqIOCRiJQg",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-10T14:00:00Z",
+    "startTime": "2026-06-10T14:02:38Z",
     "ttl": "2026-06-17T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -208,6 +209,7 @@
     "url": "https://www.youtube.com/watch?v=YBkyBi_Aysc",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-10T13:00:00Z",
+    "startTime": "2026-06-10T14:03:21Z",
     "ttl": "2026-06-17T13:00:00.000Z",
     "streamerId": "narin_mikure"
   },
@@ -237,18 +239,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316075223155",
-    "channelId": "akarindao",
-    "title": "マスターズウォチパします！！",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-10T08:30:31Z",
-    "startTime": "2026-06-10T08:30:31Z",
-    "platform": "twitch",
-    "ttl": "2026-06-17T08:30:31.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316011969265",
     "channelId": "ramuneshiranami",
     "title": "Masters応援 ＃LTK",
@@ -271,5 +261,17 @@
     "platform": "twitch",
     "ttl": "2026-06-17T07:14:57.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316075223155",
+    "channelId": "akarindao",
+    "title": "マスターズウォチパします！！",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/e1dfe74f1e32ecac301d_akarindao_316075223155_1781080231//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2793159553",
+    "scheduledStartTime": "2026-06-10T08:30:36Z",
+    "startTime": "2026-06-10T08:30:36Z",
+    "platform": "twitch",
+    "ttl": "2026-06-17T08:30:36.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
