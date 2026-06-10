@@ -7,20 +7,58 @@
     "url": "https://www.youtube.com/watch?v=EYJ-6gwHWbU",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-10T10:50:00Z",
+    "startTime": "2026-06-10T10:50:23Z",
     "ttl": "2026-06-17T10:50:00.000Z",
     "streamerId": "vspo_official"
+  },
+  {
+    "id": "8KsBxXKkVMc",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "【 R.E.P.O. 】ちーたるれぽ「ヴォイドスタッフで大事件発生？！」【 ぶいすぽ / 小雀とと 】",
+    "thumbnail": "https://i.ytimg.com/vi/8KsBxXKkVMc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=8KsBxXKkVMc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-10T11:00:00Z",
+    "startTime": "2026-06-10T11:00:57Z",
+    "ttl": "2026-06-17T11:00:00.000Z",
+    "streamerId": "kogara_toto"
+  },
+  {
+    "id": "uwxOut3BN_o",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 めっちゃカメレオン 】お絵描きしてかくれんぼ？/CPT、ありさん、バニラさん、ウォッカさん、ぽっぽ、ごっちゃんマイキーさん、かるびちゃん、みみちゃん、つな【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/uwxOut3BN_o/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=uwxOut3BN_o",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-10T10:45:00Z",
+    "startTime": "2026-06-10T11:11:05Z",
+    "ttl": "2026-06-17T10:45:00.000Z",
+    "streamerId": "kurumi_noah"
   },
   {
     "id": "MvVLW6VsV2I",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 Splatoon3 】ちょっと息抜き【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/MvVLW6VsV2I/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/MvVLW6VsV2I/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=MvVLW6VsV2I",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-10T07:10:00Z",
     "startTime": "2026-06-10T07:14:20Z",
+    "endTime": "2026-06-10T10:01:43Z",
     "ttl": "2026-06-17T07:10:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "nPSdbnbL_T0",
+    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
+    "title": "【めっちゃカメレオン】お絵描きかくれんぼだって！【ぶいすぽ/兎咲ミミ】",
+    "thumbnail": "https://i.ytimg.com/vi/nPSdbnbL_T0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=nPSdbnbL_T0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-10T11:00:00Z",
+    "startTime": "2026-06-10T11:11:01Z",
+    "ttl": "2026-06-17T11:00:00.000Z",
+    "streamerId": "tosaki_mimi"
   },
   {
     "id": "1gbPcuID808",
@@ -30,6 +68,7 @@
     "url": "https://www.youtube.com/watch?v=1gbPcuID808",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-10T11:00:00Z",
+    "startTime": "2026-06-10T11:11:04Z",
     "ttl": "2026-06-17T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -86,7 +125,7 @@
     "id": "P1KfhQO61zs",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【League of Legends】what to build..【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/P1KfhQO61zs/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/P1KfhQO61zs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=P1KfhQO61zs",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-10T07:00:00Z",
@@ -130,18 +169,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316011429489",
-    "channelId": "ren_kisaragi__",
-    "title": "スト6をする",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-06-10T07:14:52Z",
-    "startTime": "2026-06-10T07:14:52Z",
-    "platform": "twitch",
-    "ttl": "2026-06-17T07:14:52.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "316075223155",
     "channelId": "akarindao",
     "title": "マスターズウォチパします！！",
@@ -152,5 +179,29 @@
     "platform": "twitch",
     "ttl": "2026-06-17T08:30:31.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316011969265",
+    "channelId": "ramuneshiranami",
+    "title": "Masters応援 ＃LTK",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-06-10T10:04:19Z",
+    "startTime": "2026-06-10T10:04:19Z",
+    "platform": "twitch",
+    "ttl": "2026-06-17T10:04:19.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316011429489",
+    "channelId": "ren_kisaragi__",
+    "title": "スト6をする",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d71162ad93192d3140d1_ren_kisaragi___316011429489_1781075692//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2793136994",
+    "scheduledStartTime": "2026-06-10T07:14:57Z",
+    "startTime": "2026-06-10T07:14:57Z",
+    "platform": "twitch",
+    "ttl": "2026-06-17T07:14:57.000Z",
+    "streamerId": "kisaragi_ren"
   }
 ]
