@@ -61,6 +61,18 @@
     "streamerId": "tosaki_mimi"
   },
   {
+    "id": "ephOS4b4PhY",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【STREET FIGHTER 6】なるおさんにJPおせーてもらうよカスタム募【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/ephOS4b4PhY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ephOS4b4PhY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-10T12:00:00Z",
+    "startTime": "2026-06-10T12:00:44Z",
+    "ttl": "2026-06-17T12:00:00.000Z",
+    "streamerId": "kaminari_qpi"
+  },
+  {
     "id": "1gbPcuID808",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【めっちゃカメレオン】自分を塗って景色に溶け込むお絵描きかくれんぼゲーム！w/メンバー概要欄【ぶいすぽ / 猫汰つな】",
@@ -89,11 +101,12 @@
     "id": "C_b_-MrQ7Us",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【スト６】ふ～どさんいつもありがとう【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/C_b_-MrQ7Us/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/C_b_-MrQ7Us/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=C_b_-MrQ7Us",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-10T05:50:00Z",
     "startTime": "2026-06-10T05:49:11Z",
+    "endTime": "2026-06-10T11:55:31Z",
     "ttl": "2026-06-17T05:50:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -153,18 +166,20 @@
     "url": "https://www.youtube.com/watch?v=rujb883jsaQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-10T12:00:00Z",
+    "startTime": "2026-06-10T12:08:52Z",
     "ttl": "2026-06-17T12:00:00.000Z",
     "streamerId": "riko_solari"
   },
   {
     "id": "VVxlUb6Uaig",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Wuthering Waves◢ i don't know why i'm no one... | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/VVxlUb6Uaig/mqdefault_live.jpg",
+    "title": "◤Wuthering Waves Pt. 1◢ i don't know why i'm no one... | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/VVxlUb6Uaig/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=VVxlUb6Uaig",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-10T07:00:00Z",
     "startTime": "2026-06-10T07:00:06Z",
+    "endTime": "2026-06-10T11:49:13Z",
     "ttl": "2026-06-17T07:00:00.000Z",
     "streamerId": "juno_umezono"
   },
