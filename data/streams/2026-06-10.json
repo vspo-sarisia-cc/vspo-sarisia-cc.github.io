@@ -14,13 +14,26 @@
     "id": "xdlAhdmN10k",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 OW 〗この世にカッパはひとりだけ。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/xdlAhdmN10k/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/xdlAhdmN10k/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=xdlAhdmN10k",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-10T04:40:00Z",
     "startTime": "2026-06-10T04:38:03Z",
+    "endTime": "2026-06-10T06:42:11Z",
     "ttl": "2026-06-17T04:40:00.000Z",
     "streamerId": "yano_kuromu"
+  },
+  {
+    "id": "C_b_-MrQ7Us",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【スト６】ふ～どさんいつもありがとう【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/C_b_-MrQ7Us/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=C_b_-MrQ7Us",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-10T05:50:00Z",
+    "startTime": "2026-06-10T05:49:11Z",
+    "ttl": "2026-06-17T05:50:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "Oxnxz4Vh0kU",
