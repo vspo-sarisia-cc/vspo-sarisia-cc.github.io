@@ -1,5 +1,17 @@
 [
   {
+    "id": "0DAG5c3bg5w",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【雀魂】レイド先生から新技教わっちゃお【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/0DAG5c3bg5w/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=0DAG5c3bg5w",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-11T09:00:00Z",
+    "startTime": "2026-06-11T09:06:32Z",
+    "ttl": "2026-06-18T09:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "2RQTOG_XR6Y",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 Splatoon3 】T_T【 ぶいすぽっ！胡桃のあ 】",
@@ -12,6 +24,17 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "P0bIhrPfa6Y",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】V最にむけて大谷さんコーチング！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/P0bIhrPfa6Y/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=P0bIhrPfa6Y",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-11T11:00:00Z",
+    "ttl": "2026-06-18T11:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "Y-hPBqMXhCw",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　熱血！！！！！！！！高木コーチング！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -19,6 +42,7 @@
     "url": "https://www.youtube.com/watch?v=Y-hPBqMXhCw",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-11T08:30:00Z",
+    "startTime": "2026-06-11T08:29:47Z",
     "ttl": "2026-06-18T08:30:00.000Z",
     "streamerId": "choya_hanabi"
   },
