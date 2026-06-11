@@ -1,5 +1,17 @@
 [
   {
+    "id": "2RQTOG_XR6Y",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 Splatoon3 】T_T【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/2RQTOG_XR6Y/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=2RQTOG_XR6Y",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-11T06:30:00Z",
+    "startTime": "2026-06-11T06:22:37Z",
+    "ttl": "2026-06-18T06:30:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "Y-hPBqMXhCw",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　熱血！！！！！！！！高木コーチング！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -25,11 +37,12 @@
     "id": "7miwnLBeC0M",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
     "title": "【zatsudan 雑談 for a bit】 then some league w/ juno yay",
-    "thumbnail": "https://i.ytimg.com/vi/7miwnLBeC0M/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/7miwnLBeC0M/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=7miwnLBeC0M",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-11T03:00:00Z",
     "startTime": "2026-06-11T03:00:29Z",
+    "endTime": "2026-06-11T06:41:23Z",
     "ttl": "2026-06-18T03:00:00.000Z",
     "streamerId": "narin_mikure"
   },
@@ -52,6 +65,7 @@
     "url": "https://www.youtube.com/watch?v=ca0X5K7C4bs",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-11T07:00:00Z",
+    "startTime": "2026-06-11T07:07:10Z",
     "ttl": "2026-06-18T07:00:00.000Z",
     "streamerId": "juno_umezono"
   },
@@ -59,12 +73,12 @@
     "id": "316015566321",
     "channelId": "shinomiya_runa",
     "title": "rensyu",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinomiya_runa-320x180.jpg",
-    "url": "https://www.twitch.tv/shinomiya_runa",
-    "scheduledStartTime": "2026-06-11T05:23:38Z",
-    "startTime": "2026-06-11T05:23:38Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/483f2bac0192dcea2060_shinomiya_runa_316015566321_1781155418//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2793896061",
+    "scheduledStartTime": "2026-06-11T05:23:43Z",
+    "startTime": "2026-06-11T05:23:43Z",
     "platform": "twitch",
-    "ttl": "2026-06-18T05:23:38.000Z",
+    "ttl": "2026-06-18T05:23:43.000Z",
     "streamerId": "shinomiya_runa"
   },
   {

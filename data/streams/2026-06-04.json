@@ -65,19 +65,6 @@
     "streamerId": "nekota_tsuna"
   },
   {
-    "id": "G3H7wUS1tLc",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 Splatoon3 〗本日のインクあそび。2回目🐙の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/G3H7wUS1tLc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=G3H7wUS1tLc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-04T06:15:00Z",
-    "startTime": "2026-06-04T06:16:43Z",
-    "endTime": "2026-06-04T08:40:59Z",
-    "ttl": "2026-06-11T06:15:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
     "id": "VQ9I8qI2ZVo",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【スト６】トレモ雑談～ランクマッチを添えて～ or ランク雑談～トレモを添えて～【ぶいすぽっ！ / 紡木こかげ】",
@@ -115,19 +102,6 @@
     "endTime": "2026-06-04T20:17:54Z",
     "ttl": "2026-06-11T14:00:00.000Z",
     "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "SnwiXQul0AQ",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤ League of Legends ◢　LTK CC CORE  無限練習します！  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/SnwiXQul0AQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=SnwiXQul0AQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-04T07:00:00Z",
-    "startTime": "2026-06-04T07:08:35Z",
-    "endTime": "2026-06-04T17:45:15Z",
-    "ttl": "2026-06-11T07:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "fGlyHXrFCFc",
