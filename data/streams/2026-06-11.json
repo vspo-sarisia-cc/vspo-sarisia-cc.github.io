@@ -13,11 +13,12 @@
   {
     "id": "7miwnLBeC0M",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
-    "title": "【The Dark Pictures Anthology: House of Ashes | EP. 2】 ^__^ 【#VSPOEN #NarinMikure】",
+    "title": "【zatsudan 雑談 for a bit】 then some league w/ juno yay",
     "thumbnail": "https://i.ytimg.com/vi/7miwnLBeC0M/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=7miwnLBeC0M",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-11T03:00:00Z",
+    "startTime": "2026-06-11T03:00:29Z",
     "ttl": "2026-06-18T03:00:00.000Z",
     "streamerId": "narin_mikure"
   },
@@ -41,17 +42,6 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-11T07:00:00Z",
     "ttl": "2026-06-18T07:00:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
-    "id": "uq40sAhLG4U",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Dark Anthology: House of Ashes◢ this game isnt even that scary right? | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/uq40sAhLG4U/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=uq40sAhLG4U",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-11T03:00:00Z",
-    "ttl": "2026-06-18T03:00:00.000Z",
     "streamerId": "juno_umezono"
   }
 ]

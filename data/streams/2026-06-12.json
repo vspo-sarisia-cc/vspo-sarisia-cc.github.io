@@ -42,5 +42,16 @@
     "scheduledStartTime": "2026-06-12T12:00:00Z",
     "ttl": "2026-06-19T12:00:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "uq40sAhLG4U",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Dark Anthology: House of Ashes◢ this game isnt even that scary right? | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/uq40sAhLG4U/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=uq40sAhLG4U",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-12T03:00:00Z",
+    "ttl": "2026-06-19T03:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
