@@ -12,6 +12,18 @@
     "streamerId": "kaga_nazuna"
   },
   {
+    "id": "ao50q2V6BUI",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【 スト6 】全てを理解するカスタモ【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/ao50q2V6BUI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ao50q2V6BUI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-11T12:00:00Z",
+    "startTime": "2026-06-11T11:57:25Z",
+    "ttl": "2026-06-18T12:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "2RQTOG_XR6Y",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 Splatoon3 】T_T【 ぶいすぽっ！胡桃のあ 】",
@@ -23,6 +35,17 @@
     "endTime": "2026-06-11T10:09:35Z",
     "ttl": "2026-06-18T06:30:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "rhaW9aOzhNQ",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "【Subnautica2】待望の『サブノーティカ2』をやります w/白那しずく,とおこ【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/rhaW9aOzhNQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=rhaW9aOzhNQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-11T13:30:00Z",
+    "ttl": "2026-06-18T13:30:00.000Z",
+    "streamerId": "asumi_sena"
   },
   {
     "id": "P0bIhrPfa6Y",
@@ -44,6 +67,7 @@
     "url": "https://www.youtube.com/watch?v=MTmdHnl86hI",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-11T11:00:00Z",
+    "startTime": "2026-06-11T10:56:39Z",
     "ttl": "2026-06-18T11:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -51,13 +75,25 @@
     "id": "Y-hPBqMXhCw",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　熱血！！！！！！！！高木コーチング！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/Y-hPBqMXhCw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Y-hPBqMXhCw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Y-hPBqMXhCw",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-11T08:30:00Z",
     "startTime": "2026-06-11T08:29:47Z",
+    "endTime": "2026-06-11T11:05:53Z",
     "ttl": "2026-06-18T08:30:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "NHaLTKNYe3M",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【Starsand Island】#２　寝る前にすこしだけね　【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/NHaLTKNYe3M/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=NHaLTKNYe3M",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-11T13:00:00Z",
+    "ttl": "2026-06-18T13:00:00.000Z",
+    "streamerId": "amayui_moka"
   },
   {
     "id": "s8iDwqF2OpI",
@@ -67,6 +103,8 @@
     "url": "https://www.youtube.com/watch?v=s8iDwqF2OpI",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-11T11:00:00Z",
+    "startTime": "2026-06-11T11:01:30Z",
+    "endTime": "2026-06-11T12:01:16Z",
     "ttl": "2026-06-18T11:00:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -103,8 +141,21 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-11T07:00:00Z",
     "startTime": "2026-06-11T07:07:10Z",
+    "endTime": "2026-06-11T12:17:43Z",
     "ttl": "2026-06-18T07:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316016665073",
+    "channelId": "ren_kisaragi__",
+    "title": "V最チーム練",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-11T11:03:32Z",
+    "startTime": "2026-06-11T11:03:32Z",
+    "platform": "twitch",
+    "ttl": "2026-06-18T11:03:32.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316015566321",
