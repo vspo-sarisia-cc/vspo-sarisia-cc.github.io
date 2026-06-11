@@ -156,18 +156,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316082218355",
-    "channelId": "akarindao",
-    "title": "全力でワールドカップを楽しむ❕メキシコ vs 南アフリカ",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-11T18:41:39Z",
-    "startTime": "2026-06-11T18:41:39Z",
-    "platform": "twitch",
-    "ttl": "2026-06-18T18:41:39.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316973437412",
     "channelId": "remiaaotsuki",
     "title": "Super fun 5-stack Premier NA srv  @abaddon @rihsuri @fifigoesree @hysteriach",
@@ -202,6 +190,18 @@
     "platform": "twitch",
     "ttl": "2026-06-18T05:23:43.000Z",
     "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "316082218355",
+    "channelId": "akarindao",
+    "title": "全力でワールドカップを楽しむ❕メキシコ vs 南アフリカ",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/2bacb3fec6644aefc3c3_akarindao_316082218355_1781203299//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2794265366",
+    "scheduledStartTime": "2026-06-11T18:41:44Z",
+    "startTime": "2026-06-11T18:41:44Z",
+    "platform": "twitch",
+    "ttl": "2026-06-18T18:41:44.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316079012723",
