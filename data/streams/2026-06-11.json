@@ -168,6 +168,18 @@
     "streamerId": "yumeno_akari"
   },
   {
+    "id": "316973437412",
+    "channelId": "remiaaotsuki",
+    "title": "Super fun 5-stack Premier NA srv  @abaddon @rihsuri @fifigoesree @hysteriach",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_remiaaotsuki-320x180.jpg",
+    "url": "https://www.twitch.tv/remiaaotsuki",
+    "scheduledStartTime": "2026-06-11T21:08:02Z",
+    "startTime": "2026-06-11T21:08:02Z",
+    "platform": "twitch",
+    "ttl": "2026-06-18T21:08:02.000Z",
+    "streamerId": "remia_aotsuki"
+  },
+  {
     "id": "316016665073",
     "channelId": "ren_kisaragi__",
     "title": "V最チーム練",
