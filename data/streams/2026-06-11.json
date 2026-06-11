@@ -42,11 +42,12 @@
     "id": "rhaW9aOzhNQ",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【Subnautica2】待望の『サブノーティカ2』をやります w/白那しずく,とおこ【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/rhaW9aOzhNQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/rhaW9aOzhNQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=rhaW9aOzhNQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-11T13:30:00Z",
     "startTime": "2026-06-11T13:43:01Z",
+    "endTime": "2026-06-11T18:08:12Z",
     "ttl": "2026-06-18T13:30:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -131,11 +132,12 @@
     "id": "MwcP9yIHjzw",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【APEX LEGENDS】pew pew ^_^【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/MwcP9yIHjzw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/MwcP9yIHjzw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=MwcP9yIHjzw",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-11T14:00:00Z",
     "startTime": "2026-06-11T15:18:31Z",
+    "endTime": "2026-06-11T18:03:21Z",
     "ttl": "2026-06-18T14:00:00.000Z",
     "streamerId": "riko_solari"
   },
@@ -151,6 +153,18 @@
     "endTime": "2026-06-11T12:17:43Z",
     "ttl": "2026-06-18T07:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316082218355",
+    "channelId": "akarindao",
+    "title": "全力でワールドカップを楽しむ❕メキシコ vs 南アフリカ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-06-11T18:41:39Z",
+    "startTime": "2026-06-11T18:41:39Z",
+    "platform": "twitch",
+    "ttl": "2026-06-18T18:41:39.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316016665073",
