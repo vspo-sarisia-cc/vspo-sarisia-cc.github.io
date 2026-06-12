@@ -3,11 +3,12 @@
     "id": "30UuuWjBv8k",
     "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
     "title": "【スト６】V最練習すり w/まごしぃ 【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/30UuuWjBv8k/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/30UuuWjBv8k/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=30UuuWjBv8k",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T08:15:00Z",
     "startTime": "2026-06-12T08:16:25Z",
+    "endTime": "2026-06-12T10:51:09Z",
     "ttl": "2026-06-19T08:15:00.000Z",
     "streamerId": "kaga_sumire"
   },
@@ -19,6 +20,7 @@
     "url": "https://www.youtube.com/watch?v=4ms5boA65pU",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T11:00:00Z",
+    "startTime": "2026-06-12T11:08:29Z",
     "ttl": "2026-06-19T11:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -67,6 +69,7 @@
     "url": "https://www.youtube.com/watch?v=mi0I9f7z7U0",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T11:00:00Z",
+    "startTime": "2026-06-12T10:59:50Z",
     "ttl": "2026-06-19T11:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -114,6 +117,7 @@
     "url": "https://www.youtube.com/watch?v=5T9ojrmER8Q",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T11:00:00Z",
+    "startTime": "2026-06-12T11:02:49Z",
     "ttl": "2026-06-19T11:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -147,8 +151,33 @@
     "url": "https://www.youtube.com/watch?v=iAU-NGijx5U",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T11:00:00Z",
+    "startTime": "2026-06-12T11:01:55Z",
     "ttl": "2026-06-19T11:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316030537458",
+    "channelId": "ramuneshiranami",
+    "title": "flex w/ぎるる ごんかね やきぱん recapさん",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-06-12T11:25:16Z",
+    "startTime": "2026-06-12T11:25:16Z",
+    "platform": "twitch",
+    "ttl": "2026-06-19T11:25:16.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "319790348762",
+    "channelId": "aryakuroha",
+    "title": "✦ ragebaiting rpr with juno !",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-06-12T11:02:42Z",
+    "startTime": "2026-06-12T11:02:42Z",
+    "platform": "twitch",
+    "ttl": "2026-06-19T11:02:42.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "316019565937",
