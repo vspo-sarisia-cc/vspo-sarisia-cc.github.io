@@ -59,6 +59,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T13:30:00Z",
     "startTime": "2026-06-12T13:30:27Z",
+    "endTime": "2026-06-12T15:23:24Z",
     "ttl": "2026-06-19T13:30:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -74,6 +75,18 @@
     "endTime": "2026-06-12T09:54:01Z",
     "ttl": "2026-06-19T05:45:00.000Z",
     "streamerId": "kaminari_qpi"
+  },
+  {
+    "id": "NEpHugqDm0Y",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】今日は無理しない日【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/NEpHugqDm0Y/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=NEpHugqDm0Y",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-12T14:47:17Z",
+    "startTime": "2026-06-12T15:06:31Z",
+    "ttl": "2026-06-19T14:47:17.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "mi0I9f7z7U0",
@@ -167,12 +180,13 @@
   {
     "id": "3Zpubd9Xd0A",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
-    "title": "【League of Legends】we need to get chovy his worlds trophy【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/3Zpubd9Xd0A/mqdefault_live.jpg",
+    "title": "【League of Legends】I LOVE MINT【#VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/3Zpubd9Xd0A/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=3Zpubd9Xd0A",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T13:00:00Z",
     "startTime": "2026-06-12T13:05:49Z",
+    "endTime": "2026-06-12T15:21:24Z",
     "ttl": "2026-06-19T13:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -224,6 +238,18 @@
     "platform": "twitch",
     "ttl": "2026-06-19T12:11:51.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "315261754992",
+    "channelId": "erissuzukami",
+    "title": "yorick stream",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
+    "url": "https://www.twitch.tv/erissuzukami",
+    "scheduledStartTime": "2026-06-12T14:59:04Z",
+    "startTime": "2026-06-12T14:59:04Z",
+    "platform": "twitch",
+    "ttl": "2026-06-19T14:59:04.000Z",
+    "streamerId": "eris_suzukami"
   },
   {
     "id": "316019565937",
