@@ -12,6 +12,17 @@
     "streamerId": "kaga_sumire"
   },
   {
+    "id": "4ms5boA65pU",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】ブ→ス/ありさん、ハルくん【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/4ms5boA65pU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=4ms5boA65pU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-12T11:00:00Z",
+    "ttl": "2026-06-19T11:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "tU4A94KvQR0",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 Splatoon3 】パ、パ、パ、パワーーー！！！【 ぶいすぽっ！胡桃のあ 】",
@@ -39,11 +50,12 @@
     "id": "55uAxkHc4HE",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【STREET FIGHTER 6】なるおさんにエド対策教えてもらうカスタム募【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/55uAxkHc4HE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/55uAxkHc4HE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=55uAxkHc4HE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T05:45:00Z",
     "startTime": "2026-06-12T05:45:45Z",
+    "endTime": "2026-06-12T09:54:01Z",
     "ttl": "2026-06-19T05:45:00.000Z",
     "streamerId": "kaminari_qpi"
   },
@@ -57,6 +69,18 @@
     "scheduledStartTime": "2026-06-12T11:00:00Z",
     "ttl": "2026-06-19T11:00:00.000Z",
     "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "LahCgRtaD_w",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 スト６】リーサルとろう【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/LahCgRtaD_w/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=LahCgRtaD_w",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-12T09:20:00Z",
+    "startTime": "2026-06-12T09:27:41Z",
+    "ttl": "2026-06-19T09:20:00.000Z",
+    "streamerId": "shinomiya_runa"
   },
   {
     "id": "s09zvp38VZw",
@@ -127,18 +151,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316083646963",
-    "channelId": "saineginjo",
-    "title": "ここでソロQをひとつまみ",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saineginjo-320x180.jpg",
-    "url": "https://www.twitch.tv/saineginjo",
-    "scheduledStartTime": "2026-06-12T04:53:02Z",
-    "startTime": "2026-06-12T04:53:02Z",
-    "platform": "twitch",
-    "ttl": "2026-06-19T04:53:02.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
     "id": "316019565937",
     "channelId": "akarindao",
     "title": "全力でW杯カップを楽しむ❕韓国 vs チェコ同時視聴",
@@ -149,5 +161,17 @@
     "platform": "twitch",
     "ttl": "2026-06-19T01:50:25.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316083646963",
+    "channelId": "saineginjo",
+    "title": "ここでソロQをひとつまみ",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/b9f7ddaf5d58c9806417_saineginjo_316083646963_1781239982//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2794664226",
+    "scheduledStartTime": "2026-06-12T04:53:07Z",
+    "startTime": "2026-06-12T04:53:07Z",
+    "platform": "twitch",
+    "ttl": "2026-06-19T04:53:07.000Z",
+    "streamerId": "ginjo_saine"
   }
 ]

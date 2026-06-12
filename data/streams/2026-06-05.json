@@ -1,18 +1,5 @@
 [
   {
-    "id": "0Gnw_x77Bt4",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【雀魂】こちら雀豪復帰配信です【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/0Gnw_x77Bt4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=0Gnw_x77Bt4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-05T10:40:00Z",
-    "startTime": "2026-06-05T10:30:08Z",
-    "endTime": "2026-06-05T15:57:40Z",
-    "ttl": "2026-06-12T10:40:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "kZCiMbmRA0c",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 Splatoon3 】なんでもやりますよ～/ハセシン、ノリさん、Lazさん【 ぶいすぽっ！胡桃のあ 】",
@@ -91,32 +78,6 @@
     "streamerId": "shinomiya_runa"
   },
   {
-    "id": "qkkgPo1G7f4",
-    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
-    "title": "【 同時視聴 】ARASHI LIVE TOUR 2026「We are ARASHI」青春を一緒に過ごした嵐のラスコン一緒に見よう※完全初見なのでネタバレNG【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/qkkgPo1G7f4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=qkkgPo1G7f4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-05T10:30:00Z",
-    "startTime": "2026-06-05T10:30:16Z",
-    "endTime": "2026-06-05T14:37:23Z",
-    "ttl": "2026-06-12T10:30:00.000Z",
-    "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "t_X3mziijF8",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【鳴潮】２周年おめでとー！！ダーニャちゃん引くぞ！【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/t_X3mziijF8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=t_X3mziijF8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-05T10:00:00Z",
-    "startTime": "2026-06-05T10:01:54Z",
-    "endTime": "2026-06-05T11:17:14Z",
-    "ttl": "2026-06-12T10:00:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
     "id": "jlkWOgbnw4Q",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【Forza Horizon 6】　華金はやっぱチルドライブやああああ！！！！！※アシストオフいくぞ　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -180,30 +141,6 @@
     "endTime": "2026-06-06T00:17:46Z",
     "ttl": "2026-06-12T15:45:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316051951859",
-    "channelId": "ren_kisaragi__",
-    "title": "おなか痛いの一歩手前にいる",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/44307d9f7b1ae04877ad_ren_kisaragi___316051951859_1780653704//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2789117441",
-    "scheduledStartTime": "2026-06-05T10:01:49Z",
-    "startTime": "2026-06-05T10:01:49Z",
-    "platform": "twitch",
-    "ttl": "2026-06-12T10:01:49.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "315997307506",
-    "channelId": "choyahanabi",
-    "title": "V最に向けて全力練習！©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/43100dc488e6fa387be1_choyahanabi_315997307506_1780651720//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2789107260",
-    "scheduledStartTime": "2026-06-05T09:28:45Z",
-    "startTime": "2026-06-05T09:28:45Z",
-    "platform": "twitch",
-    "ttl": "2026-06-12T09:28:45.000Z",
-    "streamerId": "choya_hanabi"
   },
   {
     "id": "315616208337",
