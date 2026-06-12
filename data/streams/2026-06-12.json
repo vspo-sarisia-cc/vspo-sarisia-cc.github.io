@@ -13,6 +13,18 @@
     "streamerId": "kaga_sumire"
   },
   {
+    "id": "OHwyIl-tpOA",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【雀魂】寝る前にちょっとだけやりたいよね【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/OHwyIl-tpOA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=OHwyIl-tpOA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-12T16:30:00Z",
+    "startTime": "2026-06-12T16:33:40Z",
+    "ttl": "2026-06-19T16:30:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "M85CZO9TEhM",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【 スト6 】全てを理解するカスタry【ぶいすぽ/一ノ瀬うるは】",
@@ -21,6 +33,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T12:45:00Z",
     "startTime": "2026-06-12T12:40:19Z",
+    "endTime": "2026-06-12T16:28:40Z",
     "ttl": "2026-06-19T12:45:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -131,11 +144,12 @@
     "id": "DEqdxl21PsI",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【雑談】梅雨終わった？【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/DEqdxl21PsI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/DEqdxl21PsI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=DEqdxl21PsI",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T12:30:00Z",
     "startTime": "2026-06-12T12:32:55Z",
+    "endTime": "2026-06-12T15:42:25Z",
     "ttl": "2026-06-19T12:30:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -199,6 +213,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T12:00:00Z",
     "startTime": "2026-06-12T12:00:57Z",
+    "endTime": "2026-06-12T16:35:05Z",
     "ttl": "2026-06-19T12:00:00.000Z",
     "streamerId": "riko_solari"
   },
@@ -216,30 +231,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316030537458",
-    "channelId": "ramuneshiranami",
-    "title": "flex w/ぎるる ごんかね やきぱん recapさん",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-06-12T11:25:16Z",
-    "startTime": "2026-06-12T11:25:16Z",
-    "platform": "twitch",
-    "ttl": "2026-06-19T11:25:16.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "316030818162",
-    "channelId": "ren_kisaragi__",
-    "title": "カスタム募集",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-06-12T12:11:51Z",
-    "startTime": "2026-06-12T12:11:51Z",
-    "platform": "twitch",
-    "ttl": "2026-06-19T12:11:51.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "315261754992",
     "channelId": "erissuzukami",
     "title": "yorick stream",
@@ -250,6 +241,30 @@
     "platform": "twitch",
     "ttl": "2026-06-19T14:59:04.000Z",
     "streamerId": "eris_suzukami"
+  },
+  {
+    "id": "316030818162",
+    "channelId": "ren_kisaragi__",
+    "title": "カスタム募集",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/1eb8bff2a25b5ec63a2b_ren_kisaragi___316030818162_1781266311//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2794814818",
+    "scheduledStartTime": "2026-06-12T12:11:57Z",
+    "startTime": "2026-06-12T12:11:57Z",
+    "platform": "twitch",
+    "ttl": "2026-06-19T12:11:57.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316030537458",
+    "channelId": "ramuneshiranami",
+    "title": "flex w/ぎるる ごんかね やきぱん recapさん",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/7b448d509f141ee0a812_ramuneshiranami_316030537458_1781263516//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2794793316",
+    "scheduledStartTime": "2026-06-12T11:25:21Z",
+    "startTime": "2026-06-12T11:25:21Z",
+    "platform": "twitch",
+    "ttl": "2026-06-19T11:25:21.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316019565937",
