@@ -268,17 +268,5 @@
     "platform": "twitch",
     "ttl": "2026-06-14T07:12:03.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "315998718833",
-    "channelId": "saineginjo",
-    "title": "帰宅したのでソロQいたします",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/a9020a45ae34f4b7614e_saineginjo_315998718833_1780830048//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2790829442",
-    "scheduledStartTime": "2026-06-07T11:00:53Z",
-    "startTime": "2026-06-07T11:00:53Z",
-    "platform": "twitch",
-    "ttl": "2026-06-14T11:00:53.000Z",
-    "streamerId": "ginjo_saine"
   }
 ]

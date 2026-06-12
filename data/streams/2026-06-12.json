@@ -28,11 +28,12 @@
     "id": "4ms5boA65pU",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】ブ→ス/ありさん、ハルくん【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/4ms5boA65pU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/4ms5boA65pU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4ms5boA65pU",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T11:00:00Z",
     "startTime": "2026-06-12T11:08:29Z",
+    "endTime": "2026-06-12T13:46:30Z",
     "ttl": "2026-06-19T11:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -57,6 +58,7 @@
     "url": "https://www.youtube.com/watch?v=pMyUDFtq7JE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T13:30:00Z",
+    "startTime": "2026-06-12T13:30:27Z",
     "ttl": "2026-06-19T13:30:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -103,7 +105,7 @@
     "id": "LahCgRtaD_w",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 スト６】リーサルとろう【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/LahCgRtaD_w/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/LahCgRtaD_w/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=LahCgRtaD_w",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T09:20:00Z",
@@ -145,6 +147,7 @@
     "url": "https://www.youtube.com/watch?v=i3oSr-FI1KI",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T14:00:00Z",
+    "startTime": "2026-06-12T14:09:03Z",
     "ttl": "2026-06-19T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -152,11 +155,12 @@
     "id": "5T9ojrmER8Q",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【APEX LEGENDS】RAGE-BAITING WITH JUNO AND RPR !!【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/5T9ojrmER8Q/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/5T9ojrmER8Q/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=5T9ojrmER8Q",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T11:00:00Z",
     "startTime": "2026-06-12T11:02:49Z",
+    "endTime": "2026-06-12T14:03:40Z",
     "ttl": "2026-06-19T11:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -188,11 +192,12 @@
     "id": "iAU-NGijx5U",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Apex Legends◢ 1 gaki 1 mommy and 1 oji san walk into a bar | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/iAU-NGijx5U/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/iAU-NGijx5U/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=iAU-NGijx5U",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T11:00:00Z",
     "startTime": "2026-06-12T11:01:55Z",
+    "endTime": "2026-06-12T14:00:01Z",
     "ttl": "2026-06-19T11:00:00.000Z",
     "streamerId": "juno_umezono"
   },
@@ -221,18 +226,6 @@
     "streamerId": "kisaragi_ren"
   },
   {
-    "id": "319790348762",
-    "channelId": "aryakuroha",
-    "title": "✦ ragebaiting rpr with juno !",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-06-12T11:02:42Z",
-    "startTime": "2026-06-12T11:02:42Z",
-    "platform": "twitch",
-    "ttl": "2026-06-19T11:02:42.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
     "id": "316019565937",
     "channelId": "akarindao",
     "title": "全力でW杯カップを楽しむ❕韓国 vs チェコ同時視聴",
@@ -255,5 +248,17 @@
     "platform": "twitch",
     "ttl": "2026-06-19T04:53:07.000Z",
     "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "319790348762",
+    "channelId": "aryakuroha",
+    "title": "✦ ragebaiting rpr with juno !",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/70a7b4c8c655a94eb0a4_aryakuroha_319790348762_1781262162//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2794784705",
+    "scheduledStartTime": "2026-06-12T11:02:52Z",
+    "startTime": "2026-06-12T11:02:52Z",
+    "platform": "twitch",
+    "ttl": "2026-06-19T11:02:52.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]

@@ -26,19 +26,6 @@
     "streamerId": "shinomiya_runa"
   },
   {
-    "id": "AorlzUKrDEM",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "Starting a new life together!  | Paralives",
-    "thumbnail": "https://i.ytimg.com/vi/AorlzUKrDEM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=AorlzUKrDEM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-05T14:00:00Z",
-    "startTime": "2026-06-05T14:01:04Z",
-    "endTime": "2026-06-05T17:07:09Z",
-    "ttl": "2026-06-12T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
     "id": "cl_aMCq0XJE",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤League of Legends◢ short stream with @dttodot  | #JunoUmezono #VSPOEN",
@@ -50,17 +37,5 @@
     "endTime": "2026-06-06T00:17:46Z",
     "ttl": "2026-06-12T15:45:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "315616208337",
-    "channelId": "remiaaotsuki",
-    "title": "Starting a new life together!",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/ed79bcb4dcc551c53e0b_remiaaotsuki_315616208337_1780668059//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2789222476",
-    "scheduledStartTime": "2026-06-05T14:01:10Z",
-    "startTime": "2026-06-05T14:01:10Z",
-    "platform": "twitch",
-    "ttl": "2026-06-12T14:01:10.000Z",
-    "streamerId": "remia_aotsuki"
   }
 ]
