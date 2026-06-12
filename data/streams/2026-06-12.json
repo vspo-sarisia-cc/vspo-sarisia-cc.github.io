@@ -245,27 +245,15 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316032418418",
-    "channelId": "akarindao",
-    "title": "全力でW杯を楽しむ❕カナダvs ヘルツェゴビナDAZNで同時視聴",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-12T18:45:06Z",
-    "startTime": "2026-06-12T18:45:06Z",
-    "platform": "twitch",
-    "ttl": "2026-06-19T18:45:06.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316022895345",
     "channelId": "ren_kisaragi__",
     "title": "チルを挟む",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-06-12T17:09:06Z",
-    "startTime": "2026-06-12T17:09:06Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/70643b13085c8b6cec2a_ren_kisaragi___316022895345_1781284146//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2794985312",
+    "scheduledStartTime": "2026-06-12T17:09:11Z",
+    "startTime": "2026-06-12T17:09:11Z",
     "platform": "twitch",
-    "ttl": "2026-06-19T17:09:06.000Z",
+    "ttl": "2026-06-19T17:09:11.000Z",
     "streamerId": "kisaragi_ren"
   },
   {
@@ -291,6 +279,18 @@
     "platform": "twitch",
     "ttl": "2026-06-19T11:25:21.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316032418418",
+    "channelId": "akarindao",
+    "title": "全力でW杯カップを楽しむ❕カナダvs ヘルツェゴビナDAZNで同時視聴",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/970b34f073e5d0cd51c3_akarindao_316032418418_1781289906//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2795054870",
+    "scheduledStartTime": "2026-06-12T18:45:11Z",
+    "startTime": "2026-06-12T18:45:11Z",
+    "platform": "twitch",
+    "ttl": "2026-06-19T18:45:11.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316019565937",
