@@ -13,6 +13,18 @@
     "streamerId": "kaga_sumire"
   },
   {
+    "id": "M85CZO9TEhM",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【 スト6 】全てを理解するカスタry【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/M85CZO9TEhM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=M85CZO9TEhM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-12T12:45:00Z",
+    "startTime": "2026-06-12T12:40:19Z",
+    "ttl": "2026-06-19T12:45:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "4ms5boA65pU",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】ブ→ス/ありさん、ハルくん【 ぶいすぽっ！胡桃のあ 】",
@@ -65,12 +77,26 @@
     "id": "mi0I9f7z7U0",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【#藍沢エマ新衣装】エマOutfit6お披露目させていただきます！お披露目後告知あり！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/mi0I9f7z7U0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/mi0I9f7z7U0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=mi0I9f7z7U0",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T11:00:00Z",
     "startTime": "2026-06-12T10:59:50Z",
+    "endTime": "2026-06-12T12:15:32Z",
     "ttl": "2026-06-19T11:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "f7v15WLnNJQ",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "撥条少女時計 feat.初音ミク / Cover 藍沢エマ × 樋口楓",
+    "thumbnail": "https://i.ytimg.com/vi/f7v15WLnNJQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=f7v15WLnNJQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-12T12:15:00Z",
+    "startTime": "2026-06-12T12:15:06Z",
+    "endTime": "2026-06-12T12:21:13Z",
+    "ttl": "2026-06-19T12:15:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -82,8 +108,21 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T09:20:00Z",
     "startTime": "2026-06-12T09:27:41Z",
+    "endTime": "2026-06-12T13:21:54Z",
     "ttl": "2026-06-19T09:20:00.000Z",
     "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "DEqdxl21PsI",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【雑談】梅雨終わった？【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/DEqdxl21PsI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=DEqdxl21PsI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-12T12:30:00Z",
+    "startTime": "2026-06-12T12:32:55Z",
+    "ttl": "2026-06-19T12:30:00.000Z",
+    "streamerId": "nekota_tsuna"
   },
   {
     "id": "s09zvp38VZw",
@@ -129,6 +168,7 @@
     "url": "https://www.youtube.com/watch?v=3Zpubd9Xd0A",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T13:00:00Z",
+    "startTime": "2026-06-12T13:05:49Z",
     "ttl": "2026-06-19T13:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -140,6 +180,7 @@
     "url": "https://www.youtube.com/watch?v=M0sJTkYFqe8",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T12:00:00Z",
+    "startTime": "2026-06-12T12:00:57Z",
     "ttl": "2026-06-19T12:00:00.000Z",
     "streamerId": "riko_solari"
   },
@@ -166,6 +207,18 @@
     "platform": "twitch",
     "ttl": "2026-06-19T11:25:16.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316030818162",
+    "channelId": "ren_kisaragi__",
+    "title": "カスタム募集",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-12T12:11:51Z",
+    "startTime": "2026-06-12T12:11:51Z",
+    "platform": "twitch",
+    "ttl": "2026-06-19T12:11:51.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "319790348762",

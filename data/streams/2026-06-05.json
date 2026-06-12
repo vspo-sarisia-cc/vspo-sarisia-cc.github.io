@@ -1,31 +1,5 @@
 [
   {
-    "id": "MZoPoLPxWMo",
-    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
-    "title": "#04【BIOHAZARD RE:4】完全初見！バイオ4は初めてです！！【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/MZoPoLPxWMo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=MZoPoLPxWMo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-05T13:00:00Z",
-    "startTime": "2026-06-05T13:07:23Z",
-    "endTime": "2026-06-05T16:16:56Z",
-    "ttl": "2026-06-12T13:00:00.000Z",
-    "streamerId": "asumi_sena"
-  },
-  {
-    "id": "01LbZtuLEPU",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【 Escape from Tarkov 】頼むシュタボ終わってくれ　Lv40~  【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/01LbZtuLEPU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=01LbZtuLEPU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-05T12:00:00Z",
-    "startTime": "2026-06-05T12:02:20Z",
-    "endTime": "2026-06-05T16:16:54Z",
-    "ttl": "2026-06-12T12:00:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
     "id": "hP32yhLNgrQ",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "次の目標はハイマスキープだ！！【ぶいすぽっ！/ 藍沢エマ/スト6/STREET FIGHTER 6】",
@@ -63,19 +37,6 @@
     "endTime": "2026-06-05T17:07:09Z",
     "ttl": "2026-06-12T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "3BfDYT__WGg",
-    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
-    "title": "【APEX LEGENDS】back in the trenches smile :D【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/3BfDYT__WGg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=3BfDYT__WGg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-05T12:30:00Z",
-    "startTime": "2026-06-05T12:54:30Z",
-    "endTime": "2026-06-05T16:35:09Z",
-    "ttl": "2026-06-12T12:30:00.000Z",
-    "streamerId": "riko_solari"
   },
   {
     "id": "cl_aMCq0XJE",
