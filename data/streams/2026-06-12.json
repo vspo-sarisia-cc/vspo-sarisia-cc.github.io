@@ -1,5 +1,17 @@
 [
   {
+    "id": "tU4A94KvQR0",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 Splatoon3 】パ、パ、パ、パワーーー！！！【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/tU4A94KvQR0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=tU4A94KvQR0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-12T05:00:00Z",
+    "startTime": "2026-06-12T05:00:53Z",
+    "ttl": "2026-06-19T05:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "pMyUDFtq7JE",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【アークナイツ：エンドフィールド】カミーユ様＆ミフお姉さまお待ちしておりました‼【空澄セナ/ぶいすぽっ！】",
@@ -9,6 +21,18 @@
     "scheduledStartTime": "2026-06-12T13:30:00Z",
     "ttl": "2026-06-19T13:30:00.000Z",
     "streamerId": "asumi_sena"
+  },
+  {
+    "id": "55uAxkHc4HE",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【STREET FIGHTER 6】なるおさんにエド対策教えてもらうカスタム募【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/55uAxkHc4HE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=55uAxkHc4HE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-12T05:45:00Z",
+    "startTime": "2026-06-12T05:45:45Z",
+    "ttl": "2026-06-19T05:45:00.000Z",
+    "streamerId": "kaminari_qpi"
   },
   {
     "id": "mi0I9f7z7U0",
@@ -79,15 +103,27 @@
     "streamerId": "juno_umezono"
   },
   {
+    "id": "316083646963",
+    "channelId": "saineginjo",
+    "title": "ここでソロQをひとつまみ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saineginjo-320x180.jpg",
+    "url": "https://www.twitch.tv/saineginjo",
+    "scheduledStartTime": "2026-06-12T04:53:02Z",
+    "startTime": "2026-06-12T04:53:02Z",
+    "platform": "twitch",
+    "ttl": "2026-06-19T04:53:02.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
     "id": "316019565937",
     "channelId": "akarindao",
     "title": "全力でW杯カップを楽しむ❕韓国 vs チェコ同時視聴",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-12T01:50:20Z",
-    "startTime": "2026-06-12T01:50:20Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/8a77ea4f816b7d06759a_akarindao_316019565937_1781229020//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2794562235",
+    "scheduledStartTime": "2026-06-12T01:50:25Z",
+    "startTime": "2026-06-12T01:50:25Z",
     "platform": "twitch",
-    "ttl": "2026-06-19T01:50:20.000Z",
+    "ttl": "2026-06-19T01:50:25.000Z",
     "streamerId": "yumeno_akari"
   }
 ]
