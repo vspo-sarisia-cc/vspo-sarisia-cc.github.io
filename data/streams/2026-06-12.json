@@ -1,13 +1,26 @@
 [
   {
+    "id": "30UuuWjBv8k",
+    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
+    "title": "【スト６】V最練習すり w/まごしぃ 【ぶいすぽっ！/花芽すみれ】",
+    "thumbnail": "https://i.ytimg.com/vi/30UuuWjBv8k/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=30UuuWjBv8k",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-12T08:15:00Z",
+    "startTime": "2026-06-12T08:16:25Z",
+    "ttl": "2026-06-19T08:15:00.000Z",
+    "streamerId": "kaga_sumire"
+  },
+  {
     "id": "tU4A94KvQR0",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 Splatoon3 】パ、パ、パ、パワーーー！！！【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/tU4A94KvQR0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/tU4A94KvQR0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=tU4A94KvQR0",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-12T05:00:00Z",
     "startTime": "2026-06-12T05:00:53Z",
+    "endTime": "2026-06-12T07:48:47Z",
     "ttl": "2026-06-19T05:00:00.000Z",
     "streamerId": "kurumi_noah"
   },

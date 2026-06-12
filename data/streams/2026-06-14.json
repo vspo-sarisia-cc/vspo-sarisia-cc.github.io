@@ -20,5 +20,16 @@
     "scheduledStartTime": "2026-06-14T22:00:00Z",
     "ttl": "2026-06-21T22:00:00.000Z",
     "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "eWKOPcgBD80",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Wuthering Waves 1.x◢ new player journeys into solaris-3 (PART 1) | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/eWKOPcgBD80/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=eWKOPcgBD80",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-14T13:00:00Z",
+    "ttl": "2026-06-21T13:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
