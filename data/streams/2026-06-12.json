@@ -76,5 +76,17 @@
     "scheduledStartTime": "2026-06-12T11:00:00Z",
     "ttl": "2026-06-19T11:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316019565937",
+    "channelId": "akarindao",
+    "title": "全力でW杯カップを楽しむ❕韓国 vs チェコ同時視聴",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-06-12T01:50:20Z",
+    "startTime": "2026-06-12T01:50:20Z",
+    "platform": "twitch",
+    "ttl": "2026-06-19T01:50:20.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
