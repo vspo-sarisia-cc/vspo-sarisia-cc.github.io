@@ -1,13 +1,25 @@
 [
   {
+    "id": "XDpS16DjJqU",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【漢気リーグ】本日も！先鋒を務めます。w ..白雪レイド、本阿弥あずさ、ルイス・キャミー【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/XDpS16DjJqU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=XDpS16DjJqU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-13T09:00:00Z",
+    "ttl": "2026-06-20T09:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "_qorXAj8ato",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【雑談】新衣装お披露目ありがとうございました🎶【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/_qorXAj8ato/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/_qorXAj8ato/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=_qorXAj8ato",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-13T05:00:00Z",
     "startTime": "2026-06-13T05:02:28Z",
+    "endTime": "2026-06-13T07:51:47Z",
     "ttl": "2026-06-20T05:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -34,6 +46,18 @@
     "startTime": "2026-06-13T04:06:58Z",
     "ttl": "2026-06-20T04:00:00.000Z",
     "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "zounuh-wCCI",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤ League of Legends ◢　フレックスお誘いいただいたのでいきます！  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/zounuh-wCCI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=zounuh-wCCI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-13T07:35:00Z",
+    "startTime": "2026-06-13T07:51:28Z",
+    "ttl": "2026-06-20T07:35:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "UCyMjMTmvS0",
