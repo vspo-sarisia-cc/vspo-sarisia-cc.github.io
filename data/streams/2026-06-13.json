@@ -15,7 +15,7 @@
     "id": "4wmNWms4wa0",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【 スト6 】全てを理解するカスry ナウさんコーチング❕【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/4wmNWms4wa0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/4wmNWms4wa0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4wmNWms4wa0",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-13T11:00:00Z",
@@ -174,6 +174,18 @@
     "startTime": "2026-06-13T14:00:25Z",
     "ttl": "2026-06-20T14:00:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "316036877298",
+    "channelId": "ren_kisaragi__",
+    "title": "明日（今日）はTOP",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-13T15:28:30Z",
+    "startTime": "2026-06-13T15:28:30Z",
+    "platform": "twitch",
+    "ttl": "2026-06-20T15:28:30.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316087606899",
