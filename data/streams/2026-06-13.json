@@ -36,6 +36,18 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "gwlkigkWVjk",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】むりせずやる【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/gwlkigkWVjk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=gwlkigkWVjk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-13T14:15:00Z",
+    "startTime": "2026-06-13T14:11:10Z",
+    "ttl": "2026-06-20T14:15:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "_qorXAj8ato",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【雑談】新衣装お披露目ありがとうございました🎶【ぶいすぽっ！/ 藍沢エマ】",
@@ -47,6 +59,30 @@
     "endTime": "2026-06-13T07:51:47Z",
     "ttl": "2026-06-20T05:00:00.000Z",
     "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "a5sWBHr-JYY",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 スト６】V最ちむ練んｎ【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/a5sWBHr-JYY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=a5sWBHr-JYY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-13T14:00:00Z",
+    "startTime": "2026-06-13T14:04:20Z",
+    "ttl": "2026-06-20T14:00:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "7EA2B73PvH8",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【スト６】ま、まけたくないよおおおおかわり１時間だけやって秒で寝る【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/7EA2B73PvH8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=7EA2B73PvH8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-13T14:05:00Z",
+    "startTime": "2026-06-13T14:05:47Z",
+    "ttl": "2026-06-20T14:05:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "ryyPztLAjH8",
@@ -65,11 +101,12 @@
     "id": "XmxtefXhWcw",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】カスタム募集しそう！（予想）【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/XmxtefXhWcw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/XmxtefXhWcw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=XmxtefXhWcw",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-13T12:10:00Z",
     "startTime": "2026-06-13T12:10:23Z",
+    "endTime": "2026-06-13T13:58:15Z",
     "ttl": "2026-06-20T12:10:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -120,6 +157,7 @@
     "url": "https://www.youtube.com/watch?v=tY-ta3q1Nqs",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-13T14:00:00Z",
+    "startTime": "2026-06-13T14:00:25Z",
     "ttl": "2026-06-20T14:00:00.000Z",
     "streamerId": "riko_solari"
   },

@@ -1,18 +1,5 @@
 [
   {
-    "id": "3fT-8Qs8H74",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 夜ふかし雑談 】#81 ラーメンを無限に食べてきた【ぶいすぽっ！胡桃のあ】",
-    "thumbnail": "https://i.ytimg.com/vi/3fT-8Qs8H74/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=3fT-8Qs8H74",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-06T14:00:00Z",
-    "startTime": "2026-06-06T14:01:33Z",
-    "endTime": "2026-06-06T16:03:35Z",
-    "ttl": "2026-06-13T14:00:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "Ev3GK_VDPMk",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 OW 〗おはようございますランクします。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
@@ -26,19 +13,6 @@
     "streamerId": "yano_kuromu"
   },
   {
-    "id": "dndWAytBYWE",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤ League of Legends ◢　LOLソロランク！  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/dndWAytBYWE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=dndWAytBYWE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-06T14:00:00Z",
-    "startTime": "2026-06-06T14:04:40Z",
-    "endTime": "2026-06-06T17:11:31Z",
-    "ttl": "2026-06-13T14:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
     "id": "ssVPp0JLvXc",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Am I the disturbing anomaly?! w/ @V4Terra404  | Anomaly Company【#VSPOEN #RemiaAotsuki】",
@@ -50,30 +24,5 @@
     "endTime": "2026-06-07T02:12:43Z",
     "ttl": "2026-06-13T21:30:00.000Z",
     "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "vuxFxLkMnPY",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Valorant◢ valorant jump scare | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/vuxFxLkMnPY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=vuxFxLkMnPY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-06T14:15:00Z",
-    "startTime": "2026-06-06T14:16:30Z",
-    "endTime": "2026-06-06T16:22:17Z",
-    "ttl": "2026-06-13T14:15:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316058294643",
-    "channelId": "emtsmaru",
-    "title": "すとれっち",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/02d239cbb4e7d2ef545f_emtsmaru_316058294643_1780755479//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2790104898",
-    "scheduledStartTime": "2026-06-06T14:18:04Z",
-    "startTime": "2026-06-06T14:18:04Z",
-    "platform": "twitch",
-    "ttl": "2026-06-13T14:18:04.000Z",
-    "streamerId": "aizawa_ema"
   }
 ]
