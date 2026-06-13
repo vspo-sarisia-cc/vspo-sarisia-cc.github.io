@@ -13,19 +13,6 @@
     "streamerId": "kaga_sumire"
   },
   {
-    "id": "C53DKXjrNaQ",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【雀魂】雀豪復帰まであと167pt【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/C53DKXjrNaQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=C53DKXjrNaQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-06T08:20:00Z",
-    "startTime": "2026-06-06T08:21:06Z",
-    "endTime": "2026-06-06T12:00:36Z",
-    "ttl": "2026-06-13T08:20:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "8t9umUrw7B0",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【VALORANT】エイム....？いるか.....？【ぶいすぽ/一ノ瀬うるは】",
@@ -52,32 +39,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "lhU2_BQUw10",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】ストームポイントか～【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/lhU2_BQUw10/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=lhU2_BQUw10",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-06T08:15:00Z",
-    "startTime": "2026-06-06T08:18:28Z",
-    "endTime": "2026-06-06T10:24:55Z",
-    "ttl": "2026-06-13T08:15:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
-    "id": "ymUx6O0D6LU",
-    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
-    "title": "【ワンワンバトル】吠えまくるのは任せろ【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/ymUx6O0D6LU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ymUx6O0D6LU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-06T09:00:00Z",
-    "startTime": "2026-06-06T08:59:57Z",
-    "endTime": "2026-06-06T10:26:58Z",
-    "ttl": "2026-06-13T09:00:00.000Z",
-    "streamerId": "tosaki_mimi"
-  },
-  {
     "id": "ShXNCYJsdv4",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【ダンガンロンパ】#2【空澄セナ/ぶいすぽっ！】",
@@ -89,19 +50,6 @@
     "endTime": "2026-06-06T16:41:12Z",
     "ttl": "2026-06-13T13:30:00.000Z",
     "streamerId": "asumi_sena"
-  },
-  {
-    "id": "mSUZ3FF3XPQ",
-    "channelId": "UCGWa1dMU_sDCaRQjdabsVgg",
-    "title": "【雑談】PJCSをみてる【ぶいすぽ/如月れん】",
-    "thumbnail": "https://i.ytimg.com/vi/mSUZ3FF3XPQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=mSUZ3FF3XPQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-06T08:25:55Z",
-    "startTime": "2026-06-06T08:27:18Z",
-    "endTime": "2026-06-06T10:28:28Z",
-    "ttl": "2026-06-13T08:25:55.000Z",
-    "streamerId": "kisaragi_ren"
   },
   {
     "id": "Ev3GK_VDPMk",
@@ -192,29 +140,5 @@
     "platform": "twitch",
     "ttl": "2026-06-13T14:18:04.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "316002167154",
-    "channelId": "shinomiya_runa",
-    "title": "o",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/60768c5fdcbf01e6a50f_shinomiya_runa_316002167154_1780735858//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2789953334",
-    "scheduledStartTime": "2026-06-06T08:51:03Z",
-    "startTime": "2026-06-06T08:51:03Z",
-    "platform": "twitch",
-    "ttl": "2026-06-13T08:51:03.000Z",
-    "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "316056728691",
-    "channelId": "saineginjo",
-    "title": "帰宅したのでソロQいたします",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d70f1756f44cdfd5552b_saineginjo_316056728691_1780736571//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2789957840",
-    "scheduledStartTime": "2026-06-06T09:02:57Z",
-    "startTime": "2026-06-06T09:02:57Z",
-    "platform": "twitch",
-    "ttl": "2026-06-13T09:02:57.000Z",
-    "streamerId": "ginjo_saine"
   }
 ]
