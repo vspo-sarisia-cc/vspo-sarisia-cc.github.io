@@ -1,5 +1,17 @@
 [
   {
+    "id": "_qorXAj8ato",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【雑談】新衣装お披露目ありがとうございました🎶【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/_qorXAj8ato/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=_qorXAj8ato",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-13T05:00:00Z",
+    "startTime": "2026-06-13T05:02:28Z",
+    "ttl": "2026-06-20T05:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "ryyPztLAjH8",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【スト６】超睡眠を経てからの昼練。コンボコンボコンボ【ぶいすぽっ！ / 紡木こかげ】",
@@ -10,6 +22,18 @@
     "startTime": "2026-06-13T02:40:29Z",
     "ttl": "2026-06-20T02:30:00.000Z",
     "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "jNPizxm7ov8",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【テイルズ オブ ジ アビス】#5 テイルズシリーズ完全初見！ヴァン先生…信じていいんだよな？ TALES OF THE ABYSS【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/jNPizxm7ov8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=jNPizxm7ov8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-13T04:00:00Z",
+    "startTime": "2026-06-13T04:06:58Z",
+    "ttl": "2026-06-20T04:00:00.000Z",
+    "streamerId": "ginjo_saine"
   },
   {
     "id": "UCyMjMTmvS0",
