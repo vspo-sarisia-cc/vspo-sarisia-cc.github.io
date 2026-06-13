@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=ryyPztLAjH8",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-13T02:30:00Z",
+    "startTime": "2026-06-13T02:40:29Z",
     "ttl": "2026-06-20T02:30:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -18,6 +19,7 @@
     "url": "https://www.youtube.com/watch?v=UCyMjMTmvS0",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-13T03:00:00Z",
+    "startTime": "2026-06-13T03:01:51Z",
     "ttl": "2026-06-20T03:00:00.000Z",
     "streamerId": "narin_mikure"
   },
@@ -36,12 +38,12 @@
     "id": "316087606899",
     "channelId": "akarindao",
     "title": "全力でW杯を楽しむ❕アメリカvs パラグアイDAZNで同時視聴",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-13T00:41:26Z",
-    "startTime": "2026-06-13T00:41:26Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/5e6b715257e50801fe14_akarindao_316087606899_1781311286//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2795305691",
+    "scheduledStartTime": "2026-06-13T00:41:31Z",
+    "startTime": "2026-06-13T00:41:31Z",
     "platform": "twitch",
-    "ttl": "2026-06-20T00:41:26.000Z",
+    "ttl": "2026-06-20T00:41:31.000Z",
     "streamerId": "yumeno_akari"
   }
 ]
