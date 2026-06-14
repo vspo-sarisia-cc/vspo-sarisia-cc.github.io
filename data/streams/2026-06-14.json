@@ -11,6 +11,18 @@
     "streamerId": "kaga_sumire"
   },
   {
+    "id": "8o5gjHRoAuM",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【スプラトゥーン３】武器もマップも意味わからんスプラ無印勢です【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/8o5gjHRoAuM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=8o5gjHRoAuM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-14T05:50:00Z",
+    "startTime": "2026-06-14T05:49:28Z",
+    "ttl": "2026-06-21T05:50:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "CSuVkFXjGjA",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 リミットゼロ ブレイカーズ 】CBTプロローグβテスト！乗り込めー！！【 ぶいすぽ / 小雀とと 】",
@@ -24,14 +36,27 @@
   {
     "id": "7inqc9Y3yn8",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
-    "title": "#3【ダンガンロンパ】超高校級の儚い学生です【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/7inqc9Y3yn8/mqdefault_live.jpg",
+    "title": "#3【ダンガンロンパ】初めての学級裁判。それは違うよ！！【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/7inqc9Y3yn8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=7inqc9Y3yn8",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T02:30:00Z",
     "startTime": "2026-06-14T04:00:44Z",
+    "endTime": "2026-06-14T06:06:59Z",
     "ttl": "2026-06-21T02:30:00.000Z",
     "streamerId": "asumi_sena"
+  },
+  {
+    "id": "B-3EVTjfpAc",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】ねみゃ【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/B-3EVTjfpAc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=B-3EVTjfpAc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-14T06:15:00Z",
+    "startTime": "2026-06-14T06:13:38Z",
+    "ttl": "2026-06-21T06:15:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "6mWFYfCPMGY",
@@ -58,10 +83,21 @@
     "streamerId": "arya_kuroha"
   },
   {
+    "id": "LwqHtkdp95s",
+    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+    "title": "【League of Legends】getting chovy his first worlds trophy【#VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/LwqHtkdp95s/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=LwqHtkdp95s",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-14T13:00:00Z",
+    "ttl": "2026-06-21T13:00:00.000Z",
+    "streamerId": "jira_jisaki"
+  },
+  {
     "id": "_FuiFGncwqg",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
     "title": "【VALORANT】 ascendant 2 54rr 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/_FuiFGncwqg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/_FuiFGncwqg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=_FuiFGncwqg",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T03:00:00Z",
@@ -82,18 +118,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316029322097",
-    "channelId": "akarindao",
-    "title": "全力でW杯を楽しむ！オーストラリアvs トルコDAZNで同時視聴",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-14T03:50:10Z",
-    "startTime": "2026-06-14T03:50:10Z",
-    "platform": "twitch",
-    "ttl": "2026-06-21T03:50:10.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316029547249",
     "channelId": "ren_kisaragi__",
     "title": "ぽこあヴァイパー村でいくTOPw/稲葉さん、かじゅ",
@@ -104,5 +128,29 @@
     "platform": "twitch",
     "ttl": "2026-06-21T04:50:12.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316039302898",
+    "channelId": "saineginjo",
+    "title": "おい！！！！！！！ソロQ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saineginjo-320x180.jpg",
+    "url": "https://www.twitch.tv/saineginjo",
+    "scheduledStartTime": "2026-06-14T06:08:33Z",
+    "startTime": "2026-06-14T06:08:33Z",
+    "platform": "twitch",
+    "ttl": "2026-06-21T06:08:33.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "316029322097",
+    "channelId": "akarindao",
+    "title": "全力でW杯を楽しむ！オーストラリアvs トルコDAZNで同時視聴",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/4233783062058e26e817_akarindao_316029322097_1781409010//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2796233531",
+    "scheduledStartTime": "2026-06-14T03:50:16Z",
+    "startTime": "2026-06-14T03:50:16Z",
+    "platform": "twitch",
+    "ttl": "2026-06-21T03:50:16.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
