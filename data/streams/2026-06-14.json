@@ -45,6 +45,7 @@
     "url": "https://www.youtube.com/watch?v=VlTX9e1vsH0",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T11:15:00Z",
+    "startTime": "2026-06-14T11:09:38Z",
     "ttl": "2026-06-21T11:15:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -126,7 +127,7 @@
     "id": "S6yXbYfa7V8",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤ League of Legends ◢　LOLソロランクれつご  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/S6yXbYfa7V8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/S6yXbYfa7V8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=S6yXbYfa7V8",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T08:00:00Z",
@@ -171,6 +172,17 @@
     "streamerId": "narin_mikure"
   },
   {
+    "id": "Mm2arvWK_Z8",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【POWERWASH SIMULATOR 2】chill sunday!!!【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/Mm2arvWK_Z8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Mm2arvWK_Z8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-14T12:30:00Z",
+    "ttl": "2026-06-21T12:30:00.000Z",
+    "streamerId": "riko_solari"
+  },
+  {
     "id": "eWKOPcgBD80",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves 1.x◢ NEW PLAYER journeys into solaris-3 (PART 1) | #JunoUmezono #VSPOEN",
@@ -180,6 +192,18 @@
     "scheduledStartTime": "2026-06-14T14:00:00Z",
     "ttl": "2026-06-21T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316031017841",
+    "channelId": "shinomiya_runa",
+    "title": "rensyu",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinomiya_runa-320x180.jpg",
+    "url": "https://www.twitch.tv/shinomiya_runa",
+    "scheduledStartTime": "2026-06-14T11:12:30Z",
+    "startTime": "2026-06-14T11:12:30Z",
+    "platform": "twitch",
+    "ttl": "2026-06-21T11:12:30.000Z",
+    "streamerId": "shinomiya_runa"
   },
   {
     "id": "316029547249",
