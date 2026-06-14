@@ -182,18 +182,6 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "316028016113",
-    "channelId": "akarindao",
-    "title": "全力でW杯を楽しむ！ハイチvs スコットランドDAZNで同時視聴",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-13T18:47:23Z",
-    "startTime": "2026-06-13T18:47:23Z",
-    "platform": "twitch",
-    "ttl": "2026-06-20T18:47:23.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316036877298",
     "channelId": "ren_kisaragi__",
     "title": "明日（今日）はTOP",
@@ -204,6 +192,18 @@
     "platform": "twitch",
     "ttl": "2026-06-20T15:28:35.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316028016113",
+    "channelId": "akarindao",
+    "title": "全力でW杯を楽しむ❕カタールvs スイスDAZNで同時視聴",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/34760a0b4fc35f03b113_akarindao_316028016113_1781376443//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2795885079",
+    "scheduledStartTime": "2026-06-13T18:47:28Z",
+    "startTime": "2026-06-13T18:47:28Z",
+    "platform": "twitch",
+    "ttl": "2026-06-20T18:47:28.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316087606899",
