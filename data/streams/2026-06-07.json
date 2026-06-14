@@ -13,19 +13,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "V_KXcVmdCbc",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【スト６】ランク雑談～トレモを添えて～【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/V_KXcVmdCbc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=V_KXcVmdCbc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-07T13:25:00Z",
-    "startTime": "2026-06-07T13:31:59Z",
-    "endTime": "2026-06-07T18:16:28Z",
-    "ttl": "2026-06-14T13:25:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
     "id": "A4_CvmhEKiQ",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【雑談】ドーナツごときのために早起きをするにゃど【ぶいすぽっ！ #銀城サイネ 】",
@@ -37,18 +24,5 @@
     "endTime": "2026-06-08T00:03:37Z",
     "ttl": "2026-06-14T22:00:00.000Z",
     "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "ZPGCYij0ykU",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "Typing Battle Royal w/ BOTchis | Final Sentence 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/ZPGCYij0ykU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ZPGCYij0ykU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-07T14:00:00Z",
-    "startTime": "2026-06-07T14:18:37Z",
-    "endTime": "2026-06-07T17:14:47Z",
-    "ttl": "2026-06-14T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
   }
 ]
