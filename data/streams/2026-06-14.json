@@ -107,7 +107,7 @@
     "id": "lHxe5fbzPUQ",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【STREET FIGHTER 6】明日からスクリム頑張ってこーぜ決起集会【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/lHxe5fbzPUQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/lHxe5fbzPUQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=lHxe5fbzPUQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T14:00:00Z",
@@ -125,6 +125,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T09:30:00Z",
     "startTime": "2026-06-14T09:40:37Z",
+    "endTime": "2026-06-14T18:08:17Z",
     "ttl": "2026-06-21T09:30:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -183,11 +184,12 @@
     "id": "QT0hvRf7N7g",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　まだカスタム屋さんあいてますか！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/QT0hvRf7N7g/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/QT0hvRf7N7g/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=QT0hvRf7N7g",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T15:45:00Z",
     "startTime": "2026-06-14T15:45:25Z",
+    "endTime": "2026-06-14T17:55:55Z",
     "ttl": "2026-06-21T15:45:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -314,18 +316,6 @@
     "platform": "twitch",
     "ttl": "2026-06-21T13:41:23.000Z",
     "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "315235518574",
-    "channelId": "erissuzukami",
-    "title": "join if u dont know anything about futbol",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
-    "url": "https://www.twitch.tv/erissuzukami",
-    "scheduledStartTime": "2026-06-14T15:57:49Z",
-    "startTime": "2026-06-14T15:57:49Z",
-    "platform": "twitch",
-    "ttl": "2026-06-21T15:57:49.000Z",
-    "streamerId": "eris_suzukami"
   },
   {
     "id": "316031739761",
