@@ -112,6 +112,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T14:00:00Z",
     "startTime": "2026-06-14T14:02:48Z",
+    "endTime": "2026-06-14T17:45:30Z",
     "ttl": "2026-06-21T14:00:00.000Z",
     "streamerId": "kaminari_qpi"
   },
@@ -303,18 +304,6 @@
     "streamerId": "yumeno_akari"
   },
   {
-    "id": "316031739761",
-    "channelId": "ren_kisaragi__",
-    "title": "カスタムで練習する",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-06-14T13:20:28Z",
-    "startTime": "2026-06-14T13:20:28Z",
-    "platform": "twitch",
-    "ttl": "2026-06-21T13:20:28.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "316041311218",
     "channelId": "ramuneshiranami",
     "title": "３戦練習 #LTK",
@@ -329,7 +318,7 @@
   {
     "id": "315235518574",
     "channelId": "erissuzukami",
-    "title": "join if cool",
+    "title": "join if u dont know anything about futbol",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
     "url": "https://www.twitch.tv/erissuzukami",
     "scheduledStartTime": "2026-06-14T15:57:49Z",
@@ -337,6 +326,18 @@
     "platform": "twitch",
     "ttl": "2026-06-21T15:57:49.000Z",
     "streamerId": "eris_suzukami"
+  },
+  {
+    "id": "316031739761",
+    "channelId": "ren_kisaragi__",
+    "title": "カスタムで練習する",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/75df6436f11e1b75da8e_ren_kisaragi___316031739761_1781443228//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2796471589",
+    "scheduledStartTime": "2026-06-14T13:20:33Z",
+    "startTime": "2026-06-14T13:20:33Z",
+    "platform": "twitch",
+    "ttl": "2026-06-21T13:20:33.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316029547249",
