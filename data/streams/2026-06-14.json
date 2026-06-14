@@ -14,11 +14,12 @@
     "id": "8o5gjHRoAuM",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【スプラトゥーン３】武器もマップも意味わからんスプラ無印勢です【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/8o5gjHRoAuM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/8o5gjHRoAuM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=8o5gjHRoAuM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T05:50:00Z",
     "startTime": "2026-06-14T05:49:28Z",
+    "endTime": "2026-06-14T08:11:35Z",
     "ttl": "2026-06-21T05:50:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -32,6 +33,18 @@
     "scheduledStartTime": "2026-06-14T10:00:00Z",
     "ttl": "2026-06-21T10:00:00.000Z",
     "streamerId": "kogara_toto"
+  },
+  {
+    "id": "q2K8bhwR1V4",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 歌枠 】今日はおうただけ！【ぶいすぽっ！胡桃のあ】",
+    "thumbnail": "https://i.ytimg.com/vi/q2K8bhwR1V4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=q2K8bhwR1V4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-14T07:30:00Z",
+    "startTime": "2026-06-14T07:30:30Z",
+    "ttl": "2026-06-21T07:30:00.000Z",
+    "streamerId": "kurumi_noah"
   },
   {
     "id": "7inqc9Y3yn8",
@@ -70,6 +83,18 @@
     "endTime": "2026-06-14T04:41:26Z",
     "ttl": "2026-06-21T01:00:00.000Z",
     "streamerId": "amayui_moka"
+  },
+  {
+    "id": "S6yXbYfa7V8",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤ League of Legends ◢　LOLソロランクれつご  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/S6yXbYfa7V8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=S6yXbYfa7V8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-14T08:00:00Z",
+    "startTime": "2026-06-14T08:05:53Z",
+    "ttl": "2026-06-21T08:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "TxlQGoJWZIs",

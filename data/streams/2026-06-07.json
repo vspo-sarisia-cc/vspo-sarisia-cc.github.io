@@ -65,19 +65,6 @@
     "streamerId": "tachibana_hinano"
   },
   {
-    "id": "8hiRitTmO5c",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【 Escape from Tarkov 】遂にサイスナへの挑戦 Lv40~ w/レイード  【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/8hiRitTmO5c/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=8hiRitTmO5c",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-07T07:15:00Z",
-    "startTime": "2026-06-07T07:08:57Z",
-    "endTime": "2026-06-07T18:30:07Z",
-    "ttl": "2026-06-14T07:15:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
     "id": "LRbdyoMR7jY",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【雑談】梅雨ですか？【ぶいすぽっ！/ 藍沢エマ】",
@@ -127,19 +114,6 @@
     "startTime": "2026-06-07T11:00:51Z",
     "endTime": "2026-06-07T12:18:51Z",
     "ttl": "2026-06-14T11:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "s4WgIJNtaII",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【スト６】　V最にむけてカスタム募集ですどうか！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/s4WgIJNtaII/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=s4WgIJNtaII",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-07T07:30:00Z",
-    "startTime": "2026-06-07T07:30:36Z",
-    "endTime": "2026-06-07T10:33:46Z",
-    "ttl": "2026-06-14T07:30:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -218,29 +192,5 @@
     "platform": "twitch",
     "ttl": "2026-06-14T13:08:22.000Z",
     "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "315997896433",
-    "channelId": "ramuneshiranami",
-    "title": "無限スクリム ＃LTK",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/3aed49756d421bb753b2_ramuneshiranami_315997896433_1780816371//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2790748795",
-    "scheduledStartTime": "2026-06-07T07:12:57Z",
-    "startTime": "2026-06-07T07:12:57Z",
-    "platform": "twitch",
-    "ttl": "2026-06-14T07:12:57.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "316006856562",
-    "channelId": "akarindao",
-    "title": "LTK無限スクリムDAY",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/e07d8835e1c4a7dcf831_akarindao_316006856562_1780816317//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2790748480",
-    "scheduledStartTime": "2026-06-07T07:12:03Z",
-    "startTime": "2026-06-07T07:12:03Z",
-    "platform": "twitch",
-    "ttl": "2026-06-14T07:12:03.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
