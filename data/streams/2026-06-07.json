@@ -1,18 +1,5 @@
 [
   {
-    "id": "ni7EgpCbg-U",
-    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
-    "title": "【Librarian】お片付けしましょうね～【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/ni7EgpCbg-U/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ni7EgpCbg-U",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-07T13:00:00Z",
-    "startTime": "2026-06-07T12:59:21Z",
-    "endTime": "2026-06-07T16:48:30Z",
-    "ttl": "2026-06-14T13:00:00.000Z",
-    "streamerId": "tosaki_mimi"
-  },
-  {
     "id": "LRbdyoMR7jY",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【雑談】梅雨ですか？【ぶいすぽっ！/ 藍沢エマ】",
@@ -24,19 +11,6 @@
     "endTime": "2026-06-07T17:27:14Z",
     "ttl": "2026-06-14T14:55:00.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "2nN4kqb8520",
-    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
-    "title": "【 スト６】きたーーー！コーチングだ！ w/でんせつえすぴ～【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/2nN4kqb8520/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=2nN4kqb8520",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-07T13:00:00Z",
-    "startTime": "2026-06-07T13:09:15Z",
-    "endTime": "2026-06-07T17:20:28Z",
-    "ttl": "2026-06-14T13:00:00.000Z",
-    "streamerId": "shinomiya_runa"
   },
   {
     "id": "V_KXcVmdCbc",
@@ -76,17 +50,5 @@
     "endTime": "2026-06-07T17:14:47Z",
     "ttl": "2026-06-14T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "316008392946",
-    "channelId": "shinomiya_runa",
-    "title": "rensyu",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/2bcbf4db6ad4806576b3_shinomiya_runa_316008392946_1780837696//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2790892979",
-    "scheduledStartTime": "2026-06-07T13:08:22Z",
-    "startTime": "2026-06-07T13:08:22Z",
-    "platform": "twitch",
-    "ttl": "2026-06-14T13:08:22.000Z",
-    "streamerId": "shinomiya_runa"
   }
 ]

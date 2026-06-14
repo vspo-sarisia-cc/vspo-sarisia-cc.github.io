@@ -76,6 +76,18 @@
     "streamerId": "asumi_sena"
   },
   {
+    "id": "caRam-xsTDI",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "コンバンハー",
+    "thumbnail": "https://i.ytimg.com/vi/caRam-xsTDI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=caRam-xsTDI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-14T12:35:00Z",
+    "startTime": "2026-06-14T12:38:46Z",
+    "ttl": "2026-06-21T12:35:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "vxMFIDwTVZM",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "コンバンハー",
@@ -86,17 +98,6 @@
     "startTime": "2026-06-14T12:24:36Z",
     "endTime": "2026-06-14T12:29:36Z",
     "ttl": "2026-06-21T12:25:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "caRam-xsTDI",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "コンバンハー",
-    "thumbnail": "https://i.ytimg.com/vi/caRam-xsTDI/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=caRam-xsTDI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-14T12:35:00Z",
-    "ttl": "2026-06-21T12:35:00.000Z",
     "streamerId": "tachibana_hinano"
   },
   {
@@ -193,6 +194,7 @@
     "url": "https://www.youtube.com/watch?v=LwqHtkdp95s",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T13:00:00Z",
+    "startTime": "2026-06-14T13:03:11Z",
     "ttl": "2026-06-21T13:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
