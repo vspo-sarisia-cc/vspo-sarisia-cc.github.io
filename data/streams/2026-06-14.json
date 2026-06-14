@@ -131,7 +131,7 @@
     "id": "WQj1ckP4IJg",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】大谷さんコーチング！！次鋒キャラごちゃまぜカスタムやるので暇な方お願いします【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/WQj1ckP4IJg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/WQj1ckP4IJg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=WQj1ckP4IJg",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T12:00:00Z",
@@ -157,7 +157,7 @@
     "id": "ulkLvi1G2M0",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 スト６】コーチングの時間 w/でんせつえすぴ～【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/ulkLvi1G2M0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ulkLvi1G2M0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ulkLvi1G2M0",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T13:35:00Z",
@@ -291,18 +291,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316031739761",
-    "channelId": "ren_kisaragi__",
-    "title": "カスタムで練習する",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-06-14T13:20:28Z",
-    "startTime": "2026-06-14T13:20:28Z",
-    "platform": "twitch",
-    "ttl": "2026-06-21T13:20:28.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "316041293170",
     "channelId": "akarindao",
     "title": "LTK練習DAY",
@@ -313,6 +301,18 @@
     "platform": "twitch",
     "ttl": "2026-06-21T13:37:58.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316031739761",
+    "channelId": "ren_kisaragi__",
+    "title": "カスタムで練習する",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-14T13:20:28Z",
+    "startTime": "2026-06-14T13:20:28Z",
+    "platform": "twitch",
+    "ttl": "2026-06-21T13:20:28.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316041311218",
@@ -329,7 +329,7 @@
   {
     "id": "315235518574",
     "channelId": "erissuzukami",
-    "title": "a",
+    "title": "join if cool",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
     "url": "https://www.twitch.tv/erissuzukami",
     "scheduledStartTime": "2026-06-14T15:57:49Z",
