@@ -29,6 +29,7 @@
     "url": "https://www.youtube.com/watch?v=7inqc9Y3yn8",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T02:30:00Z",
+    "startTime": "2026-06-14T04:00:44Z",
     "ttl": "2026-06-21T02:30:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -36,11 +37,12 @@
     "id": "6mWFYfCPMGY",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】#TOP26初夏　🔟時組です！いくぞ～！！　 /ガチさん　ボンさん【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/6mWFYfCPMGY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/6mWFYfCPMGY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=6mWFYfCPMGY",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T01:00:00Z",
     "startTime": "2026-06-14T00:55:45Z",
+    "endTime": "2026-06-14T04:41:26Z",
     "ttl": "2026-06-21T01:00:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -64,6 +66,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T03:00:00Z",
     "startTime": "2026-06-14T03:01:10Z",
+    "endTime": "2026-06-14T05:31:23Z",
     "ttl": "2026-06-21T03:00:00.000Z",
     "streamerId": "narin_mikure"
   },
@@ -77,5 +80,29 @@
     "scheduledStartTime": "2026-06-14T13:00:00Z",
     "ttl": "2026-06-21T13:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316029322097",
+    "channelId": "akarindao",
+    "title": "全力でW杯を楽しむ！オーストラリアvs トルコDAZNで同時視聴",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-06-14T03:50:10Z",
+    "startTime": "2026-06-14T03:50:10Z",
+    "platform": "twitch",
+    "ttl": "2026-06-21T03:50:10.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316029547249",
+    "channelId": "ren_kisaragi__",
+    "title": "ぽこあヴァイパー村でいくTOPw/稲葉さん、かじゅ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-14T04:50:12Z",
+    "startTime": "2026-06-14T04:50:12Z",
+    "platform": "twitch",
+    "ttl": "2026-06-21T04:50:12.000Z",
+    "streamerId": "kisaragi_ren"
   }
 ]
