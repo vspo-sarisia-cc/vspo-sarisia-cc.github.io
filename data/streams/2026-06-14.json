@@ -16,11 +16,12 @@
     "id": "BIrx2-mzBy0",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【雀魂】経験は知識にもなる【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/BIrx2-mzBy0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/BIrx2-mzBy0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=BIrx2-mzBy0",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T12:20:00Z",
     "startTime": "2026-06-14T12:19:38Z",
+    "endTime": "2026-06-14T16:17:59Z",
     "ttl": "2026-06-21T12:20:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -54,11 +55,12 @@
     "id": "VlTX9e1vsH0",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【 スト6 】全てを理解するカry ナウさんコーチング❕【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/VlTX9e1vsH0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/VlTX9e1vsH0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=VlTX9e1vsH0",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T11:15:00Z",
     "startTime": "2026-06-14T11:09:38Z",
+    "endTime": "2026-06-14T15:59:12Z",
     "ttl": "2026-06-21T11:15:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -134,6 +136,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T12:00:00Z",
     "startTime": "2026-06-14T12:03:21Z",
+    "endTime": "2026-06-14T16:25:25Z",
     "ttl": "2026-06-21T12:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -159,6 +162,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T13:35:00Z",
     "startTime": "2026-06-14T13:42:13Z",
+    "endTime": "2026-06-14T16:22:47Z",
     "ttl": "2026-06-21T13:35:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -299,6 +303,18 @@
     "streamerId": "kisaragi_ren"
   },
   {
+    "id": "316041293170",
+    "channelId": "akarindao",
+    "title": "LTK練習DAY",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-06-14T13:37:58Z",
+    "startTime": "2026-06-14T13:37:58Z",
+    "platform": "twitch",
+    "ttl": "2026-06-21T13:37:58.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
     "id": "316041311218",
     "channelId": "ramuneshiranami",
     "title": "３戦練習 #LTK",
@@ -311,16 +327,16 @@
     "streamerId": "shiranami_ramune"
   },
   {
-    "id": "316041293170",
-    "channelId": "akarindao",
-    "title": "LTK練習DAY",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-14T13:37:58Z",
-    "startTime": "2026-06-14T13:37:58Z",
+    "id": "315235518574",
+    "channelId": "erissuzukami",
+    "title": "a",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
+    "url": "https://www.twitch.tv/erissuzukami",
+    "scheduledStartTime": "2026-06-14T15:57:49Z",
+    "startTime": "2026-06-14T15:57:49Z",
     "platform": "twitch",
-    "ttl": "2026-06-21T13:37:58.000Z",
-    "streamerId": "yumeno_akari"
+    "ttl": "2026-06-21T15:57:49.000Z",
+    "streamerId": "eris_suzukami"
   },
   {
     "id": "316029547249",
