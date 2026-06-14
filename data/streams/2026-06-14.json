@@ -207,6 +207,17 @@
     "streamerId": "amayui_moka"
   },
   {
+    "id": "VzmVLBXLQ_g",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【雑談】お休み前ですし、お話しませんこと？【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/VzmVLBXLQ_g/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=VzmVLBXLQ_g",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-14T20:45:00Z",
+    "ttl": "2026-06-21T20:45:00.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
     "id": "gk4zbbLZq7s",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤ League of Legends ◢　LTK CC CORE　あーちゃんと少しだけやる！  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
@@ -239,8 +250,8 @@
     "thumbnail": "https://i.ytimg.com/vi/TxlQGoJWZIs/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=TxlQGoJWZIs",
     "platform": "youtube",
-    "scheduledStartTime": "2026-06-14T22:00:00Z",
-    "ttl": "2026-06-21T22:00:00.000Z",
+    "scheduledStartTime": "2026-06-14T21:00:00Z",
+    "ttl": "2026-06-21T21:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
   {
