@@ -283,28 +283,16 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "eWKOPcgBD80",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Wuthering Waves 1.x◢ NEW PLAYER journeys into solaris-3 (PART 1) | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/eWKOPcgBD80/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=eWKOPcgBD80",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-14T14:00:00Z",
-    "startTime": "2026-06-14T14:00:22Z",
-    "ttl": "2026-06-21T14:00:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316041311218",
-    "channelId": "ramuneshiranami",
-    "title": "３戦練習 #LTK",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-06-14T13:41:23Z",
-    "startTime": "2026-06-14T13:41:23Z",
+    "id": "316096688371",
+    "channelId": "akarindao",
+    "title": "全力応援！！日本vsオランダDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-06-14T19:17:23Z",
+    "startTime": "2026-06-14T19:17:23Z",
     "platform": "twitch",
-    "ttl": "2026-06-21T13:41:23.000Z",
-    "streamerId": "shiranami_ramune"
+    "ttl": "2026-06-21T19:17:23.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316031739761",
@@ -341,6 +329,18 @@
     "platform": "twitch",
     "ttl": "2026-06-21T11:12:35.000Z",
     "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "316041311218",
+    "channelId": "ramuneshiranami",
+    "title": "３戦練習 #LTK",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/3aac8082203c5a49743e_ramuneshiranami_316041311218_1781444483//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2796482542",
+    "scheduledStartTime": "2026-06-14T13:41:29Z",
+    "startTime": "2026-06-14T13:41:29Z",
+    "platform": "twitch",
+    "ttl": "2026-06-21T13:41:29.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316041293170",
