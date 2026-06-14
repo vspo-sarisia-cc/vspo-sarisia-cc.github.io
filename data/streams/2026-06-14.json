@@ -13,6 +13,18 @@
     "streamerId": "kaga_sumire"
   },
   {
+    "id": "BIrx2-mzBy0",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【雀魂】経験は知識にもなる【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/BIrx2-mzBy0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=BIrx2-mzBy0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-14T12:20:00Z",
+    "startTime": "2026-06-14T12:19:38Z",
+    "ttl": "2026-06-21T12:20:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "8o5gjHRoAuM",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【スプラトゥーン３】武器もマップも意味わからんスプラ無印勢です【ぶいすぽ/花芽なずな】",
@@ -29,11 +41,12 @@
     "id": "CSuVkFXjGjA",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 リミットゼロ ブレイカーズ 】CBTプロローグβテスト！乗り込めー！！【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/CSuVkFXjGjA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/CSuVkFXjGjA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=CSuVkFXjGjA",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T10:00:00Z",
     "startTime": "2026-06-14T10:00:07Z",
+    "endTime": "2026-06-14T12:20:04Z",
     "ttl": "2026-06-21T10:00:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -63,6 +76,30 @@
     "streamerId": "asumi_sena"
   },
   {
+    "id": "vxMFIDwTVZM",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "コンバンハー",
+    "thumbnail": "https://i.ytimg.com/vi/vxMFIDwTVZM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=vxMFIDwTVZM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-14T12:25:00Z",
+    "startTime": "2026-06-14T12:24:36Z",
+    "endTime": "2026-06-14T12:29:36Z",
+    "ttl": "2026-06-21T12:25:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "caRam-xsTDI",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "コンバンハー",
+    "thumbnail": "https://i.ytimg.com/vi/caRam-xsTDI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=caRam-xsTDI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-14T12:35:00Z",
+    "ttl": "2026-06-21T12:35:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "ZYVvL3ieZho",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【 Escape from Tarkov 】kappa目前。残りのタスクやりましょ～Lv41~  【ぶいすぽ/八雲べに】",
@@ -75,6 +112,18 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "WQj1ckP4IJg",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】大谷さんコーチング！！次鋒キャラごちゃまぜカスタムやるので暇な方お願いします【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/WQj1ckP4IJg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=WQj1ckP4IJg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-14T12:00:00Z",
+    "startTime": "2026-06-14T12:03:21Z",
+    "ttl": "2026-06-21T12:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "B-3EVTjfpAc",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】ねみゃ【ぶいすぽっ！/ 藍沢エマ】",
@@ -85,17 +134,6 @@
     "startTime": "2026-06-14T06:13:38Z",
     "endTime": "2026-06-14T09:14:19Z",
     "ttl": "2026-06-21T06:15:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "WQj1ckP4IJg",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】大谷さんコーチング！！次鋒キャラごちゃまぜカスタムやるので暇な方お願いします【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/WQj1ckP4IJg/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=WQj1ckP4IJg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-14T12:00:00Z",
-    "ttl": "2026-06-21T12:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -179,6 +217,7 @@
     "url": "https://www.youtube.com/watch?v=Mm2arvWK_Z8",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T12:30:00Z",
+    "startTime": "2026-06-14T12:30:37Z",
     "ttl": "2026-06-21T12:30:00.000Z",
     "streamerId": "riko_solari"
   },
