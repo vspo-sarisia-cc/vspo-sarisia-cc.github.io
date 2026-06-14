@@ -169,6 +169,17 @@
     "streamerId": "shinomiya_runa"
   },
   {
+    "id": "SoyMAnHGnWk",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【スト６】カスタムしたり他のことしたり【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/SoyMAnHGnWk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=SoyMAnHGnWk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-14T21:30:00Z",
+    "ttl": "2026-06-21T21:30:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "aBSUyvUhvak",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【スト６】かぼちゃタルトパワーーー🎃【ぶいすぽっ！ / 紡木こかげ】",
@@ -177,6 +188,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T09:00:00Z",
     "startTime": "2026-06-14T09:04:10Z",
+    "endTime": "2026-06-14T20:58:34Z",
     "ttl": "2026-06-21T09:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -214,6 +226,7 @@
     "url": "https://www.youtube.com/watch?v=VzmVLBXLQ_g",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T20:45:00Z",
+    "startTime": "2026-06-14T20:48:05Z",
     "ttl": "2026-06-21T20:45:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -251,6 +264,7 @@
     "url": "https://www.youtube.com/watch?v=TxlQGoJWZIs",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T21:00:00Z",
+    "startTime": "2026-06-14T21:00:34Z",
     "ttl": "2026-06-21T21:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -317,6 +331,18 @@
     "platform": "twitch",
     "ttl": "2026-06-21T19:17:23.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "319837863514",
+    "channelId": "aryakuroha",
+    "title": "✦ taking care of my new daughter !",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-06-14T21:02:36Z",
+    "startTime": "2026-06-14T21:02:36Z",
+    "platform": "twitch",
+    "ttl": "2026-06-21T21:02:36.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "316031739761",
@@ -389,6 +415,18 @@
     "platform": "twitch",
     "ttl": "2026-06-21T03:50:16.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316033050481",
+    "channelId": "saineginjo",
+    "title": "おい！！！！！！！ソロQ",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/1efb9776d35487dc1af7_saineginjo_316033050481_1781469928//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2796779269",
+    "scheduledStartTime": "2026-06-14T20:45:34Z",
+    "startTime": "2026-06-14T20:45:34Z",
+    "platform": "twitch",
+    "ttl": "2026-06-21T20:45:34.000Z",
+    "streamerId": "ginjo_saine"
   },
   {
     "id": "316039302898",
