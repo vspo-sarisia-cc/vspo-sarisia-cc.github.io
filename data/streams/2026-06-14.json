@@ -120,7 +120,7 @@
     "id": "ZYVvL3ieZho",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【 Escape from Tarkov 】kappa目前。残りのタスクやりましょ～Lv41~  【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/ZYVvL3ieZho/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ZYVvL3ieZho/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ZYVvL3ieZho",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T09:30:00Z",
@@ -210,11 +210,12 @@
     "id": "gk4zbbLZq7s",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤ League of Legends ◢　LTK CC CORE　あーちゃんと少しだけやる！  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/gk4zbbLZq7s/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/gk4zbbLZq7s/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=gk4zbbLZq7s",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T15:20:00Z",
     "startTime": "2026-06-14T15:24:56Z",
+    "endTime": "2026-06-14T18:33:16Z",
     "ttl": "2026-06-21T15:20:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -294,18 +295,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316041293170",
-    "channelId": "akarindao",
-    "title": "LTK練習DAY",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-14T13:37:58Z",
-    "startTime": "2026-06-14T13:37:58Z",
-    "platform": "twitch",
-    "ttl": "2026-06-21T13:37:58.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316041311218",
     "channelId": "ramuneshiranami",
     "title": "３戦練習 #LTK",
@@ -352,6 +341,18 @@
     "platform": "twitch",
     "ttl": "2026-06-21T11:12:35.000Z",
     "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "316041293170",
+    "channelId": "akarindao",
+    "title": "全力でW杯を楽しむ！オーストラリアvs トルコDAZNで同時視聴",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/ae60afdc6d16efdd819b_akarindao_316041293170_1781444278//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2796480796",
+    "scheduledStartTime": "2026-06-14T13:38:04Z",
+    "startTime": "2026-06-14T13:38:04Z",
+    "platform": "twitch",
+    "ttl": "2026-06-21T13:38:04.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316029322097",
