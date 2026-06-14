@@ -35,18 +35,6 @@
     "streamerId": "kogara_toto"
   },
   {
-    "id": "q2K8bhwR1V4",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 歌枠 】今日はおうただけ！【ぶいすぽっ！胡桃のあ】",
-    "thumbnail": "https://i.ytimg.com/vi/q2K8bhwR1V4/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=q2K8bhwR1V4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-14T07:30:00Z",
-    "startTime": "2026-06-14T07:30:30Z",
-    "ttl": "2026-06-21T07:30:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "7inqc9Y3yn8",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "#3【ダンガンロンパ】初めての学級裁判。それは違うよ！！【空澄セナ/ぶいすぽっ！】",
@@ -60,16 +48,52 @@
     "streamerId": "asumi_sena"
   },
   {
+    "id": "ZYVvL3ieZho",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【 Escape from Tarkov 】kappa目前。残りのタスクやりましょ～Lv41~  【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/ZYVvL3ieZho/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ZYVvL3ieZho",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-14T09:30:00Z",
+    "startTime": "2026-06-14T09:40:37Z",
+    "ttl": "2026-06-21T09:30:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
     "id": "B-3EVTjfpAc",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】ねみゃ【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/B-3EVTjfpAc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/B-3EVTjfpAc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=B-3EVTjfpAc",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-14T06:15:00Z",
     "startTime": "2026-06-14T06:13:38Z",
+    "endTime": "2026-06-14T09:14:19Z",
     "ttl": "2026-06-21T06:15:00.000Z",
     "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "WQj1ckP4IJg",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】大谷さんコーチング！！次鋒キャラごちゃまぜカスタムやるので暇な方お願いします【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/WQj1ckP4IJg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=WQj1ckP4IJg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-14T12:00:00Z",
+    "ttl": "2026-06-21T12:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "aBSUyvUhvak",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【スト６】かぼちゃタルトパワーーー🎃【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/aBSUyvUhvak/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=aBSUyvUhvak",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-14T09:00:00Z",
+    "startTime": "2026-06-14T09:04:10Z",
+    "ttl": "2026-06-21T09:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "6mWFYfCPMGY",
@@ -138,8 +162,8 @@
     "thumbnail": "https://i.ytimg.com/vi/eWKOPcgBD80/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=eWKOPcgBD80",
     "platform": "youtube",
-    "scheduledStartTime": "2026-06-14T13:00:00Z",
-    "ttl": "2026-06-21T13:00:00.000Z",
+    "scheduledStartTime": "2026-06-14T14:00:00Z",
+    "ttl": "2026-06-21T14:00:00.000Z",
     "streamerId": "juno_umezono"
   },
   {
@@ -155,18 +179,6 @@
     "streamerId": "kisaragi_ren"
   },
   {
-    "id": "316039302898",
-    "channelId": "saineginjo",
-    "title": "おい！！！！！！！ソロQ",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saineginjo-320x180.jpg",
-    "url": "https://www.twitch.tv/saineginjo",
-    "scheduledStartTime": "2026-06-14T06:08:33Z",
-    "startTime": "2026-06-14T06:08:33Z",
-    "platform": "twitch",
-    "ttl": "2026-06-21T06:08:33.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
     "id": "316029322097",
     "channelId": "akarindao",
     "title": "全力でW杯を楽しむ！オーストラリアvs トルコDAZNで同時視聴",
@@ -177,5 +189,17 @@
     "platform": "twitch",
     "ttl": "2026-06-21T03:50:16.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316039302898",
+    "channelId": "saineginjo",
+    "title": "おい！！！！！！！ソロQ",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/59adb381379b4742ff0a_saineginjo_316039302898_1781417313//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2796299350",
+    "scheduledStartTime": "2026-06-14T06:08:38Z",
+    "startTime": "2026-06-14T06:08:38Z",
+    "platform": "twitch",
+    "ttl": "2026-06-21T06:08:38.000Z",
+    "streamerId": "ginjo_saine"
   }
 ]
