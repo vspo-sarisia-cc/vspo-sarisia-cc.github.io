@@ -12,6 +12,17 @@
     "streamerId": "kaga_sumire"
   },
   {
+    "id": "eKfr_wgupXM",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【 スト6 】V最スクリム１日目！！！【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/eKfr_wgupXM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=eKfr_wgupXM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-15T13:30:00Z",
+    "ttl": "2026-06-22T13:30:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "ea3Eeb6fHPU",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】ソロランラン【 ぶいすぽっ！胡桃のあ 】",
@@ -25,16 +36,40 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "JsdFMwXIpGY",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【STREET FIGHTER 6】V最スクリムDAY1🍶VS TEAM01【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/JsdFMwXIpGY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=JsdFMwXIpGY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-15T13:00:00Z",
+    "ttl": "2026-06-22T13:00:00.000Z",
+    "streamerId": "kaminari_qpi"
+  },
+  {
     "id": "0MfD9auQRg4",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【STREET FIGHTER 6】久々にランクにいってみよかしらね～【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/0MfD9auQRg4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/0MfD9auQRg4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=0MfD9auQRg4",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-15T08:15:00Z",
     "startTime": "2026-06-15T08:16:25Z",
+    "endTime": "2026-06-15T10:50:39Z",
     "ttl": "2026-06-22T08:15:00.000Z",
     "streamerId": "kaminari_qpi"
+  },
+  {
+    "id": "jb_T-vzq_a4",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【 Escape from Tarkov 】残るkappa タスクやってこ～～Lv41~  【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/jb_T-vzq_a4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=jb_T-vzq_a4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-15T11:45:00Z",
+    "startTime": "2026-06-15T11:50:42Z",
+    "ttl": "2026-06-22T11:45:00.000Z",
+    "streamerId": "yakumo_beni"
   },
   {
     "id": "AYJm4jZpnX8",
@@ -44,6 +79,7 @@
     "url": "https://www.youtube.com/watch?v=AYJm4jZpnX8",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-15T12:00:00Z",
+    "startTime": "2026-06-15T11:59:04Z",
     "ttl": "2026-06-22T12:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -67,6 +103,7 @@
     "url": "https://www.youtube.com/watch?v=IwrpsbzK0Vk",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-15T11:00:00Z",
+    "startTime": "2026-06-15T11:02:48Z",
     "ttl": "2026-06-22T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -89,8 +126,21 @@
     "url": "https://www.youtube.com/watch?v=THeSjZiD5zM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-15T13:30:00Z",
+    "startTime": "2026-06-15T12:30:22Z",
     "ttl": "2026-06-22T13:30:00.000Z",
     "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "C4k_6wgWxXg",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【V最 スト６】　21時からチーム7とスクリム！！！！！！！！！！！！#花重奏WIN　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/C4k_6wgWxXg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=C4k_6wgWxXg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-15T11:00:00Z",
+    "startTime": "2026-06-15T11:00:53Z",
+    "ttl": "2026-06-22T11:00:00.000Z",
+    "streamerId": "choya_hanabi"
   },
   {
     "id": "LCgeuqPvAR4",
@@ -106,27 +156,29 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "C4k_6wgWxXg",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【V最 スト６】　21時からチーム7とスクリム！！！！！！！！！！！！#花重奏WIN　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/C4k_6wgWxXg/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=C4k_6wgWxXg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-15T11:00:00Z",
-    "ttl": "2026-06-22T11:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
     "id": "cSKlu9jqp2Q",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】私のコンボがうまくなるだけの枠だよ　リスナーこい！！【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/cSKlu9jqp2Q/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/cSKlu9jqp2Q/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=cSKlu9jqp2Q",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-15T07:50:00Z",
     "startTime": "2026-06-15T07:50:35Z",
+    "endTime": "2026-06-15T11:22:46Z",
     "ttl": "2026-06-22T07:50:00.000Z",
     "streamerId": "amayui_moka"
+  },
+  {
+    "id": "vyEBK_iaacM",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤ League of Legends ◢　ソロランクよ～  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/vyEBK_iaacM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=vyEBK_iaacM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-15T11:00:00Z",
+    "startTime": "2026-06-15T11:01:07Z",
+    "ttl": "2026-06-22T11:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "HmXvKduvOYM",
@@ -168,8 +220,8 @@
     "thumbnail": "https://i.ytimg.com/vi/n4uNH0JOoyo/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=n4uNH0JOoyo",
     "platform": "youtube",
-    "scheduledStartTime": "2026-06-15T13:00:00Z",
-    "ttl": "2026-06-22T13:00:00.000Z",
+    "scheduledStartTime": "2026-06-15T13:50:00Z",
+    "ttl": "2026-06-22T13:50:00.000Z",
     "streamerId": "juno_umezono"
   },
   {
