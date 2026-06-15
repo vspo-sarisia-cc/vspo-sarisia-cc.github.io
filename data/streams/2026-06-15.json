@@ -22,6 +22,28 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "C4k_6wgWxXg",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【V最 スト６】　21時からチーム7とスクリム！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/C4k_6wgWxXg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=C4k_6wgWxXg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-15T11:00:00Z",
+    "ttl": "2026-06-22T11:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "LCgeuqPvAR4",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【スト６】　moke大先生にコーチングしていただきます！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/LCgeuqPvAR4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=LCgeuqPvAR4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-15T06:00:00Z",
+    "ttl": "2026-06-22T06:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "HmXvKduvOYM",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Voice changers in CS2  | Competitive | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
@@ -42,6 +64,17 @@
     "scheduledStartTime": "2026-06-15T13:00:00Z",
     "ttl": "2026-06-22T13:00:00.000Z",
     "streamerId": "jira_jisaki"
+  },
+  {
+    "id": "VLsQDGQ4a7w",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【APEX LEGENDS】last stream before i go!【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/VLsQDGQ4a7w/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=VLsQDGQ4a7w",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-15T13:00:00Z",
+    "ttl": "2026-06-22T13:00:00.000Z",
+    "streamerId": "riko_solari"
   },
   {
     "id": "n4uNH0JOoyo",
