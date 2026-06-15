@@ -31,5 +31,16 @@
     "scheduledStartTime": "2026-06-16T14:00:00Z",
     "ttl": "2026-06-23T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "2s21FFdoZEo",
+    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+    "title": "【Members】Marvel's Daredevil S2: ep. 9 - 10【#VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/2s21FFdoZEo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=2s21FFdoZEo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-16T03:00:00Z",
+    "ttl": "2026-06-23T03:00:00.000Z",
+    "streamerId": "jira_jisaki"
   }
 ]
