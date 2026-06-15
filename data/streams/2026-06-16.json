@@ -42,5 +42,16 @@
     "scheduledStartTime": "2026-06-16T03:00:00Z",
     "ttl": "2026-06-23T03:00:00.000Z",
     "streamerId": "jira_jisaki"
+  },
+  {
+    "id": "xA2u42byqgY",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤League of Legends◢ THE GRIPPER RIPPER | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/xA2u42byqgY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=xA2u42byqgY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-16T07:00:00Z",
+    "ttl": "2026-06-23T07:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]

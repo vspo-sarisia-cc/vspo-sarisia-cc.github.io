@@ -91,6 +91,18 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "9KTISLN27Ho",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "がんばります...............【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/9KTISLN27Ho/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=9KTISLN27Ho",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-15T22:00:00Z",
+    "startTime": "2026-06-15T22:00:06Z",
+    "ttl": "2026-06-22T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "AYJm4jZpnX8",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】V最スクリム1日目 / VS チーム5【ぶいすぽっ！/ 藍沢エマ】",
@@ -101,17 +113,6 @@
     "startTime": "2026-06-15T11:59:04Z",
     "endTime": "2026-06-15T17:07:30Z",
     "ttl": "2026-06-22T12:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "9KTISLN27Ho",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "がんばります...............【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/9KTISLN27Ho/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=9KTISLN27Ho",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-15T22:00:00Z",
-    "ttl": "2026-06-22T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -271,15 +272,15 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316046877938",
+    "id": "316047248370",
     "channelId": "akarindao",
-    "title": "全力でW杯を楽しむ！ベルギーvs エジプトDAZNで同時視聴",
+    "title": "全力でW杯を楽しむ！ウルグアイvs サウジアラビアDAZNで同時視聴",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
     "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-15T18:47:14Z",
-    "startTime": "2026-06-15T18:47:14Z",
+    "scheduledStartTime": "2026-06-15T21:51:54Z",
+    "startTime": "2026-06-15T21:51:54Z",
     "platform": "twitch",
-    "ttl": "2026-06-22T18:47:14.000Z",
+    "ttl": "2026-06-22T21:51:54.000Z",
     "streamerId": "yumeno_akari"
   },
   {
@@ -305,6 +306,18 @@
     "platform": "twitch",
     "ttl": "2026-06-22T13:06:27.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316046877938",
+    "channelId": "akarindao",
+    "title": "全力でW杯を楽しむ！ベルギーvs エジプトDAZNで同時視聴",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/cea75c6a2a7e814381ad_akarindao_316046877938_1781549234//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2797432538",
+    "scheduledStartTime": "2026-06-15T18:47:19Z",
+    "startTime": "2026-06-15T18:47:19Z",
+    "platform": "twitch",
+    "ttl": "2026-06-22T18:47:19.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316100038899",
