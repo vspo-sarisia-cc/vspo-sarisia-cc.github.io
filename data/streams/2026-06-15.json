@@ -12,6 +12,18 @@
     "streamerId": "kaga_sumire"
   },
   {
+    "id": "hP7vjdLwWZ4",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【雀魂】じゃんごー段位戦やるおー【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/hP7vjdLwWZ4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=hP7vjdLwWZ4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-15T14:05:00Z",
+    "startTime": "2026-06-15T14:03:19Z",
+    "ttl": "2026-06-22T14:05:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "eKfr_wgupXM",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【 スト6 】V最スクリム１日目！！！【ぶいすぽ/一ノ瀬うるは】",
@@ -19,6 +31,7 @@
     "url": "https://www.youtube.com/watch?v=eKfr_wgupXM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-15T13:30:00Z",
+    "startTime": "2026-06-15T13:31:16Z",
     "ttl": "2026-06-22T13:30:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -43,6 +56,7 @@
     "url": "https://www.youtube.com/watch?v=JsdFMwXIpGY",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-15T13:00:00Z",
+    "startTime": "2026-06-15T12:52:35Z",
     "ttl": "2026-06-22T13:00:00.000Z",
     "streamerId": "kaminari_qpi"
   },
@@ -84,14 +98,27 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "_H-EuyvtlGw",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 スト６】V最スクリム１日目！【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/_H-EuyvtlGw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=_H-EuyvtlGw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-15T13:00:00Z",
+    "startTime": "2026-06-15T12:58:26Z",
+    "ttl": "2026-06-22T13:00:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
     "id": "14hOQqJPtH0",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 スプラトゥーン3 】フルパ！？ w/ありさか、とリバード、Laz【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/14hOQqJPtH0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/14hOQqJPtH0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=14hOQqJPtH0",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-15T08:00:00Z",
     "startTime": "2026-06-15T08:09:34Z",
+    "endTime": "2026-06-15T12:51:54Z",
     "ttl": "2026-06-22T08:00:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -99,11 +126,12 @@
     "id": "IwrpsbzK0Vk",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【BIOHAZARD RE:2】初見！このゲームずっと怖い。クレア編行きます【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/IwrpsbzK0Vk/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/IwrpsbzK0Vk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=IwrpsbzK0Vk",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-15T11:00:00Z",
     "startTime": "2026-06-15T11:02:48Z",
+    "endTime": "2026-06-15T13:47:08Z",
     "ttl": "2026-06-22T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -115,6 +143,7 @@
     "url": "https://www.youtube.com/watch?v=El5MLfvWTbQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-15T13:30:00Z",
+    "startTime": "2026-06-15T13:26:29Z",
     "ttl": "2026-06-22T13:30:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -134,11 +163,12 @@
     "id": "C4k_6wgWxXg",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【V最 スト６】　21時からチーム7とスクリム！！！！！！！！！！！！#花重奏WIN　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/C4k_6wgWxXg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/C4k_6wgWxXg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=C4k_6wgWxXg",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-15T11:00:00Z",
     "startTime": "2026-06-15T11:00:53Z",
+    "endTime": "2026-06-15T13:14:10Z",
     "ttl": "2026-06-22T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -172,11 +202,12 @@
     "id": "vyEBK_iaacM",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤ League of Legends ◢　ソロランクよ～  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/vyEBK_iaacM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/vyEBK_iaacM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=vyEBK_iaacM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-15T11:00:00Z",
     "startTime": "2026-06-15T11:01:07Z",
+    "endTime": "2026-06-15T14:35:23Z",
     "ttl": "2026-06-22T11:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -188,13 +219,14 @@
     "url": "https://www.youtube.com/watch?v=HmXvKduvOYM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-15T14:00:00Z",
+    "startTime": "2026-06-15T14:00:32Z",
     "ttl": "2026-06-22T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
   {
     "id": "gCQ2b0mp-bE",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
-    "title": "【League of Legends】now we need to get my lp back【#VSPOEN #JiraJisaki】",
+    "title": "【League of Legends】live on twitch uu..【#VSPOEN #JiraJisaki】",
     "thumbnail": "https://i.ytimg.com/vi/gCQ2b0mp-bE/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=gCQ2b0mp-bE",
     "platform": "youtube",
@@ -210,6 +242,7 @@
     "url": "https://www.youtube.com/watch?v=VLsQDGQ4a7w",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-15T13:00:00Z",
+    "startTime": "2026-06-15T13:00:44Z",
     "ttl": "2026-06-22T13:00:00.000Z",
     "streamerId": "riko_solari"
   },
@@ -221,8 +254,57 @@
     "url": "https://www.youtube.com/watch?v=n4uNH0JOoyo",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-15T13:50:00Z",
+    "startTime": "2026-06-15T13:54:16Z",
     "ttl": "2026-06-22T13:50:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316045785458",
+    "channelId": "ren_kisaragi__",
+    "title": "V最スクリムDay1 VSチーム3",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-15T13:28:06Z",
+    "startTime": "2026-06-15T13:28:06Z",
+    "platform": "twitch",
+    "ttl": "2026-06-22T13:28:06.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316036249457",
+    "channelId": "ramuneshiranami",
+    "title": "Frog Sqwad w/激キモ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-06-15T13:06:22Z",
+    "startTime": "2026-06-15T13:06:22Z",
+    "platform": "twitch",
+    "ttl": "2026-06-22T13:06:22.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316100038899",
+    "channelId": "akarindao",
+    "title": "激キモ研究会、それでは研究を開始する",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-06-15T13:09:19Z",
+    "startTime": "2026-06-15T13:09:19Z",
+    "platform": "twitch",
+    "ttl": "2026-06-22T13:09:19.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "315237937390",
+    "channelId": "jirajisaki",
+    "title": "くーーーー still a 6'7\" buff wealthy confident provider protector feminist non performative intelligent male 💚 !youtube",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jirajisaki-320x180.jpg",
+    "url": "https://www.twitch.tv/jirajisaki",
+    "scheduledStartTime": "2026-06-15T13:00:28Z",
+    "startTime": "2026-06-15T13:00:28Z",
+    "platform": "twitch",
+    "ttl": "2026-06-22T13:00:28.000Z",
+    "streamerId": "jira_jisaki"
   },
   {
     "id": "316097675635",

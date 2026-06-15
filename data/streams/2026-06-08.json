@@ -37,43 +37,5 @@
     "endTime": "2026-06-08T22:23:24Z",
     "ttl": "2026-06-15T22:00:00.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "Yh4E0pyPgbs",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【テイルズ オブ ジ アビス】#4 テイルズシリーズ完全初見！アクゼリュスの全てが怪しい。TALES OF THE ABYSS【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/Yh4E0pyPgbs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Yh4E0pyPgbs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-08T14:00:00Z",
-    "startTime": "2026-06-08T14:00:31Z",
-    "endTime": "2026-06-08T17:56:19Z",
-    "ttl": "2026-06-15T14:00:00.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "OzllKA_by48",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "Trying to win elo  | Faceit | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/OzllKA_by48/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=OzllKA_by48",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-08T14:00:00Z",
-    "startTime": "2026-06-08T14:08:57Z",
-    "endTime": "2026-06-08T18:24:41Z",
-    "ttl": "2026-06-15T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "316012893042",
-    "channelId": "ren_kisaragi__",
-    "title": "ド疲労",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/c8b32697b6dd8006ac20_ren_kisaragi___316012893042_1780923557//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2791669030",
-    "scheduledStartTime": "2026-06-08T12:59:23Z",
-    "startTime": "2026-06-08T12:59:23Z",
-    "platform": "twitch",
-    "ttl": "2026-06-15T12:59:23.000Z",
-    "streamerId": "kisaragi_ren"
   }
 ]
