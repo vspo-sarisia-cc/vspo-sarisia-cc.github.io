@@ -13,19 +13,6 @@
     "streamerId": "ichinose_uruha"
   },
   {
-    "id": "2zToWqURQMc",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】オリンパスSOLO【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/2zToWqURQMc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=2zToWqURQMc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-08T06:10:00Z",
-    "startTime": "2026-06-08T06:10:56Z",
-    "endTime": "2026-06-08T08:29:16Z",
-    "ttl": "2026-06-15T06:10:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "vMUCD61kJFA",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
     "title": "【HER TREES : PUZZLE DREAM】寝る前に頭でも使っておくか【ぶいすぽ/兎咲ミミ】",
@@ -166,41 +153,5 @@
     "platform": "twitch",
     "ttl": "2026-06-15T12:59:23.000Z",
     "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316011386098",
-    "channelId": "emtsmaru",
-    "title": "まったり/©CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/2ce7cde93a454324e25a_emtsmaru_316011386098_1780902466//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2791549465",
-    "scheduledStartTime": "2026-06-08T07:07:51Z",
-    "startTime": "2026-06-08T07:07:51Z",
-    "platform": "twitch",
-    "ttl": "2026-06-15T07:07:51.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "316066081139",
-    "channelId": "ramuneshiranami",
-    "title": "3戦＃LTK",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/e60218c5860c4fe692d2_ramuneshiranami_316066081139_1780906532//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2791569050",
-    "scheduledStartTime": "2026-06-08T08:15:38Z",
-    "startTime": "2026-06-08T08:15:38Z",
-    "platform": "twitch",
-    "ttl": "2026-06-15T08:15:38.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "316011588978",
-    "channelId": "akarindao",
-    "title": "明日勝つための３戦練習",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/e1c3656f6e99b7b6cbf0_akarindao_316011588978_1780906320//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2791568090",
-    "scheduledStartTime": "2026-06-08T08:12:05Z",
-    "startTime": "2026-06-08T08:12:05Z",
-    "platform": "twitch",
-    "ttl": "2026-06-15T08:12:05.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
