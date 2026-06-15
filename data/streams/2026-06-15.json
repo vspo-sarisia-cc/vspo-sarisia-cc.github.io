@@ -22,17 +22,6 @@
     "streamerId": "tsumugi_kokage"
   },
   {
-    "id": "C4k_6wgWxXg",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【V最 スト６】　21時からチーム7とスクリム！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/C4k_6wgWxXg/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=C4k_6wgWxXg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-15T11:00:00Z",
-    "ttl": "2026-06-22T11:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
     "id": "LCgeuqPvAR4",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　moke大先生にコーチングしていただきます！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -40,7 +29,19 @@
     "url": "https://www.youtube.com/watch?v=LCgeuqPvAR4",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-15T06:00:00Z",
+    "startTime": "2026-06-15T05:59:49Z",
     "ttl": "2026-06-22T06:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "C4k_6wgWxXg",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【V最 スト６】　21時からチーム7とスクリム！！！！！！！！！！！！#花重奏WIN　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/C4k_6wgWxXg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=C4k_6wgWxXg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-15T11:00:00Z",
+    "ttl": "2026-06-22T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
