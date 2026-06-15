@@ -1,13 +1,26 @@
 [
   {
+    "id": "AOBJEj1b20s",
+    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
+    "title": "【スト６】顔合わせとスクリモでゃ 【ぶいすぽっ！/花芽すみれ】",
+    "thumbnail": "https://i.ytimg.com/vi/AOBJEj1b20s/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=AOBJEj1b20s",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-15T10:30:00Z",
+    "startTime": "2026-06-15T10:39:02Z",
+    "ttl": "2026-06-22T10:30:00.000Z",
+    "streamerId": "kaga_sumire"
+  },
+  {
     "id": "ea3Eeb6fHPU",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】ソロランラン【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/ea3Eeb6fHPU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ea3Eeb6fHPU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ea3Eeb6fHPU",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-15T07:45:00Z",
     "startTime": "2026-06-15T07:53:22Z",
+    "endTime": "2026-06-15T10:13:58Z",
     "ttl": "2026-06-22T07:45:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -24,6 +37,17 @@
     "streamerId": "kaminari_qpi"
   },
   {
+    "id": "AYJm4jZpnX8",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】V最スクリム1日目 / VS チーム5【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/AYJm4jZpnX8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=AYJm4jZpnX8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-15T12:00:00Z",
+    "ttl": "2026-06-22T12:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "14hOQqJPtH0",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 スプラトゥーン3 】フルパ！？ w/ありさか、とリバード、Laz【 ぶいすぽっ！/紫宮るな 】",
@@ -34,6 +58,17 @@
     "startTime": "2026-06-15T08:09:34Z",
     "ttl": "2026-06-22T08:00:00.000Z",
     "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "IwrpsbzK0Vk",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【BIOHAZARD RE:2】初見！このゲームずっと怖い。クレア編行きます【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/IwrpsbzK0Vk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=IwrpsbzK0Vk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-15T11:00:00Z",
+    "ttl": "2026-06-22T11:00:00.000Z",
+    "streamerId": "nekota_tsuna"
   },
   {
     "id": "El5MLfvWTbQ",
@@ -61,11 +96,12 @@
     "id": "LCgeuqPvAR4",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　moke大先生にコーチングしていただきます！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/LCgeuqPvAR4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/LCgeuqPvAR4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=LCgeuqPvAR4",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-15T06:00:00Z",
     "startTime": "2026-06-15T05:59:49Z",
+    "endTime": "2026-06-15T08:34:06Z",
     "ttl": "2026-06-22T06:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
