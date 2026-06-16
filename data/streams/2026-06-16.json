@@ -3,11 +3,12 @@
     "id": "Hd7xQLk5cFQ",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】じょうずに寝れない【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/Hd7xQLk5cFQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Hd7xQLk5cFQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Hd7xQLk5cFQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-16T02:15:00Z",
     "startTime": "2026-06-16T02:24:53Z",
+    "endTime": "2026-06-16T05:14:37Z",
     "ttl": "2026-06-23T02:15:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -23,6 +24,18 @@
     "streamerId": "yano_kuromu"
   },
   {
+    "id": "g6kwyPpxG4w",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【スト６】　本日も、もけ先生にコーチングしていただく！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/g6kwyPpxG4w/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=g6kwyPpxG4w",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-16T05:00:00Z",
+    "startTime": "2026-06-16T04:59:56Z",
+    "ttl": "2026-06-23T05:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "wvEnTh1gK94",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【V最 スト６】　22時以降（まだ未定後で更新）からチーム６とスクリム！！！！！！！！！！！！#花重奏WIN　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -31,17 +44,6 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-16T12:00:00Z",
     "ttl": "2026-06-23T12:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "g6kwyPpxG4w",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【スト６】　本日も、もけ先生にコーチングしていただく！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/g6kwyPpxG4w/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=g6kwyPpxG4w",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-16T05:00:00Z",
-    "ttl": "2026-06-23T05:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
