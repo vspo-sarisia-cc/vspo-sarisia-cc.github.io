@@ -1,13 +1,26 @@
 [
   {
+    "id": "W0H_X4O6u0A",
+    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
+    "title": "【スト６】山田太郎 VS チーム５ 【ぶいすぽっ！/花芽すみれ】",
+    "thumbnail": "https://i.ytimg.com/vi/W0H_X4O6u0A/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=W0H_X4O6u0A",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-16T12:45:00Z",
+    "startTime": "2026-06-16T12:50:08Z",
+    "ttl": "2026-06-23T12:45:00.000Z",
+    "streamerId": "kaga_sumire"
+  },
+  {
     "id": "FYJrXbZ-5Fg",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【雀魂】ここ最近運ちめです【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/FYJrXbZ-5Fg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/FYJrXbZ-5Fg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=FYJrXbZ-5Fg",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-16T09:30:00Z",
     "startTime": "2026-06-16T09:28:48Z",
+    "endTime": "2026-06-16T12:30:56Z",
     "ttl": "2026-06-23T09:30:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -15,13 +28,26 @@
     "id": "RU0vtsUMKnQ",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 悪意 】立川さんとホラーゲームをします【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/RU0vtsUMKnQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/RU0vtsUMKnQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=RU0vtsUMKnQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-16T11:00:00Z",
     "startTime": "2026-06-16T11:00:41Z",
+    "endTime": "2026-06-16T13:15:18Z",
     "ttl": "2026-06-23T11:00:00.000Z",
     "streamerId": "kogara_toto"
+  },
+  {
+    "id": "7KFe-fdHO_s",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【 スト6 】V最スクリム2日目！！！【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/7KFe-fdHO_s/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=7KFe-fdHO_s",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-16T13:30:00Z",
+    "startTime": "2026-06-16T13:31:20Z",
+    "ttl": "2026-06-23T13:30:00.000Z",
+    "streamerId": "ichinose_uruha"
   },
   {
     "id": "zAo5GJHN5Pw",
@@ -61,6 +87,18 @@
     "streamerId": "tachibana_hinano"
   },
   {
+    "id": "lY26kjTHhrY",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【STREET FIGHTER 6】DEE JAY対策→23:00V最スクリムDAY2🍶VS TEAM04【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/lY26kjTHhrY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=lY26kjTHhrY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-16T12:45:00Z",
+    "startTime": "2026-06-16T12:45:28Z",
+    "ttl": "2026-06-23T12:45:00.000Z",
+    "streamerId": "kaminari_qpi"
+  },
+  {
     "id": "f6firrJcR1A",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【 Escape from Tarkov 】kappa、だな。Lv41~  【ぶいすぽ/八雲べに】",
@@ -68,17 +106,19 @@
     "url": "https://www.youtube.com/watch?v=f6firrJcR1A",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-16T12:00:00Z",
+    "startTime": "2026-06-16T12:04:13Z",
     "ttl": "2026-06-23T12:00:00.000Z",
     "streamerId": "yakumo_beni"
   },
   {
     "id": "b3NBgovlU_0",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】V最スクリム2日目 / VS カゲツさんチーム8【ぶいすぽっ！/ 藍沢エマ】",
+    "title": "【スト6】 V最スクリム2日目 / 炊きたてファジーおにぎり VS カゲツさんチーム8【ぶいすぽっ！/ 藍沢エマ】",
     "thumbnail": "https://i.ytimg.com/vi/b3NBgovlU_0/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=b3NBgovlU_0",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-16T13:00:00Z",
+    "startTime": "2026-06-16T12:27:30Z",
     "ttl": "2026-06-23T13:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -90,6 +130,7 @@
     "url": "https://www.youtube.com/watch?v=TsYOctZdRtY",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-16T13:30:00Z",
+    "startTime": "2026-06-16T13:14:13Z",
     "ttl": "2026-06-23T13:30:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -114,8 +155,21 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-16T11:00:00Z",
     "startTime": "2026-06-16T11:00:29Z",
+    "endTime": "2026-06-16T14:01:23Z",
     "ttl": "2026-06-23T11:00:00.000Z",
     "streamerId": "yano_kuromu"
+  },
+  {
+    "id": "-aYFeu6KgFA",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【スト６】V最協第二幕 ぶっぱなCスクリム2日目 vs チーム2！【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/-aYFeu6KgFA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=-aYFeu6KgFA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-16T13:15:00Z",
+    "startTime": "2026-06-16T13:18:15Z",
+    "ttl": "2026-06-23T13:15:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "wvEnTh1gK94",
@@ -173,6 +227,7 @@
     "url": "https://www.youtube.com/watch?v=edaN0iCooLw",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-16T14:00:00Z",
+    "startTime": "2026-06-16T14:00:23Z",
     "ttl": "2026-06-23T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
