@@ -1,5 +1,16 @@
 [
   {
+    "id": "nhhRttUZpj8",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【スト６】　もけ大先生によるコーチング！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/nhhRttUZpj8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=nhhRttUZpj8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-17T05:00:00Z",
+    "ttl": "2026-06-24T05:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "YZTzsN3-1fc",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "40 elo to lv9  | Faceit | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
@@ -9,5 +20,16 @@
     "scheduledStartTime": "2026-06-17T14:00:00Z",
     "ttl": "2026-06-24T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "OEP4GepSWKo",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Wuthering Waves 1.x◢ how long can i go without swiping? (PART 2) | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/OEP4GepSWKo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=OEP4GepSWKo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-17T07:00:00Z",
+    "ttl": "2026-06-24T07:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
