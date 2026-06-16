@@ -177,8 +177,21 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-16T13:15:00Z",
     "startTime": "2026-06-16T13:18:15Z",
+    "endTime": "2026-06-16T22:11:11Z",
     "ttl": "2026-06-23T13:15:00.000Z",
     "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "jEa8yUQTWYo",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【朝活雑談】　おはようだわよ！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/jEa8yUQTWYo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=jEa8yUQTWYo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-16T22:00:00Z",
+    "startTime": "2026-06-16T21:59:39Z",
+    "ttl": "2026-06-23T22:00:00.000Z",
+    "streamerId": "choya_hanabi"
   },
   {
     "id": "wvEnTh1gK94",
@@ -191,17 +204,6 @@
     "startTime": "2026-06-16T12:00:05Z",
     "endTime": "2026-06-16T14:15:50Z",
     "ttl": "2026-06-23T12:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "jEa8yUQTWYo",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【朝活雑談】　おはようだわよ！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/jEa8yUQTWYo/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=jEa8yUQTWYo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-16T22:00:00Z",
-    "ttl": "2026-06-23T22:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -244,6 +246,18 @@
     "streamerId": "remia_aotsuki"
   },
   {
+    "id": "ZwfrW0YOE_0",
+    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
+    "title": "【PRAGMATA】i must protect my daughter (contains spoilers)【#VSPOEN #AryaKuroha】",
+    "thumbnail": "https://i.ytimg.com/vi/ZwfrW0YOE_0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ZwfrW0YOE_0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-16T22:00:00Z",
+    "startTime": "2026-06-16T22:00:28Z",
+    "ttl": "2026-06-23T22:00:00.000Z",
+    "streamerId": "arya_kuroha"
+  },
+  {
     "id": "xA2u42byqgY",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤League of Legends◢ THE GRIPPER RIPPER | #JunoUmezono #VSPOEN",
@@ -267,6 +281,18 @@
     "platform": "twitch",
     "ttl": "2026-06-23T18:42:39.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "319812294361",
+    "channelId": "aryakuroha",
+    "title": "✦ PROTECT THEE DAUGHTER !",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-06-16T22:00:12Z",
+    "startTime": "2026-06-16T22:00:12Z",
+    "platform": "twitch",
+    "ttl": "2026-06-23T22:00:12.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "316040020593",
