@@ -169,19 +169,6 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "LoaavX4pPZA",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【スト６】　V最用カスタム募集おねがいしますおねがいします！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/LoaavX4pPZA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=LoaavX4pPZA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-09T07:30:00Z",
-    "startTime": "2026-06-09T07:32:06Z",
-    "endTime": "2026-06-09T09:29:52Z",
-    "ttl": "2026-06-16T07:30:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
     "id": "ESkbedoZ4uQ",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【#LTK Regular Stage Day 6】ウォッチパーティーさせていただきます！見届けるぞー！【ぶいすぽっ！ #銀城サイネ 】",
@@ -193,19 +180,6 @@
     "endTime": "2026-06-09T14:50:21Z",
     "ttl": "2026-06-16T09:00:00.000Z",
     "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "F9Tmpc0RKFs",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤ League of Legends ◢　LTK CC CORE 本番!Day6  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/F9Tmpc0RKFs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=F9Tmpc0RKFs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-09T08:00:00Z",
-    "startTime": "2026-06-09T08:02:02Z",
-    "endTime": "2026-06-09T16:42:55Z",
-    "ttl": "2026-06-16T08:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "Bz-esCTVa2c",
@@ -221,19 +195,6 @@
     "streamerId": "remia_aotsuki"
   },
   {
-    "id": "vYqgJhvTGcA",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤League of Legends◢ THE WORLD SHALL KNOW FEET | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/vYqgJhvTGcA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=vYqgJhvTGcA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-09T08:00:00Z",
-    "startTime": "2026-06-09T07:59:38Z",
-    "endTime": "2026-06-09T11:34:12Z",
-    "ttl": "2026-06-16T08:00:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
     "id": "316071198067",
     "channelId": "ren_kisaragi__",
     "title": "V最顔合せ",
@@ -244,29 +205,5 @@
     "platform": "twitch",
     "ttl": "2026-06-16T11:05:47.000Z",
     "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316006976113",
-    "channelId": "ramuneshiranami",
-    "title": "本番Day6 vs CC ＃LTK",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/475a227d122ea25fe351_ramuneshiranami_316006976113_1780991359//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2792335802",
-    "scheduledStartTime": "2026-06-09T07:49:24Z",
-    "startTime": "2026-06-09T07:49:24Z",
-    "platform": "twitch",
-    "ttl": "2026-06-16T07:49:24.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "316016035314",
-    "channelId": "akarindao",
-    "title": "DAY6本番だ！勝って勝つんだ勝つんだ",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/84c3f9c9a43f6a1f8d81_akarindao_316016035314_1780991180//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2792335006",
-    "scheduledStartTime": "2026-06-09T07:46:25Z",
-    "startTime": "2026-06-09T07:46:25Z",
-    "platform": "twitch",
-    "ttl": "2026-06-16T07:46:25.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
