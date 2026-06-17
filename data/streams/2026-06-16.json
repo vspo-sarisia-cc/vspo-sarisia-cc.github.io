@@ -185,11 +185,12 @@
     "id": "jEa8yUQTWYo",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【朝活雑談】　おはようだわよ！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/jEa8yUQTWYo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/jEa8yUQTWYo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=jEa8yUQTWYo",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-16T22:00:00Z",
     "startTime": "2026-06-16T21:59:39Z",
+    "endTime": "2026-06-17T00:17:44Z",
     "ttl": "2026-06-23T22:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -249,11 +250,12 @@
     "id": "ZwfrW0YOE_0",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【PRAGMATA】i must protect my daughter (contains spoilers)【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/ZwfrW0YOE_0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ZwfrW0YOE_0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ZwfrW0YOE_0",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-16T22:00:00Z",
     "startTime": "2026-06-16T22:00:28Z",
+    "endTime": "2026-06-17T00:52:31Z",
     "ttl": "2026-06-23T22:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -269,30 +271,6 @@
     "endTime": "2026-06-16T10:52:01Z",
     "ttl": "2026-06-23T07:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316051403634",
-    "channelId": "akarindao",
-    "title": "全力でW杯を楽しむ！フランスvsセネガルDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-16T18:42:39Z",
-    "startTime": "2026-06-16T18:42:39Z",
-    "platform": "twitch",
-    "ttl": "2026-06-23T18:42:39.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "319812294361",
-    "channelId": "aryakuroha",
-    "title": "✦ PROTECT THEE DAUGHTER !",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-06-16T22:00:12Z",
-    "startTime": "2026-06-16T22:00:12Z",
-    "platform": "twitch",
-    "ttl": "2026-06-23T22:00:12.000Z",
-    "streamerId": "arya_kuroha"
   },
   {
     "id": "316040020593",
@@ -319,6 +297,18 @@
     "streamerId": "shiranami_ramune"
   },
   {
+    "id": "316051403634",
+    "channelId": "akarindao",
+    "title": "全力でW杯を楽しむ！フランスvsセネガルDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/aae0cb36a51c4abdf2a8_akarindao_316051403634_1781635359//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2798209589",
+    "scheduledStartTime": "2026-06-16T18:42:44Z",
+    "startTime": "2026-06-16T18:42:44Z",
+    "platform": "twitch",
+    "ttl": "2026-06-23T18:42:44.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
     "id": "316038261233",
     "channelId": "choyahanabi",
     "title": "【スト６】 課題の復習（11:30まで） 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
@@ -329,5 +319,17 @@
     "platform": "twitch",
     "ttl": "2026-06-23T01:14:50.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "319812294361",
+    "channelId": "aryakuroha",
+    "title": "✦ PROTECT THEE DAUGHTER !",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/6fc8013763850543a350_aryakuroha_319812294361_1781647212//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2798344904",
+    "scheduledStartTime": "2026-06-16T22:00:21Z",
+    "startTime": "2026-06-16T22:00:21Z",
+    "platform": "twitch",
+    "ttl": "2026-06-23T22:00:21.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
