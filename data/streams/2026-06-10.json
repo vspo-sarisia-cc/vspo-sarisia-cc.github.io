@@ -1,18 +1,5 @@
 [
   {
-    "id": "EYJ-6gwHWbU",
-    "channelId": "UCuI5XaO-6VkOEhHao6ij7JA",
-    "title": "銀城サイネ・龍巻ちせのよちよちSTREET FIGHTER 6 Supported by GALLERIA",
-    "thumbnail": "https://i.ytimg.com/vi/EYJ-6gwHWbU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=EYJ-6gwHWbU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-10T10:50:00Z",
-    "startTime": "2026-06-10T10:50:23Z",
-    "endTime": "2026-06-10T12:46:33Z",
-    "ttl": "2026-06-17T10:50:00.000Z",
-    "streamerId": "vspo_official"
-  },
-  {
     "id": "8KsBxXKkVMc",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 R.E.P.O. 】ちーたるれぽ「ヴォイドスタッフで大事件発生？！」【 ぶいすぽ / 小雀とと 】",
@@ -24,19 +11,6 @@
     "endTime": "2026-06-10T13:19:36Z",
     "ttl": "2026-06-17T11:00:00.000Z",
     "streamerId": "kogara_toto"
-  },
-  {
-    "id": "uwxOut3BN_o",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 めっちゃカメレオン 】お絵描きしてかくれんぼ？/CPT、ありさん、バニラさん、ウォッカさん、ぽっぽ、ごっちゃんマイキーさん、かるびちゃん、みみちゃん、つな【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/uwxOut3BN_o/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=uwxOut3BN_o",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-10T10:45:00Z",
-    "startTime": "2026-06-10T11:11:05Z",
-    "endTime": "2026-06-10T13:35:11Z",
-    "ttl": "2026-06-17T10:45:00.000Z",
-    "streamerId": "kurumi_noah"
   },
   {
     "id": "nPSdbnbL_T0",
@@ -154,17 +128,5 @@
     "endTime": "2026-06-10T16:07:34Z",
     "ttl": "2026-06-17T12:00:00.000Z",
     "streamerId": "riko_solari"
-  },
-  {
-    "id": "316011969265",
-    "channelId": "ramuneshiranami",
-    "title": "Masters応援 ＃LTK",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/a3d630a7cb9b8aa7d675_ramuneshiranami_316011969265_1781085859//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2793189371",
-    "scheduledStartTime": "2026-06-10T10:04:24Z",
-    "startTime": "2026-06-10T10:04:24Z",
-    "platform": "twitch",
-    "ttl": "2026-06-17T10:04:24.000Z",
-    "streamerId": "shiranami_ramune"
   }
 ]
