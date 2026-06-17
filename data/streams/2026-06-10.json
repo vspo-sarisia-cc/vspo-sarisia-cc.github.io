@@ -166,17 +166,5 @@
     "platform": "twitch",
     "ttl": "2026-06-17T10:04:24.000Z",
     "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "316075223155",
-    "channelId": "akarindao",
-    "title": "マスターズウォチパします！！",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/e1dfe74f1e32ecac301d_akarindao_316075223155_1781080231//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2793159553",
-    "scheduledStartTime": "2026-06-10T08:30:36Z",
-    "startTime": "2026-06-10T08:30:36Z",
-    "platform": "twitch",
-    "ttl": "2026-06-17T08:30:36.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
