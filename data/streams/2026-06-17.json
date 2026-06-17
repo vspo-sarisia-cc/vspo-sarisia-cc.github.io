@@ -1,5 +1,17 @@
 [
   {
+    "id": "F2AKUyZUruY",
+    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
+    "title": "【スト６】KeepOn真空花蝶扇 VS チーム6 【ぶいすぽっ！/花芽すみれ】",
+    "thumbnail": "https://i.ytimg.com/vi/F2AKUyZUruY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=F2AKUyZUruY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-17T13:15:00Z",
+    "startTime": "2026-06-17T13:23:39Z",
+    "ttl": "2026-06-24T13:15:00.000Z",
+    "streamerId": "kaga_sumire"
+  },
+  {
     "id": "QjjwGWxAVNE",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【VALORANT】呼ばれたのですが。。。いけるのでしょうか【ぶいすぽ/花芽なずな】",
@@ -79,6 +91,7 @@
     "url": "https://www.youtube.com/watch?v=Xeim4YkK0dM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-17T13:00:00Z",
+    "startTime": "2026-06-17T13:04:52Z",
     "ttl": "2026-06-24T13:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -107,6 +120,18 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "B69HAWT4b84",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【V最 スト６】　23時からチーム５（せつーなチム）とスクリム！！！！！！！！！！！！#花重奏WIN　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/B69HAWT4b84/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=B69HAWT4b84",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-17T13:00:00Z",
+    "startTime": "2026-06-17T13:01:05Z",
+    "ttl": "2026-06-24T13:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "nhhRttUZpj8",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　もけ大先生によるコーチング！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -120,15 +145,16 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "B69HAWT4b84",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【V最 スト６】　23時からチーム５（せつーなチム）とスクリム！！！！！！！！！！！！#花重奏WIN　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/B69HAWT4b84/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=B69HAWT4b84",
+    "id": "ojnsaaV0EKQ",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【APEX】ちょっとエイ🐟️ペックス【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/ojnsaaV0EKQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ojnsaaV0EKQ",
     "platform": "youtube",
-    "scheduledStartTime": "2026-06-17T13:00:00Z",
-    "ttl": "2026-06-24T13:00:00.000Z",
-    "streamerId": "choya_hanabi"
+    "scheduledStartTime": "2026-06-17T13:30:00Z",
+    "startTime": "2026-06-17T13:29:56Z",
+    "ttl": "2026-06-24T13:30:00.000Z",
+    "streamerId": "amayui_moka"
   },
   {
     "id": "6ogza14mXx0",
@@ -168,11 +194,12 @@
     "id": "gCQ2b0mp-bE",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【Dead By Daylight】IIIIIIIT'S JASON!!!!【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/gCQ2b0mp-bE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/gCQ2b0mp-bE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=gCQ2b0mp-bE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-17T11:00:00Z",
     "startTime": "2026-06-17T11:01:07Z",
+    "endTime": "2026-06-17T13:17:00Z",
     "ttl": "2026-06-24T11:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -180,11 +207,12 @@
     "id": "OEP4GepSWKo",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves 1.x◢ how long can i go without swiping? (PART 2) | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/OEP4GepSWKo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/OEP4GepSWKo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=OEP4GepSWKo",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-17T07:00:00Z",
     "startTime": "2026-06-17T06:59:59Z",
+    "endTime": "2026-06-17T12:34:36Z",
     "ttl": "2026-06-24T07:00:00.000Z",
     "streamerId": "juno_umezono"
   },
@@ -235,6 +263,18 @@
     "platform": "twitch",
     "ttl": "2026-06-24T00:51:23.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316109214323",
+    "channelId": "choyahanabi",
+    "title": "【スト６】 先端あてと動いた確認意識練習！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d2d7ed66c89bcc21a553_choyahanabi_316109214323_1781701207//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2798787744",
+    "scheduledStartTime": "2026-06-17T13:00:12Z",
+    "startTime": "2026-06-17T13:00:12Z",
+    "platform": "twitch",
+    "ttl": "2026-06-24T13:00:12.000Z",
+    "streamerId": "choya_hanabi"
   },
   {
     "id": "316106950259",
