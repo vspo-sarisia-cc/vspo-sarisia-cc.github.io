@@ -3,11 +3,12 @@
     "id": "F2AKUyZUruY",
     "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
     "title": "【スト６】KeepOn真空花蝶扇 VS チーム6 【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/F2AKUyZUruY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/F2AKUyZUruY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=F2AKUyZUruY",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-17T13:15:00Z",
     "startTime": "2026-06-17T13:23:39Z",
+    "endTime": "2026-06-17T18:56:38Z",
     "ttl": "2026-06-24T13:15:00.000Z",
     "streamerId": "kaga_sumire"
   },
@@ -28,11 +29,12 @@
     "id": "orTxUkdUMMc",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【 スト6 】初カコキ...ども...V最スクリム3日目！！！【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/orTxUkdUMMc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/orTxUkdUMMc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=orTxUkdUMMc",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-17T12:00:00Z",
     "startTime": "2026-06-17T12:01:33Z",
+    "endTime": "2026-06-17T18:38:47Z",
     "ttl": "2026-06-24T12:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -251,6 +253,18 @@
     "platform": "twitch",
     "ttl": "2026-06-24T16:59:39.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316046696561",
+    "channelId": "choyahanabi",
+    "title": "【スト６】 千本ノック 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_choyahanabi-320x180.jpg",
+    "url": "https://www.twitch.tv/choyahanabi",
+    "scheduledStartTime": "2026-06-17T18:33:21Z",
+    "startTime": "2026-06-17T18:33:21Z",
+    "platform": "twitch",
+    "ttl": "2026-06-24T18:33:21.000Z",
+    "streamerId": "choya_hanabi"
   },
   {
     "id": "316054434930",
