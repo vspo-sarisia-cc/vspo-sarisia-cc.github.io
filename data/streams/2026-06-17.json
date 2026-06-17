@@ -1,5 +1,53 @@
 [
   {
+    "id": "QjjwGWxAVNE",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【VALORANT】呼ばれたのですが。。。いけるのでしょうか【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/QjjwGWxAVNE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=QjjwGWxAVNE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-17T12:00:00Z",
+    "startTime": "2026-06-17T12:05:31Z",
+    "ttl": "2026-06-24T12:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "orTxUkdUMMc",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【 スト6 】初カコキ...ども...V最スクリム3日目！！！【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/orTxUkdUMMc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=orTxUkdUMMc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-17T12:00:00Z",
+    "startTime": "2026-06-17T12:01:33Z",
+    "ttl": "2026-06-24T12:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "KKTWbaNh1YE",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 VALORANT 】まざさん、べにちゃん、りおちゃん、なずちゃんとフルパ！【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/KKTWbaNh1YE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=KKTWbaNh1YE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-17T12:00:00Z",
+    "startTime": "2026-06-17T12:04:55Z",
+    "ttl": "2026-06-24T12:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "D4QEND6eu8w",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 ポケモンLG 】 #8 四天王いきましょうよ 【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/D4QEND6eu8w/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=D4QEND6eu8w",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-17T12:30:00Z",
+    "startTime": "2026-06-17T12:17:46Z",
+    "ttl": "2026-06-24T12:30:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "LT8VQ2QwhPU",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【STREET FIGHTER 6】V最スクリムDAY3🍶20:00笹木咲ｻﾝと2先2周→21:00VS TEAM03【ぶいすぽっ！/神成きゅぴ】",
@@ -10,6 +58,18 @@
     "startTime": "2026-06-17T10:31:31Z",
     "ttl": "2026-06-24T10:30:00.000Z",
     "streamerId": "kaminari_qpi"
+  },
+  {
+    "id": "_9orOZJoRds",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【VALORANT】フルパにお邪魔します w/のあ、なずぴ、まざー、土屋李央さん【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/_9orOZJoRds/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=_9orOZJoRds",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-17T12:15:00Z",
+    "startTime": "2026-06-17T12:04:04Z",
+    "ttl": "2026-06-24T12:15:00.000Z",
+    "streamerId": "yakumo_beni"
   },
   {
     "id": "Xeim4YkK0dM",
@@ -23,13 +83,26 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "0sv7RW2pOng",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 スト６】V最スクリム３日目！【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/0sv7RW2pOng/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=0sv7RW2pOng",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-17T11:35:00Z",
+    "startTime": "2026-06-17T11:36:15Z",
+    "ttl": "2026-06-24T11:35:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
     "id": "fzIJk5WVlsw",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【スト６】V最協第二幕 ぶっぱなCスクリム2日目 vs チーム01！【ぶいすぽっ！ / 紡木こかげ】",
+    "title": "【スト６】V最協第二幕 ぶっぱなCスクリム3日目 vs チーム01！【ぶいすぽっ！ / 紡木こかげ】",
     "thumbnail": "https://i.ytimg.com/vi/fzIJk5WVlsw/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=fzIJk5WVlsw",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-17T12:00:00Z",
+    "startTime": "2026-06-17T11:10:47Z",
     "ttl": "2026-06-24T12:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -99,6 +172,7 @@
     "url": "https://www.youtube.com/watch?v=gCQ2b0mp-bE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-17T11:00:00Z",
+    "startTime": "2026-06-17T11:01:07Z",
     "ttl": "2026-06-24T11:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -113,6 +187,30 @@
     "startTime": "2026-06-17T06:59:59Z",
     "ttl": "2026-06-24T07:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316054434930",
+    "channelId": "ren_kisaragi__",
+    "title": "V最スクリムvsチーム1の皆様",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-17T12:01:01Z",
+    "startTime": "2026-06-17T12:01:01Z",
+    "platform": "twitch",
+    "ttl": "2026-06-24T12:01:01.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316108579315",
+    "channelId": "ramuneshiranami",
+    "title": "練習 TOPAD マスター対面募集 #LTK",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-06-17T11:14:28Z",
+    "startTime": "2026-06-17T11:14:28Z",
+    "platform": "twitch",
+    "ttl": "2026-06-24T11:14:28.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316053314290",

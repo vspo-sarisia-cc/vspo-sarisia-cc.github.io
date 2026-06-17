@@ -11,6 +11,17 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "rDVo8nmqyCo",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "〖 OW 〗新キャラ‼️新マップ‼️のあさんとはなびと楽しむ。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+    "thumbnail": "https://i.ytimg.com/vi/rDVo8nmqyCo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=rDVo8nmqyCo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-18T11:00:00Z",
+    "ttl": "2026-06-25T11:00:00.000Z",
+    "streamerId": "yano_kuromu"
+  },
+  {
     "id": "eLF8ORnXpvM",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　もけあそび先生にコーチングしていただきますわよ！！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -19,6 +30,17 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-18T02:00:00Z",
     "ttl": "2026-06-25T02:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "pRNh3iKdKA4",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【OW】　オーバーウォッチ遊ばしてもらうでええええ（ガチ初心者）！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/pRNh3iKdKA4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=pRNh3iKdKA4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-18T11:00:00Z",
+    "ttl": "2026-06-25T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
