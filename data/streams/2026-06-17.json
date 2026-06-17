@@ -101,6 +101,18 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "kDfCkFpQNc4",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 スト６】ミスりたくない【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/kDfCkFpQNc4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=kDfCkFpQNc4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-17T16:50:00Z",
+    "startTime": "2026-06-17T16:53:10Z",
+    "ttl": "2026-06-24T16:50:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
     "id": "0sv7RW2pOng",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 スト６】V最スクリム３日目！【 ぶいすぽっ！/紫宮るな 】",
@@ -173,6 +185,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-17T10:00:00Z",
     "startTime": "2026-06-17T10:03:20Z",
+    "endTime": "2026-06-17T17:31:44Z",
     "ttl": "2026-06-24T10:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -226,16 +239,16 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316108579315",
-    "channelId": "ramuneshiranami",
-    "title": "練習 #LTK",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-06-17T11:14:28Z",
-    "startTime": "2026-06-17T11:14:28Z",
+    "id": "316055793906",
+    "channelId": "akarindao",
+    "title": "全力でW杯を楽しむ！ポルトガル vs コンゴ民主共和国 DAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-06-17T16:59:39Z",
+    "startTime": "2026-06-17T16:59:39Z",
     "platform": "twitch",
-    "ttl": "2026-06-24T11:14:28.000Z",
-    "streamerId": "shiranami_ramune"
+    "ttl": "2026-06-24T16:59:39.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316054434930",
@@ -260,6 +273,18 @@
     "platform": "twitch",
     "ttl": "2026-06-24T07:22:33.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316108579315",
+    "channelId": "ramuneshiranami",
+    "title": "練習 #LTK",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/0c6aac4b9f38140bce18_ramuneshiranami_316108579315_1781694868//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2798739303",
+    "scheduledStartTime": "2026-06-17T11:14:33Z",
+    "startTime": "2026-06-17T11:14:33Z",
+    "platform": "twitch",
+    "ttl": "2026-06-24T11:14:33.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316052180978",
