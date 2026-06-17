@@ -132,11 +132,12 @@
     "id": "fzIJk5WVlsw",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【スト６】V最協第二幕 ぶっぱなCスクリム3日目 vs チーム01！【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/fzIJk5WVlsw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/fzIJk5WVlsw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=fzIJk5WVlsw",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-17T12:00:00Z",
     "startTime": "2026-06-17T11:10:47Z",
+    "endTime": "2026-06-17T19:42:15Z",
     "ttl": "2026-06-24T12:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -255,16 +256,16 @@
     "streamerId": "yumeno_akari"
   },
   {
-    "id": "316046696561",
-    "channelId": "choyahanabi",
-    "title": "【スト６】 千本ノック 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_choyahanabi-320x180.jpg",
-    "url": "https://www.twitch.tv/choyahanabi",
-    "scheduledStartTime": "2026-06-17T18:33:21Z",
-    "startTime": "2026-06-17T18:33:21Z",
+    "id": "316110514419",
+    "channelId": "ren_kisaragi__",
+    "title": "コソ練",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-17T19:35:01Z",
+    "startTime": "2026-06-17T19:35:01Z",
     "platform": "twitch",
-    "ttl": "2026-06-24T18:33:21.000Z",
-    "streamerId": "choya_hanabi"
+    "ttl": "2026-06-24T19:35:01.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316054434930",
@@ -313,6 +314,18 @@
     "platform": "twitch",
     "ttl": "2026-06-24T00:51:23.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316046696561",
+    "channelId": "choyahanabi",
+    "title": "【スト６】 千本ノック 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/e0373cce9c5d116c2d3d_choyahanabi_316046696561_1781721201//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2798995607",
+    "scheduledStartTime": "2026-06-17T18:33:26Z",
+    "startTime": "2026-06-17T18:33:26Z",
+    "platform": "twitch",
+    "ttl": "2026-06-24T18:33:26.000Z",
+    "streamerId": "choya_hanabi"
   },
   {
     "id": "316109214323",
