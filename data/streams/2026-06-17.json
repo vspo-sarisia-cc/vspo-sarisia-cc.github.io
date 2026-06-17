@@ -55,11 +55,12 @@
     "id": "yqiimqUZyhs",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "仕事、学校行きたくない人集合。【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/yqiimqUZyhs/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/yqiimqUZyhs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=yqiimqUZyhs",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-17T21:30:00Z",
     "startTime": "2026-06-17T21:30:22Z",
+    "endTime": "2026-06-17T22:52:20Z",
     "ttl": "2026-06-24T21:30:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -119,11 +120,12 @@
     "id": "kDfCkFpQNc4",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 スト６】ミスりたくない【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/kDfCkFpQNc4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/kDfCkFpQNc4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=kDfCkFpQNc4",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-17T16:50:00Z",
     "startTime": "2026-06-17T16:53:10Z",
+    "endTime": "2026-06-17T23:03:27Z",
     "ttl": "2026-06-24T16:50:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -226,6 +228,7 @@
     "url": "https://www.youtube.com/watch?v=sdrL1eOp0yo",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-17T23:00:00Z",
+    "startTime": "2026-06-17T23:00:25Z",
     "ttl": "2026-06-24T23:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -256,15 +259,27 @@
     "streamerId": "juno_umezono"
   },
   {
+    "id": "319889494490",
+    "channelId": "aryakuroha",
+    "title": "✦ playing with da homies !",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-06-17T23:00:14Z",
+    "startTime": "2026-06-17T23:00:14Z",
+    "platform": "twitch",
+    "ttl": "2026-06-24T23:00:14.000Z",
+    "streamerId": "arya_kuroha"
+  },
+  {
     "id": "316110514419",
     "channelId": "ren_kisaragi__",
     "title": "コソ練",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-06-17T19:35:01Z",
-    "startTime": "2026-06-17T19:35:01Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/8a3fcf1951d95573551f_ren_kisaragi___316110514419_1781724901//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2799041498",
+    "scheduledStartTime": "2026-06-17T19:35:06Z",
+    "startTime": "2026-06-17T19:35:06Z",
     "platform": "twitch",
-    "ttl": "2026-06-24T19:35:01.000Z",
+    "ttl": "2026-06-24T19:35:06.000Z",
     "streamerId": "kisaragi_ren"
   },
   {
