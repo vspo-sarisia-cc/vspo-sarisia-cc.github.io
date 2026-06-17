@@ -20,6 +20,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-17T12:00:00Z",
     "startTime": "2026-06-17T12:05:31Z",
+    "endTime": "2026-06-17T14:55:34Z",
     "ttl": "2026-06-24T12:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -39,11 +40,12 @@
     "id": "KKTWbaNh1YE",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 VALORANT 】まざさん、べにちゃん、りおちゃん、なずちゃんとフルパ！【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/KKTWbaNh1YE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/KKTWbaNh1YE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=KKTWbaNh1YE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-17T12:00:00Z",
     "startTime": "2026-06-17T12:04:55Z",
+    "endTime": "2026-06-17T14:43:06Z",
     "ttl": "2026-06-24T12:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -56,6 +58,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-17T12:30:00Z",
     "startTime": "2026-06-17T12:17:46Z",
+    "endTime": "2026-06-17T15:00:35Z",
     "ttl": "2026-06-24T12:30:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -75,11 +78,12 @@
     "id": "_9orOZJoRds",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【VALORANT】フルパにお邪魔します w/のあ、なずぴ、まざー、土屋李央さん【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/_9orOZJoRds/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/_9orOZJoRds/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=_9orOZJoRds",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-17T12:15:00Z",
     "startTime": "2026-06-17T12:04:04Z",
+    "endTime": "2026-06-17T14:39:52Z",
     "ttl": "2026-06-24T12:15:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -104,6 +108,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-17T11:35:00Z",
     "startTime": "2026-06-17T11:36:15Z",
+    "endTime": "2026-06-17T14:55:33Z",
     "ttl": "2026-06-24T11:35:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -176,6 +181,7 @@
     "url": "https://www.youtube.com/watch?v=YZTzsN3-1fc",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-17T14:00:00Z",
+    "startTime": "2026-06-17T14:12:09Z",
     "ttl": "2026-06-24T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -231,7 +237,7 @@
   {
     "id": "316108579315",
     "channelId": "ramuneshiranami",
-    "title": "練習 TOPAD マスター対面募集 #LTK",
+    "title": "練習 #LTK",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
     "url": "https://www.twitch.tv/ramuneshiranami",
     "scheduledStartTime": "2026-06-17T11:14:28Z",
