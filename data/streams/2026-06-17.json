@@ -1,5 +1,16 @@
 [
   {
+    "id": "Xeim4YkK0dM",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】 V最スクリム3日目 / 炊きたてファジーおにぎり VS 葛葉さんチーム7【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/Xeim4YkK0dM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Xeim4YkK0dM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-17T13:00:00Z",
+    "ttl": "2026-06-24T13:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "fzIJk5WVlsw",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【スト６】V最協第二幕 ぶっぱなCスクリム2日目 vs チーム01！【ぶいすぽっ！ / 紡木こかげ】",
@@ -73,20 +84,22 @@
     "thumbnail": "https://i.ytimg.com/vi/OEP4GepSWKo/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=OEP4GepSWKo",
     "platform": "youtube",
-    "scheduledStartTime": "2026-06-17T11:00:00Z",
-    "ttl": "2026-06-24T11:00:00.000Z",
+    "scheduledStartTime": "2026-06-17T07:00:00Z",
+    "startTime": "2026-06-17T06:59:59Z",
+    "ttl": "2026-06-24T07:00:00.000Z",
     "streamerId": "juno_umezono"
   },
   {
-    "id": "GvqSJVcHv_g",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Valorant◢ playing this game again with ที่รัก (@dttodot ) | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/GvqSJVcHv_g/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=GvqSJVcHv_g",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-17T07:00:00Z",
-    "ttl": "2026-06-24T07:00:00.000Z",
-    "streamerId": "juno_umezono"
+    "id": "316053314290",
+    "channelId": "ren_kisaragi__",
+    "title": "Cマノンカスタム募集",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-17T07:22:28Z",
+    "startTime": "2026-06-17T07:22:28Z",
+    "platform": "twitch",
+    "ttl": "2026-06-24T07:22:28.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316052180978",

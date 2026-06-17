@@ -39,19 +39,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "MvVLW6VsV2I",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 Splatoon3 】ちょっと息抜き【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/MvVLW6VsV2I/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=MvVLW6VsV2I",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-10T07:10:00Z",
-    "startTime": "2026-06-10T07:14:20Z",
-    "endTime": "2026-06-10T10:01:43Z",
-    "ttl": "2026-06-17T07:10:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "nPSdbnbL_T0",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
     "title": "【めっちゃカメレオン】お絵描きかくれんぼだって！【ぶいすぽ/兎咲ミミ】",
@@ -117,19 +104,6 @@
     "streamerId": "nekota_tsuna"
   },
   {
-    "id": "C_b_-MrQ7Us",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【スト６】ふ～どさんいつもありがとう【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/C_b_-MrQ7Us/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=C_b_-MrQ7Us",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-10T05:50:00Z",
-    "startTime": "2026-06-10T05:49:11Z",
-    "endTime": "2026-06-10T11:55:31Z",
-    "ttl": "2026-06-17T05:50:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
     "id": "BbZGMNjSYqc",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】く、くやしい【 ぶいすぽっ！甘結もか 】",
@@ -169,19 +143,6 @@
     "streamerId": "remia_aotsuki"
   },
   {
-    "id": "P1KfhQO61zs",
-    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
-    "title": "【League of Legends】what to build..【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/P1KfhQO61zs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=P1KfhQO61zs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-10T07:00:00Z",
-    "startTime": "2026-06-10T07:01:05Z",
-    "endTime": "2026-06-10T09:40:12Z",
-    "ttl": "2026-06-17T07:00:00.000Z",
-    "streamerId": "jira_jisaki"
-  },
-  {
     "id": "rujb883jsaQ",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【POWERWASH SIMULATOR 2】cleaning time~!!【#VSPOEN #RikoSolari】",
@@ -193,31 +154,6 @@
     "endTime": "2026-06-10T16:07:34Z",
     "ttl": "2026-06-17T12:00:00.000Z",
     "streamerId": "riko_solari"
-  },
-  {
-    "id": "VVxlUb6Uaig",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Wuthering Waves Pt. 1◢ i don't know why i'm no one... | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/VVxlUb6Uaig/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=VVxlUb6Uaig",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-10T07:00:00Z",
-    "startTime": "2026-06-10T07:00:06Z",
-    "endTime": "2026-06-10T11:49:13Z",
-    "ttl": "2026-06-17T07:00:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316011429489",
-    "channelId": "ren_kisaragi__",
-    "title": "スト6をする",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d71162ad93192d3140d1_ren_kisaragi___316011429489_1781075692//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2793136994",
-    "scheduledStartTime": "2026-06-10T07:14:57Z",
-    "startTime": "2026-06-10T07:14:57Z",
-    "platform": "twitch",
-    "ttl": "2026-06-17T07:14:57.000Z",
-    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316011969265",
