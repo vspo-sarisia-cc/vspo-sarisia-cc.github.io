@@ -11,17 +11,5 @@
     "endTime": "2026-06-12T01:10:26Z",
     "ttl": "2026-06-18T23:00:00.000Z",
     "streamerId": "yano_kuromu"
-  },
-  {
-    "id": "316973437412",
-    "channelId": "remiaaotsuki",
-    "title": "Super fun 5-stack Premier NA srv  @abaddon @rihsuri @fifigoesree @hysteriach",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/a41f20248606780db8ae_remiaaotsuki_316973437412_1781212082//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2794365751",
-    "scheduledStartTime": "2026-06-11T21:08:10Z",
-    "startTime": "2026-06-11T21:08:10Z",
-    "platform": "twitch",
-    "ttl": "2026-06-18T21:08:10.000Z",
-    "streamerId": "remia_aotsuki"
   }
 ]
