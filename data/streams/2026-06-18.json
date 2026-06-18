@@ -15,11 +15,12 @@
     "id": "Blmz5DyROz0",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】のあちゃんいっぱい寝ました【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/Blmz5DyROz0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Blmz5DyROz0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Blmz5DyROz0",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-18T07:45:00Z",
     "startTime": "2026-06-18T07:48:04Z",
+    "endTime": "2026-06-18T10:03:40Z",
     "ttl": "2026-06-25T07:45:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -35,6 +36,17 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "vL0h6IPqLQA",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】 V最スクリム4日目 / 炊きたてファジーおにぎり VS ぷるるちゃんチーム1，テンちゃんチーム2【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/vL0h6IPqLQA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=vL0h6IPqLQA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-18T11:00:00Z",
+    "ttl": "2026-06-25T11:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "Emso5riSPng",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【BIOHAZARD RE:2】初見！クリアまでやりたい　クレア編その２【ぶいすぽ / 猫汰つな】",
@@ -42,6 +54,7 @@
     "url": "https://www.youtube.com/watch?v=Emso5riSPng",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-18T10:00:00Z",
+    "startTime": "2026-06-18T10:03:17Z",
     "ttl": "2026-06-25T10:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -83,7 +96,7 @@
   {
     "id": "N1Dyth0cwew",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【V最 スト６】　？？時からチーム３（宇佐美さんチム）、23時半からチーム４（れん先輩チム）とスクリム！！！！！！！！！！！！#花重奏WIN　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "title": "【V最 スト６】　22時から(遅れます；；)チーム３（宇佐美さんチム）、23時半からチーム４（れん先輩チム）とスクリム！！！！！！！！！！！！#花重奏WIN　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
     "thumbnail": "https://i.ytimg.com/vi/N1Dyth0cwew/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=N1Dyth0cwew",
     "platform": "youtube",
@@ -139,7 +152,7 @@
   {
     "id": "HL-M7SCNr4k",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Shift At Midnight◢ CAN THEY HEAR US? | #JunoUmezono #VSPOEN",
+    "title": "◤Shift At Midnight◢ CAN THE DOPPLEGANGERS CAN HEAR US? | #JunoUmezono #VSPOEN",
     "thumbnail": "https://i.ytimg.com/vi/HL-M7SCNr4k/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=HL-M7SCNr4k",
     "platform": "youtube",
