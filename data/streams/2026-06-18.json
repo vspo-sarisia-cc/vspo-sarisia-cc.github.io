@@ -205,6 +205,7 @@
     "url": "https://www.youtube.com/watch?v=TpIh3UIK0pI",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-18T14:00:00Z",
+    "startTime": "2026-06-18T14:03:21Z",
     "ttl": "2026-06-25T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -216,6 +217,7 @@
     "url": "https://www.youtube.com/watch?v=vFPDYKAkgec",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-18T14:00:00Z",
+    "startTime": "2026-06-18T13:59:47Z",
     "ttl": "2026-06-25T14:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -227,6 +229,7 @@
     "url": "https://www.youtube.com/watch?v=HL-M7SCNr4k",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-18T14:00:00Z",
+    "startTime": "2026-06-18T13:55:16Z",
     "ttl": "2026-06-25T14:00:00.000Z",
     "streamerId": "juno_umezono"
   },
@@ -243,6 +246,18 @@
     "streamerId": "kisaragi_ren"
   },
   {
+    "id": "316112468723",
+    "channelId": "ramuneshiranami",
+    "title": "無限分割日何時間か決めてない #LTK",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-06-18T08:38:38Z",
+    "startTime": "2026-06-18T08:38:38Z",
+    "platform": "twitch",
+    "ttl": "2026-06-25T08:38:38.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
     "id": "316057823602",
     "channelId": "akarindao",
     "title": "スクリム無限やるよお！",
@@ -255,16 +270,16 @@
     "streamerId": "yumeno_akari"
   },
   {
-    "id": "316112468723",
-    "channelId": "ramuneshiranami",
-    "title": "無限分割日何時間か決めてない #LTK",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-06-18T08:38:38Z",
-    "startTime": "2026-06-18T08:38:38Z",
+    "id": "320010211803",
+    "channelId": "aryakuroha",
+    "title": "✦ becoming a shift manager",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-06-18T13:59:34Z",
+    "startTime": "2026-06-18T13:59:34Z",
     "platform": "twitch",
-    "ttl": "2026-06-25T08:38:38.000Z",
-    "streamerId": "shiranami_ramune"
+    "ttl": "2026-06-25T13:59:34.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "316048509169",
