@@ -42,7 +42,7 @@
     "id": "tSqOa303kD4",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【 スト6 】初カコキ...ども...V最スクリム4日目！！！【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/tSqOa303kD4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/tSqOa303kD4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=tSqOa303kD4",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-18T13:00:00Z",
@@ -164,6 +164,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-18T13:00:00Z",
     "startTime": "2026-06-18T11:21:51Z",
+    "endTime": "2026-06-18T20:48:58Z",
     "ttl": "2026-06-25T13:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
