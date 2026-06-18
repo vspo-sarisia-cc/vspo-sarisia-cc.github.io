@@ -12,6 +12,18 @@
     "streamerId": "kaga_sumire"
   },
   {
+    "id": "gmJ5wNsiKVc",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【歌枠】夜更かししてるわるいこ集合【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/gmJ5wNsiKVc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=gmJ5wNsiKVc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-18T14:45:00Z",
+    "startTime": "2026-06-18T14:44:48Z",
+    "ttl": "2026-06-25T14:45:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "ihUd7GarbTI",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 Cuisineer 】きゅいじにあ！ #16【 ぶいすぽ / 小雀とと 】",
@@ -102,11 +114,12 @@
     "id": "VItxgXjNxKQ",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 スト６】V最スクリム4日目！【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/VItxgXjNxKQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/VItxgXjNxKQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=VItxgXjNxKQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-18T12:00:00Z",
     "startTime": "2026-06-18T11:57:34Z",
+    "endTime": "2026-06-18T15:04:51Z",
     "ttl": "2026-06-25T12:00:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -114,11 +127,12 @@
     "id": "Emso5riSPng",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【BIOHAZARD RE:2】初見！クリアまでやりたい　クレア編その２【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/Emso5riSPng/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Emso5riSPng/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Emso5riSPng",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-18T10:00:00Z",
     "startTime": "2026-06-18T10:03:17Z",
+    "endTime": "2026-06-18T14:53:05Z",
     "ttl": "2026-06-25T10:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -194,6 +208,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-18T08:30:00Z",
     "startTime": "2026-06-18T08:38:43Z",
+    "endTime": "2026-06-18T15:36:30Z",
     "ttl": "2026-06-25T08:30:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -230,6 +245,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-18T14:00:00Z",
     "startTime": "2026-06-18T13:55:16Z",
+    "endTime": "2026-06-18T15:49:00Z",
     "ttl": "2026-06-25T14:00:00.000Z",
     "streamerId": "juno_umezono"
   },
@@ -244,30 +260,6 @@
     "platform": "twitch",
     "ttl": "2026-06-25T12:58:58.000Z",
     "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316112468723",
-    "channelId": "ramuneshiranami",
-    "title": "無限分割日何時間か決めてない #LTK",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-06-18T08:38:38Z",
-    "startTime": "2026-06-18T08:38:38Z",
-    "platform": "twitch",
-    "ttl": "2026-06-25T08:38:38.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "316057823602",
-    "channelId": "akarindao",
-    "title": "スクリム無限やるよお！",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-18T07:18:37Z",
-    "startTime": "2026-06-18T07:18:37Z",
-    "platform": "twitch",
-    "ttl": "2026-06-25T07:18:37.000Z",
-    "streamerId": "yumeno_akari"
   },
   {
     "id": "320010211803",
@@ -306,6 +298,18 @@
     "streamerId": "shinomiya_runa"
   },
   {
+    "id": "316112468723",
+    "channelId": "ramuneshiranami",
+    "title": "無限分割日何時間か決めてない #LTK",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/9af75232548895b2da65_ramuneshiranami_316112468723_1781771918//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2799480389",
+    "scheduledStartTime": "2026-06-18T08:38:43Z",
+    "startTime": "2026-06-18T08:38:43Z",
+    "platform": "twitch",
+    "ttl": "2026-06-25T08:38:43.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
     "id": "316112222707",
     "channelId": "ramuneshiranami",
     "title": "無限分割日何時間か決めてない #LTK",
@@ -316,6 +320,18 @@
     "platform": "twitch",
     "ttl": "2026-06-25T07:17:55.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316057823602",
+    "channelId": "akarindao",
+    "title": "スクリム無限やるよお！",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/99b2dfe788b2c63c5b68_akarindao_316057823602_1781767117//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2799456075",
+    "scheduledStartTime": "2026-06-18T07:18:42Z",
+    "startTime": "2026-06-18T07:18:42Z",
+    "platform": "twitch",
+    "ttl": "2026-06-25T07:18:42.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316047624305",
