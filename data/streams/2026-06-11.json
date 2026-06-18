@@ -168,18 +168,6 @@
     "streamerId": "kisaragi_ren"
   },
   {
-    "id": "316015566321",
-    "channelId": "shinomiya_runa",
-    "title": "rensyu",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/483f2bac0192dcea2060_shinomiya_runa_316015566321_1781155418//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2793896061",
-    "scheduledStartTime": "2026-06-11T05:23:43Z",
-    "startTime": "2026-06-11T05:23:43Z",
-    "platform": "twitch",
-    "ttl": "2026-06-18T05:23:43.000Z",
-    "streamerId": "shinomiya_runa"
-  },
-  {
     "id": "316082218355",
     "channelId": "akarindao",
     "title": "全力でワールドカップを楽しむ❕メキシコ vs 南アフリカ",
@@ -190,18 +178,6 @@
     "platform": "twitch",
     "ttl": "2026-06-18T18:41:44.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316079012723",
-    "channelId": "choyahanabi",
-    "title": "【スト６】 スキマ時間練習 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d956bcbed478f586d574_choyahanabi_316079012723_1781152860//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2793878214",
-    "scheduledStartTime": "2026-06-11T04:41:05Z",
-    "startTime": "2026-06-11T04:41:05Z",
-    "platform": "twitch",
-    "ttl": "2026-06-18T04:41:05.000Z",
-    "streamerId": "choya_hanabi"
   },
   {
     "id": "316973437412",
