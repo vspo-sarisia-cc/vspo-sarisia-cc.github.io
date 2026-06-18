@@ -47,7 +47,7 @@
     "id": "eLF8ORnXpvM",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　もけあそび先生にコーチングしていただきますわよ！！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/eLF8ORnXpvM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/eLF8ORnXpvM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=eLF8ORnXpvM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-18T02:00:00Z",
@@ -88,6 +88,63 @@
     "scheduledStartTime": "2026-06-18T14:00:00Z",
     "ttl": "2026-06-25T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "vFPDYKAkgec",
+    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
+    "title": "【SHIFT AT MIDNIGHT】 the customer is always right【#VSPOEN #AryaKuroha】",
+    "thumbnail": "https://i.ytimg.com/vi/vFPDYKAkgec/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=vFPDYKAkgec",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-18T14:00:00Z",
+    "ttl": "2026-06-25T14:00:00.000Z",
+    "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "HL-M7SCNr4k",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Shift At Midnight◢ CAN THEY HEAR US? | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/HL-M7SCNr4k/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=HL-M7SCNr4k",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-18T14:00:00Z",
+    "ttl": "2026-06-25T14:00:00.000Z",
+    "streamerId": "juno_umezono"
+  },
+  {
+    "id": "gQ9FnLNwFmQ",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Dead By Daylight◢ pls dont laugh at me im new | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/gQ9FnLNwFmQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=gQ9FnLNwFmQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-18T09:00:00Z",
+    "ttl": "2026-06-25T09:00:00.000Z",
+    "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316048509169",
+    "channelId": "ren_kisaragi__",
+    "title": "こんにちは",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-18T07:15:58Z",
+    "startTime": "2026-06-18T07:15:58Z",
+    "platform": "twitch",
+    "ttl": "2026-06-25T07:15:58.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316112222707",
+    "channelId": "ramuneshiranami",
+    "title": "無限分割日何時間か決めてない #LTK",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-06-18T07:17:50Z",
+    "startTime": "2026-06-18T07:17:50Z",
+    "platform": "twitch",
+    "ttl": "2026-06-25T07:17:50.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316111558899",
