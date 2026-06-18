@@ -1,18 +1,5 @@
 [
   {
-    "id": "ao50q2V6BUI",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【 スト6 】全てを理解するカスタモ【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/ao50q2V6BUI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ao50q2V6BUI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-11T12:00:00Z",
-    "startTime": "2026-06-11T11:57:25Z",
-    "endTime": "2026-06-11T15:55:18Z",
-    "ttl": "2026-06-18T12:00:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
     "id": "rhaW9aOzhNQ",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【Subnautica2】待望の『サブノーティカ2』をやります w/白那しずく,とおこ【空澄セナ/ぶいすぽっ！】",
@@ -24,19 +11,6 @@
     "endTime": "2026-06-11T18:08:12Z",
     "ttl": "2026-06-18T13:30:00.000Z",
     "streamerId": "asumi_sena"
-  },
-  {
-    "id": "P0bIhrPfa6Y",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】V最にむけて大谷さんコーチング！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/P0bIhrPfa6Y/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=P0bIhrPfa6Y",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-11T11:00:00Z",
-    "startTime": "2026-06-11T10:40:21Z",
-    "endTime": "2026-06-11T15:57:45Z",
-    "ttl": "2026-06-18T11:00:00.000Z",
-    "streamerId": "aizawa_ema"
   },
   {
     "id": "dEPbfMJzkqk",
@@ -52,19 +26,6 @@
     "streamerId": "yano_kuromu"
   },
   {
-    "id": "MTmdHnl86hI",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【スト６】V最協第二幕 チーム4大集合編【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/MTmdHnl86hI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=MTmdHnl86hI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-11T11:00:00Z",
-    "startTime": "2026-06-11T10:56:39Z",
-    "endTime": "2026-06-11T19:22:49Z",
-    "ttl": "2026-06-18T11:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
     "id": "NHaLTKNYe3M",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【Starsand Island】#２　寝る前にすこしだけね　【 ぶいすぽっ！甘結もか 】",
@@ -78,19 +39,6 @@
     "streamerId": "amayui_moka"
   },
   {
-    "id": "s8iDwqF2OpI",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【＃ぐちゃガチャ】はじめましての方と突発対談！？ゲスト：渋谷ハル様【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/s8iDwqF2OpI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=s8iDwqF2OpI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-11T11:00:00Z",
-    "startTime": "2026-06-11T11:01:30Z",
-    "endTime": "2026-06-11T12:01:16Z",
-    "ttl": "2026-06-18T11:00:00.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
     "id": "MwcP9yIHjzw",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【APEX LEGENDS】pew pew ^_^【#VSPOEN #RikoSolari】",
@@ -102,18 +50,6 @@
     "endTime": "2026-06-11T18:03:21Z",
     "ttl": "2026-06-18T14:00:00.000Z",
     "streamerId": "riko_solari"
-  },
-  {
-    "id": "316016665073",
-    "channelId": "ren_kisaragi__",
-    "title": "V最チーム練",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/9f61822391d08527a1ae_ren_kisaragi___316016665073_1781175812//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2794003774",
-    "scheduledStartTime": "2026-06-11T11:03:37Z",
-    "startTime": "2026-06-11T11:03:37Z",
-    "platform": "twitch",
-    "ttl": "2026-06-18T11:03:37.000Z",
-    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316082218355",
