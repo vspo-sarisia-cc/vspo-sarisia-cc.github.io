@@ -229,6 +229,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-17T23:00:00Z",
     "startTime": "2026-06-17T23:00:25Z",
+    "endTime": "2026-06-18T01:20:25Z",
     "ttl": "2026-06-24T23:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -257,18 +258,6 @@
     "endTime": "2026-06-17T12:34:36Z",
     "ttl": "2026-06-24T07:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "319889494490",
-    "channelId": "aryakuroha",
-    "title": "✦ playing with da homies !",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-06-17T23:00:14Z",
-    "startTime": "2026-06-17T23:00:14Z",
-    "platform": "twitch",
-    "ttl": "2026-06-24T23:00:14.000Z",
-    "streamerId": "arya_kuroha"
   },
   {
     "id": "316110514419",
@@ -377,5 +366,17 @@
     "platform": "twitch",
     "ttl": "2026-06-24T03:15:37.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "319889494490",
+    "channelId": "aryakuroha",
+    "title": "✦ playing with da homies !",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/96e5cfd84506d910f616_aryakuroha_319889494490_1781737214//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2799176949",
+    "scheduledStartTime": "2026-06-17T23:00:23Z",
+    "startTime": "2026-06-17T23:00:23Z",
+    "platform": "twitch",
+    "ttl": "2026-06-24T23:00:23.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
