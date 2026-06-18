@@ -1,5 +1,29 @@
 [
   {
+    "id": "ihUd7GarbTI",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "【 Cuisineer 】きゅいじにあ！ #16【 ぶいすぽ / 小雀とと 】",
+    "thumbnail": "https://i.ytimg.com/vi/ihUd7GarbTI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ihUd7GarbTI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-18T08:15:00Z",
+    "startTime": "2026-06-18T08:32:53Z",
+    "ttl": "2026-06-25T08:15:00.000Z",
+    "streamerId": "kogara_toto"
+  },
+  {
+    "id": "Blmz5DyROz0",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】のあちゃんいっぱい寝ました【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/Blmz5DyROz0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Blmz5DyROz0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-18T07:45:00Z",
+    "startTime": "2026-06-18T07:48:04Z",
+    "ttl": "2026-06-25T07:45:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "u3NPd_A5nms",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 オーバーウォッチ 】はなびとくろむちゃんとやります！【 ぶいすぽっ！胡桃のあ 】",
@@ -79,6 +103,18 @@
     "streamerId": "choya_hanabi"
   },
   {
+    "id": "yYkP8GoRaiE",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤ League of Legends ◢　LTK CC CORE  19:00～スクリム練習！  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/yYkP8GoRaiE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=yYkP8GoRaiE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-18T08:30:00Z",
+    "startTime": "2026-06-18T08:38:43Z",
+    "ttl": "2026-06-25T08:30:00.000Z",
+    "streamerId": "tatsumaki_chise"
+  },
+  {
     "id": "TpIh3UIK0pI",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Comeback of the sexy squad | Premier | Counter-Strike 2",
@@ -112,17 +148,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "gQ9FnLNwFmQ",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Dead By Daylight◢ pls dont laugh at me im new | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/gQ9FnLNwFmQ/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=gQ9FnLNwFmQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-18T09:00:00Z",
-    "ttl": "2026-06-25T09:00:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
     "id": "316048509169",
     "channelId": "ren_kisaragi__",
     "title": "こんにちは",
@@ -135,15 +160,27 @@
     "streamerId": "kisaragi_ren"
   },
   {
-    "id": "316112222707",
+    "id": "316057823602",
+    "channelId": "akarindao",
+    "title": "スクリム無限やるよお！",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-06-18T07:18:37Z",
+    "startTime": "2026-06-18T07:18:37Z",
+    "platform": "twitch",
+    "ttl": "2026-06-25T07:18:37.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316112468723",
     "channelId": "ramuneshiranami",
     "title": "無限分割日何時間か決めてない #LTK",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
     "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-06-18T07:17:50Z",
-    "startTime": "2026-06-18T07:17:50Z",
+    "scheduledStartTime": "2026-06-18T08:38:38Z",
+    "startTime": "2026-06-18T08:38:38Z",
     "platform": "twitch",
-    "ttl": "2026-06-25T07:17:50.000Z",
+    "ttl": "2026-06-25T08:38:38.000Z",
     "streamerId": "shiranami_ramune"
   },
   {
@@ -157,6 +194,18 @@
     "platform": "twitch",
     "ttl": "2026-06-25T03:22:16.000Z",
     "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "316112222707",
+    "channelId": "ramuneshiranami",
+    "title": "無限分割日何時間か決めてない #LTK",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/8f2f3619822f7cf574bb_ramuneshiranami_316112222707_1781767070//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2799455850",
+    "scheduledStartTime": "2026-06-18T07:17:55Z",
+    "startTime": "2026-06-18T07:17:55Z",
+    "platform": "twitch",
+    "ttl": "2026-06-25T07:17:55.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316047624305",
