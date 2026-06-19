@@ -11,6 +11,29 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "VHM6jSMRYAA",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【スト６】V最協第二幕 ぶっぱなCスクリム最終日 vs チーム5＆6！【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/VHM6jSMRYAA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=VHM6jSMRYAA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-19T13:30:00Z",
+    "ttl": "2026-06-26T13:30:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "psvyeQ4jKXg",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【スト６】　大会前最後の劇場版もけあそび大先生！！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/psvyeQ4jKXg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=psvyeQ4jKXg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-19T05:30:00Z",
+    "startTime": "2026-06-19T05:27:21Z",
+    "ttl": "2026-06-26T05:30:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "N0mzePOBfFE",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【V最 スト６】　22時からチーム１（ぷるちゃんチム）、23時半からチーム２（おにぴチム）とスクリム！！！！！！！！！！！！#花重奏WIN　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -22,25 +45,15 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "psvyeQ4jKXg",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【スト６】　大会前最後の劇場版もけあそび大先生！！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/psvyeQ4jKXg/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=psvyeQ4jKXg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-19T05:30:00Z",
-    "ttl": "2026-06-26T05:30:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
     "id": "qynBKO-LxpQ",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
-    "title": "【zatsu 雑談】 let's catch up!! im free :3 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/qynBKO-LxpQ/mqdefault_live.jpg",
+    "title": "【Zatsudan 雑談】 let's catch up!! im free wahoo :3 【#VSPOEN #NarinMikure】",
+    "thumbnail": "https://i.ytimg.com/vi/qynBKO-LxpQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=qynBKO-LxpQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T03:00:00Z",
     "startTime": "2026-06-19T03:13:23Z",
+    "endTime": "2026-06-19T05:26:39Z",
     "ttl": "2026-06-26T03:00:00.000Z",
     "streamerId": "narin_mikure"
   },

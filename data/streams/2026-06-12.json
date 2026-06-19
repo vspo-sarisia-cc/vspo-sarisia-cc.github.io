@@ -52,19 +52,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "tU4A94KvQR0",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 Splatoon3 】パ、パ、パ、パワーーー！！！【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/tU4A94KvQR0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=tU4A94KvQR0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-12T05:00:00Z",
-    "startTime": "2026-06-12T05:00:53Z",
-    "endTime": "2026-06-12T07:48:47Z",
-    "ttl": "2026-06-19T05:00:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "pMyUDFtq7JE",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【アークナイツ：エンドフィールド】カミーユ様＆ミフお姉さまお待ちしておりました‼【空澄セナ/ぶいすぽっ！】",
@@ -76,19 +63,6 @@
     "endTime": "2026-06-12T15:23:24Z",
     "ttl": "2026-06-19T13:30:00.000Z",
     "streamerId": "asumi_sena"
-  },
-  {
-    "id": "55uAxkHc4HE",
-    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
-    "title": "【STREET FIGHTER 6】なるおさんにエド対策教えてもらうカスタム募【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/55uAxkHc4HE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=55uAxkHc4HE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-12T05:45:00Z",
-    "startTime": "2026-06-12T05:45:45Z",
-    "endTime": "2026-06-12T09:54:01Z",
-    "ttl": "2026-06-19T05:45:00.000Z",
-    "streamerId": "kaminari_qpi"
   },
   {
     "id": "HjgR24FqSj8",
@@ -280,18 +254,6 @@
     "platform": "twitch",
     "ttl": "2026-06-19T18:45:11.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316083646963",
-    "channelId": "saineginjo",
-    "title": "ここでソロQをひとつまみ",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/b9f7ddaf5d58c9806417_saineginjo_316083646963_1781239982//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2794664226",
-    "scheduledStartTime": "2026-06-12T04:53:07Z",
-    "startTime": "2026-06-12T04:53:07Z",
-    "platform": "twitch",
-    "ttl": "2026-06-19T04:53:07.000Z",
-    "streamerId": "ginjo_saine"
   },
   {
     "id": "319790348762",
