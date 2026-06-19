@@ -98,6 +98,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T16:30:00Z",
     "startTime": "2026-06-19T16:33:15Z",
+    "endTime": "2026-06-19T17:53:07Z",
     "ttl": "2026-06-26T16:30:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -123,6 +124,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T11:30:00Z",
     "startTime": "2026-06-19T11:31:27Z",
+    "endTime": "2026-06-19T17:54:13Z",
     "ttl": "2026-06-26T11:30:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -130,12 +132,24 @@
     "id": "oXq8pVzdNo8",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】 V最スクリム5日目 / 炊きたてファジーおにぎり VS 宇佐美さんチーム3，れんくんチーム4【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/oXq8pVzdNo8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/oXq8pVzdNo8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=oXq8pVzdNo8",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T12:30:00Z",
     "startTime": "2026-06-19T12:33:09Z",
+    "endTime": "2026-06-19T17:37:41Z",
     "ttl": "2026-06-26T12:30:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "l-Zr2oib1OU",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "罵倒を求める大谷コーチ【ぶいすぽっ！/ 藍沢エマ/スト6/Street Fighter 6】",
+    "thumbnail": "https://i.ytimg.com/vi/l-Zr2oib1OU/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=l-Zr2oib1OU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-19T22:00:00Z",
+    "ttl": "2026-06-26T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -173,6 +187,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T13:30:00Z",
     "startTime": "2026-06-19T13:17:12Z",
+    "endTime": "2026-06-19T18:05:08Z",
     "ttl": "2026-06-26T13:30:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
