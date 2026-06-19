@@ -1,5 +1,62 @@
 [
   {
+    "id": "CL7MI_LUU9w",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【APEX】ぶいすぽぺっくすするよお【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/CL7MI_LUU9w/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=CL7MI_LUU9w",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-19T08:00:00Z",
+    "startTime": "2026-06-19T08:05:20Z",
+    "ttl": "2026-06-26T08:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "7WD5Ir5bqgA",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "【 Apex 】ぶいすぽフルパえぺ！ w/なずちゃん、つなちゃん【 ぶいすぽ / 小雀とと 】",
+    "thumbnail": "https://i.ytimg.com/vi/7WD5Ir5bqgA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=7WD5Ir5bqgA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-19T08:00:00Z",
+    "startTime": "2026-06-19T08:05:17Z",
+    "ttl": "2026-06-26T08:00:00.000Z",
+    "streamerId": "kogara_toto"
+  },
+  {
+    "id": "f9Z-GdQ3eMo",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【 スト6 】感謝のカスタムお願いします【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/f9Z-GdQ3eMo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=f9Z-GdQ3eMo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-19T08:15:00Z",
+    "ttl": "2026-06-26T08:15:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "4ja4Zn9uUhU",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】BINGO大会に参加しますよ！/ボドさん、ツクモくん【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/4ja4Zn9uUhU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=4ja4Zn9uUhU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-19T09:00:00Z",
+    "ttl": "2026-06-26T09:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "oXq8pVzdNo8",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】 V最スクリム5日目 / 炊きたてファジーおにぎり VS 宇佐美さんチーム3，れんくんチーム4【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/oXq8pVzdNo8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=oXq8pVzdNo8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-19T12:30:00Z",
+    "ttl": "2026-06-26T12:30:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "Ra-wgGHgwnU",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【APEX】ぶいすぽエペフルパ！たのちみ！！！　w/なずぴ、ととち【ぶいすぽ / 猫汰つな】",
@@ -7,8 +64,21 @@
     "url": "https://www.youtube.com/watch?v=Ra-wgGHgwnU",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T08:00:00Z",
+    "startTime": "2026-06-19T08:05:21Z",
     "ttl": "2026-06-26T08:00:00.000Z",
     "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "61wgXOX1mvY",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【スト６】スクリム前にしょっちょさんと練習【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/61wgXOX1mvY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=61wgXOX1mvY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-19T07:30:00Z",
+    "startTime": "2026-06-19T07:29:43Z",
+    "ttl": "2026-06-26T07:30:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "VHM6jSMRYAA",
@@ -25,11 +95,12 @@
     "id": "psvyeQ4jKXg",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　大会前最後の劇場版もけあそび大先生！！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/psvyeQ4jKXg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/psvyeQ4jKXg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=psvyeQ4jKXg",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T05:30:00Z",
     "startTime": "2026-06-19T05:27:21Z",
+    "endTime": "2026-06-19T07:44:12Z",
     "ttl": "2026-06-26T05:30:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -43,6 +114,18 @@
     "scheduledStartTime": "2026-06-19T12:00:00Z",
     "ttl": "2026-06-26T12:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "Reo0XPFbdUY",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤ League of Legends ◢　LTK CC CORE  BOT組練習！  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/Reo0XPFbdUY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Reo0XPFbdUY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-19T07:05:00Z",
+    "startTime": "2026-06-19T07:09:18Z",
+    "ttl": "2026-06-26T07:05:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "qynBKO-LxpQ",
