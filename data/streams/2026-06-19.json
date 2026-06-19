@@ -3,11 +3,12 @@
     "id": "Pj3lFxikwZw",
     "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
     "title": "【スト６】とにかくがんばる きぽかちょvsチーム１チーム２【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/Pj3lFxikwZw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Pj3lFxikwZw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Pj3lFxikwZw",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T11:00:00Z",
     "startTime": "2026-06-19T11:04:43Z",
+    "endTime": "2026-06-19T15:54:53Z",
     "ttl": "2026-06-26T11:00:00.000Z",
     "streamerId": "kaga_sumire"
   },
@@ -101,6 +102,17 @@
     "streamerId": "tosaki_mimi"
   },
   {
+    "id": "Od6p2HYjHms",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "【Forza Horizon 6】チルな深夜ドライブを求めて＿＿＿【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/Od6p2HYjHms/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Od6p2HYjHms",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-19T16:30:00Z",
+    "ttl": "2026-06-26T16:30:00.000Z",
+    "streamerId": "asumi_sena"
+  },
+  {
     "id": "fZMvZ7naRR8",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【STREET FIGHTER 6】V最スクリムDAY5🍶22:00VS TEAM07→23:30VS TEAM08【ぶいすぽっ！/神成きゅぴ】",
@@ -191,11 +203,12 @@
     "id": "N0mzePOBfFE",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【V最 スト６】　22時からチーム１（ぷるちゃんチム）、23時半からチーム２（おにぴチム）とスクリム！！！！！！！！！！！！#花重奏WIN　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/N0mzePOBfFE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/N0mzePOBfFE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=N0mzePOBfFE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T12:45:00Z",
     "startTime": "2026-06-19T12:48:41Z",
+    "endTime": "2026-06-19T15:43:15Z",
     "ttl": "2026-06-26T12:45:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -228,7 +241,7 @@
     "id": "Reo0XPFbdUY",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤ League of Legends ◢　LTK CC CORE  BOT組練習！  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/Reo0XPFbdUY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Reo0XPFbdUY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Reo0XPFbdUY",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T07:05:00Z",
@@ -274,18 +287,6 @@
     "platform": "twitch",
     "ttl": "2026-06-26T09:07:54.000Z",
     "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "317036397156",
-    "channelId": "remiaaotsuki",
-    "title": "I'm a good egg :3 (Playtest)",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_remiaaotsuki-320x180.jpg",
-    "url": "https://www.twitch.tv/remiaaotsuki",
-    "scheduledStartTime": "2026-06-19T13:58:42Z",
-    "startTime": "2026-06-19T13:58:42Z",
-    "platform": "twitch",
-    "ttl": "2026-06-26T13:58:42.000Z",
-    "streamerId": "remia_aotsuki"
   },
   {
     "id": "316062518002",
@@ -334,5 +335,17 @@
     "platform": "twitch",
     "ttl": "2026-06-26T10:18:51.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "317036397156",
+    "channelId": "remiaaotsuki",
+    "title": "I'm a good egg :3 (Playtest)",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/d52bb4d511f83918277a_remiaaotsuki_317036397156_1781877522//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2800391550",
+    "scheduledStartTime": "2026-06-19T13:58:49Z",
+    "startTime": "2026-06-19T13:58:49Z",
+    "platform": "twitch",
+    "ttl": "2026-06-26T13:58:49.000Z",
+    "streamerId": "remia_aotsuki"
   }
 ]
