@@ -31,6 +31,7 @@
     "url": "https://www.youtube.com/watch?v=f9Z-GdQ3eMo",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T08:15:00Z",
+    "startTime": "2026-06-19T08:18:16Z",
     "ttl": "2026-06-26T08:15:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -42,6 +43,7 @@
     "url": "https://www.youtube.com/watch?v=4ja4Zn9uUhU",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T09:00:00Z",
+    "startTime": "2026-06-19T08:56:22Z",
     "ttl": "2026-06-26T09:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -141,18 +143,6 @@
     "streamerId": "narin_mikure"
   },
   {
-    "id": "316061732466",
-    "channelId": "akarindao",
-    "title": "最後の練習！！！明日本番！",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-19T04:07:19Z",
-    "startTime": "2026-06-19T04:07:19Z",
-    "platform": "twitch",
-    "ttl": "2026-06-26T04:07:19.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316116114547",
     "channelId": "ramuneshiranami",
     "title": "最後の練習 #LTK",
@@ -163,5 +153,41 @@
     "platform": "twitch",
     "ttl": "2026-06-26T04:08:24.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316062518002",
+    "channelId": "emtsmaru",
+    "title": "練習カスタム（新しいスタンプ増えました！動くよ！）/©CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_emtsmaru-320x180.jpg",
+    "url": "https://www.twitch.tv/emtsmaru",
+    "scheduledStartTime": "2026-06-19T08:17:15Z",
+    "startTime": "2026-06-19T08:17:15Z",
+    "platform": "twitch",
+    "ttl": "2026-06-26T08:17:15.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "316062671730",
+    "channelId": "ren_kisaragi__",
+    "title": "今日のスクリムは22時半～vsチーム5、23時半～vsチーム6とです",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-19T09:07:54Z",
+    "startTime": "2026-06-19T09:07:54Z",
+    "platform": "twitch",
+    "ttl": "2026-06-26T09:07:54.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316061732466",
+    "channelId": "akarindao",
+    "title": "最後の練習！！！明日本番！",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/8e148524096d425ae49c_akarindao_316061732466_1781842039//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2800166327",
+    "scheduledStartTime": "2026-06-19T04:07:25Z",
+    "startTime": "2026-06-19T04:07:25Z",
+    "platform": "twitch",
+    "ttl": "2026-06-26T04:07:25.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
