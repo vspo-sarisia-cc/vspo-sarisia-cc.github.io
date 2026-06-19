@@ -1,18 +1,5 @@
 [
   {
-    "id": "OHwyIl-tpOA",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【雀魂】寝る前にちょっとだけやりたいよね【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/OHwyIl-tpOA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=OHwyIl-tpOA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-12T16:30:00Z",
-    "startTime": "2026-06-12T16:33:40Z",
-    "endTime": "2026-06-12T19:05:49Z",
-    "ttl": "2026-06-19T16:30:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "HjgR24FqSj8",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "わたしのために争わないで～～！！【ぶいすぽっ！/ 藍沢エマ/花芽なずな/紫宮るな/夜乃くろむ/CoD:BO6】",
@@ -24,18 +11,6 @@
     "endTime": "2026-06-12T22:22:13Z",
     "ttl": "2026-06-19T22:00:00.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "316022895345",
-    "channelId": "ren_kisaragi__",
-    "title": "チルを挟む",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/70643b13085c8b6cec2a_ren_kisaragi___316022895345_1781284146//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2794985312",
-    "scheduledStartTime": "2026-06-12T17:09:11Z",
-    "startTime": "2026-06-12T17:09:11Z",
-    "platform": "twitch",
-    "ttl": "2026-06-19T17:09:11.000Z",
-    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316032418418",

@@ -54,7 +54,7 @@
     "id": "cNBG8gIc3WA",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【 スト6 】初カコキ...ども...V最スクリム最終日！！！【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/cNBG8gIc3WA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/cNBG8gIc3WA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=cNBG8gIc3WA",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T13:00:00Z",
@@ -90,18 +90,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "WSts5-i329k",
-    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
-    "title": "【雑談】寝る前に一緒にお酒のまない？【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/WSts5-i329k/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=WSts5-i329k",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-19T14:15:00Z",
-    "startTime": "2026-06-19T14:21:27Z",
-    "ttl": "2026-06-26T14:15:00.000Z",
-    "streamerId": "tosaki_mimi"
-  },
-  {
     "id": "Od6p2HYjHms",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【Forza Horizon 6】チルな深夜ドライブを求めて＿＿＿【空澄セナ/ぶいすぽっ！】",
@@ -109,6 +97,7 @@
     "url": "https://www.youtube.com/watch?v=Od6p2HYjHms",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T16:30:00Z",
+    "startTime": "2026-06-19T16:33:15Z",
     "ttl": "2026-06-26T16:30:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -116,11 +105,12 @@
     "id": "fZMvZ7naRR8",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【STREET FIGHTER 6】V最スクリムDAY5🍶22:00VS TEAM07→23:30VS TEAM08【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/fZMvZ7naRR8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/fZMvZ7naRR8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=fZMvZ7naRR8",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T11:45:00Z",
     "startTime": "2026-06-19T11:47:57Z",
+    "endTime": "2026-06-19T16:54:02Z",
     "ttl": "2026-06-26T11:45:00.000Z",
     "streamerId": "kaminari_qpi"
   },
@@ -229,11 +219,12 @@
     "id": "nuPyZXyk030",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【Starsand Island】#３　寝る前チル☆１週間お疲れ様でした　【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/nuPyZXyk030/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/nuPyZXyk030/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=nuPyZXyk030",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T13:15:00Z",
     "startTime": "2026-06-19T13:15:24Z",
+    "endTime": "2026-06-19T16:55:51Z",
     "ttl": "2026-06-26T13:15:00.000Z",
     "streamerId": "amayui_moka"
   },
