@@ -38,10 +38,21 @@
     "streamerId": "kogara_toto"
   },
   {
+    "id": "cNBG8gIc3WA",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【 スト6 】初カコキ...ども...V最スクリム最終日！！！【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/cNBG8gIc3WA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=cNBG8gIc3WA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-19T13:00:00Z",
+    "ttl": "2026-06-26T13:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "f9Z-GdQ3eMo",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【 スト6 】感謝のカスタムお願いします【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/f9Z-GdQ3eMo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/f9Z-GdQ3eMo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=f9Z-GdQ3eMo",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T08:15:00Z",
@@ -54,11 +65,12 @@
     "id": "4ja4Zn9uUhU",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】BINGO大会に参加しますよ！/ボドさん、ツクモくん【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/4ja4Zn9uUhU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/4ja4Zn9uUhU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4ja4Zn9uUhU",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T09:00:00Z",
     "startTime": "2026-06-19T08:56:22Z",
+    "endTime": "2026-06-19T11:59:13Z",
     "ttl": "2026-06-26T09:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -70,6 +82,7 @@
     "url": "https://www.youtube.com/watch?v=fZMvZ7naRR8",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T11:45:00Z",
+    "startTime": "2026-06-19T11:47:57Z",
     "ttl": "2026-06-26T11:45:00.000Z",
     "streamerId": "kaminari_qpi"
   },
@@ -81,7 +94,7 @@
     "url": "https://www.youtube.com/watch?v=L8KWjsDkiiM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T11:30:00Z",
-    "startTime": "2026-06-19T11:31:23Z",
+    "startTime": "2026-06-19T11:31:27Z",
     "ttl": "2026-06-26T11:30:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -93,6 +106,7 @@
     "url": "https://www.youtube.com/watch?v=oXq8pVzdNo8",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T12:30:00Z",
+    "startTime": "2026-06-19T12:33:09Z",
     "ttl": "2026-06-26T12:30:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -116,6 +130,7 @@
     "url": "https://www.youtube.com/watch?v=OKPcytT8GTU",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T11:30:00Z",
+    "startTime": "2026-06-19T11:34:15Z",
     "ttl": "2026-06-26T11:30:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -136,7 +151,7 @@
     "id": "61wgXOX1mvY",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【スト６】スクリム前にしょっちょさんと練習【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/61wgXOX1mvY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/61wgXOX1mvY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=61wgXOX1mvY",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T07:30:00Z",
@@ -157,6 +172,18 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "N0mzePOBfFE",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【V最 スト６】　22時からチーム１（ぷるちゃんチム）、23時半からチーム２（おにぴチム）とスクリム！！！！！！！！！！！！#花重奏WIN　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/N0mzePOBfFE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=N0mzePOBfFE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-19T12:45:00Z",
+    "startTime": "2026-06-19T12:48:41Z",
+    "ttl": "2026-06-26T12:45:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "psvyeQ4jKXg",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　大会前最後の劇場版もけあそび大先生！！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -167,17 +194,6 @@
     "startTime": "2026-06-19T05:27:21Z",
     "endTime": "2026-06-19T07:44:12Z",
     "ttl": "2026-06-26T05:30:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "N0mzePOBfFE",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【V最 スト６】　22時からチーム１（ぷるちゃんチム）、23時半からチーム２（おにぴチム）とスクリム！！！！！！！！！！！！#花重奏WIN　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/N0mzePOBfFE/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=N0mzePOBfFE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-19T12:45:00Z",
-    "ttl": "2026-06-26T12:45:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -206,6 +222,17 @@
     "streamerId": "narin_mikure"
   },
   {
+    "id": "VT4BaIe1bBA",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "やっほー！！！日本にいるよ〜！【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/VT4BaIe1bBA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=VT4BaIe1bBA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-19T13:00:00Z",
+    "ttl": "2026-06-26T13:00:00.000Z",
+    "streamerId": "riko_solari"
+  },
+  {
     "id": "316062671730",
     "channelId": "ren_kisaragi__",
     "title": "今日のスクリムは22時半～vsチーム5、23時半～vsチーム6とです",
@@ -216,30 +243,6 @@
     "platform": "twitch",
     "ttl": "2026-06-26T09:07:54.000Z",
     "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316116114547",
-    "channelId": "ramuneshiranami",
-    "title": "最後の練習 #LTK",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-06-19T04:08:24Z",
-    "startTime": "2026-06-19T04:08:24Z",
-    "platform": "twitch",
-    "ttl": "2026-06-26T04:08:24.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "316117292915",
-    "channelId": "choyahanabi",
-    "title": "【スト６】 カスタムまで練習 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_choyahanabi-320x180.jpg",
-    "url": "https://www.twitch.tv/choyahanabi",
-    "scheduledStartTime": "2026-06-19T10:18:46Z",
-    "startTime": "2026-06-19T10:18:46Z",
-    "platform": "twitch",
-    "ttl": "2026-06-26T10:18:46.000Z",
-    "streamerId": "choya_hanabi"
   },
   {
     "id": "316062518002",
@@ -254,6 +257,18 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "316116114547",
+    "channelId": "ramuneshiranami",
+    "title": "最後の練習 #LTK",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/f174baa382e865e22e00_ramuneshiranami_316116114547_1781842104//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2800166897",
+    "scheduledStartTime": "2026-06-19T04:08:29Z",
+    "startTime": "2026-06-19T04:08:29Z",
+    "platform": "twitch",
+    "ttl": "2026-06-26T04:08:29.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
     "id": "316061732466",
     "channelId": "akarindao",
     "title": "最後の練習！！！明日本番！",
@@ -264,5 +279,17 @@
     "platform": "twitch",
     "ttl": "2026-06-26T04:07:25.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316117292915",
+    "channelId": "choyahanabi",
+    "title": "【スト６】 カスタムまで練習 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/04336b910bb8e7cf36aa_choyahanabi_316117292915_1781864326//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2800295273",
+    "scheduledStartTime": "2026-06-19T10:18:51Z",
+    "startTime": "2026-06-19T10:18:51Z",
+    "platform": "twitch",
+    "ttl": "2026-06-26T10:18:51.000Z",
+    "streamerId": "choya_hanabi"
   }
 ]

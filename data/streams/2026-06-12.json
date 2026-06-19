@@ -13,19 +13,6 @@
     "streamerId": "kaga_nazuna"
   },
   {
-    "id": "M85CZO9TEhM",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【 スト6 】全てを理解するカスタry【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/M85CZO9TEhM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=M85CZO9TEhM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-12T12:45:00Z",
-    "startTime": "2026-06-12T12:40:19Z",
-    "endTime": "2026-06-12T16:28:40Z",
-    "ttl": "2026-06-19T12:45:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
     "id": "pMyUDFtq7JE",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【アークナイツ：エンドフィールド】カミーユ様＆ミフお姉さまお待ちしておりました‼【空澄セナ/ぶいすぽっ！】",
@@ -65,32 +52,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "f7v15WLnNJQ",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "撥条少女時計 feat.初音ミク / Cover 藍沢エマ × 樋口楓",
-    "thumbnail": "https://i.ytimg.com/vi/f7v15WLnNJQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=f7v15WLnNJQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-12T12:15:00Z",
-    "startTime": "2026-06-12T12:15:06Z",
-    "endTime": "2026-06-12T12:21:13Z",
-    "ttl": "2026-06-19T12:15:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "DEqdxl21PsI",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【雑談】梅雨終わった？【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/DEqdxl21PsI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=DEqdxl21PsI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-12T12:30:00Z",
-    "startTime": "2026-06-12T12:32:55Z",
-    "endTime": "2026-06-12T15:42:25Z",
-    "ttl": "2026-06-19T12:30:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
     "id": "i3oSr-FI1KI",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Liminal Maze w/ @MukuMamai  |  Escape the Backrooms 【#VSPOEN #RemiaAotsuki】",
@@ -117,19 +78,6 @@
     "streamerId": "jira_jisaki"
   },
   {
-    "id": "M0sJTkYFqe8",
-    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
-    "title": "【MINECRAFT】日本語マイクラ！【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/M0sJTkYFqe8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=M0sJTkYFqe8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-12T12:00:00Z",
-    "startTime": "2026-06-12T12:00:57Z",
-    "endTime": "2026-06-12T16:35:05Z",
-    "ttl": "2026-06-19T12:00:00.000Z",
-    "streamerId": "riko_solari"
-  },
-  {
     "id": "316022895345",
     "channelId": "ren_kisaragi__",
     "title": "チルを挟む",
@@ -139,18 +87,6 @@
     "startTime": "2026-06-12T17:09:11Z",
     "platform": "twitch",
     "ttl": "2026-06-19T17:09:11.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316030818162",
-    "channelId": "ren_kisaragi__",
-    "title": "カスタム募集",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/1eb8bff2a25b5ec63a2b_ren_kisaragi___316030818162_1781266311//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2794814818",
-    "scheduledStartTime": "2026-06-12T12:11:57Z",
-    "startTime": "2026-06-12T12:11:57Z",
-    "platform": "twitch",
-    "ttl": "2026-06-19T12:11:57.000Z",
     "streamerId": "kisaragi_ren"
   },
   {
