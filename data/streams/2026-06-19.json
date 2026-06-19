@@ -1,13 +1,26 @@
 [
   {
+    "id": "Pj3lFxikwZw",
+    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
+    "title": "【スト６】とにかくがんばる きぽかちょvsチーム１チーム２【ぶいすぽっ！/花芽すみれ】",
+    "thumbnail": "https://i.ytimg.com/vi/Pj3lFxikwZw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Pj3lFxikwZw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-19T11:00:00Z",
+    "startTime": "2026-06-19T11:04:43Z",
+    "ttl": "2026-06-26T11:00:00.000Z",
+    "streamerId": "kaga_sumire"
+  },
+  {
     "id": "CL7MI_LUU9w",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【APEX】ぶいすぽぺっくすするよお【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/CL7MI_LUU9w/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/CL7MI_LUU9w/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=CL7MI_LUU9w",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T08:00:00Z",
     "startTime": "2026-06-19T08:05:20Z",
+    "endTime": "2026-06-19T10:20:09Z",
     "ttl": "2026-06-26T08:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -15,11 +28,12 @@
     "id": "7WD5Ir5bqgA",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 Apex 】ぶいすぽフルパえぺ！ w/なずちゃん、つなちゃん【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/7WD5Ir5bqgA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/7WD5Ir5bqgA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=7WD5Ir5bqgA",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T08:00:00Z",
     "startTime": "2026-06-19T08:05:17Z",
+    "endTime": "2026-06-19T10:29:10Z",
     "ttl": "2026-06-26T08:00:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -32,6 +46,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T08:15:00Z",
     "startTime": "2026-06-19T08:18:16Z",
+    "endTime": "2026-06-19T11:21:07Z",
     "ttl": "2026-06-26T08:15:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -48,6 +63,29 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "fZMvZ7naRR8",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【STREET FIGHTER 6】V最スクリムDAY5🍶22:00VS TEAM07→23:30VS TEAM08【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/fZMvZ7naRR8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=fZMvZ7naRR8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-19T11:45:00Z",
+    "ttl": "2026-06-26T11:45:00.000Z",
+    "streamerId": "kaminari_qpi"
+  },
+  {
+    "id": "L8KWjsDkiiM",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【 Escape from Tarkov 】さてとkappaタスクやってこう！Lv42~  【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/L8KWjsDkiiM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=L8KWjsDkiiM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-19T11:30:00Z",
+    "startTime": "2026-06-19T11:31:23Z",
+    "ttl": "2026-06-26T11:30:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
     "id": "oXq8pVzdNo8",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】 V最スクリム5日目 / 炊きたてファジーおにぎり VS 宇佐美さんチーム3，れんくんチーム4【ぶいすぽっ！/ 藍沢エマ】",
@@ -59,14 +97,38 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "RzAeqES2aZM",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 スト６】V最スクリム５日目！#N8SWIN【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/RzAeqES2aZM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=RzAeqES2aZM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-19T11:30:00Z",
+    "startTime": "2026-06-19T11:29:54Z",
+    "ttl": "2026-06-26T11:30:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "OKPcytT8GTU",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【歌枠】梅雨に負けないで楽しく歌います【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/OKPcytT8GTU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=OKPcytT8GTU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-19T11:30:00Z",
+    "ttl": "2026-06-26T11:30:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
     "id": "Ra-wgGHgwnU",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【APEX】ぶいすぽエペフルパ！たのちみ！！！　w/なずぴ、ととち【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/Ra-wgGHgwnU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Ra-wgGHgwnU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Ra-wgGHgwnU",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T08:00:00Z",
     "startTime": "2026-06-19T08:05:21Z",
+    "endTime": "2026-06-19T10:24:39Z",
     "ttl": "2026-06-26T08:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -79,6 +141,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-19T07:30:00Z",
     "startTime": "2026-06-19T07:29:43Z",
+    "endTime": "2026-06-19T11:29:50Z",
     "ttl": "2026-06-26T07:30:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -113,8 +176,8 @@
     "thumbnail": "https://i.ytimg.com/vi/N0mzePOBfFE/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=N0mzePOBfFE",
     "platform": "youtube",
-    "scheduledStartTime": "2026-06-19T12:00:00Z",
-    "ttl": "2026-06-26T12:00:00.000Z",
+    "scheduledStartTime": "2026-06-19T12:45:00Z",
+    "ttl": "2026-06-26T12:45:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -143,6 +206,18 @@
     "streamerId": "narin_mikure"
   },
   {
+    "id": "316062671730",
+    "channelId": "ren_kisaragi__",
+    "title": "今日のスクリムは22時半～vsチーム5、23時半～vsチーム6とです",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-19T09:07:54Z",
+    "startTime": "2026-06-19T09:07:54Z",
+    "platform": "twitch",
+    "ttl": "2026-06-26T09:07:54.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
     "id": "316116114547",
     "channelId": "ramuneshiranami",
     "title": "最後の練習 #LTK",
@@ -155,28 +230,28 @@
     "streamerId": "shiranami_ramune"
   },
   {
+    "id": "316117292915",
+    "channelId": "choyahanabi",
+    "title": "【スト６】 カスタムまで練習 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_choyahanabi-320x180.jpg",
+    "url": "https://www.twitch.tv/choyahanabi",
+    "scheduledStartTime": "2026-06-19T10:18:46Z",
+    "startTime": "2026-06-19T10:18:46Z",
+    "platform": "twitch",
+    "ttl": "2026-06-26T10:18:46.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "316062518002",
     "channelId": "emtsmaru",
     "title": "練習カスタム（新しいスタンプ増えました！動くよ！）/©CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_emtsmaru-320x180.jpg",
-    "url": "https://www.twitch.tv/emtsmaru",
-    "scheduledStartTime": "2026-06-19T08:17:15Z",
-    "startTime": "2026-06-19T08:17:15Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/92012281963e4ae759e5_emtsmaru_316062518002_1781857035//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2800258376",
+    "scheduledStartTime": "2026-06-19T08:17:20Z",
+    "startTime": "2026-06-19T08:17:20Z",
     "platform": "twitch",
-    "ttl": "2026-06-26T08:17:15.000Z",
+    "ttl": "2026-06-26T08:17:20.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "316062671730",
-    "channelId": "ren_kisaragi__",
-    "title": "今日のスクリムは22時半～vsチーム5、23時半～vsチーム6とです",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-06-19T09:07:54Z",
-    "startTime": "2026-06-19T09:07:54Z",
-    "platform": "twitch",
-    "ttl": "2026-06-26T09:07:54.000Z",
-    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316061732466",
