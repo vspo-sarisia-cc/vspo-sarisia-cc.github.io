@@ -47,6 +47,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-20T14:00:00Z",
     "startTime": "2026-06-20T14:00:47Z",
+    "endTime": "2026-06-20T15:59:06Z",
     "ttl": "2026-06-27T14:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -118,7 +119,7 @@
     "id": "kvY_Nd3DtgA",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【スト６】V最協第二幕 本番day1 ぶっぱなC #BPCWIN【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/kvY_Nd3DtgA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/kvY_Nd3DtgA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=kvY_Nd3DtgA",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-20T04:00:00Z",
