@@ -29,8 +29,20 @@
     "url": "https://www.youtube.com/watch?v=vty3cHqzCQM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-20T03:30:00Z",
+    "startTime": "2026-06-20T03:30:34Z",
     "ttl": "2026-06-27T03:30:00.000Z",
     "streamerId": "asumi_sena"
+  },
+  {
+    "id": "2A7vLw51vKk",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【STREET FIGHTER 6】#V最協第二幕 #風雷叶鬼 -拳零- #KP0WIN 🍶【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/2A7vLw51vKk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=2A7vLw51vKk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-20T04:00:00Z",
+    "ttl": "2026-06-27T04:00:00.000Z",
+    "streamerId": "kaminari_qpi"
   },
   {
     "id": "zBPwmWifPTI",
@@ -44,9 +56,31 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "sL-bnZ8o9mg",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 スト６】V最本番Day1！#N8SWIN【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/sL-bnZ8o9mg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=sL-bnZ8o9mg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-20T04:00:00Z",
+    "ttl": "2026-06-27T04:00:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "kvY_Nd3DtgA",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【スト６】V最協第二幕 本番day1 ぶっぱなC #BPCWIN【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/kvY_Nd3DtgA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=kvY_Nd3DtgA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-20T04:00:00Z",
+    "ttl": "2026-06-27T04:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "DyrcdxSw0nw",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【V最 スト６】　ついに大会当日！いくぞ花重奏！！！！！！！！！！！！#花重奏WIN　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "title": "【V最 スト６】　ついに大会当日！いくぞ花重奏！！！！！！！！！！！！#花重奏WIN #QRTWIN　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
     "thumbnail": "https://i.ytimg.com/vi/DyrcdxSw0nw/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=DyrcdxSw0nw",
     "platform": "youtube",
