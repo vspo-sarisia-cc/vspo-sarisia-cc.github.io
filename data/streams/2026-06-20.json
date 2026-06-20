@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=HCYxcuyofb0",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-20T04:00:00Z",
+    "startTime": "2026-06-20T04:05:57Z",
     "ttl": "2026-06-27T04:00:00.000Z",
     "streamerId": "kaga_sumire"
   },
@@ -18,6 +19,7 @@
     "url": "https://www.youtube.com/watch?v=LNg8FWFvRQs",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-20T04:00:00Z",
+    "startTime": "2026-06-20T04:15:39Z",
     "ttl": "2026-06-27T04:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -30,6 +32,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-20T03:30:00Z",
     "startTime": "2026-06-20T03:30:34Z",
+    "endTime": "2026-06-20T05:09:50Z",
     "ttl": "2026-06-27T03:30:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -41,6 +44,7 @@
     "url": "https://www.youtube.com/watch?v=2A7vLw51vKk",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-20T04:00:00Z",
+    "startTime": "2026-06-20T03:56:44Z",
     "ttl": "2026-06-27T04:00:00.000Z",
     "streamerId": "kaminari_qpi"
   },
@@ -52,6 +56,7 @@
     "url": "https://www.youtube.com/watch?v=zBPwmWifPTI",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-20T04:30:00Z",
+    "startTime": "2026-06-20T04:16:05Z",
     "ttl": "2026-06-27T04:30:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -63,6 +68,7 @@
     "url": "https://www.youtube.com/watch?v=sL-bnZ8o9mg",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-20T04:00:00Z",
+    "startTime": "2026-06-20T04:06:35Z",
     "ttl": "2026-06-27T04:00:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -74,6 +80,7 @@
     "url": "https://www.youtube.com/watch?v=kvY_Nd3DtgA",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-20T04:00:00Z",
+    "startTime": "2026-06-20T04:12:53Z",
     "ttl": "2026-06-27T04:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -84,8 +91,9 @@
     "thumbnail": "https://i.ytimg.com/vi/DyrcdxSw0nw/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=DyrcdxSw0nw",
     "platform": "youtube",
-    "scheduledStartTime": "2026-06-20T04:00:00Z",
-    "ttl": "2026-06-27T04:00:00.000Z",
+    "scheduledStartTime": "2026-06-20T04:30:00Z",
+    "startTime": "2026-06-20T04:21:56Z",
+    "ttl": "2026-06-27T04:30:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -98,5 +106,17 @@
     "scheduledStartTime": "2026-06-20T21:00:00Z",
     "ttl": "2026-06-27T21:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "316120925043",
+    "channelId": "ren_kisaragi__",
+    "title": "ぶっぱなCでV最本番行くぞ！！一日目 ＃BPCWIN",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-20T03:59:51Z",
+    "startTime": "2026-06-20T03:59:51Z",
+    "platform": "twitch",
+    "ttl": "2026-06-27T03:59:51.000Z",
+    "streamerId": "kisaragi_ren"
   }
 ]
