@@ -86,6 +86,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-20T13:15:00Z",
     "startTime": "2026-06-20T13:20:24Z",
+    "endTime": "2026-06-20T18:54:37Z",
     "ttl": "2026-06-27T13:15:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -151,6 +152,18 @@
     "scheduledStartTime": "2026-06-20T21:00:00Z",
     "ttl": "2026-06-27T21:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "316124474099",
+    "channelId": "asumisena",
+    "title": "ui",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asumisena-320x180.jpg",
+    "url": "https://www.twitch.tv/asumisena",
+    "scheduledStartTime": "2026-06-20T18:12:55Z",
+    "startTime": "2026-06-20T18:12:55Z",
+    "platform": "twitch",
+    "ttl": "2026-06-27T18:12:55.000Z",
+    "streamerId": "asumi_sena"
   },
   {
     "id": "316120925043",
