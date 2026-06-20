@@ -204,17 +204,5 @@
     "platform": "twitch",
     "ttl": "2026-06-20T18:47:28.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316087606899",
-    "channelId": "akarindao",
-    "title": "全力でW杯を楽しむ❕アメリカvs パラグアイDAZNで同時視聴",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/5e6b715257e50801fe14_akarindao_316087606899_1781311286//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2795305691",
-    "scheduledStartTime": "2026-06-13T00:41:31Z",
-    "startTime": "2026-06-13T00:41:31Z",
-    "platform": "twitch",
-    "ttl": "2026-06-20T00:41:31.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
