@@ -1,44 +1,5 @@
 [
   {
-    "id": "BIrx2-mzBy0",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【雀魂】経験は知識にもなる【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/BIrx2-mzBy0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=BIrx2-mzBy0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-14T12:20:00Z",
-    "startTime": "2026-06-14T12:19:38Z",
-    "endTime": "2026-06-14T16:17:59Z",
-    "ttl": "2026-06-21T12:20:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
-    "id": "caRam-xsTDI",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "コンバンハー",
-    "thumbnail": "https://i.ytimg.com/vi/caRam-xsTDI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=caRam-xsTDI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-14T12:35:00Z",
-    "startTime": "2026-06-14T12:38:46Z",
-    "endTime": "2026-06-14T14:56:44Z",
-    "ttl": "2026-06-21T12:35:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "vxMFIDwTVZM",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "コンバンハー",
-    "thumbnail": "https://i.ytimg.com/vi/vxMFIDwTVZM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=vxMFIDwTVZM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-14T12:25:00Z",
-    "startTime": "2026-06-14T12:24:36Z",
-    "endTime": "2026-06-14T12:29:36Z",
-    "ttl": "2026-06-21T12:25:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
     "id": "lHxe5fbzPUQ",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【STREET FIGHTER 6】明日からスクリム頑張ってこーぜ決起集会【ぶいすぽっ！/神成きゅぴ】",
@@ -128,32 +89,6 @@
     "endTime": "2026-06-14T23:15:39Z",
     "ttl": "2026-06-21T21:00:00.000Z",
     "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "LwqHtkdp95s",
-    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
-    "title": "【League of Legends】getting chovy his first worlds trophy【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/LwqHtkdp95s/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=LwqHtkdp95s",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-14T13:00:00Z",
-    "startTime": "2026-06-14T13:03:11Z",
-    "endTime": "2026-06-14T15:08:25Z",
-    "ttl": "2026-06-21T13:00:00.000Z",
-    "streamerId": "jira_jisaki"
-  },
-  {
-    "id": "Mm2arvWK_Z8",
-    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
-    "title": "【POWERWASH SIMULATOR 2】chill sunday!!!【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/Mm2arvWK_Z8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Mm2arvWK_Z8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-14T12:30:00Z",
-    "startTime": "2026-06-14T12:30:37Z",
-    "endTime": "2026-06-14T15:36:16Z",
-    "ttl": "2026-06-21T12:30:00.000Z",
-    "streamerId": "riko_solari"
   },
   {
     "id": "eWKOPcgBD80",
