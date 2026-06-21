@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=L7wT7kE74gA",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-21T06:00:00Z",
+    "startTime": "2026-06-21T06:33:11Z",
     "ttl": "2026-06-28T06:00:00.000Z",
     "streamerId": "kaga_sumire"
   },
@@ -18,6 +19,7 @@
     "url": "https://www.youtube.com/watch?v=LXBlsV4Achg",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-21T06:30:00Z",
+    "startTime": "2026-06-21T06:33:18Z",
     "ttl": "2026-06-28T06:30:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -25,11 +27,12 @@
     "id": "5ZSE0sYYCCU",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】ジムまで【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/5ZSE0sYYCCU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/5ZSE0sYYCCU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=5ZSE0sYYCCU",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-21T03:15:00Z",
     "startTime": "2026-06-21T03:23:26Z",
+    "endTime": "2026-06-21T05:39:17Z",
     "ttl": "2026-06-28T03:15:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -53,6 +56,7 @@
     "url": "https://www.youtube.com/watch?v=q5km-9HLLuI",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-21T05:00:00Z",
+    "startTime": "2026-06-21T06:27:32Z",
     "ttl": "2026-06-28T05:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -87,6 +91,7 @@
     "url": "https://www.youtube.com/watch?v=dcTA2aMn8yk",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-21T06:30:00Z",
+    "startTime": "2026-06-21T06:34:58Z",
     "ttl": "2026-06-28T06:30:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -98,6 +103,7 @@
     "url": "https://www.youtube.com/watch?v=PJtoOtVqlU0",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-21T06:00:00Z",
+    "startTime": "2026-06-21T06:14:02Z",
     "ttl": "2026-06-28T06:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -115,7 +121,7 @@
   {
     "id": "dkH12RyGWDg",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
-    "title": "【teamfight tactics】 cafe cuties vex 【#VSPOEN #NarinMikure】",
+    "title": "【teamfight tactics】 cafe cuties = life is worth living 【#VSPOEN #NarinMikure】",
     "thumbnail": "https://i.ytimg.com/vi/dkH12RyGWDg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=dkH12RyGWDg",
     "platform": "youtube",
@@ -133,7 +139,20 @@
     "url": "https://www.youtube.com/watch?v=boLY4_-Fi1c",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-21T07:00:00Z",
+    "startTime": "2026-06-21T07:01:00Z",
     "ttl": "2026-06-28T07:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316072052466",
+    "channelId": "ren_kisaragi__",
+    "title": "ぶっぱなCでV最本番行くぞ！！二日目 ＃BPCWIN",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-21T06:28:00Z",
+    "startTime": "2026-06-21T06:28:00Z",
+    "platform": "twitch",
+    "ttl": "2026-06-28T06:28:00.000Z",
+    "streamerId": "kisaragi_ren"
   }
 ]

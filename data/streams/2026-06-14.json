@@ -26,19 +26,6 @@
     "streamerId": "kaga_nazuna"
   },
   {
-    "id": "8o5gjHRoAuM",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【スプラトゥーン３】武器もマップも意味わからんスプラ無印勢です【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/8o5gjHRoAuM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=8o5gjHRoAuM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-14T05:50:00Z",
-    "startTime": "2026-06-14T05:49:28Z",
-    "endTime": "2026-06-14T08:11:35Z",
-    "ttl": "2026-06-21T05:50:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "CSuVkFXjGjA",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 リミットゼロ ブレイカーズ 】CBTプロローグβテスト！乗り込めー！！【 ぶいすぽ / 小雀とと 】",
@@ -127,19 +114,6 @@
     "startTime": "2026-06-14T12:03:21Z",
     "endTime": "2026-06-14T16:25:25Z",
     "ttl": "2026-06-21T12:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "B-3EVTjfpAc",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】ねみゃ【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/B-3EVTjfpAc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=B-3EVTjfpAc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-14T06:15:00Z",
-    "startTime": "2026-06-14T06:13:38Z",
-    "endTime": "2026-06-14T09:14:19Z",
-    "ttl": "2026-06-21T06:15:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -344,18 +318,6 @@
     "platform": "twitch",
     "ttl": "2026-06-21T13:38:04.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316039302898",
-    "channelId": "saineginjo",
-    "title": "おい！！！！！！！ソロQ",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/59adb381379b4742ff0a_saineginjo_316039302898_1781417313//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2796299350",
-    "scheduledStartTime": "2026-06-14T06:08:38Z",
-    "startTime": "2026-06-14T06:08:38Z",
-    "platform": "twitch",
-    "ttl": "2026-06-21T06:08:38.000Z",
-    "streamerId": "ginjo_saine"
   },
   {
     "id": "319837863514",
