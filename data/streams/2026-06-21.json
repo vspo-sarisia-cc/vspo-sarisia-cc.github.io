@@ -11,6 +11,17 @@
     "streamerId": "kaga_sumire"
   },
   {
+    "id": "LXBlsV4Achg",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【 スト6 】#V最協第二幕 Day2🔥ここで！！！勝て！！！【#カコキWIN】",
+    "thumbnail": "https://i.ytimg.com/vi/LXBlsV4Achg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=LXBlsV4Achg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-21T06:30:00Z",
+    "ttl": "2026-06-28T06:30:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "5ZSE0sYYCCU",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】ジムまで【 ぶいすぽっ！胡桃のあ 】",
@@ -21,6 +32,18 @@
     "startTime": "2026-06-21T03:23:26Z",
     "ttl": "2026-06-28T03:15:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "8uRoAruJ8Dc",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【STREET FIGHTER 6】優勝するぞ #V最協第二幕 #風雷叶鬼 -拳零- #KP0WIN 🍶【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/8uRoAruJ8Dc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=8uRoAruJ8Dc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-21T05:00:00Z",
+    "startTime": "2026-06-21T05:03:24Z",
+    "ttl": "2026-06-28T05:00:00.000Z",
+    "streamerId": "kaminari_qpi"
   },
   {
     "id": "q5km-9HLLuI",
@@ -34,6 +57,18 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "ND22LCydSDY",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 スト６】V最本番Day２！#N8SWIN【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/ND22LCydSDY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ND22LCydSDY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-21T05:00:00Z",
+    "startTime": "2026-06-21T05:31:00Z",
+    "ttl": "2026-06-28T05:00:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
     "id": "PNaQkw3QMSQ",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 APEX 〗エニシアCUP w/ はせのしん、つびさん。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
@@ -43,6 +78,17 @@
     "scheduledStartTime": "2026-06-21T09:00:00Z",
     "ttl": "2026-06-28T09:00:00.000Z",
     "streamerId": "yano_kuromu"
+  },
+  {
+    "id": "dcTA2aMn8yk",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【スト６】V最協第二幕 本番day2 ぶっぱなC #BPCWIN【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/dcTA2aMn8yk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=dcTA2aMn8yk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-21T06:30:00Z",
+    "ttl": "2026-06-28T06:30:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "PJtoOtVqlU0",
@@ -56,14 +102,26 @@
     "streamerId": "choya_hanabi"
   },
   {
+    "id": "euYLyX5virk",
+    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+    "title": "【OFF COLLAB】two vtubers walk into a kitchen【#VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/euYLyX5virk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=euYLyX5virk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-21T08:30:00Z",
+    "ttl": "2026-06-28T08:30:00.000Z",
+    "streamerId": "jira_jisaki"
+  },
+  {
     "id": "dkH12RyGWDg",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
-    "title": "【valo ➜ lol ➜ tft | #4】 another riot day 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/dkH12RyGWDg/mqdefault_live.jpg",
+    "title": "【teamfight tactics】 cafe cuties vex 【#VSPOEN #NarinMikure】",
+    "thumbnail": "https://i.ytimg.com/vi/dkH12RyGWDg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=dkH12RyGWDg",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-21T03:00:00Z",
     "startTime": "2026-06-21T03:02:41Z",
+    "endTime": "2026-06-21T05:09:54Z",
     "ttl": "2026-06-28T03:00:00.000Z",
     "streamerId": "narin_mikure"
   },
