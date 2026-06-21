@@ -11,6 +11,29 @@
     "streamerId": "kaga_sumire"
   },
   {
+    "id": "5ZSE0sYYCCU",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】ジムまで【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/5ZSE0sYYCCU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=5ZSE0sYYCCU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-21T03:15:00Z",
+    "startTime": "2026-06-21T03:23:26Z",
+    "ttl": "2026-06-28T03:15:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "q5km-9HLLuI",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】 V最本番DAY2 #炊きたてファジーおにぎりWIN #TFOWIN【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/q5km-9HLLuI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=q5km-9HLLuI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-21T05:00:00Z",
+    "ttl": "2026-06-28T05:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "PNaQkw3QMSQ",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 APEX 〗エニシアCUP w/ はせのしん、つびさん。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
@@ -40,6 +63,7 @@
     "url": "https://www.youtube.com/watch?v=dkH12RyGWDg",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-21T03:00:00Z",
+    "startTime": "2026-06-21T03:02:41Z",
     "ttl": "2026-06-28T03:00:00.000Z",
     "streamerId": "narin_mikure"
   },
@@ -50,8 +74,8 @@
     "thumbnail": "https://i.ytimg.com/vi/boLY4_-Fi1c/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=boLY4_-Fi1c",
     "platform": "youtube",
-    "scheduledStartTime": "2026-06-21T05:00:00Z",
-    "ttl": "2026-06-28T05:00:00.000Z",
+    "scheduledStartTime": "2026-06-21T07:00:00Z",
+    "ttl": "2026-06-28T07:00:00.000Z",
     "streamerId": "juno_umezono"
   }
 ]
