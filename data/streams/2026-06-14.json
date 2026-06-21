@@ -11,43 +11,5 @@
     "endTime": "2026-06-15T03:16:23Z",
     "ttl": "2026-06-21T23:00:00.000Z",
     "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "VzmVLBXLQ_g",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【雑談】お休み前ですし、お話しませんこと？【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/VzmVLBXLQ_g/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=VzmVLBXLQ_g",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-14T20:45:00Z",
-    "startTime": "2026-06-14T20:48:05Z",
-    "endTime": "2026-06-14T22:53:33Z",
-    "ttl": "2026-06-21T20:45:00.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "TxlQGoJWZIs",
-    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-    "title": "【PRAGMATA】diana needs a child leash (contains spoilers)【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/TxlQGoJWZIs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=TxlQGoJWZIs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-14T21:00:00Z",
-    "startTime": "2026-06-14T21:00:34Z",
-    "endTime": "2026-06-14T23:15:39Z",
-    "ttl": "2026-06-21T21:00:00.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "319837863514",
-    "channelId": "aryakuroha",
-    "title": "✦ taking care of my new daughter !",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/89f5e07d660219057d18_aryakuroha_319837863514_1781470956//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2796791159",
-    "scheduledStartTime": "2026-06-14T21:02:45Z",
-    "startTime": "2026-06-14T21:02:45Z",
-    "platform": "twitch",
-    "ttl": "2026-06-21T21:02:45.000Z",
-    "streamerId": "arya_kuroha"
   }
 ]
