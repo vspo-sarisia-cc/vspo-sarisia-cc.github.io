@@ -1,18 +1,5 @@
 [
   {
-    "id": "lHxe5fbzPUQ",
-    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
-    "title": "【STREET FIGHTER 6】明日からスクリム頑張ってこーぜ決起集会【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/lHxe5fbzPUQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=lHxe5fbzPUQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-14T14:00:00Z",
-    "startTime": "2026-06-14T14:02:48Z",
-    "endTime": "2026-06-14T17:45:30Z",
-    "ttl": "2026-06-21T14:00:00.000Z",
-    "streamerId": "kaminari_qpi"
-  },
-  {
     "id": "SoyMAnHGnWk",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【スト６】少しカスタムしたり他のことしたりして眠る【ぶいすぽっ！ / 紡木こかげ】",
@@ -76,19 +63,6 @@
     "endTime": "2026-06-14T23:15:39Z",
     "ttl": "2026-06-21T21:00:00.000Z",
     "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "eWKOPcgBD80",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Wuthering Waves 1.x◢ NEW PLAYER journeys into solaris-3 (PART 1) | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/eWKOPcgBD80/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=eWKOPcgBD80",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-14T14:00:00Z",
-    "startTime": "2026-06-14T14:00:22Z",
-    "endTime": "2026-06-14T19:34:19Z",
-    "ttl": "2026-06-21T14:00:00.000Z",
-    "streamerId": "juno_umezono"
   },
   {
     "id": "316096688371",
