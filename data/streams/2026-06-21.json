@@ -64,11 +64,12 @@
     "id": "ND22LCydSDY",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 スト６】V最本番Day２！#N8SWIN【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/ND22LCydSDY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ND22LCydSDY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ND22LCydSDY",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-21T05:00:00Z",
     "startTime": "2026-06-21T05:31:00Z",
+    "endTime": "2026-06-21T09:03:40Z",
     "ttl": "2026-06-28T05:00:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -100,11 +101,12 @@
     "id": "PJtoOtVqlU0",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【V最 スト６】　DAY2！本戦！勝つ！！！！！！！！！！#花重奏WIN #QRTWIN　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/PJtoOtVqlU0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/PJtoOtVqlU0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=PJtoOtVqlU0",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-21T06:00:00Z",
     "startTime": "2026-06-21T06:14:02Z",
+    "endTime": "2026-06-21T09:24:33Z",
     "ttl": "2026-06-28T06:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -117,6 +119,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-21T08:30:00Z",
     "startTime": "2026-06-21T08:24:33Z",
+    "endTime": "2026-06-21T10:10:04Z",
     "ttl": "2026-06-28T08:30:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -132,6 +135,19 @@
     "endTime": "2026-06-21T05:09:54Z",
     "ttl": "2026-06-28T03:00:00.000Z",
     "streamerId": "narin_mikure"
+  },
+  {
+    "id": "boLY4_-Fi1c",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤OFF COLLAB◢ my korean senpai tries filipino snacks for the first time! | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/boLY4_-Fi1c/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=boLY4_-Fi1c",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-21T07:00:00Z",
+    "startTime": "2026-06-21T07:01:00Z",
+    "endTime": "2026-06-21T08:16:11Z",
+    "ttl": "2026-06-28T07:00:00.000Z",
+    "streamerId": "juno_umezono"
   },
   {
     "id": "316072052466",
