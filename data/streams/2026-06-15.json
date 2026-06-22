@@ -35,29 +35,5 @@
     "platform": "twitch",
     "ttl": "2026-06-22T18:47:19.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316046286578",
-    "channelId": "choyahanabi",
-    "title": "【スト６】 課題を完璧にする 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/190d5324e9f8c7e085bc_choyahanabi_316046286578_1781536486//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2797291693",
-    "scheduledStartTime": "2026-06-15T15:14:51Z",
-    "startTime": "2026-06-15T15:14:51Z",
-    "platform": "twitch",
-    "ttl": "2026-06-22T15:14:51.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "316046283762",
-    "channelId": "choyahanabi",
-    "title": "【スト６】 課題を完璧にする 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d34dc0ff9599c34d3b1f_choyahanabi_316046283762_1781536449//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2797291385",
-    "scheduledStartTime": "2026-06-15T15:14:14Z",
-    "startTime": "2026-06-15T15:14:14Z",
-    "platform": "twitch",
-    "ttl": "2026-06-22T15:14:14.000Z",
-    "streamerId": "choya_hanabi"
   }
 ]
