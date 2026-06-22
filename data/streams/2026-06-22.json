@@ -1,5 +1,29 @@
 [
   {
+    "id": "C6l_kJ-Ktx0",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【シャドバWB】最近のカードしらないけどオールスターならやるよね【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/C6l_kJ-Ktx0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=C6l_kJ-Ktx0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-22T11:30:00Z",
+    "startTime": "2026-06-22T11:28:23Z",
+    "ttl": "2026-06-29T11:30:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "BtfnwbBbixk",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "いろんなこと",
+    "thumbnail": "https://i.ytimg.com/vi/BtfnwbBbixk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=BtfnwbBbixk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-22T11:30:00Z",
+    "startTime": "2026-06-22T11:29:58Z",
+    "ttl": "2026-06-29T11:30:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "vICbHXSI9KQ",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 オーバーウォッチ 】教えてくれ【 ぶいすぽっ！胡桃のあ 】",
@@ -20,8 +44,20 @@
     "url": "https://www.youtube.com/watch?v=Km1P8D0wU2Y",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-22T11:00:00Z",
+    "startTime": "2026-06-22T11:20:17Z",
     "ttl": "2026-06-29T11:00:00.000Z",
     "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "WcoyMW_xa2w",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "渚トラウトシェフによる藍沢エマの罵倒でございます【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/WcoyMW_xa2w/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=WcoyMW_xa2w",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-22T22:00:00Z",
+    "ttl": "2026-06-29T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "3NA92lAVAys",
@@ -30,8 +66,8 @@
     "thumbnail": "https://i.ytimg.com/vi/3NA92lAVAys/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=3NA92lAVAys",
     "platform": "youtube",
-    "scheduledStartTime": "2026-06-22T13:00:00Z",
-    "ttl": "2026-06-29T13:00:00.000Z",
+    "scheduledStartTime": "2026-06-22T14:00:00Z",
+    "ttl": "2026-06-29T14:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -79,6 +115,7 @@
     "url": "https://www.youtube.com/watch?v=vTswyxJfBFQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-22T11:30:00Z",
+    "startTime": "2026-06-22T11:34:54Z",
     "ttl": "2026-06-29T11:30:00.000Z",
     "streamerId": "yumeno_akari"
   },
@@ -90,19 +127,33 @@
     "url": "https://www.youtube.com/watch?v=EjeQpHSQDsI",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-22T11:00:00Z",
+    "startTime": "2026-06-22T11:00:42Z",
     "ttl": "2026-06-29T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
     "id": "HD2-dzoFHsk",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
-    "title": "【BIOHAZARD RE:2】クレア編行ってみるぞ！！【 ぶいすぽっ！甘結もか 】",
+    "title": "【BIOHAZARD RE:2】クレア編行ってみるぞ！！絶対びっくりしない（決意）【 ぶいすぽっ！甘結もか 】",
     "thumbnail": "https://i.ytimg.com/vi/HD2-dzoFHsk/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=HD2-dzoFHsk",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-22T12:00:00Z",
+    "startTime": "2026-06-22T11:59:49Z",
     "ttl": "2026-06-29T12:00:00.000Z",
     "streamerId": "amayui_moka"
+  },
+  {
+    "id": "H0q9fzV5b7k",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤ LTK振り返り雑談 ◢　みんなと見ながら振り返るぞ！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/H0q9fzV5b7k/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=H0q9fzV5b7k",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-22T12:30:00Z",
+    "startTime": "2026-06-22T12:31:11Z",
+    "ttl": "2026-06-29T12:30:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "tE1YmpwQCHA",
@@ -116,18 +167,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316131375475",
-    "channelId": "ramuneshiranami",
-    "title": "LTKお疲れ様でした振り返り",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-06-22T09:38:46Z",
-    "startTime": "2026-06-22T09:38:46Z",
-    "platform": "twitch",
-    "ttl": "2026-06-29T09:38:46.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316131394675",
     "channelId": "ren_kisaragi__",
     "title": "pͪoͣnͬpͣoͥnͭpͣa͡inͥ",
@@ -138,6 +177,18 @@
     "platform": "twitch",
     "ttl": "2026-06-29T09:43:19.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316131375475",
+    "channelId": "ramuneshiranami",
+    "title": "LTKお疲れ様でした振り返り→100年ぶりのスト６",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-06-22T09:38:46Z",
+    "startTime": "2026-06-22T09:38:46Z",
+    "platform": "twitch",
+    "ttl": "2026-06-29T09:38:46.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316067505649",
