@@ -46,6 +46,7 @@
     "url": "https://www.youtube.com/watch?v=-PJ0QbOki94",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-22T21:30:00Z",
+    "startTime": "2026-06-22T21:34:56Z",
     "ttl": "2026-06-29T21:30:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -63,6 +64,18 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "WcoyMW_xa2w",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "渚トラウトシェフによる藍沢エマの罵倒でございます【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/WcoyMW_xa2w/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=WcoyMW_xa2w",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-22T22:00:00Z",
+    "startTime": "2026-06-22T22:00:06Z",
+    "ttl": "2026-06-29T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "3NA92lAVAys",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【雑談】V最応援ありがとうございました！振り返りします！【ぶいすぽっ！/ 藍沢エマ】",
@@ -73,17 +86,6 @@
     "startTime": "2026-06-22T14:03:03Z",
     "endTime": "2026-06-22T15:51:16Z",
     "ttl": "2026-06-29T14:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "WcoyMW_xa2w",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "渚トラウトシェフによる藍沢エマの罵倒でございます【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/WcoyMW_xa2w/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=WcoyMW_xa2w",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-22T22:00:00Z",
-    "ttl": "2026-06-29T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
