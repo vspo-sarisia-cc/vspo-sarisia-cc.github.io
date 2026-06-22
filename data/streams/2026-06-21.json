@@ -143,6 +143,18 @@
     "streamerId": "choya_hanabi"
   },
   {
+    "id": "c3R9ukoaKZY",
+    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
+    "title": "【APEX LEGENDS】guerilla rank !!【#VSPOEN #AryaKuroha】",
+    "thumbnail": "https://i.ytimg.com/vi/c3R9ukoaKZY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=c3R9ukoaKZY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-21T23:45:00Z",
+    "startTime": "2026-06-21T23:49:04Z",
+    "ttl": "2026-06-28T23:45:00.000Z",
+    "streamerId": "arya_kuroha"
+  },
+  {
     "id": "euYLyX5virk",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【OFF COLLAB】two vtubers walk into a kitchen【#VSPOEN #JiraJisaki】",
@@ -180,6 +192,18 @@
     "endTime": "2026-06-21T08:16:11Z",
     "ttl": "2026-06-28T07:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "319968862810",
+    "channelId": "aryakuroha",
+    "title": "✦ guerilla rank",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-06-21T23:48:27Z",
+    "startTime": "2026-06-21T23:48:27Z",
+    "platform": "twitch",
+    "ttl": "2026-06-28T23:48:27.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "316072052466",
