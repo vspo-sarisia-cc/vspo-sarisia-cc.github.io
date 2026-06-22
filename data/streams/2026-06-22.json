@@ -169,7 +169,7 @@
     "id": "H0q9fzV5b7k",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤ LTK振り返り雑談 ◢　みんなと見ながら振り返るぞ！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/H0q9fzV5b7k/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/H0q9fzV5b7k/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=H0q9fzV5b7k",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-22T12:30:00Z",
@@ -190,18 +190,6 @@
     "endTime": "2026-06-22T15:49:57Z",
     "ttl": "2026-06-29T14:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316078987122",
-    "channelId": "akarindao",
-    "title": "全力でW杯を楽しむ！アルゼンチン vs オーストリアDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-22T16:43:55Z",
-    "startTime": "2026-06-22T16:43:55Z",
-    "platform": "twitch",
-    "ttl": "2026-06-29T16:43:55.000Z",
-    "streamerId": "yumeno_akari"
   },
   {
     "id": "316131394675",
@@ -226,6 +214,18 @@
     "platform": "twitch",
     "ttl": "2026-06-29T09:38:51.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316078987122",
+    "channelId": "akarindao",
+    "title": "全力でW杯を楽しむ！アルゼンチン vs オーストリアDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/5c367c718b2574fa78f7_akarindao_316078987122_1782146635//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2802808962",
+    "scheduledStartTime": "2026-06-22T16:44:00Z",
+    "startTime": "2026-06-22T16:44:00Z",
+    "platform": "twitch",
+    "ttl": "2026-06-29T16:44:00.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316067505649",
