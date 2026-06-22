@@ -39,14 +39,26 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "-PJ0QbOki94",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "出勤.通学嫌だよね。集まれ～！！！【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/-PJ0QbOki94/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=-PJ0QbOki94",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-22T21:30:00Z",
+    "ttl": "2026-06-29T21:30:00.000Z",
+    "streamerId": "asumi_sena"
+  },
+  {
     "id": "Km1P8D0wU2Y",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【 Escape from Tarkov 】アイスブレイカー❄いけんのか！w/ありさか、白雪レイド  【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/Km1P8D0wU2Y/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Km1P8D0wU2Y/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Km1P8D0wU2Y",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-22T11:00:00Z",
     "startTime": "2026-06-22T11:20:17Z",
+    "endTime": "2026-06-22T20:42:29Z",
     "ttl": "2026-06-29T11:00:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -190,6 +202,18 @@
     "endTime": "2026-06-22T15:49:57Z",
     "ttl": "2026-06-29T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316133763571",
+    "channelId": "akarindao",
+    "title": "全力でW杯を楽しむ！フランスvs イラクDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-06-22T20:39:16Z",
+    "startTime": "2026-06-22T20:39:16Z",
+    "platform": "twitch",
+    "ttl": "2026-06-29T20:39:16.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316131394675",
