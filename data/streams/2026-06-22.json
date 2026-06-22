@@ -3,19 +3,42 @@
     "id": "vICbHXSI9KQ",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 オーバーウォッチ 】教えてくれ【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/vICbHXSI9KQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/vICbHXSI9KQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=vICbHXSI9KQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-22T04:30:00Z",
     "startTime": "2026-06-22T04:35:39Z",
+    "endTime": "2026-06-22T08:31:53Z",
     "ttl": "2026-06-29T04:30:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "Km1P8D0wU2Y",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【 Escape from Tarkov 】アイスブレイカー❄いけんのか！w/ありさか、白雪レイド  【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/Km1P8D0wU2Y/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Km1P8D0wU2Y",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-22T11:00:00Z",
+    "ttl": "2026-06-29T11:00:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "3NA92lAVAys",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【雑談】V最応援ありがとうございました！振り返りします！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/3NA92lAVAys/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=3NA92lAVAys",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-22T13:00:00Z",
+    "ttl": "2026-06-29T13:00:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "uudMRB3YOp4",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】そして日常【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/uudMRB3YOp4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/uudMRB3YOp4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=uudMRB3YOp4",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-22T05:00:00Z",
@@ -44,8 +67,20 @@
     "url": "https://www.youtube.com/watch?v=W9N-YCVKXKI",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-22T09:00:00Z",
+    "startTime": "2026-06-22T09:03:45Z",
     "ttl": "2026-06-29T09:00:00.000Z",
     "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "vTswyxJfBFQ",
+    "channelId": "UCS5l_Y0oMVTjEos2LuyeSZQ",
+    "title": "ぶいすぽに入って３周年記念 こんばんわ",
+    "thumbnail": "https://i.ytimg.com/vi/vTswyxJfBFQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=vTswyxJfBFQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-22T11:30:00Z",
+    "ttl": "2026-06-29T11:30:00.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "EjeQpHSQDsI",
@@ -59,6 +94,17 @@
     "streamerId": "choya_hanabi"
   },
   {
+    "id": "HD2-dzoFHsk",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【BIOHAZARD RE:2】クレア編行ってみるぞ！！【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/HD2-dzoFHsk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=HD2-dzoFHsk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-22T12:00:00Z",
+    "ttl": "2026-06-29T12:00:00.000Z",
+    "streamerId": "amayui_moka"
+  },
+  {
     "id": "tE1YmpwQCHA",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves 1.x◢ I DONT LOSE THE 50/50 (part. 3) | #JunoUmezono #VSPOEN",
@@ -70,15 +116,39 @@
     "streamerId": "juno_umezono"
   },
   {
+    "id": "316131375475",
+    "channelId": "ramuneshiranami",
+    "title": "LTKお疲れ様でした振り返り",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-06-22T09:38:46Z",
+    "startTime": "2026-06-22T09:38:46Z",
+    "platform": "twitch",
+    "ttl": "2026-06-29T09:38:46.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316131394675",
+    "channelId": "ren_kisaragi__",
+    "title": "pͪoͣnͬpͣoͥnͭpͣa͡inͥ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-22T09:43:19Z",
+    "startTime": "2026-06-22T09:43:19Z",
+    "platform": "twitch",
+    "ttl": "2026-06-29T09:43:19.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
     "id": "316067505649",
     "channelId": "choyahanabi",
     "title": "【スト６】 やるしかねえ！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_choyahanabi-320x180.jpg",
-    "url": "https://www.twitch.tv/choyahanabi",
-    "scheduledStartTime": "2026-06-22T08:03:08Z",
-    "startTime": "2026-06-22T08:03:08Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/548bc8c08797e20165db_choyahanabi_316067505649_1782115387//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2802585657",
+    "scheduledStartTime": "2026-06-22T08:03:13Z",
+    "startTime": "2026-06-22T08:03:13Z",
     "platform": "twitch",
-    "ttl": "2026-06-29T08:03:08.000Z",
+    "ttl": "2026-06-29T08:03:13.000Z",
     "streamerId": "choya_hanabi"
   }
 ]
