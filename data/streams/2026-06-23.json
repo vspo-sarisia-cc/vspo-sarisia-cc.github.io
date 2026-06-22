@@ -31,5 +31,16 @@
     "scheduledStartTime": "2026-06-23T14:00:00Z",
     "ttl": "2026-06-30T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "3R5txa0NMTc",
+    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
+    "title": "【VALORANT】 new season placement games :3 【#VSPOEN #NarinMikure】",
+    "thumbnail": "https://i.ytimg.com/vi/3R5txa0NMTc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=3R5txa0NMTc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-23T03:00:00Z",
+    "ttl": "2026-06-30T03:00:00.000Z",
+    "streamerId": "narin_mikure"
   }
 ]
