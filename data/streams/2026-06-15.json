@@ -23,17 +23,5 @@
     "platform": "twitch",
     "ttl": "2026-06-22T21:51:59.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316046877938",
-    "channelId": "akarindao",
-    "title": "全力でW杯を楽しむ！ベルギーvs エジプトDAZNで同時視聴",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/cea75c6a2a7e814381ad_akarindao_316046877938_1781549234//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2797432538",
-    "scheduledStartTime": "2026-06-15T18:47:19Z",
-    "startTime": "2026-06-15T18:47:19Z",
-    "platform": "twitch",
-    "ttl": "2026-06-22T18:47:19.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
