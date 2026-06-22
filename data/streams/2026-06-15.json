@@ -355,17 +355,5 @@
     "platform": "twitch",
     "ttl": "2026-06-22T15:14:14.000Z",
     "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "316097675635",
-    "channelId": "choyahanabi",
-    "title": "【スト６】 1じかんくらい！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/f725497afa48694e27d8_choyahanabi_316097675635_1781491890//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2797005855",
-    "scheduledStartTime": "2026-06-15T02:51:35Z",
-    "startTime": "2026-06-15T02:51:35Z",
-    "platform": "twitch",
-    "ttl": "2026-06-22T02:51:35.000Z",
-    "streamerId": "choya_hanabi"
   }
 ]
