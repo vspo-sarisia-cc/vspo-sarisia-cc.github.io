@@ -146,7 +146,7 @@
     "id": "39QGVfQk5io",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【Overwatch】古代のキャラしか知りませぬ【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/39QGVfQk5io/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/39QGVfQk5io/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=39QGVfQk5io",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-23T14:30:00Z",
@@ -240,6 +240,18 @@
     "endTime": "2026-06-23T05:20:55Z",
     "ttl": "2026-06-30T03:00:00.000Z",
     "streamerId": "narin_mikure"
+  },
+  {
+    "id": "316074726001",
+    "channelId": "akarindao",
+    "title": "全力でW杯を楽しむ！イングランド vs ガーナDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-06-23T19:47:08Z",
+    "startTime": "2026-06-23T19:47:08Z",
+    "platform": "twitch",
+    "ttl": "2026-06-30T19:47:08.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316072648689",
