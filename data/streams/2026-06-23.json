@@ -156,6 +156,18 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "GIo2u8eSHic",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【朝活雑談】　ohayoooooo！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/GIo2u8eSHic/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=GIo2u8eSHic",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-23T22:00:00Z",
+    "startTime": "2026-06-23T22:00:09Z",
+    "ttl": "2026-06-30T22:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "aTRW4fkxO8o",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　ハイマスいくぞ！！！！！！！！！！！！※NO耐久　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -166,17 +178,6 @@
     "startTime": "2026-06-23T11:02:06Z",
     "endTime": "2026-06-23T13:16:14Z",
     "ttl": "2026-06-30T11:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "GIo2u8eSHic",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【朝活雑談】　ohayoooooo！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/GIo2u8eSHic/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=GIo2u8eSHic",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-23T22:00:00Z",
-    "ttl": "2026-06-30T22:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -232,18 +233,6 @@
     "streamerId": "narin_mikure"
   },
   {
-    "id": "316074726001",
-    "channelId": "akarindao",
-    "title": "全力でW杯を楽しむ！イングランド vs ガーナDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-23T19:47:08Z",
-    "startTime": "2026-06-23T19:47:08Z",
-    "platform": "twitch",
-    "ttl": "2026-06-30T19:47:08.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316072648689",
     "channelId": "ramuneshiranami",
     "title": "【OW】LR next vs masters",
@@ -254,6 +243,18 @@
     "platform": "twitch",
     "ttl": "2026-06-30T11:05:56.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316074726001",
+    "channelId": "akarindao",
+    "title": "全力でW杯を楽しむ！イングランド vs ガーナDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/cf7716466a592521dca7_akarindao_316074726001_1782244028//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2803705312",
+    "scheduledStartTime": "2026-06-23T19:47:13Z",
+    "startTime": "2026-06-23T19:47:13Z",
+    "platform": "twitch",
+    "ttl": "2026-06-30T19:47:13.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316083487090",
