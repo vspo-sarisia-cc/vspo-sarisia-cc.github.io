@@ -151,6 +151,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-23T14:30:00Z",
     "startTime": "2026-06-23T14:39:29Z",
+    "endTime": "2026-06-23T19:36:57Z",
     "ttl": "2026-06-30T14:30:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -241,18 +242,6 @@
     "streamerId": "narin_mikure"
   },
   {
-    "id": "316083487090",
-    "channelId": "akarindao",
-    "title": "全力でW杯を楽しむ！ポルトガル vs ウズベキスタンDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-23T16:45:43Z",
-    "startTime": "2026-06-23T16:45:43Z",
-    "platform": "twitch",
-    "ttl": "2026-06-30T16:45:43.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316072648689",
     "channelId": "ramuneshiranami",
     "title": "【OW】LR next vs masters",
@@ -263,6 +252,18 @@
     "platform": "twitch",
     "ttl": "2026-06-30T11:05:56.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316083487090",
+    "channelId": "akarindao",
+    "title": "全力でW杯を楽しむ！ポルトガル vs ウズベキスタンDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/61db06acdb6f420c5bef_akarindao_316083487090_1782233143//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2803577577",
+    "scheduledStartTime": "2026-06-23T16:45:48Z",
+    "startTime": "2026-06-23T16:45:48Z",
+    "platform": "twitch",
+    "ttl": "2026-06-30T16:45:48.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316073615089",
