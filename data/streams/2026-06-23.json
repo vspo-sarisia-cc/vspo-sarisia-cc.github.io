@@ -28,7 +28,7 @@
     "id": "o58qjNqkBMA",
     "channelId": "UCGWa1dMU_sDCaRQjdabsVgg",
     "title": "【雑談】早めに振り返るのがいいとされている【ぶいすぽ/如月れん】",
-    "thumbnail": "https://i.ytimg.com/vi/o58qjNqkBMA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/o58qjNqkBMA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=o58qjNqkBMA",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-23T06:32:03Z",
@@ -36,6 +36,18 @@
     "endTime": "2026-06-23T09:40:03Z",
     "ttl": "2026-06-30T06:32:03.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "95g5jI4VHAk",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 ご応募ありがとうございます 】やりきりシステム【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/95g5jI4VHAk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=95g5jI4VHAk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-23T10:20:00Z",
+    "startTime": "2026-06-23T10:24:02Z",
+    "ttl": "2026-06-30T10:20:00.000Z",
+    "streamerId": "shinomiya_runa"
   },
   {
     "id": "01ndZ_Ai9rY",

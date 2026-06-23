@@ -182,19 +182,6 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "UqwtJGZiToI",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤ League of Legends ◢　LTK CC CORE  無限分割練習① ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/UqwtJGZiToI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=UqwtJGZiToI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-16T10:00:00Z",
-    "startTime": "2026-06-16T10:03:06Z",
-    "endTime": "2026-06-16T17:59:50Z",
-    "ttl": "2026-06-23T10:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
     "id": "edaN0iCooLw",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Safest #1 racer on the server  |   Forza Horizon 6 【#VSPOEN #RemiaAotsuki】",
@@ -219,30 +206,6 @@
     "endTime": "2026-06-17T00:52:31Z",
     "ttl": "2026-06-23T22:00:00.000Z",
     "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "316040020593",
-    "channelId": "ren_kisaragi__",
-    "title": "カスタムで練習する",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/249d6ddfb4629c01dbf2_ren_kisaragi___316040020593_1781605597//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2797932231",
-    "scheduledStartTime": "2026-06-16T10:26:43Z",
-    "startTime": "2026-06-16T10:26:43Z",
-    "platform": "twitch",
-    "ttl": "2026-06-23T10:26:43.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316039938033",
-    "channelId": "ramuneshiranami",
-    "title": "練習221",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/7e2f7da7a9c493aaaa00_ramuneshiranami_316039938033_1781604442//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2797926432",
-    "scheduledStartTime": "2026-06-16T10:07:28Z",
-    "startTime": "2026-06-16T10:07:28Z",
-    "platform": "twitch",
-    "ttl": "2026-06-23T10:07:28.000Z",
-    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316051403634",
