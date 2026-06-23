@@ -208,18 +208,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316133763571",
-    "channelId": "akarindao",
-    "title": "全力でW杯を楽しむ！ノルウェーvs セネガルDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-22T20:39:16Z",
-    "startTime": "2026-06-22T20:39:16Z",
-    "platform": "twitch",
-    "ttl": "2026-06-29T20:39:16.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316131394675",
     "channelId": "ren_kisaragi__",
     "title": "pͪoͣnͬpͣoͥnͭpͣa͡inͥ",
@@ -242,6 +230,18 @@
     "platform": "twitch",
     "ttl": "2026-06-29T09:38:51.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316133763571",
+    "channelId": "akarindao",
+    "title": "全力でW杯を楽しむ！フランスvs イラクDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/829ea5e4bf6778beb754_akarindao_316133763571_1782160756//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2802972860",
+    "scheduledStartTime": "2026-06-22T20:39:21Z",
+    "startTime": "2026-06-22T20:39:21Z",
+    "platform": "twitch",
+    "ttl": "2026-06-29T20:39:21.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316078987122",
