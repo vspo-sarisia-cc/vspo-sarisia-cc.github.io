@@ -7,8 +7,21 @@
     "url": "https://www.youtube.com/watch?v=pfEbB1hzuwI",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-23T06:00:00Z",
+    "startTime": "2026-06-23T06:02:57Z",
     "ttl": "2026-06-30T06:00:00.000Z",
     "streamerId": "kogara_toto"
+  },
+  {
+    "id": "o58qjNqkBMA",
+    "channelId": "UCGWa1dMU_sDCaRQjdabsVgg",
+    "title": "【雑談】早めに振り返るのがいいとされている【ぶいすぽ/如月れん】",
+    "thumbnail": "https://i.ytimg.com/vi/o58qjNqkBMA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=o58qjNqkBMA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-23T06:32:03Z",
+    "startTime": "2026-06-23T06:35:15Z",
+    "ttl": "2026-06-30T06:32:03.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "01ndZ_Ai9rY",
@@ -84,12 +97,12 @@
     "id": "316080699250",
     "channelId": "choyahanabi",
     "title": "【スト６】 まじでスキマ時間いくぞ！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_choyahanabi-320x180.jpg",
-    "url": "https://www.twitch.tv/choyahanabi",
-    "scheduledStartTime": "2026-06-23T05:01:31Z",
-    "startTime": "2026-06-23T05:01:31Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/af1a85469ef03fcdd1af_choyahanabi_316080699250_1782190891//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2803290304",
+    "scheduledStartTime": "2026-06-23T05:01:36Z",
+    "startTime": "2026-06-23T05:01:36Z",
     "platform": "twitch",
-    "ttl": "2026-06-30T05:01:31.000Z",
+    "ttl": "2026-06-30T05:01:36.000Z",
     "streamerId": "choya_hanabi"
   }
 ]
