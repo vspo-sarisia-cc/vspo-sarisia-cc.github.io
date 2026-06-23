@@ -51,6 +51,18 @@
     "streamerId": "kisaragi_ren"
   },
   {
+    "id": "civYPZ1tRpA",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【#V最協第二幕】よくがんばったよって自分を肯定したい【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/civYPZ1tRpA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=civYPZ1tRpA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-23T14:55:00Z",
+    "startTime": "2026-06-23T15:02:22Z",
+    "ttl": "2026-06-30T14:55:00.000Z",
+    "streamerId": "kaminari_qpi"
+  },
+  {
     "id": "EiuhjuAVwYA",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【 Escape from Tarkov 】kappaタスク残り６？ Lv43~ 【ぶいすぽ/八雲べに】",
@@ -128,6 +140,18 @@
     "streamerId": "yano_kuromu"
   },
   {
+    "id": "39QGVfQk5io",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【Overwatch】古代のキャラしか知りませぬ【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/39QGVfQk5io/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=39QGVfQk5io",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-23T14:30:00Z",
+    "startTime": "2026-06-23T14:39:29Z",
+    "ttl": "2026-06-30T14:30:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "aTRW4fkxO8o",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　ハイマスいくぞ！！！！！！！！！！！！※NO耐久　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -202,7 +226,7 @@
   {
     "id": "316072648689",
     "channelId": "ramuneshiranami",
-    "title": "【OW】LR メンバー",
+    "title": "【OW】LR メンバー→スト６",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
     "url": "https://www.twitch.tv/ramuneshiranami",
     "scheduledStartTime": "2026-06-23T11:05:51Z",
@@ -215,12 +239,12 @@
     "id": "316073615089",
     "channelId": "kokagetsumugi",
     "title": "OWインストール終わるまで大リハビリデスマ",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kokagetsumugi-320x180.jpg",
-    "url": "https://www.twitch.tv/kokagetsumugi",
-    "scheduledStartTime": "2026-06-23T13:57:50Z",
-    "startTime": "2026-06-23T13:57:50Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/ac15ecb0842490c205cc_kokagetsumugi_316073615089_1782223070//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2803483162",
+    "scheduledStartTime": "2026-06-23T13:57:55Z",
+    "startTime": "2026-06-23T13:57:55Z",
     "platform": "twitch",
-    "ttl": "2026-06-30T13:57:50.000Z",
+    "ttl": "2026-06-30T13:57:55.000Z",
     "streamerId": "tsumugi_kokage"
   },
   {
