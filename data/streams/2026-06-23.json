@@ -1,13 +1,25 @@
 [
   {
+    "id": "pfEbB1hzuwI",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "【 DBD 】ジェイソンに会いに行くぜ w/顔芸さん【 ぶいすぽ / 小雀とと 】",
+    "thumbnail": "https://i.ytimg.com/vi/pfEbB1hzuwI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=pfEbB1hzuwI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-23T06:00:00Z",
+    "ttl": "2026-06-30T06:00:00.000Z",
+    "streamerId": "kogara_toto"
+  },
+  {
     "id": "01ndZ_Ai9rY",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 ご応募ありがとうございます 】面接官になってこき働く【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/01ndZ_Ai9rY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/01ndZ_Ai9rY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=01ndZ_Ai9rY",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-23T02:15:00Z",
     "startTime": "2026-06-23T02:22:15Z",
+    "endTime": "2026-06-23T04:46:44Z",
     "ttl": "2026-06-30T02:15:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -59,12 +71,25 @@
     "id": "3R5txa0NMTc",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
     "title": "【VALORANT】 new season placement games :3 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/3R5txa0NMTc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/3R5txa0NMTc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=3R5txa0NMTc",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-23T03:00:00Z",
     "startTime": "2026-06-23T03:00:55Z",
+    "endTime": "2026-06-23T05:20:55Z",
     "ttl": "2026-06-30T03:00:00.000Z",
     "streamerId": "narin_mikure"
+  },
+  {
+    "id": "316080699250",
+    "channelId": "choyahanabi",
+    "title": "【スト６】 まじでスキマ時間いくぞ！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_choyahanabi-320x180.jpg",
+    "url": "https://www.twitch.tv/choyahanabi",
+    "scheduledStartTime": "2026-06-23T05:01:31Z",
+    "startTime": "2026-06-23T05:01:31Z",
+    "platform": "twitch",
+    "ttl": "2026-06-30T05:01:31.000Z",
+    "streamerId": "choya_hanabi"
   }
 ]
