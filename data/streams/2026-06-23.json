@@ -8,6 +8,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-23T09:00:00Z",
     "startTime": "2026-06-23T09:00:41Z",
+    "endTime": "2026-06-23T16:22:17Z",
     "ttl": "2026-06-30T09:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -110,6 +111,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-23T13:00:00Z",
     "startTime": "2026-06-23T13:00:31Z",
+    "endTime": "2026-06-23T16:31:40Z",
     "ttl": "2026-06-30T13:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -176,14 +178,27 @@
     "streamerId": "choya_hanabi"
   },
   {
+    "id": "E2PyDBTO-ng",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  ELDEN RING ◢　＃11 エルデンリング続きやるぞ！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/E2PyDBTO-ng/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=E2PyDBTO-ng",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-23T16:30:00Z",
+    "startTime": "2026-06-23T16:32:23Z",
+    "ttl": "2026-06-30T16:30:00.000Z",
+    "streamerId": "tatsumaki_chise"
+  },
+  {
     "id": "CZVxciVMzpo",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤ LOL ◢　かせっちのカスタムにお邪魔します！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/CZVxciVMzpo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/CZVxciVMzpo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=CZVxciVMzpo",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-23T11:30:00Z",
     "startTime": "2026-06-23T11:40:52Z",
+    "endTime": "2026-06-23T16:08:23Z",
     "ttl": "2026-06-30T11:30:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -196,6 +211,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-23T14:00:00Z",
     "startTime": "2026-06-23T14:02:05Z",
+    "endTime": "2026-06-23T16:32:25Z",
     "ttl": "2026-06-30T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
