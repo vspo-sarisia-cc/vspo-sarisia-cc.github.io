@@ -20,5 +20,16 @@
     "scheduledStartTime": "2026-06-24T21:00:00Z",
     "ttl": "2026-07-01T21:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "5hiCrMhR4yM",
+    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
+    "title": "【PRAGMATA】diana protection program !! (contains spoilers)【#VSPOEN #AryaKuroha】",
+    "thumbnail": "https://i.ytimg.com/vi/5hiCrMhR4yM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=5hiCrMhR4yM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-24T23:00:00Z",
+    "ttl": "2026-07-01T23:00:00.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
