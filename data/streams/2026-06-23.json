@@ -25,6 +25,18 @@
     "streamerId": "kogara_toto"
   },
   {
+    "id": "Mz4H8yQnmt0",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 オーバーウォッチ 】ふるぱ！/シスコさん、くろむちゃん、ありさん、ぽぽ【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/Mz4H8yQnmt0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Mz4H8yQnmt0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-23T11:00:00Z",
+    "startTime": "2026-06-23T11:13:30Z",
+    "ttl": "2026-06-30T11:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "o58qjNqkBMA",
     "channelId": "UCGWa1dMU_sDCaRQjdabsVgg",
     "title": "【雑談】早めに振り返るのがいいとされている【ぶいすぽ/如月れん】",
@@ -36,6 +48,18 @@
     "endTime": "2026-06-23T09:40:03Z",
     "ttl": "2026-06-30T06:32:03.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "EiuhjuAVwYA",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【 Escape from Tarkov 】kappaタスク残り６？ Lv43~ 【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/EiuhjuAVwYA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=EiuhjuAVwYA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-23T11:30:00Z",
+    "startTime": "2026-06-23T11:34:11Z",
+    "ttl": "2026-06-30T11:30:00.000Z",
+    "streamerId": "yakumo_beni"
   },
   {
     "id": "95g5jI4VHAk",
@@ -66,11 +90,12 @@
     "id": "1g9NAUtPgTM",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【APEX】今スプももう少しで終わるらしい　ｗ/ボドツル【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/1g9NAUtPgTM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/1g9NAUtPgTM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=1g9NAUtPgTM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-23T08:30:00Z",
     "startTime": "2026-06-23T08:34:39Z",
+    "endTime": "2026-06-23T11:30:57Z",
     "ttl": "2026-06-30T08:30:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -93,6 +118,7 @@
     "url": "https://www.youtube.com/watch?v=zXtMtfXDxGw",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-23T11:00:00Z",
+    "startTime": "2026-06-23T11:13:36Z",
     "ttl": "2026-06-30T11:00:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -104,6 +130,7 @@
     "url": "https://www.youtube.com/watch?v=aTRW4fkxO8o",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-23T11:00:00Z",
+    "startTime": "2026-06-23T11:02:06Z",
     "ttl": "2026-06-30T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -117,6 +144,18 @@
     "scheduledStartTime": "2026-06-23T22:00:00Z",
     "ttl": "2026-06-30T22:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "CZVxciVMzpo",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤ 雑談 ◢　またーりしよ～   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/CZVxciVMzpo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=CZVxciVMzpo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-23T11:30:00Z",
+    "startTime": "2026-06-23T11:40:52Z",
+    "ttl": "2026-06-30T11:30:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "D5WG2_Q9plU",
@@ -152,6 +191,18 @@
     "endTime": "2026-06-23T05:20:55Z",
     "ttl": "2026-06-30T03:00:00.000Z",
     "streamerId": "narin_mikure"
+  },
+  {
+    "id": "316072648689",
+    "channelId": "ramuneshiranami",
+    "title": "【OW】LR メンバー",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-06-23T11:05:51Z",
+    "startTime": "2026-06-23T11:05:51Z",
+    "platform": "twitch",
+    "ttl": "2026-06-30T11:05:51.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316080699250",
