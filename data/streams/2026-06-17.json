@@ -78,19 +78,6 @@
     "streamerId": "tachibana_hinano"
   },
   {
-    "id": "LT8VQ2QwhPU",
-    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
-    "title": "【STREET FIGHTER 6】V最スクリムDAY3🍶20:00笹木咲ｻﾝと2先2周→21:00VS TEAM03【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/LT8VQ2QwhPU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=LT8VQ2QwhPU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-17T10:30:00Z",
-    "startTime": "2026-06-17T10:31:31Z",
-    "endTime": "2026-06-17T15:27:31Z",
-    "ttl": "2026-06-24T10:30:00.000Z",
-    "streamerId": "kaminari_qpi"
-  },
-  {
     "id": "_9orOZJoRds",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【VALORANT】フルパにお邪魔します w/のあ、なずぴ、まざー、土屋李央さん【ぶいすぽ/八雲べに】",
@@ -208,19 +195,6 @@
     "streamerId": "arya_kuroha"
   },
   {
-    "id": "gCQ2b0mp-bE",
-    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
-    "title": "【Dead By Daylight】IIIIIIIT'S JASON!!!!【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/gCQ2b0mp-bE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=gCQ2b0mp-bE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-17T11:00:00Z",
-    "startTime": "2026-06-17T11:01:07Z",
-    "endTime": "2026-06-17T13:17:00Z",
-    "ttl": "2026-06-24T11:00:00.000Z",
-    "streamerId": "jira_jisaki"
-  },
-  {
     "id": "316110514419",
     "channelId": "ren_kisaragi__",
     "title": "コソ練",
@@ -243,18 +217,6 @@
     "platform": "twitch",
     "ttl": "2026-06-24T12:01:07.000Z",
     "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316108579315",
-    "channelId": "ramuneshiranami",
-    "title": "練習 #LTK",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/0c6aac4b9f38140bce18_ramuneshiranami_316108579315_1781694868//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2798739303",
-    "scheduledStartTime": "2026-06-17T11:14:33Z",
-    "startTime": "2026-06-17T11:14:33Z",
-    "platform": "twitch",
-    "ttl": "2026-06-24T11:14:33.000Z",
-    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316055793906",
