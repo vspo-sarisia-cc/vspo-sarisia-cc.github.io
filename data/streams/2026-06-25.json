@@ -1,8 +1,19 @@
 [
   {
+    "id": "anxFTqahSZM",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【スト６】　一歩ずつ前進してゆく！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/anxFTqahSZM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=anxFTqahSZM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-25T05:00:00Z",
+    "ttl": "2026-07-02T05:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "jI5gF7EiSFo",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "#１【 BIOHAZARD RE:3 】　来ましたねこの時が！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "title": "#１【 BIOHAZARD RE:3 】　完全初見！来ましたねこの時が！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
     "thumbnail": "https://i.ytimg.com/vi/jI5gF7EiSFo/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=jI5gF7EiSFo",
     "platform": "youtube",
@@ -20,5 +31,16 @@
     "scheduledStartTime": "2026-06-25T03:00:00Z",
     "ttl": "2026-07-02T03:00:00.000Z",
     "streamerId": "narin_mikure"
+  },
+  {
+    "id": "-zhD32SzDkI",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Wuthering Waves 1.x◢ WUWA IS MY MEDICINE (part. 4) | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/-zhD32SzDkI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=-zhD32SzDkI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-25T07:00:00Z",
+    "ttl": "2026-07-02T07:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
