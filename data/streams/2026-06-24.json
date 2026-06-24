@@ -244,6 +244,18 @@
     "streamerId": "jira_jisaki"
   },
   {
+    "id": "316142960243",
+    "channelId": "akarindao",
+    "title": "全力でW杯を楽しむ！スコットランド vs ブラジルDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-06-24T21:45:48Z",
+    "startTime": "2026-06-24T21:45:48Z",
+    "platform": "twitch",
+    "ttl": "2026-07-01T21:45:48.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
     "id": "316076527985",
     "channelId": "ren_kisaragi__",
     "title": "新シーズンガッツリ初見",
