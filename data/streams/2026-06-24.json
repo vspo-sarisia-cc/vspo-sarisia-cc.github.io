@@ -44,6 +44,7 @@
     "url": "https://www.youtube.com/watch?v=JTg4JAlYl5g",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-24T11:20:00Z",
+    "startTime": "2026-06-24T11:33:50Z",
     "ttl": "2026-07-01T11:20:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -142,6 +143,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-24T11:00:00Z",
     "startTime": "2026-06-24T11:00:17Z",
+    "endTime": "2026-06-24T12:08:11Z",
     "ttl": "2026-07-01T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },

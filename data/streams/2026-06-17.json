@@ -13,45 +13,6 @@
     "streamerId": "kaga_sumire"
   },
   {
-    "id": "QjjwGWxAVNE",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【VALORANT】呼ばれたのですが。。。いけるのでしょうか【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/QjjwGWxAVNE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=QjjwGWxAVNE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-17T12:00:00Z",
-    "startTime": "2026-06-17T12:05:31Z",
-    "endTime": "2026-06-17T14:55:34Z",
-    "ttl": "2026-06-24T12:00:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
-    "id": "orTxUkdUMMc",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【 スト6 】初カコキ...ども...V最スクリム3日目！！！【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/orTxUkdUMMc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=orTxUkdUMMc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-17T12:00:00Z",
-    "startTime": "2026-06-17T12:01:33Z",
-    "endTime": "2026-06-17T18:38:47Z",
-    "ttl": "2026-06-24T12:00:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
-    "id": "KKTWbaNh1YE",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 VALORANT 】まざさん、べにちゃん、りおちゃん、なずちゃんとフルパ！【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/KKTWbaNh1YE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=KKTWbaNh1YE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-17T12:00:00Z",
-    "startTime": "2026-06-17T12:04:55Z",
-    "endTime": "2026-06-17T14:43:06Z",
-    "ttl": "2026-06-24T12:00:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "yqiimqUZyhs",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "仕事、学校行きたくない人集合。【空澄セナ/ぶいすぽっ！】",
@@ -78,19 +39,6 @@
     "streamerId": "tachibana_hinano"
   },
   {
-    "id": "_9orOZJoRds",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【VALORANT】フルパにお邪魔します w/のあ、なずぴ、まざー、土屋李央さん【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/_9orOZJoRds/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=_9orOZJoRds",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-17T12:15:00Z",
-    "startTime": "2026-06-17T12:04:04Z",
-    "endTime": "2026-06-17T14:39:52Z",
-    "ttl": "2026-06-24T12:15:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
     "id": "Xeim4YkK0dM",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】 V最スクリム3日目 / 炊きたてファジーおにぎり VS 葛葉さんチーム7【ぶいすぽっ！/ 藍沢エマ】",
@@ -115,32 +63,6 @@
     "endTime": "2026-06-17T23:03:27Z",
     "ttl": "2026-06-24T16:50:00.000Z",
     "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "0sv7RW2pOng",
-    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
-    "title": "【 スト６】V最スクリム３日目！【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/0sv7RW2pOng/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=0sv7RW2pOng",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-17T11:35:00Z",
-    "startTime": "2026-06-17T11:36:15Z",
-    "endTime": "2026-06-17T14:55:33Z",
-    "ttl": "2026-06-24T11:35:00.000Z",
-    "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "fzIJk5WVlsw",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【スト６】V最協第二幕 ぶっぱなCスクリム3日目 vs チーム01！【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/fzIJk5WVlsw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=fzIJk5WVlsw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-17T12:00:00Z",
-    "startTime": "2026-06-17T11:10:47Z",
-    "endTime": "2026-06-17T19:42:15Z",
-    "ttl": "2026-06-24T12:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "B69HAWT4b84",
@@ -204,18 +126,6 @@
     "startTime": "2026-06-17T19:35:06Z",
     "platform": "twitch",
     "ttl": "2026-06-24T19:35:06.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316054434930",
-    "channelId": "ren_kisaragi__",
-    "title": "V最スクリムvsチーム1の皆様",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/f458819a623482a450e4_ren_kisaragi___316054434930_1781697661//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2798759389",
-    "scheduledStartTime": "2026-06-17T12:01:07Z",
-    "startTime": "2026-06-17T12:01:07Z",
-    "platform": "twitch",
-    "ttl": "2026-06-24T12:01:07.000Z",
     "streamerId": "kisaragi_ren"
   },
   {
