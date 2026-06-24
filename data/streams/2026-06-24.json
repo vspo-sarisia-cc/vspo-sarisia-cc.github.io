@@ -207,6 +207,18 @@
     "streamerId": "remia_aotsuki"
   },
   {
+    "id": "5hiCrMhR4yM",
+    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
+    "title": "【PRAGMATA】diana protection program !! (contains spoilers)【#VSPOEN #AryaKuroha】",
+    "thumbnail": "https://i.ytimg.com/vi/5hiCrMhR4yM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=5hiCrMhR4yM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-24T23:00:00Z",
+    "startTime": "2026-06-24T22:01:33Z",
+    "ttl": "2026-07-01T23:00:00.000Z",
+    "streamerId": "arya_kuroha"
+  },
+  {
     "id": "4kgHczoX2LM",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【APEX LEGENDS】season 29 new split !!【#VSPOEN #AryaKuroha】",
@@ -217,17 +229,6 @@
     "startTime": "2026-06-24T01:00:18Z",
     "endTime": "2026-06-24T03:19:40Z",
     "ttl": "2026-07-01T01:00:00.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "5hiCrMhR4yM",
-    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-    "title": "【PRAGMATA】diana protection program !! (contains spoilers)【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/5hiCrMhR4yM/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=5hiCrMhR4yM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-24T23:00:00Z",
-    "ttl": "2026-07-01T23:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
   {
@@ -254,6 +255,18 @@
     "platform": "twitch",
     "ttl": "2026-07-01T21:45:48.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "320017983450",
+    "channelId": "aryakuroha",
+    "title": "✦ diana protection program !",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-06-24T22:01:14Z",
+    "startTime": "2026-06-24T22:01:14Z",
+    "platform": "twitch",
+    "ttl": "2026-07-01T22:01:14.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "316076527985",
