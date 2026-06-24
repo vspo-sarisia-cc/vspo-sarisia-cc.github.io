@@ -7,8 +7,21 @@
     "url": "https://www.youtube.com/watch?v=ZC31Bs66nJ8",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-24T09:10:00Z",
+    "startTime": "2026-06-24T09:10:16Z",
     "ttl": "2026-07-01T09:10:00.000Z",
     "streamerId": "kaga_sumire"
+  },
+  {
+    "id": "ppE-q8EKHaE",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 オーバーウォッチ 】team1/ansさん、ギアさん、mondoさん、ととみっくすさん【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/ppE-q8EKHaE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ppE-q8EKHaE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-24T10:00:00Z",
+    "startTime": "2026-06-24T10:08:54Z",
+    "ttl": "2026-07-01T10:00:00.000Z",
+    "streamerId": "kurumi_noah"
   },
   {
     "id": "YIps2LI5TZI",
@@ -31,6 +44,7 @@
     "url": "https://www.youtube.com/watch?v=3eNQm-BYGaE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-24T10:00:00Z",
+    "startTime": "2026-06-24T10:06:36Z",
     "ttl": "2026-07-01T10:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -47,6 +61,18 @@
     "streamerId": "shinomiya_runa"
   },
   {
+    "id": "wRRuQybd4jk",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【OVERWATCH】CRカップOWに出ます！顔合わせ＆１日目！【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/wRRuQybd4jk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=wRRuQybd4jk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-24T10:15:00Z",
+    "startTime": "2026-06-24T10:17:55Z",
+    "ttl": "2026-07-01T10:15:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
     "id": "yJ4QvfRlb84",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【#猫汰つな4周年】デビューしてから４年！！！お祝いください【ぶいすぽ / 猫汰つな】",
@@ -55,18 +81,8 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-24T09:00:00Z",
     "startTime": "2026-06-24T09:01:02Z",
+    "endTime": "2026-06-24T10:11:17Z",
     "ttl": "2026-07-01T09:00:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "wRRuQybd4jk",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【OVERWATCH】CRカップOWに出ます！顔合わせ＆１日目！【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/wRRuQybd4jk/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=wRRuQybd4jk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-24T10:15:00Z",
-    "ttl": "2026-07-01T10:15:00.000Z",
     "streamerId": "nekota_tsuna"
   },
   {
@@ -77,8 +93,21 @@
     "url": "https://www.youtube.com/watch?v=WWdC8GxP3Ow",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-24T10:00:00Z",
+    "startTime": "2026-06-24T10:00:06Z",
+    "endTime": "2026-06-24T10:05:31Z",
     "ttl": "2026-07-01T10:00:00.000Z",
     "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "BuifR37Hlgo",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "〖 OW 〗CRCUPスクリム1日目！みなさん、よろしく。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+    "thumbnail": "https://i.ytimg.com/vi/BuifR37Hlgo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=BuifR37Hlgo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-24T11:00:00Z",
+    "ttl": "2026-07-01T11:00:00.000Z",
+    "streamerId": "yano_kuromu"
   },
   {
     "id": "b6dtjOeC1K8",
@@ -117,6 +146,17 @@
     "streamerId": "amayui_moka"
   },
   {
+    "id": "6C8QJaaQgBg",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【VALORANT】ただいま！先行カスタムお呼ばれされたがどうやらもう先行じゃないらしい【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/6C8QJaaQgBg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=6C8QJaaQgBg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-24T10:30:00Z",
+    "ttl": "2026-07-01T10:30:00.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
     "id": "H8vAzAEZ9bk",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Pro Apex Player trying CS2  | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
@@ -152,15 +192,27 @@
     "streamerId": "arya_kuroha"
   },
   {
+    "id": "316076944497",
+    "channelId": "choyahanabi",
+    "title": "【スト６】 ちょっとね！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_choyahanabi-320x180.jpg",
+    "url": "https://www.twitch.tv/choyahanabi",
+    "scheduledStartTime": "2026-06-24T09:34:55Z",
+    "startTime": "2026-06-24T09:34:55Z",
+    "platform": "twitch",
+    "ttl": "2026-07-01T09:34:55.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "316076527985",
     "channelId": "ren_kisaragi__",
     "title": "新シーズンガッツリ初見",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-06-24T07:27:11Z",
-    "startTime": "2026-06-24T07:27:11Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/501bf155884dc0840ae4_ren_kisaragi___316076527985_1782286031//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2804111841",
+    "scheduledStartTime": "2026-06-24T07:27:16Z",
+    "startTime": "2026-06-24T07:27:16Z",
     "platform": "twitch",
-    "ttl": "2026-07-01T07:27:11.000Z",
+    "ttl": "2026-07-01T07:27:16.000Z",
     "streamerId": "kisaragi_ren"
   },
   {
