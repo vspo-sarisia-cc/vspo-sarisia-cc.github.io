@@ -35,6 +35,17 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "b6dtjOeC1K8",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【Overwatch】CRカップ顔合わせ→20時からスクリム1日目【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/b6dtjOeC1K8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=b6dtjOeC1K8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-24T09:00:00Z",
+    "ttl": "2026-07-01T09:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "S0Vp1TwIITQ",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【それってなんスか！？】　第一回ゲスト：LAMママ！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -91,6 +102,18 @@
     "scheduledStartTime": "2026-06-24T23:00:00Z",
     "ttl": "2026-07-01T23:00:00.000Z",
     "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "316076527985",
+    "channelId": "ren_kisaragi__",
+    "title": "新シーズンガッツリ初見",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-24T07:27:11Z",
+    "startTime": "2026-06-24T07:27:11Z",
+    "platform": "twitch",
+    "ttl": "2026-07-01T07:27:11.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "319945088985",
