@@ -124,6 +124,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-24T11:00:00Z",
     "startTime": "2026-06-24T11:03:34Z",
+    "endTime": "2026-06-24T19:09:36Z",
     "ttl": "2026-07-01T11:00:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -239,6 +240,18 @@
     "endTime": "2026-06-24T16:45:19Z",
     "ttl": "2026-07-01T14:30:00.000Z",
     "streamerId": "jira_jisaki"
+  },
+  {
+    "id": "316142621939",
+    "channelId": "akarindao",
+    "title": "全力でW杯を楽しむ！ヘルツェゴビナ vs カタールDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-06-24T18:52:17Z",
+    "startTime": "2026-06-24T18:52:17Z",
+    "platform": "twitch",
+    "ttl": "2026-07-01T18:52:17.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316076527985",
