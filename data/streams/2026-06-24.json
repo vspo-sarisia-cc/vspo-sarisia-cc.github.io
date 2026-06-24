@@ -3,11 +3,12 @@
     "id": "ZC31Bs66nJ8",
     "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
     "title": "【OW】CRカップ顔合わせ【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/ZC31Bs66nJ8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ZC31Bs66nJ8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ZC31Bs66nJ8",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-24T09:10:00Z",
     "startTime": "2026-06-24T09:10:16Z",
+    "endTime": "2026-06-24T16:36:46Z",
     "ttl": "2026-07-01T09:10:00.000Z",
     "streamerId": "kaga_sumire"
   },
@@ -20,6 +21,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-24T10:00:00Z",
     "startTime": "2026-06-24T10:08:54Z",
+    "endTime": "2026-06-24T17:03:58Z",
     "ttl": "2026-07-01T10:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -74,6 +76,19 @@
     "streamerId": "shinomiya_runa"
   },
   {
+    "id": "wRRuQybd4jk",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【OVERWATCH】CRカップOWに出ます！顔合わせ＆１日目！【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/wRRuQybd4jk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=wRRuQybd4jk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-24T10:15:00Z",
+    "startTime": "2026-06-24T10:17:55Z",
+    "endTime": "2026-06-24T17:11:59Z",
+    "ttl": "2026-07-01T10:15:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
     "id": "yJ4QvfRlb84",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【#猫汰つな4周年】デビューしてから４年！！！お祝いください【ぶいすぽ / 猫汰つな】",
@@ -84,18 +99,6 @@
     "startTime": "2026-06-24T09:01:02Z",
     "endTime": "2026-06-24T10:11:17Z",
     "ttl": "2026-07-01T09:00:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "wRRuQybd4jk",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【OVERWATCH】CRカップOWに出ます！顔合わせ＆１日目！【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/wRRuQybd4jk/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=wRRuQybd4jk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-24T10:15:00Z",
-    "startTime": "2026-06-24T10:17:55Z",
-    "ttl": "2026-07-01T10:15:00.000Z",
     "streamerId": "nekota_tsuna"
   },
   {
@@ -127,7 +130,7 @@
     "id": "b6dtjOeC1K8",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【Overwatch】CRカップ顔合わせ→20時からスクリム1日目【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/b6dtjOeC1K8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/b6dtjOeC1K8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=b6dtjOeC1K8",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-24T09:00:00Z",
@@ -165,12 +168,13 @@
   {
     "id": "6C8QJaaQgBg",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【VALORANT】ただいま！先行カスタムお呼ばれされたがどうやらもう先行じゃないらしい【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/6C8QJaaQgBg/mqdefault_live.jpg",
+    "title": "【カスタム】すごいワチャワチャVALO＋LoL【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/6C8QJaaQgBg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=6C8QJaaQgBg",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-24T10:30:00Z",
     "startTime": "2026-06-24T10:30:16Z",
+    "endTime": "2026-06-24T16:25:44Z",
     "ttl": "2026-07-01T10:30:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -178,11 +182,12 @@
     "id": "3tF6RNnYK2w",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  VALORANT ◢　新マップカスタム呼んでいただけたのでいきます！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/3tF6RNnYK2w/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/3tF6RNnYK2w/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=3tF6RNnYK2w",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-24T11:00:00Z",
     "startTime": "2026-06-24T11:01:52Z",
+    "endTime": "2026-06-24T16:45:00Z",
     "ttl": "2026-07-01T11:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -225,25 +230,14 @@
     "id": "uLvsz0TtlzI",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【ZATSU】short zatsu about philippines before i head out again!!【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/uLvsz0TtlzI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/uLvsz0TtlzI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=uLvsz0TtlzI",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-24T14:30:00Z",
     "startTime": "2026-06-24T14:38:25Z",
+    "endTime": "2026-06-24T16:45:19Z",
     "ttl": "2026-07-01T14:30:00.000Z",
     "streamerId": "jira_jisaki"
-  },
-  {
-    "id": "316086478578",
-    "channelId": "akarindao",
-    "title": "ロルのメンバーでvaloカスタム",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-24T11:00:42Z",
-    "startTime": "2026-06-24T11:00:42Z",
-    "platform": "twitch",
-    "ttl": "2026-07-01T11:00:42.000Z",
-    "streamerId": "yumeno_akari"
   },
   {
     "id": "316076527985",
@@ -268,6 +262,18 @@
     "platform": "twitch",
     "ttl": "2026-07-01T11:05:16.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316086478578",
+    "channelId": "akarindao",
+    "title": "ロルのメンバーでvaloカスタム",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/68a4200104a18c29896a_akarindao_316086478578_1782298842//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2804179147",
+    "scheduledStartTime": "2026-06-24T11:00:47Z",
+    "startTime": "2026-06-24T11:00:47Z",
+    "platform": "twitch",
+    "ttl": "2026-07-01T11:00:47.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316077271025",
