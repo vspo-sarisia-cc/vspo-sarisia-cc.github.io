@@ -42,7 +42,7 @@
     "id": "JTg4JAlYl5g",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【 Escape from Tarkov 】やるぞやるぞやるぞw/レイード Lv43~ 【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/JTg4JAlYl5g/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/JTg4JAlYl5g/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=JTg4JAlYl5g",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-24T11:20:00Z",
@@ -202,6 +202,7 @@
     "url": "https://www.youtube.com/watch?v=H8vAzAEZ9bk",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-24T21:00:00Z",
+    "startTime": "2026-06-24T21:04:23Z",
     "ttl": "2026-07-01T21:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -243,18 +244,6 @@
     "streamerId": "jira_jisaki"
   },
   {
-    "id": "316142621939",
-    "channelId": "akarindao",
-    "title": "全力でW杯を楽しむ！ヘルツェゴビナ vs カタールDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-24T18:52:17Z",
-    "startTime": "2026-06-24T18:52:17Z",
-    "platform": "twitch",
-    "ttl": "2026-07-01T18:52:17.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316076527985",
     "channelId": "ren_kisaragi__",
     "title": "新シーズンガッツリ初見",
@@ -277,6 +266,18 @@
     "platform": "twitch",
     "ttl": "2026-07-01T11:05:16.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316142621939",
+    "channelId": "akarindao",
+    "title": "全力でW杯を楽しむ！ヘルツェゴビナ vs カタールDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/c7a7a4491e171e11bdf0_akarindao_316142621939_1782327137//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2804448822",
+    "scheduledStartTime": "2026-06-24T18:52:22Z",
+    "startTime": "2026-06-24T18:52:22Z",
+    "platform": "twitch",
+    "ttl": "2026-07-01T18:52:22.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316086478578",
