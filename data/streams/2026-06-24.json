@@ -73,18 +73,6 @@
     "streamerId": "shinomiya_runa"
   },
   {
-    "id": "wRRuQybd4jk",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【OVERWATCH】CRカップOWに出ます！顔合わせ＆１日目！【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/wRRuQybd4jk/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=wRRuQybd4jk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-24T10:15:00Z",
-    "startTime": "2026-06-24T10:17:55Z",
-    "ttl": "2026-07-01T10:15:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
     "id": "yJ4QvfRlb84",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【#猫汰つな4周年】デビューしてから４年！！！お祝いください【ぶいすぽ / 猫汰つな】",
@@ -95,6 +83,18 @@
     "startTime": "2026-06-24T09:01:02Z",
     "endTime": "2026-06-24T10:11:17Z",
     "ttl": "2026-07-01T09:00:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "wRRuQybd4jk",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【OVERWATCH】CRカップOWに出ます！顔合わせ＆１日目！【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/wRRuQybd4jk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=wRRuQybd4jk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-24T10:15:00Z",
+    "startTime": "2026-06-24T10:17:55Z",
+    "ttl": "2026-07-01T10:15:00.000Z",
     "streamerId": "nekota_tsuna"
   },
   {
@@ -218,6 +218,17 @@
     "scheduledStartTime": "2026-06-24T23:00:00Z",
     "ttl": "2026-07-01T23:00:00.000Z",
     "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "uLvsz0TtlzI",
+    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+    "title": "【ZATSU】short zatsu about philippines before i head out again!!【#VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/uLvsz0TtlzI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=uLvsz0TtlzI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-24T14:30:00Z",
+    "ttl": "2026-07-01T14:30:00.000Z",
+    "streamerId": "jira_jisaki"
   },
   {
     "id": "316086478578",

@@ -31,5 +31,16 @@
     "scheduledStartTime": "2026-06-30T14:00:00Z",
     "ttl": "2026-07-07T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "oUnxO9YOEdo",
+    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+    "title": "【2ND ANNIVERSARY】owo whats this【#JiraThe2nd #VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/oUnxO9YOEdo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=oUnxO9YOEdo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-30T03:00:00Z",
+    "ttl": "2026-07-07T03:00:00.000Z",
+    "streamerId": "jira_jisaki"
   }
 ]
