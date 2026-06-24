@@ -3,13 +3,25 @@
     "id": "YIps2LI5TZI",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【ガチャショップシミュレーター】借金しないと店が回りません【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/YIps2LI5TZI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/YIps2LI5TZI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=YIps2LI5TZI",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-24T00:15:00Z",
     "startTime": "2026-06-24T00:18:21Z",
+    "endTime": "2026-06-24T03:09:17Z",
     "ttl": "2026-07-01T00:15:00.000Z",
     "streamerId": "asumi_sena"
+  },
+  {
+    "id": "WWdC8GxP3Ow",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "ガチ炊きちゅーなの！？ ALL NIGHT LONG / 猫汰つな",
+    "thumbnail": "https://i.ytimg.com/vi/WWdC8GxP3Ow/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=WWdC8GxP3Ow",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-24T10:00:00Z",
+    "ttl": "2026-07-01T10:00:00.000Z",
+    "streamerId": "nekota_tsuna"
   },
   {
     "id": "yJ4QvfRlb84",
@@ -48,11 +60,12 @@
     "id": "4kgHczoX2LM",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【APEX LEGENDS】season 29 new split !!【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/4kgHczoX2LM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/4kgHczoX2LM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4kgHczoX2LM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-24T01:00:00Z",
     "startTime": "2026-06-24T01:00:18Z",
+    "endTime": "2026-06-24T03:19:40Z",
     "ttl": "2026-07-01T01:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -71,12 +84,12 @@
     "id": "319945088985",
     "channelId": "aryakuroha",
     "title": "✦ trying out the new split !",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-06-24T01:00:07Z",
-    "startTime": "2026-06-24T01:00:07Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/1531a4d37ea99cce95b9_aryakuroha_319945088985_1782262807//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2803918612",
+    "scheduledStartTime": "2026-06-24T01:00:16Z",
+    "startTime": "2026-06-24T01:00:16Z",
     "platform": "twitch",
-    "ttl": "2026-07-01T01:00:07.000Z",
+    "ttl": "2026-07-01T01:00:16.000Z",
     "streamerId": "arya_kuroha"
   }
 ]
