@@ -1,18 +1,5 @@
 [
   {
-    "id": "F2AKUyZUruY",
-    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
-    "title": "【スト６】KeepOn真空花蝶扇 VS チーム6 【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/F2AKUyZUruY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=F2AKUyZUruY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-17T13:15:00Z",
-    "startTime": "2026-06-17T13:23:39Z",
-    "endTime": "2026-06-17T18:56:38Z",
-    "ttl": "2026-06-24T13:15:00.000Z",
-    "streamerId": "kaga_sumire"
-  },
-  {
     "id": "yqiimqUZyhs",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "仕事、学校行きたくない人集合。【空澄セナ/ぶいすぽっ！】",
@@ -26,32 +13,6 @@
     "streamerId": "asumi_sena"
   },
   {
-    "id": "D4QEND6eu8w",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 ポケモンLG 】 #8 四天王いきましょうよ 【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/D4QEND6eu8w/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=D4QEND6eu8w",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-17T12:30:00Z",
-    "startTime": "2026-06-17T12:17:46Z",
-    "endTime": "2026-06-17T15:00:35Z",
-    "ttl": "2026-06-24T12:30:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "Xeim4YkK0dM",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】 V最スクリム3日目 / 炊きたてファジーおにぎり VS 葛葉さんチーム7【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/Xeim4YkK0dM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Xeim4YkK0dM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-17T13:00:00Z",
-    "startTime": "2026-06-17T13:04:52Z",
-    "endTime": "2026-06-17T17:35:14Z",
-    "ttl": "2026-06-24T13:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
     "id": "kDfCkFpQNc4",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 スト６】ミスりたくない【 ぶいすぽっ！/紫宮るな 】",
@@ -63,19 +24,6 @@
     "endTime": "2026-06-17T23:03:27Z",
     "ttl": "2026-06-24T16:50:00.000Z",
     "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "B69HAWT4b84",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【V最 スト６】　23時からチーム５（せつーなチム）とスクリム！！！！！！！！！！！！#花重奏WIN　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/B69HAWT4b84/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=B69HAWT4b84",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-17T13:00:00Z",
-    "startTime": "2026-06-17T13:01:05Z",
-    "endTime": "2026-06-17T16:13:28Z",
-    "ttl": "2026-06-24T13:00:00.000Z",
-    "streamerId": "choya_hanabi"
   },
   {
     "id": "ojnsaaV0EKQ",
@@ -150,18 +98,6 @@
     "startTime": "2026-06-17T18:33:26Z",
     "platform": "twitch",
     "ttl": "2026-06-24T18:33:26.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "316109214323",
-    "channelId": "choyahanabi",
-    "title": "【スト６】 先端あてと動いた確認意識練習！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d2d7ed66c89bcc21a553_choyahanabi_316109214323_1781701207//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2798787744",
-    "scheduledStartTime": "2026-06-17T13:00:12Z",
-    "startTime": "2026-06-17T13:00:12Z",
-    "platform": "twitch",
-    "ttl": "2026-06-24T13:00:12.000Z",
     "streamerId": "choya_hanabi"
   },
   {
