@@ -42,7 +42,20 @@
     "url": "https://www.youtube.com/watch?v=-zhD32SzDkI",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-25T06:00:00Z",
+    "startTime": "2026-06-25T05:53:33Z",
     "ttl": "2026-07-02T06:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316080781425",
+    "channelId": "choyahanabi",
+    "title": "【スト６】収録まで ！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/3e8ce8a29cbdca14ed7d_choyahanabi_316080781425_1782365162//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2804846046",
+    "scheduledStartTime": "2026-06-25T05:26:08Z",
+    "startTime": "2026-06-25T05:26:08Z",
+    "platform": "twitch",
+    "ttl": "2026-07-02T05:26:08.000Z",
+    "streamerId": "choya_hanabi"
   }
 ]
