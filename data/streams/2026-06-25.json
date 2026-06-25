@@ -3,11 +3,12 @@
     "id": "IdPeyjn6PTI",
     "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
     "title": "【OW】CRカップ顔合わせ２【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/IdPeyjn6PTI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/IdPeyjn6PTI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=IdPeyjn6PTI",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-25T08:10:00Z",
     "startTime": "2026-06-25T08:09:30Z",
+    "endTime": "2026-06-25T15:45:10Z",
     "ttl": "2026-07-02T08:10:00.000Z",
     "streamerId": "kaga_sumire"
   },
@@ -83,6 +84,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-25T09:00:00Z",
     "startTime": "2026-06-25T09:03:48Z",
+    "endTime": "2026-06-25T16:02:51Z",
     "ttl": "2026-07-02T09:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -168,32 +170,9 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-25T06:00:00Z",
     "startTime": "2026-06-25T05:53:33Z",
+    "endTime": "2026-06-25T08:57:16Z",
     "ttl": "2026-07-02T06:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316144914931",
-    "channelId": "ramuneshiranami",
-    "title": "ルーーークする",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-06-25T09:58:41Z",
-    "startTime": "2026-06-25T09:58:41Z",
-    "platform": "twitch",
-    "ttl": "2026-07-02T09:58:41.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "317100634595",
-    "channelId": "remiaaotsuki",
-    "title": "im melting away I Faceit",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_remiaaotsuki-320x180.jpg",
-    "url": "https://www.twitch.tv/remiaaotsuki",
-    "scheduledStartTime": "2026-06-25T14:00:20Z",
-    "startTime": "2026-06-25T14:00:20Z",
-    "platform": "twitch",
-    "ttl": "2026-07-02T14:00:20.000Z",
-    "streamerId": "remia_aotsuki"
   },
   {
     "id": "316091000178",
@@ -208,6 +187,18 @@
     "streamerId": "kisaragi_ren"
   },
   {
+    "id": "316144914931",
+    "channelId": "ramuneshiranami",
+    "title": "ルーーークする",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/41946fb9e964ca83a265_ramuneshiranami_316144914931_1782381521//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2804932210",
+    "scheduledStartTime": "2026-06-25T09:58:46Z",
+    "startTime": "2026-06-25T09:58:46Z",
+    "platform": "twitch",
+    "ttl": "2026-07-02T09:58:46.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
     "id": "316080781425",
     "channelId": "choyahanabi",
     "title": "【スト６】収録まで ！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
@@ -218,5 +209,17 @@
     "platform": "twitch",
     "ttl": "2026-07-02T05:26:08.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "317100634595",
+    "channelId": "remiaaotsuki",
+    "title": "im melting away I Faceit",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/f0e10a078afabc555254_remiaaotsuki_317100634595_1782396020//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2805034188",
+    "scheduledStartTime": "2026-06-25T14:00:28Z",
+    "startTime": "2026-06-25T14:00:28Z",
+    "platform": "twitch",
+    "ttl": "2026-07-02T14:00:28.000Z",
+    "streamerId": "remia_aotsuki"
   }
 ]
