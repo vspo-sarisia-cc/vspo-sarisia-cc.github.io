@@ -12,6 +12,28 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "65Ru6LcDAzw",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【ひなのちゃんの平成ときめきハウス】#3  バズりおもちゃで遊ぼう！",
+    "thumbnail": "https://i.ytimg.com/vi/65Ru6LcDAzw/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=65Ru6LcDAzw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-25T09:00:00Z",
+    "ttl": "2026-07-02T09:00:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "jZmUJ5KeraM",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "〖 OW 〗CRCUPスクリム2日目！キリコと和解せよ。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+    "thumbnail": "https://i.ytimg.com/vi/jZmUJ5KeraM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=jZmUJ5KeraM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-25T11:00:00Z",
+    "ttl": "2026-07-02T11:00:00.000Z",
+    "streamerId": "yano_kuromu"
+  },
+  {
     "id": "jI5gF7EiSFo",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "#１【 BIOHAZARD RE:3 】　完全初見！来ましたねこの時が！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -26,11 +48,12 @@
     "id": "S7OxTGslRWY",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
     "title": "【Pokémon Pokopia】 we try to finish this game today!!! 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/S7OxTGslRWY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/S7OxTGslRWY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=S7OxTGslRWY",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-25T03:00:00Z",
     "startTime": "2026-06-25T03:22:21Z",
+    "endTime": "2026-06-25T06:50:39Z",
     "ttl": "2026-07-02T03:00:00.000Z",
     "streamerId": "narin_mikure"
   },

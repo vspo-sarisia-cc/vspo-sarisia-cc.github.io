@@ -65,19 +65,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "Blmz5DyROz0",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】のあちゃんいっぱい寝ました【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/Blmz5DyROz0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Blmz5DyROz0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-18T07:45:00Z",
-    "startTime": "2026-06-18T07:48:04Z",
-    "endTime": "2026-06-18T10:03:40Z",
-    "ttl": "2026-06-25T07:45:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "PS2pbKZwtCE",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "なんかてきとうにゲームする",
@@ -272,18 +259,6 @@
     "streamerId": "kisaragi_ren"
   },
   {
-    "id": "316048509169",
-    "channelId": "ren_kisaragi__",
-    "title": "こんにちは",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d13e6b74b0491a72a6ae_ren_kisaragi___316048509169_1781766958//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2799455314",
-    "scheduledStartTime": "2026-06-18T07:16:04Z",
-    "startTime": "2026-06-18T07:16:04Z",
-    "platform": "twitch",
-    "ttl": "2026-06-25T07:16:04.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "316112468723",
     "channelId": "ramuneshiranami",
     "title": "無限分割日何時間か決めてない #LTK",
@@ -294,30 +269,6 @@
     "platform": "twitch",
     "ttl": "2026-06-25T08:38:43.000Z",
     "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "316112222707",
-    "channelId": "ramuneshiranami",
-    "title": "無限分割日何時間か決めてない #LTK",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/8f2f3619822f7cf574bb_ramuneshiranami_316112222707_1781767070//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2799455850",
-    "scheduledStartTime": "2026-06-18T07:17:55Z",
-    "startTime": "2026-06-18T07:17:55Z",
-    "platform": "twitch",
-    "ttl": "2026-06-25T07:17:55.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "316057823602",
-    "channelId": "akarindao",
-    "title": "スクリム無限やるよお！",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/99b2dfe788b2c63c5b68_akarindao_316057823602_1781767117//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2799456075",
-    "scheduledStartTime": "2026-06-18T07:18:42Z",
-    "startTime": "2026-06-18T07:18:42Z",
-    "platform": "twitch",
-    "ttl": "2026-06-25T07:18:42.000Z",
-    "streamerId": "yumeno_akari"
   },
   {
     "id": "320010211803",
