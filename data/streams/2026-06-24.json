@@ -246,18 +246,6 @@
     "streamerId": "jira_jisaki"
   },
   {
-    "id": "316142960243",
-    "channelId": "akarindao",
-    "title": "全力でW杯を楽しむ！スコットランド vs ブラジルDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-24T21:45:48Z",
-    "startTime": "2026-06-24T21:45:48Z",
-    "platform": "twitch",
-    "ttl": "2026-07-01T21:45:48.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "320017983450",
     "channelId": "aryakuroha",
     "title": "✦ diana protection program !",
@@ -292,6 +280,18 @@
     "platform": "twitch",
     "ttl": "2026-07-01T11:05:16.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316142960243",
+    "channelId": "akarindao",
+    "title": "全力でW杯を楽しむ！スコットランド vs ブラジルDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/66e255e067b6c7b85701_akarindao_316142960243_1782337548//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2804565387",
+    "scheduledStartTime": "2026-06-24T21:45:53Z",
+    "startTime": "2026-06-24T21:45:53Z",
+    "platform": "twitch",
+    "ttl": "2026-07-01T21:45:53.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316142621939",
