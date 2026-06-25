@@ -216,6 +216,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-24T23:00:00Z",
     "startTime": "2026-06-24T22:01:33Z",
+    "endTime": "2026-06-25T03:26:29Z",
     "ttl": "2026-07-01T23:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -244,18 +245,6 @@
     "endTime": "2026-06-24T16:45:19Z",
     "ttl": "2026-07-01T14:30:00.000Z",
     "streamerId": "jira_jisaki"
-  },
-  {
-    "id": "320017983450",
-    "channelId": "aryakuroha",
-    "title": "✦ diana protection program !",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-06-24T22:01:14Z",
-    "startTime": "2026-06-24T22:01:14Z",
-    "platform": "twitch",
-    "ttl": "2026-07-01T22:01:14.000Z",
-    "streamerId": "arya_kuroha"
   },
   {
     "id": "316076527985",
@@ -340,6 +329,18 @@
     "platform": "twitch",
     "ttl": "2026-07-01T09:35:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "320017983450",
+    "channelId": "aryakuroha",
+    "title": "✦ diana protection program !",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/c878bc9ccd36cd975790_aryakuroha_320017983450_1782338474//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2804575555",
+    "scheduledStartTime": "2026-06-24T22:01:23Z",
+    "startTime": "2026-06-24T22:01:23Z",
+    "platform": "twitch",
+    "ttl": "2026-07-01T22:01:23.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "319945088985",
