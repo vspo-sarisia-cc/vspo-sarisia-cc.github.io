@@ -79,7 +79,7 @@
     "id": "cWQF1aiprYA",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【崩壊:スターレイル】#11 旅がいつまでも平穏でありますように【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/cWQF1aiprYA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/cWQF1aiprYA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=cWQF1aiprYA",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-25T09:00:00Z",
@@ -109,6 +109,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-25T09:00:00Z",
     "startTime": "2026-06-25T09:01:04Z",
+    "endTime": "2026-06-25T17:06:31Z",
     "ttl": "2026-07-02T09:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -139,12 +140,13 @@
   {
     "id": "jI5gF7EiSFo",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "#１【 BIOHAZARD RE:3 】　完全初見！来ましたねこの時が！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "title": "【 BIOHAZARD RE:3 】　完全初見！来ましたねこの時が！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
     "thumbnail": "https://i.ytimg.com/vi/jI5gF7EiSFo/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=jI5gF7EiSFo",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-25T11:00:00Z",
     "startTime": "2026-06-25T11:01:34Z",
+    "endTime": "2026-06-25T16:51:08Z",
     "ttl": "2026-07-02T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
