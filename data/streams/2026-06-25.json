@@ -34,6 +34,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-25T11:00:00Z",
     "startTime": "2026-06-25T11:06:49Z",
+    "endTime": "2026-06-25T17:36:05Z",
     "ttl": "2026-07-02T11:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -72,6 +73,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-25T12:15:00Z",
     "startTime": "2026-06-25T12:20:56Z",
+    "endTime": "2026-06-25T17:46:19Z",
     "ttl": "2026-07-02T12:15:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -104,7 +106,7 @@
     "id": "5in39TxIdSk",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【OVERWATCH】CRカップOW練習二日目！チーム名募集中【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/5in39TxIdSk/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/5in39TxIdSk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=5in39TxIdSk",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-25T09:00:00Z",
@@ -141,7 +143,7 @@
     "id": "jI5gF7EiSFo",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 BIOHAZARD RE:3 】　完全初見！来ましたねこの時が！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/jI5gF7EiSFo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/jI5gF7EiSFo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=jI5gF7EiSFo",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-25T11:00:00Z",
