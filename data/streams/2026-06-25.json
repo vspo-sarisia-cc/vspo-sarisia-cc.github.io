@@ -12,6 +12,28 @@
     "streamerId": "kaga_sumire"
   },
   {
+    "id": "tZddnSW1DNs",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "【 DBD 】なんとDBDデート w/てとちゃん【 ぶいすぽ / 小雀とと 】",
+    "thumbnail": "https://i.ytimg.com/vi/tZddnSW1DNs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=tZddnSW1DNs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-25T11:00:00Z",
+    "ttl": "2026-07-02T11:00:00.000Z",
+    "streamerId": "kogara_toto"
+  },
+  {
+    "id": "AnHAYqzjzCk",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 オーバーウォッチ 】練習２日目、チーム名がない【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/AnHAYqzjzCk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=AnHAYqzjzCk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-25T11:00:00Z",
+    "ttl": "2026-07-02T11:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "sw0TVF1P28Y",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 オーバーウォッチ 】練習すんねん【 ぶいすぽっ！胡桃のあ 】",
@@ -33,6 +55,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-25T09:00:00Z",
     "startTime": "2026-06-25T09:00:06Z",
+    "endTime": "2026-06-25T09:25:15Z",
     "ttl": "2026-07-02T09:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -107,6 +130,18 @@
     "endTime": "2026-06-25T08:57:16Z",
     "ttl": "2026-07-02T06:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316144914931",
+    "channelId": "ramuneshiranami",
+    "title": "ルーーークする",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-06-25T09:58:41Z",
+    "startTime": "2026-06-25T09:58:41Z",
+    "platform": "twitch",
+    "ttl": "2026-07-02T09:58:41.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316080781425",
