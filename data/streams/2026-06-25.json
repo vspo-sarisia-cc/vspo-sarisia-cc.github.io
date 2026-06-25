@@ -19,6 +19,7 @@
     "url": "https://www.youtube.com/watch?v=tZddnSW1DNs",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-25T11:00:00Z",
+    "startTime": "2026-06-25T11:02:17Z",
     "ttl": "2026-07-02T11:00:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -30,6 +31,7 @@
     "url": "https://www.youtube.com/watch?v=AnHAYqzjzCk",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-25T11:00:00Z",
+    "startTime": "2026-06-25T11:06:49Z",
     "ttl": "2026-07-02T11:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -72,6 +74,18 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "E87ElUpOHY4",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 OVERWATCH 】CRcupスクリム２日目【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/E87ElUpOHY4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=E87ElUpOHY4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-25T11:05:00Z",
+    "startTime": "2026-06-25T11:07:03Z",
+    "ttl": "2026-07-02T11:05:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
     "id": "5in39TxIdSk",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【OVERWATCH】CRカップOW練習二日目！チーム名募集中【ぶいすぽ / 猫汰つな】",
@@ -91,8 +105,21 @@
     "url": "https://www.youtube.com/watch?v=jZmUJ5KeraM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-25T11:00:00Z",
+    "startTime": "2026-06-25T11:03:00Z",
     "ttl": "2026-07-02T11:00:00.000Z",
     "streamerId": "yano_kuromu"
+  },
+  {
+    "id": "GvsBi1omjUQ",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【Overwatch】CRカップスクリム2日目！【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/GvsBi1omjUQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=GvsBi1omjUQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-25T11:00:00Z",
+    "startTime": "2026-06-25T10:44:11Z",
+    "ttl": "2026-07-02T11:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "jI5gF7EiSFo",
@@ -102,6 +129,7 @@
     "url": "https://www.youtube.com/watch?v=jI5gF7EiSFo",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-25T11:00:00Z",
+    "startTime": "2026-06-25T11:01:34Z",
     "ttl": "2026-07-02T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -142,6 +170,18 @@
     "platform": "twitch",
     "ttl": "2026-07-02T09:58:41.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316091000178",
+    "channelId": "ren_kisaragi__",
+    "title": "レギュレーションM-Bをビエラさんに教えてもらう会",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-25T11:01:44Z",
+    "startTime": "2026-06-25T11:01:44Z",
+    "platform": "twitch",
+    "ttl": "2026-07-02T11:01:44.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316080781425",
