@@ -15,11 +15,12 @@
     "id": "tZddnSW1DNs",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 DBD 】なんとDBDデート w/てとちゃん【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/tZddnSW1DNs/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/tZddnSW1DNs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=tZddnSW1DNs",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-25T11:00:00Z",
     "startTime": "2026-06-25T11:02:17Z",
+    "endTime": "2026-06-25T14:30:03Z",
     "ttl": "2026-07-02T11:00:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -159,18 +160,6 @@
     "streamerId": "narin_mikure"
   },
   {
-    "id": "gQ9FnLNwFmQ",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Dead By Daylight◢ jumpscare guerilla horror stream | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/gQ9FnLNwFmQ/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=gQ9FnLNwFmQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-25T14:15:00Z",
-    "startTime": "2026-06-25T14:11:40Z",
-    "ttl": "2026-07-02T14:15:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
     "id": "-zhD32SzDkI",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves 1.x◢ WUWA IS MY MEDICINE (part. 4) | #JunoUmezono #VSPOEN",
@@ -179,7 +168,6 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-25T06:00:00Z",
     "startTime": "2026-06-25T05:53:33Z",
-    "endTime": "2026-06-25T08:57:16Z",
     "ttl": "2026-07-02T06:00:00.000Z",
     "streamerId": "juno_umezono"
   },
@@ -196,18 +184,6 @@
     "streamerId": "shiranami_ramune"
   },
   {
-    "id": "316091000178",
-    "channelId": "ren_kisaragi__",
-    "title": "レギュレーションM-Bをビエラさんに教えてもらう会",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-06-25T11:01:44Z",
-    "startTime": "2026-06-25T11:01:44Z",
-    "platform": "twitch",
-    "ttl": "2026-07-02T11:01:44.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "317100634595",
     "channelId": "remiaaotsuki",
     "title": "im melting away I Faceit",
@@ -218,6 +194,18 @@
     "platform": "twitch",
     "ttl": "2026-07-02T14:00:20.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "316091000178",
+    "channelId": "ren_kisaragi__",
+    "title": "レギュレーションM-Bをビエラさんに教えてもらう会",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/bab0c6e661894c984738_ren_kisaragi___316091000178_1782385304//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2804953733",
+    "scheduledStartTime": "2026-06-25T11:01:49Z",
+    "startTime": "2026-06-25T11:01:49Z",
+    "platform": "twitch",
+    "ttl": "2026-07-02T11:01:49.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316080781425",
