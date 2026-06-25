@@ -198,11 +198,12 @@
     "id": "H8vAzAEZ9bk",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Pro Apex Player trying CS2  | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/H8vAzAEZ9bk/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/H8vAzAEZ9bk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=H8vAzAEZ9bk",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-24T21:00:00Z",
     "startTime": "2026-06-24T21:04:23Z",
+    "endTime": "2026-06-24T23:45:27Z",
     "ttl": "2026-07-01T21:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
