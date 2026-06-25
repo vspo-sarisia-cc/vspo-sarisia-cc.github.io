@@ -31,5 +31,16 @@
     "scheduledStartTime": "2026-06-26T11:00:00Z",
     "ttl": "2026-07-03T11:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "q86hV0NfvP4",
+    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
+    "title": "【DEAD BY DAYLIGHT】checking out the new killer !!【#VSPOEN #AryaKuroha】",
+    "thumbnail": "https://i.ytimg.com/vi/q86hV0NfvP4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=q86hV0NfvP4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-26T00:00:00Z",
+    "ttl": "2026-07-03T00:00:00.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
