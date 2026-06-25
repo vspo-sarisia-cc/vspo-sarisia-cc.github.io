@@ -159,6 +159,18 @@
     "streamerId": "narin_mikure"
   },
   {
+    "id": "gQ9FnLNwFmQ",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Dead By Daylight◢ jumpscare guerilla horror stream | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/gQ9FnLNwFmQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=gQ9FnLNwFmQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-25T14:15:00Z",
+    "startTime": "2026-06-25T14:11:40Z",
+    "ttl": "2026-07-02T14:15:00.000Z",
+    "streamerId": "juno_umezono"
+  },
+  {
     "id": "-zhD32SzDkI",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves 1.x◢ WUWA IS MY MEDICINE (part. 4) | #JunoUmezono #VSPOEN",
@@ -194,6 +206,18 @@
     "platform": "twitch",
     "ttl": "2026-07-02T11:01:44.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "317100634595",
+    "channelId": "remiaaotsuki",
+    "title": "im melting away I Faceit",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_remiaaotsuki-320x180.jpg",
+    "url": "https://www.twitch.tv/remiaaotsuki",
+    "scheduledStartTime": "2026-06-25T14:00:20Z",
+    "startTime": "2026-06-25T14:00:20Z",
+    "platform": "twitch",
+    "ttl": "2026-07-02T14:00:20.000Z",
+    "streamerId": "remia_aotsuki"
   },
   {
     "id": "316080781425",
