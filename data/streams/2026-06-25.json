@@ -1,14 +1,15 @@
 [
   {
-    "id": "anxFTqahSZM",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【スト６】　一歩ずつ前進してゆく！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/anxFTqahSZM/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=anxFTqahSZM",
+    "id": "sw0TVF1P28Y",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 オーバーウォッチ 】練習すんねん【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/sw0TVF1P28Y/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=sw0TVF1P28Y",
     "platform": "youtube",
-    "scheduledStartTime": "2026-06-25T05:00:00Z",
-    "ttl": "2026-07-02T05:00:00.000Z",
-    "streamerId": "choya_hanabi"
+    "scheduledStartTime": "2026-06-25T04:35:00Z",
+    "startTime": "2026-06-25T04:39:59Z",
+    "ttl": "2026-07-02T04:35:00.000Z",
+    "streamerId": "kurumi_noah"
   },
   {
     "id": "jI5gF7EiSFo",
@@ -40,8 +41,8 @@
     "thumbnail": "https://i.ytimg.com/vi/-zhD32SzDkI/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=-zhD32SzDkI",
     "platform": "youtube",
-    "scheduledStartTime": "2026-06-25T07:00:00Z",
-    "ttl": "2026-07-02T07:00:00.000Z",
+    "scheduledStartTime": "2026-06-25T06:00:00Z",
+    "ttl": "2026-07-02T06:00:00.000Z",
     "streamerId": "juno_umezono"
   }
 ]
