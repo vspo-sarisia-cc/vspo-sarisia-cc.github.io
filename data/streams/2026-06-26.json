@@ -8,6 +8,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-26T13:00:00Z",
     "startTime": "2026-06-26T13:00:34Z",
+    "endTime": "2026-06-26T20:01:46Z",
     "ttl": "2026-07-03T13:00:00.000Z",
     "streamerId": "kaga_sumire"
   },
@@ -91,11 +92,12 @@
     "id": "K9sxxUZTV78",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 OVERWATCH 】CRcupスクリム３日目【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/K9sxxUZTV78/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/K9sxxUZTV78/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=K9sxxUZTV78",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-26T11:00:00Z",
     "startTime": "2026-06-26T11:07:50Z",
+    "endTime": "2026-06-26T19:40:02Z",
     "ttl": "2026-07-03T11:00:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -129,11 +131,12 @@
     "id": "r0yIajLqEWM",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【Overwatch】CRカップスクリム最終日！しゃらくせー不動大人冗談21【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/r0yIajLqEWM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/r0yIajLqEWM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=r0yIajLqEWM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-26T11:00:00Z",
     "startTime": "2026-06-26T11:00:06Z",
+    "endTime": "2026-06-26T19:39:57Z",
     "ttl": "2026-07-03T11:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -190,18 +193,6 @@
     "streamerId": "ginjo_saine"
   },
   {
-    "id": "wn9som-El3E",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  ELDEN RING ◢　＃12 エルデンリング続きやるぞ！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/wn9som-El3E/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=wn9som-El3E",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-26T16:30:00Z",
-    "startTime": "2026-06-26T16:32:37Z",
-    "ttl": "2026-07-03T16:30:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
     "id": "vUHEneI8ELw",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  League of Legends  ◢　フレックス誘っていただけたのでやります  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
@@ -212,6 +203,18 @@
     "startTime": "2026-06-26T10:59:46Z",
     "endTime": "2026-06-26T16:16:08Z",
     "ttl": "2026-07-03T11:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
+  },
+  {
+    "id": "wn9som-El3E",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  ELDEN RING ◢　＃12 エルデンリング続きやるぞ！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/wn9som-El3E/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=wn9som-El3E",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-26T16:30:00Z",
+    "startTime": "2026-06-26T16:32:37Z",
+    "ttl": "2026-07-03T16:30:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
   {
