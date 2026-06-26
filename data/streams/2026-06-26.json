@@ -116,11 +116,12 @@
     "id": "QL2-SsBBiiA",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 OW 〗CRCUPスクリム最終日！毒にも薬にもなる。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/QL2-SsBBiiA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/QL2-SsBBiiA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=QL2-SsBBiiA",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-26T11:00:00Z",
     "startTime": "2026-06-26T11:06:51Z",
+    "endTime": "2026-06-26T17:54:53Z",
     "ttl": "2026-07-03T11:00:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -279,15 +280,27 @@
     "streamerId": "juno_umezono"
   },
   {
+    "id": "316097544562",
+    "channelId": "ren_kisaragi__",
+    "title": "のんびりEvoみてるだけ※画面なし",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-26T18:23:44Z",
+    "startTime": "2026-06-26T18:23:44Z",
+    "platform": "twitch",
+    "ttl": "2026-07-03T18:23:44.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
     "id": "316096793842",
     "channelId": "ren_kisaragi__",
     "title": "ぽこあヴァイパー村二次会",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-06-26T14:43:00Z",
-    "startTime": "2026-06-26T14:43:00Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/307cf880045f4ee3ab5b_ren_kisaragi___316096793842_1782484980//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2805832504",
+    "scheduledStartTime": "2026-06-26T14:43:05Z",
+    "startTime": "2026-06-26T14:43:05Z",
     "platform": "twitch",
-    "ttl": "2026-07-03T14:43:00.000Z",
+    "ttl": "2026-07-03T14:43:05.000Z",
     "streamerId": "kisaragi_ren"
   },
   {
