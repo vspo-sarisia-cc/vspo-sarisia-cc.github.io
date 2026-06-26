@@ -182,18 +182,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316083918321",
-    "channelId": "akarindao",
-    "title": "遂に、、！！W杯日本vsスウェーデン DAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-25T19:44:35Z",
-    "startTime": "2026-06-25T19:44:35Z",
-    "platform": "twitch",
-    "ttl": "2026-07-02T19:44:35.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316091000178",
     "channelId": "ren_kisaragi__",
     "title": "レギュレーションM-Bをビエラさんに教えてもらう会",
@@ -216,6 +204,18 @@
     "platform": "twitch",
     "ttl": "2026-07-02T09:58:46.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316083918321",
+    "channelId": "akarindao",
+    "title": "全力でW杯を楽しむ！エクアドル vs ドイツDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/5ee08bdef5780650cb43_akarindao_316083918321_1782416675//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2805253760",
+    "scheduledStartTime": "2026-06-25T19:44:40Z",
+    "startTime": "2026-06-25T19:44:40Z",
+    "platform": "twitch",
+    "ttl": "2026-07-02T19:44:40.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316080781425",

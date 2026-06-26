@@ -41,19 +41,32 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-26T00:00:00Z",
     "startTime": "2026-06-26T00:01:14Z",
+    "endTime": "2026-06-26T02:01:01Z",
     "ttl": "2026-07-03T00:00:00.000Z",
     "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "316148007411",
+    "channelId": "saineginjo",
+    "title": "まるで健康的な朝",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saineginjo-320x180.jpg",
+    "url": "https://www.twitch.tv/saineginjo",
+    "scheduledStartTime": "2026-06-26T01:43:26Z",
+    "startTime": "2026-06-26T01:43:26Z",
+    "platform": "twitch",
+    "ttl": "2026-07-03T01:43:26.000Z",
+    "streamerId": "ginjo_saine"
   },
   {
     "id": "320037086298",
     "channelId": "aryakuroha",
     "title": "✦ jason is here !",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-06-26T00:00:10Z",
-    "startTime": "2026-06-26T00:00:10Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/5ab5dbf0262aa906f850_aryakuroha_320037086298_1782432010//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2805424471",
+    "scheduledStartTime": "2026-06-26T00:00:19Z",
+    "startTime": "2026-06-26T00:00:19Z",
     "platform": "twitch",
-    "ttl": "2026-07-03T00:00:10.000Z",
+    "ttl": "2026-07-03T00:00:19.000Z",
     "streamerId": "arya_kuroha"
   }
 ]
