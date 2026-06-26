@@ -78,6 +78,18 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "TjMdu6fIsec",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【応援】EVO ラスベガス スト6 同時視聴！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/TjMdu6fIsec/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=TjMdu6fIsec",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-26T23:30:00Z",
+    "startTime": "2026-06-26T23:36:43Z",
+    "ttl": "2026-07-03T23:30:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "z87BnrWfVa0",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "緋月ゆいの湿度の高い反応に笑ってしまう2人【ぶいすぽっ！/ 藍沢エマ/緋月ゆい/夕刻ロベル/APEX】",
@@ -296,6 +308,18 @@
     "platform": "twitch",
     "ttl": "2026-07-03T18:23:44.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316089141873",
+    "channelId": "akarindao",
+    "title": "W杯ウルグアイ vs スペインスDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-06-26T23:46:54Z",
+    "startTime": "2026-06-26T23:46:54Z",
+    "platform": "twitch",
+    "ttl": "2026-07-03T23:46:54.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316096793842",
