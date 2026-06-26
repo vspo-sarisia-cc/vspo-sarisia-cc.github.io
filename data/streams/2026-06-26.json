@@ -40,7 +40,20 @@
     "url": "https://www.youtube.com/watch?v=q86hV0NfvP4",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-26T00:00:00Z",
+    "startTime": "2026-06-26T00:01:14Z",
     "ttl": "2026-07-03T00:00:00.000Z",
+    "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "320037086298",
+    "channelId": "aryakuroha",
+    "title": "✦ jason is here !",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-06-26T00:00:10Z",
+    "startTime": "2026-06-26T00:00:10Z",
+    "platform": "twitch",
+    "ttl": "2026-07-03T00:00:10.000Z",
     "streamerId": "arya_kuroha"
   }
 ]
