@@ -85,6 +85,8 @@
     "url": "https://www.youtube.com/watch?v=z87BnrWfVa0",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-26T22:00:00Z",
+    "startTime": "2026-06-26T22:00:06Z",
+    "endTime": "2026-06-26T22:19:49Z",
     "ttl": "2026-07-03T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -193,6 +195,19 @@
     "streamerId": "ginjo_saine"
   },
   {
+    "id": "wn9som-El3E",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  ELDEN RING ◢　＃12 エルデンリング続きやるぞ！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/wn9som-El3E/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=wn9som-El3E",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-26T16:30:00Z",
+    "startTime": "2026-06-26T16:32:37Z",
+    "endTime": "2026-06-26T21:55:42Z",
+    "ttl": "2026-07-03T16:30:00.000Z",
+    "streamerId": "tatsumaki_chise"
+  },
+  {
     "id": "vUHEneI8ELw",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  League of Legends  ◢　フレックス誘っていただけたのでやります  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
@@ -203,18 +218,6 @@
     "startTime": "2026-06-26T10:59:46Z",
     "endTime": "2026-06-26T16:16:08Z",
     "ttl": "2026-07-03T11:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
-    "id": "wn9som-El3E",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  ELDEN RING ◢　＃12 エルデンリング続きやるぞ！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/wn9som-El3E/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=wn9som-El3E",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-26T16:30:00Z",
-    "startTime": "2026-06-26T16:32:37Z",
-    "ttl": "2026-07-03T16:30:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
   {
