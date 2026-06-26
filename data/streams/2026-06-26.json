@@ -189,14 +189,27 @@
     "streamerId": "ginjo_saine"
   },
   {
+    "id": "wn9som-El3E",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  ELDEN RING ◢　＃12 エルデンリング続きやるぞ！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/wn9som-El3E/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=wn9som-El3E",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-26T16:30:00Z",
+    "startTime": "2026-06-26T16:32:37Z",
+    "ttl": "2026-07-03T16:30:00.000Z",
+    "streamerId": "tatsumaki_chise"
+  },
+  {
     "id": "vUHEneI8ELw",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  League of Legends  ◢　フレックス誘っていただけたのでやります  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/vUHEneI8ELw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/vUHEneI8ELw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=vUHEneI8ELw",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-26T11:00:00Z",
     "startTime": "2026-06-26T10:59:46Z",
+    "endTime": "2026-06-26T16:16:08Z",
     "ttl": "2026-07-03T11:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -222,6 +235,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-26T14:00:00Z",
     "startTime": "2026-06-26T14:06:03Z",
+    "endTime": "2026-06-26T17:05:03Z",
     "ttl": "2026-07-03T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -239,6 +253,19 @@
     "streamerId": "arya_kuroha"
   },
   {
+    "id": "_s92pT-qe7w",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Apex Legends◢ NEW SPLIT w/ ex valorant pro and temu rpr | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/_s92pT-qe7w/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=_s92pT-qe7w",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-26T12:00:00Z",
+    "startTime": "2026-06-26T12:12:43Z",
+    "endTime": "2026-06-26T16:18:41Z",
+    "ttl": "2026-07-03T12:00:00.000Z",
+    "streamerId": "juno_umezono"
+  },
+  {
     "id": "MfMiOMNtVLw",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves◢ 3.5 REVEAL! NEW WIVES? NEW REGION? RERUNS? (NOOB POV) | #JunoUmezono #VSPOEN",
@@ -252,21 +279,9 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "_s92pT-qe7w",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Apex Legends◢ NEW SPLIT w/ ex valorant pro and temu rpr | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/_s92pT-qe7w/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=_s92pT-qe7w",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-26T12:00:00Z",
-    "startTime": "2026-06-26T12:12:43Z",
-    "ttl": "2026-07-03T12:00:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
     "id": "316095525490",
     "channelId": "ramuneshiranami",
-    "title": "ランク5v5 w/ちーたま KHさん cerosさん りきゃさん",
+    "title": "ランク5v5 w/ちーたま KHさん cerosさん りきゃさん→スト６",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
     "url": "https://www.twitch.tv/ramuneshiranami",
     "scheduledStartTime": "2026-06-26T10:58:34Z",
