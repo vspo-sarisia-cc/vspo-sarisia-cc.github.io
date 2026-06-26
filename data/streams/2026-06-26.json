@@ -19,8 +19,33 @@
     "url": "https://www.youtube.com/watch?v=fPsST-ERznE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-26T11:00:00Z",
+    "startTime": "2026-06-26T11:00:07Z",
     "ttl": "2026-07-03T11:00:00.000Z",
     "streamerId": "asumi_sena"
+  },
+  {
+    "id": "BfLHAVrcyBU",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【 Escape from Tarkov 】アイスブレイカーいけんのかって Lv44~ 【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/BfLHAVrcyBU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=BfLHAVrcyBU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-26T11:00:00Z",
+    "startTime": "2026-06-26T11:04:46Z",
+    "ttl": "2026-07-03T11:00:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "K9sxxUZTV78",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 OVERWATCH 】CRcupスクリム３日目【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/K9sxxUZTV78/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=K9sxxUZTV78",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-26T11:00:00Z",
+    "startTime": "2026-06-26T11:07:50Z",
+    "ttl": "2026-07-03T11:00:00.000Z",
+    "streamerId": "shinomiya_runa"
   },
   {
     "id": "TwvWn1Byz0I",
@@ -42,6 +67,7 @@
     "url": "https://www.youtube.com/watch?v=QL2-SsBBiiA",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-26T11:00:00Z",
+    "startTime": "2026-06-26T11:06:51Z",
     "ttl": "2026-07-03T11:00:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -53,8 +79,21 @@
     "url": "https://www.youtube.com/watch?v=r0yIajLqEWM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-26T11:00:00Z",
+    "startTime": "2026-06-26T11:00:06Z",
     "ttl": "2026-07-03T11:00:00.000Z",
     "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "u0dIli7ZGG8",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【Forza Horizon 6】　華金なので飲酒しちゃいます！！！！！！※リアル飲酒運転はNG　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/u0dIli7ZGG8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=u0dIli7ZGG8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-26T11:00:00Z",
+    "startTime": "2026-06-26T11:00:02Z",
+    "ttl": "2026-07-03T11:00:00.000Z",
+    "streamerId": "choya_hanabi"
   },
   {
     "id": "anxFTqahSZM",
@@ -70,15 +109,28 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "u0dIli7ZGG8",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【Forza Horizon 6】　華金なので飲酒しちゃいます！！！！！！※リアル飲酒運転はNG　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/u0dIli7ZGG8/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=u0dIli7ZGG8",
+    "id": "c6cZrLbM10w",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【】ﾄﾞﾓ【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/c6cZrLbM10w/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=c6cZrLbM10w",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-26T11:30:00Z",
+    "startTime": "2026-06-26T11:31:13Z",
+    "ttl": "2026-07-03T11:30:00.000Z",
+    "streamerId": "amayui_moka"
+  },
+  {
+    "id": "vUHEneI8ELw",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　フレックス誘っていただけたのでやります  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/vUHEneI8ELw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=vUHEneI8ELw",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-26T11:00:00Z",
+    "startTime": "2026-06-26T10:59:46Z",
     "ttl": "2026-07-03T11:00:00.000Z",
-    "streamerId": "choya_hanabi"
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "AVfq3Nj-Qj8",
@@ -107,6 +159,18 @@
     "streamerId": "arya_kuroha"
   },
   {
+    "id": "MfMiOMNtVLw",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Wuthering Waves◢ 3.5 REVEAL! NEW WIVES? NEW REGION? RERUNS? (NOOB POV) | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/MfMiOMNtVLw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=MfMiOMNtVLw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-26T10:55:00Z",
+    "startTime": "2026-06-26T10:50:17Z",
+    "ttl": "2026-07-03T10:55:00.000Z",
+    "streamerId": "juno_umezono"
+  },
+  {
     "id": "_s92pT-qe7w",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Apex Legends◢ NEW SPLIT w/ ex valorant pro and temu rpr | #JunoUmezono #VSPOEN",
@@ -118,15 +182,16 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "MfMiOMNtVLw",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Wuthering Waves◢ 3.5 REVEAL! NEW WIVES? NEW REGION? RERUNS? (NOOB POV) | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/MfMiOMNtVLw/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=MfMiOMNtVLw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-26T10:55:00Z",
-    "ttl": "2026-07-03T10:55:00.000Z",
-    "streamerId": "juno_umezono"
+    "id": "316095525490",
+    "channelId": "ramuneshiranami",
+    "title": "ランク5v5 w/ちーたま KHさん cerosさん りきゃさん",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-06-26T10:58:34Z",
+    "startTime": "2026-06-26T10:58:34Z",
+    "platform": "twitch",
+    "ttl": "2026-07-03T10:58:34.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316148007411",
