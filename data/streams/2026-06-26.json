@@ -11,14 +11,26 @@
     "streamerId": "asumi_sena"
   },
   {
+    "id": "TwvWn1Byz0I",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【OVERWATCH】CRカップOW　明日本番！チーム猟友会【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/TwvWn1Byz0I/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=TwvWn1Byz0I",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-26T09:00:00Z",
+    "ttl": "2026-07-03T09:00:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
     "id": "anxFTqahSZM",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　一歩ずつ前進してゆく！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/anxFTqahSZM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/anxFTqahSZM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=anxFTqahSZM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-26T05:00:00Z",
     "startTime": "2026-06-26T05:00:33Z",
+    "endTime": "2026-06-26T07:07:07Z",
     "ttl": "2026-07-03T05:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -32,6 +44,18 @@
     "scheduledStartTime": "2026-06-26T11:00:00Z",
     "ttl": "2026-07-03T11:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "AVfq3Nj-Qj8",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　ソロランクやていくぞ！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/AVfq3Nj-Qj8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=AVfq3Nj-Qj8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-26T07:30:00Z",
+    "startTime": "2026-06-26T07:30:57Z",
+    "ttl": "2026-07-03T07:30:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "q86hV0NfvP4",
