@@ -230,7 +230,7 @@
     "id": "VCDGpnmQU_w",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "First time playing killer  | Dead by Daylight【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/VCDGpnmQU_w/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/VCDGpnmQU_w/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=VCDGpnmQU_w",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-26T14:00:00Z",
@@ -279,18 +279,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316095525490",
-    "channelId": "ramuneshiranami",
-    "title": "ランク5v5 w/ちーたま KHさん cerosさん りきゃさん→スト６",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-06-26T10:58:34Z",
-    "startTime": "2026-06-26T10:58:34Z",
-    "platform": "twitch",
-    "ttl": "2026-07-03T10:58:34.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316096793842",
     "channelId": "ren_kisaragi__",
     "title": "ぽこあヴァイパー村二次会",
@@ -301,6 +289,18 @@
     "platform": "twitch",
     "ttl": "2026-07-03T14:43:00.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316095525490",
+    "channelId": "ramuneshiranami",
+    "title": "ランク5v5 w/ちーたま KHさん cerosさん りきゃさん",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/a5f2a11be8c52de2aabe_ramuneshiranami_316095525490_1782471514//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2805727278",
+    "scheduledStartTime": "2026-06-26T10:58:40Z",
+    "startTime": "2026-06-26T10:58:40Z",
+    "platform": "twitch",
+    "ttl": "2026-07-03T10:58:40.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316148007411",
