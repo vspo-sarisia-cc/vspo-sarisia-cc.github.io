@@ -37,30 +37,5 @@
     "endTime": "2026-06-19T22:27:26Z",
     "ttl": "2026-06-26T22:00:00.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "VHM6jSMRYAA",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【スト６】V最協第二幕 ぶっぱなCスクリム最終日 vs チーム5＆6！【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/VHM6jSMRYAA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=VHM6jSMRYAA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-19T13:30:00Z",
-    "startTime": "2026-06-19T13:17:12Z",
-    "endTime": "2026-06-19T18:05:08Z",
-    "ttl": "2026-06-26T13:30:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "317036397156",
-    "channelId": "remiaaotsuki",
-    "title": "I'm a good egg :3 (Playtest)",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/d52bb4d511f83918277a_remiaaotsuki_317036397156_1781877522//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2800391550",
-    "scheduledStartTime": "2026-06-19T13:58:49Z",
-    "startTime": "2026-06-19T13:58:49Z",
-    "platform": "twitch",
-    "ttl": "2026-06-26T13:58:49.000Z",
-    "streamerId": "remia_aotsuki"
   }
 ]
