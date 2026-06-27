@@ -60,6 +60,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-27T10:15:00Z",
     "startTime": "2026-06-27T10:09:41Z",
+    "endTime": "2026-06-27T19:37:33Z",
     "ttl": "2026-07-04T10:15:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -71,6 +72,7 @@
     "url": "https://www.youtube.com/watch?v=Uz1Vn25M12I",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-27T19:05:00Z",
+    "startTime": "2026-06-27T19:09:03Z",
     "ttl": "2026-07-04T19:05:00.000Z",
     "streamerId": "aizawa_ema"
   },
