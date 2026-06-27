@@ -298,18 +298,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316097544562",
-    "channelId": "ren_kisaragi__",
-    "title": "のんびりEvoみてるだけ※画面なし",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-06-26T18:23:44Z",
-    "startTime": "2026-06-26T18:23:44Z",
-    "platform": "twitch",
-    "ttl": "2026-07-03T18:23:44.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "316089141873",
     "channelId": "akarindao",
     "title": "W杯ウルグアイ vs スペインDAZNで同時視聴中",
@@ -320,6 +308,18 @@
     "platform": "twitch",
     "ttl": "2026-07-03T23:46:54.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316097544562",
+    "channelId": "ren_kisaragi__",
+    "title": "のんびりEvoみてるだけ※画面なし",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-26T18:23:44Z",
+    "startTime": "2026-06-26T18:23:44Z",
+    "platform": "twitch",
+    "ttl": "2026-07-03T18:23:44.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316096793842",
