@@ -15,11 +15,12 @@
     "id": "UxCZjQKuq7A",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【雀魂】久々にやる雀やん【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/UxCZjQKuq7A/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/UxCZjQKuq7A/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=UxCZjQKuq7A",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-27T07:50:00Z",
     "startTime": "2026-06-27T07:50:47Z",
+    "endTime": "2026-06-27T10:38:01Z",
     "ttl": "2026-07-04T07:50:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -116,6 +117,7 @@
     "url": "https://www.youtube.com/watch?v=sFA3PjdHD38",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-27T11:00:00Z",
+    "startTime": "2026-06-27T11:04:40Z",
     "ttl": "2026-07-04T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -131,6 +133,17 @@
     "endTime": "2026-06-27T09:11:40Z",
     "ttl": "2026-07-04T07:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "up28Um7Vzlc",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【スト6】レバーレスに触ってみます🔰 なにもわかりません【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/up28Um7Vzlc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=up28Um7Vzlc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-27T11:30:00Z",
+    "ttl": "2026-07-04T11:30:00.000Z",
+    "streamerId": "ginjo_saine"
   },
   {
     "id": "9U4p-rJ2A_o",
