@@ -24,17 +24,5 @@
     "endTime": "2026-06-21T03:13:48Z",
     "ttl": "2026-06-27T23:40:00.000Z",
     "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "316124474099",
-    "channelId": "asumisena",
-    "title": "ui",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/da107c6e7f454b104299_asumisena_316124474099_1781979175//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2801358420",
-    "scheduledStartTime": "2026-06-20T18:13:00Z",
-    "startTime": "2026-06-20T18:13:00Z",
-    "platform": "twitch",
-    "ttl": "2026-06-27T18:13:00.000Z",
-    "streamerId": "asumi_sena"
   }
 ]
