@@ -142,6 +142,7 @@
     "url": "https://www.youtube.com/watch?v=up28Um7Vzlc",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-27T11:30:00Z",
+    "startTime": "2026-06-27T11:30:17Z",
     "ttl": "2026-07-04T11:30:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -160,11 +161,12 @@
     "id": "8fVa4qyRS98",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves 1.x◢ FINISHING 1.x? (part. 5) | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/8fVa4qyRS98/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/8fVa4qyRS98/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=8fVa4qyRS98",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-27T07:00:00Z",
     "startTime": "2026-06-27T06:59:10Z",
+    "endTime": "2026-06-27T11:09:02Z",
     "ttl": "2026-07-04T07:00:00.000Z",
     "streamerId": "juno_umezono"
   },
