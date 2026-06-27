@@ -80,12 +80,13 @@
   {
     "id": "TjMdu6fIsec",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【応援】EVO ラスベガス スト6 同時視聴！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/TjMdu6fIsec/mqdefault_live.jpg",
+    "title": "【応援】EVO ラスベガス スト6 ミラー配信！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/TjMdu6fIsec/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=TjMdu6fIsec",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-26T23:30:00Z",
     "startTime": "2026-06-26T23:36:43Z",
+    "endTime": "2026-06-27T04:04:30Z",
     "ttl": "2026-07-03T23:30:00.000Z",
     "streamerId": "aizawa_ema"
   },
