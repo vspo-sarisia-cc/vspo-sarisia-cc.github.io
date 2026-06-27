@@ -8,6 +8,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-27T07:00:00Z",
     "startTime": "2026-06-27T07:18:25Z",
+    "endTime": "2026-06-27T14:46:46Z",
     "ttl": "2026-07-04T07:00:00.000Z",
     "streamerId": "kaga_sumire"
   },
@@ -138,11 +139,12 @@
     "id": "up28Um7Vzlc",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【スト6】レバーレスに触ってみます🔰 なにもわかりません【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/up28Um7Vzlc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/up28Um7Vzlc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=up28Um7Vzlc",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-27T11:30:00Z",
     "startTime": "2026-06-27T11:30:17Z",
+    "endTime": "2026-06-27T14:29:26Z",
     "ttl": "2026-07-04T11:30:00.000Z",
     "streamerId": "ginjo_saine"
   },
