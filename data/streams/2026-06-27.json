@@ -175,6 +175,7 @@
     "url": "https://www.youtube.com/watch?v=9U4p-rJ2A_o",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-27T21:00:00Z",
+    "startTime": "2026-06-27T21:07:00Z",
     "ttl": "2026-07-04T21:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -202,6 +203,18 @@
     "platform": "twitch",
     "ttl": "2026-07-04T17:41:36.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316103007858",
+    "channelId": "akarindao",
+    "title": "W杯クロアチア vs ガーナDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-06-27T20:52:00Z",
+    "startTime": "2026-06-27T20:52:00Z",
+    "platform": "twitch",
+    "ttl": "2026-07-04T20:52:00.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316152895091",
