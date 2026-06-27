@@ -42,7 +42,7 @@
     "id": "jRM1FJ-CHXE",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 オーバーウォッチ 】本番！優勝すっぞ！ #GGEGWIN 【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/jRM1FJ-CHXE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/jRM1FJ-CHXE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=jRM1FJ-CHXE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-27T07:00:00Z",
@@ -85,6 +85,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-27T07:00:00Z",
     "startTime": "2026-06-27T06:09:58Z",
+    "endTime": "2026-06-27T15:46:29Z",
     "ttl": "2026-07-04T07:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
