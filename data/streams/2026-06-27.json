@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=CkRttJloDlM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-27T07:00:00Z",
+    "startTime": "2026-06-27T07:18:25Z",
     "ttl": "2026-07-04T07:00:00.000Z",
     "streamerId": "kaga_sumire"
   },
@@ -30,6 +31,7 @@
     "url": "https://www.youtube.com/watch?v=jRM1FJ-CHXE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-27T07:00:00Z",
+    "startTime": "2026-06-27T07:15:15Z",
     "ttl": "2026-07-04T07:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -41,6 +43,7 @@
     "url": "https://www.youtube.com/watch?v=8KWoFjP-IQw",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-27T07:00:00Z",
+    "startTime": "2026-06-27T07:08:35Z",
     "ttl": "2026-07-04T07:00:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -76,8 +79,21 @@
     "url": "https://www.youtube.com/watch?v=Oqp1lXKGQ3A",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-27T07:00:00Z",
+    "startTime": "2026-06-27T07:08:27Z",
     "ttl": "2026-07-04T07:00:00.000Z",
     "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "hf7XTEv9uyM",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【スト６】　焔しか勝たんの感じでゆく！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/hf7XTEv9uyM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=hf7XTEv9uyM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-27T07:00:00Z",
+    "startTime": "2026-06-27T06:59:00Z",
+    "ttl": "2026-07-04T07:00:00.000Z",
+    "streamerId": "choya_hanabi"
   },
   {
     "id": "9U4p-rJ2A_o",
@@ -98,6 +114,7 @@
     "url": "https://www.youtube.com/watch?v=8fVa4qyRS98",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-27T07:00:00Z",
+    "startTime": "2026-06-27T06:59:10Z",
     "ttl": "2026-07-04T07:00:00.000Z",
     "streamerId": "juno_umezono"
   },
