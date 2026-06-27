@@ -32,6 +32,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-27T05:00:00Z",
     "startTime": "2026-06-27T05:05:37Z",
+    "endTime": "2026-06-27T09:23:57Z",
     "ttl": "2026-07-04T05:00:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -96,14 +97,26 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "sFA3PjdHD38",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【 APEX 】　スカした（？）方たちとフルパエペなんよ！！！！！w/あじゃ、きるま【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/sFA3PjdHD38/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=sFA3PjdHD38",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-27T11:00:00Z",
+    "ttl": "2026-07-04T11:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "hf7XTEv9uyM",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　焔しか勝たんの感じでゆく！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/hf7XTEv9uyM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/hf7XTEv9uyM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=hf7XTEv9uyM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-27T07:00:00Z",
     "startTime": "2026-06-27T06:59:00Z",
+    "endTime": "2026-06-27T09:11:40Z",
     "ttl": "2026-07-04T07:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
