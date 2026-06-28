@@ -64,5 +64,16 @@
     "scheduledStartTime": "2026-06-30T03:00:00Z",
     "ttl": "2026-07-07T03:00:00.000Z",
     "streamerId": "jira_jisaki"
+  },
+  {
+    "id": "-A-dhpoNGt4",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤ZATSU◢ yapyapya[ | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/-A-dhpoNGt4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=-A-dhpoNGt4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-30T09:00:00Z",
+    "ttl": "2026-07-07T09:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
