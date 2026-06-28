@@ -63,6 +63,17 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "rC8g40OL-bk",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【Pokémon Champions】スカウトして使いたいポケモン考える【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/rC8g40OL-bk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=rC8g40OL-bk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-28T14:20:00Z",
+    "ttl": "2026-07-05T14:20:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "xeYpsQlSZl8",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "＃１【 逆転裁判123 成歩堂セレクション 】　完全初見異議ありぃぃっぃぃぃぃぃ！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -106,6 +117,7 @@
     "url": "https://www.youtube.com/watch?v=qXtMfzESISU",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-28T14:00:00Z",
+    "startTime": "2026-06-28T14:07:14Z",
     "ttl": "2026-07-05T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -117,6 +129,7 @@
     "url": "https://www.youtube.com/watch?v=fBOqGPhEmtA",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-28T14:00:00Z",
+    "startTime": "2026-06-28T13:59:33Z",
     "ttl": "2026-07-05T14:00:00.000Z",
     "streamerId": "juno_umezono"
   },
