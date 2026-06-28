@@ -32,20 +32,9 @@
     "url": "https://www.youtube.com/watch?v=gDTLUENqTec",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-28T11:00:00Z",
+    "startTime": "2026-06-28T11:00:35Z",
     "ttl": "2026-07-05T11:00:00.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "TZQ1o9ndvpM",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【 歌枠 】　ちょっと歌わせてください！！！！！！※アーカイブメン限【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/TZQ1o9ndvpM/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=TZQ1o9ndvpM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-28T09:00:00Z",
-    "startTime": "2026-06-28T09:01:23Z",
-    "ttl": "2026-07-05T09:00:00.000Z",
-    "streamerId": "choya_hanabi"
   },
   {
     "id": "xeYpsQlSZl8",
@@ -55,8 +44,20 @@
     "url": "https://www.youtube.com/watch?v=xeYpsQlSZl8",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-28T11:00:00Z",
+    "startTime": "2026-06-28T11:00:46Z",
     "ttl": "2026-07-05T11:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "C_C2lqReRfo",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　またーりソロランク   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/C_C2lqReRfo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=C_C2lqReRfo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-28T11:30:00Z",
+    "ttl": "2026-07-05T11:30:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "qXtMfzESISU",
