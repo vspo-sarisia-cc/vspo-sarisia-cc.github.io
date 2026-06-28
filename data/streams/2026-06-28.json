@@ -3,11 +3,12 @@
     "id": "Sb3Vi7mwpdQ",
     "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
     "title": "最近色々とお疲れ様でした【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/Sb3Vi7mwpdQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Sb3Vi7mwpdQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Sb3Vi7mwpdQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-28T12:30:00Z",
     "startTime": "2026-06-28T12:32:46Z",
+    "endTime": "2026-06-28T14:36:05Z",
     "ttl": "2026-07-05T12:30:00.000Z",
     "streamerId": "kaga_sumire"
   },
@@ -70,6 +71,7 @@
     "url": "https://www.youtube.com/watch?v=rC8g40OL-bk",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-28T14:20:00Z",
+    "startTime": "2026-06-28T14:24:15Z",
     "ttl": "2026-07-05T14:20:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
