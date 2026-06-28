@@ -3,13 +3,26 @@
     "id": "MJMIRNBznyY",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【歌枠】平成アニソンまみれです【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/MJMIRNBznyY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/MJMIRNBznyY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=MJMIRNBznyY",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-28T07:30:00Z",
     "startTime": "2026-06-28T07:32:50Z",
+    "endTime": "2026-06-28T09:37:00Z",
     "ttl": "2026-07-05T07:30:00.000Z",
     "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "-337q5xxTGQ",
+    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
+    "title": "【VALORANT 】ふるぱ【ぶいすぽ/兎咲ミミ】",
+    "thumbnail": "https://i.ytimg.com/vi/-337q5xxTGQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=-337q5xxTGQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-28T10:15:00Z",
+    "startTime": "2026-06-28T10:05:05Z",
+    "ttl": "2026-07-05T10:15:00.000Z",
+    "streamerId": "tosaki_mimi"
   },
   {
     "id": "gDTLUENqTec",
@@ -63,8 +76,8 @@
     "thumbnail": "https://i.ytimg.com/vi/fBOqGPhEmtA/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=fBOqGPhEmtA",
     "platform": "youtube",
-    "scheduledStartTime": "2026-06-28T13:00:00Z",
-    "ttl": "2026-07-05T13:00:00.000Z",
+    "scheduledStartTime": "2026-06-28T14:00:00Z",
+    "ttl": "2026-07-05T14:00:00.000Z",
     "streamerId": "juno_umezono"
   },
   {
