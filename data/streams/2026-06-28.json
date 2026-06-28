@@ -11,6 +11,17 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "TZQ1o9ndvpM",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【 歌枠 】　ちょっと歌わせてください！！！！！！※アーカイブメン限【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/TZQ1o9ndvpM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=TZQ1o9ndvpM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-28T09:00:00Z",
+    "ttl": "2026-07-05T09:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "xeYpsQlSZl8",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "＃１【 逆転裁判123 成歩堂セレクション 】　完全初見異議ありぃぃっぃぃぃぃぃ！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -42,5 +53,17 @@
     "scheduledStartTime": "2026-06-28T13:00:00Z",
     "ttl": "2026-07-05T13:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316095469553",
+    "channelId": "choyahanabi",
+    "title": "【スト６】堅実にいくか？？！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/170322a9e975f3bd812c_choyahanabi_316095469553_1782625053//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2807192888",
+    "scheduledStartTime": "2026-06-28T05:37:38Z",
+    "startTime": "2026-06-28T05:37:38Z",
+    "platform": "twitch",
+    "ttl": "2026-07-05T05:37:38.000Z",
+    "streamerId": "choya_hanabi"
   }
 ]
