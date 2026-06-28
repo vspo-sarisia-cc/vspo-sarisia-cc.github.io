@@ -31,5 +31,16 @@
     "scheduledStartTime": "2026-06-29T01:30:00Z",
     "ttl": "2026-07-06T01:30:00.000Z",
     "streamerId": "amayui_moka"
+  },
+  {
+    "id": "ZurGruRTMp4",
+    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
+    "title": "ASMR FPS Gaming... | Faceit | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
+    "thumbnail": "https://i.ytimg.com/vi/ZurGruRTMp4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ZurGruRTMp4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-29T14:00:00Z",
+    "ttl": "2026-07-06T14:00:00.000Z",
+    "streamerId": "remia_aotsuki"
   }
 ]

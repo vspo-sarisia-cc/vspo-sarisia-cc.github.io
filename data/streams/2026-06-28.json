@@ -111,6 +111,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-28T11:30:00Z",
     "startTime": "2026-06-28T11:32:48Z",
+    "endTime": "2026-06-28T17:36:48Z",
     "ttl": "2026-07-05T11:30:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -118,7 +119,7 @@
     "id": "qXtMfzESISU",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "BOTchi Picasso time | MECCHA CHAMELEON【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/qXtMfzESISU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/qXtMfzESISU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=qXtMfzESISU",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-28T14:00:00Z",
