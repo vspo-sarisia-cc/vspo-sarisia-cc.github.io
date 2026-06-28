@@ -68,7 +68,7 @@
     "id": "Uz1Vn25M12I",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【応援DAY2】EVO ラスベガス スト6 ミラー配信！【ぶいすぽっ！ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/Uz1Vn25M12I/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Uz1Vn25M12I/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Uz1Vn25M12I",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-27T19:05:00Z",
@@ -209,13 +209,13 @@
   {
     "id": "316103007858",
     "channelId": "akarindao",
-    "title": "W杯コロンビアvsポルトガルDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-27T20:52:00Z",
-    "startTime": "2026-06-27T20:52:00Z",
+    "title": "W杯クロアチア vs ガーナDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/20fe8b9f8839a827844d_akarindao_316103007858_1782593520//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2806878649",
+    "scheduledStartTime": "2026-06-27T20:52:05Z",
+    "startTime": "2026-06-27T20:52:05Z",
     "platform": "twitch",
-    "ttl": "2026-07-04T20:52:00.000Z",
+    "ttl": "2026-07-04T20:52:05.000Z",
     "streamerId": "yumeno_akari"
   },
   {
