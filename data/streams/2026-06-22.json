@@ -36,17 +36,5 @@
     "platform": "twitch",
     "ttl": "2026-06-29T20:39:21.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316078987122",
-    "channelId": "akarindao",
-    "title": "全力でW杯を楽しむ！アルゼンチン vs オーストリアDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/5c367c718b2574fa78f7_akarindao_316078987122_1782146635//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2802808962",
-    "scheduledStartTime": "2026-06-22T16:44:00Z",
-    "startTime": "2026-06-22T16:44:00Z",
-    "platform": "twitch",
-    "ttl": "2026-06-29T16:44:00.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
