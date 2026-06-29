@@ -3,11 +3,12 @@
     "id": "7ZYvtmOmQAQ",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【シャドバWB】新弾きたし水着きたし最近のカード覚えるか【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/7ZYvtmOmQAQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/7ZYvtmOmQAQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=7ZYvtmOmQAQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-29T10:45:00Z",
     "startTime": "2026-06-29T10:45:12Z",
+    "endTime": "2026-06-29T14:22:10Z",
     "ttl": "2026-07-06T10:45:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -63,6 +64,17 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "HP6yF2jhaR8",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "「もし自分に子どもがいたら」という話題で盛り上がるちる部【ぶいすぽっ！/ 藍沢エマ/緋月ゆい/夕刻ロベル/APEX】",
+    "thumbnail": "https://i.ytimg.com/vi/HP6yF2jhaR8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=HP6yF2jhaR8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-29T22:00:00Z",
+    "ttl": "2026-07-06T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "lItysu6Uctg",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】ご飯食べたから２時間は起きていなきゃいけないんです【ぶいすぽっ！/ 藍沢エマ】",
@@ -97,6 +109,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-29T12:00:00Z",
     "startTime": "2026-06-29T12:20:18Z",
+    "endTime": "2026-06-29T15:27:30Z",
     "ttl": "2026-07-06T12:00:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -116,11 +129,12 @@
     "id": "wUOAiiHRCh8",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【Pokémon Champions】いろはさんから学ぶポケモンバトル！！感謝！！【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/wUOAiiHRCh8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/wUOAiiHRCh8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=wUOAiiHRCh8",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-29T09:00:00Z",
     "startTime": "2026-06-29T08:57:53Z",
+    "endTime": "2026-06-29T15:04:35Z",
     "ttl": "2026-07-06T09:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -178,7 +192,7 @@
   {
     "id": "315308424432",
     "channelId": "erissuzukami",
-    "title": "lowkey chill low cort laid back val stream #nonchalant",
+    "title": "vtuber plays league for the first time (real)",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
     "url": "https://www.twitch.tv/erissuzukami",
     "scheduledStartTime": "2026-06-29T10:18:13Z",
