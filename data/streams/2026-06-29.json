@@ -41,7 +41,7 @@
     "id": "qxx-LwedyOE",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
     "title": "【APEX】釣り場で出会ったものたちの再会【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/qxx-LwedyOE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/qxx-LwedyOE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=qxx-LwedyOE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-29T10:00:00Z",
@@ -58,6 +58,7 @@
     "url": "https://www.youtube.com/watch?v=_RDHhzuTVsQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-29T14:00:00Z",
+    "startTime": "2026-06-29T14:03:23Z",
     "ttl": "2026-07-06T14:00:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -127,11 +128,12 @@
     "id": "N5xIFFwe6tc",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Splatoon3 】　かなりの初心者具合！塗ります！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/N5xIFFwe6tc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/N5xIFFwe6tc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=N5xIFFwe6tc",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-29T11:00:00Z",
     "startTime": "2026-06-29T11:01:41Z",
+    "endTime": "2026-06-29T13:11:37Z",
     "ttl": "2026-07-06T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -169,20 +171,9 @@
     "url": "https://www.youtube.com/watch?v=ZurGruRTMp4",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-29T14:00:00Z",
+    "startTime": "2026-06-29T14:00:55Z",
     "ttl": "2026-07-06T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "316109453298",
-    "channelId": "ren_kisaragi__",
-    "title": "テイルアーマーをわすれるな",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-06-29T09:02:26Z",
-    "startTime": "2026-06-29T09:02:26Z",
-    "platform": "twitch",
-    "ttl": "2026-07-06T09:02:26.000Z",
-    "streamerId": "kisaragi_ren"
   },
   {
     "id": "315308424432",
@@ -195,6 +186,18 @@
     "platform": "twitch",
     "ttl": "2026-07-06T10:18:13.000Z",
     "streamerId": "eris_suzukami"
+  },
+  {
+    "id": "316109453298",
+    "channelId": "ren_kisaragi__",
+    "title": "テイルアーマーをわすれるな",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/20635a186c340350d01d_ren_kisaragi___316109453298_1782723746//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2808028282",
+    "scheduledStartTime": "2026-06-29T09:02:31Z",
+    "startTime": "2026-06-29T09:02:31Z",
+    "platform": "twitch",
+    "ttl": "2026-07-06T09:02:31.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316099259121",
