@@ -1,5 +1,17 @@
 [
   {
+    "id": "7ZYvtmOmQAQ",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【シャドバWB】新弾きたし水着きたし最近のカード覚えるか【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/7ZYvtmOmQAQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=7ZYvtmOmQAQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-29T10:45:00Z",
+    "startTime": "2026-06-29T10:45:12Z",
+    "ttl": "2026-07-06T10:45:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "ca74CT6Vhl4",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【APEX】こんにちは、またえぺをやります。【ぶいすぽ/一ノ瀬うるは】",
@@ -32,6 +44,7 @@
     "url": "https://www.youtube.com/watch?v=qxx-LwedyOE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-29T10:00:00Z",
+    "startTime": "2026-06-29T10:06:48Z",
     "ttl": "2026-07-06T10:00:00.000Z",
     "streamerId": "tosaki_mimi"
   },
@@ -39,11 +52,12 @@
     "id": "lItysu6Uctg",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】ご飯食べたから２時間は起きていなきゃいけないんです【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/lItysu6Uctg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/lItysu6Uctg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=lItysu6Uctg",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-29T07:15:00Z",
     "startTime": "2026-06-29T07:18:51Z",
+    "endTime": "2026-06-29T10:08:04Z",
     "ttl": "2026-07-06T07:15:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -73,18 +87,6 @@
     "streamerId": "tsumugi_kokage"
   },
   {
-    "id": "mhd5SlEoZfE",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【スト６】　やるぞ焔や！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/mhd5SlEoZfE/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=mhd5SlEoZfE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-29T08:00:00Z",
-    "startTime": "2026-06-29T07:59:31Z",
-    "ttl": "2026-07-06T08:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
     "id": "N5xIFFwe6tc",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Splatoon3 】　かなりの初心者具合！塗ります！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -92,7 +94,21 @@
     "url": "https://www.youtube.com/watch?v=N5xIFFwe6tc",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-29T11:00:00Z",
+    "startTime": "2026-06-29T11:01:41Z",
     "ttl": "2026-07-06T11:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "mhd5SlEoZfE",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【スト６】　やるぞ焔や！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/mhd5SlEoZfE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=mhd5SlEoZfE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-29T08:00:00Z",
+    "startTime": "2026-06-29T07:59:31Z",
+    "endTime": "2026-06-29T10:02:16Z",
+    "ttl": "2026-07-06T08:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -130,6 +146,18 @@
     "platform": "twitch",
     "ttl": "2026-07-06T09:02:26.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "315308424432",
+    "channelId": "erissuzukami",
+    "title": "lowkey chill low cort laid back val stream #nonchalant",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
+    "url": "https://www.twitch.tv/erissuzukami",
+    "scheduledStartTime": "2026-06-29T10:18:13Z",
+    "startTime": "2026-06-29T10:18:13Z",
+    "platform": "twitch",
+    "ttl": "2026-07-06T10:18:13.000Z",
+    "streamerId": "eris_suzukami"
   },
   {
     "id": "316099259121",

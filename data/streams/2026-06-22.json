@@ -39,19 +39,6 @@
     "streamerId": "asumi_sena"
   },
   {
-    "id": "Km1P8D0wU2Y",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【 Escape from Tarkov 】アイスブレイカー❄いけんのか！w/ありさか、白雪レイド  【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/Km1P8D0wU2Y/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Km1P8D0wU2Y",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-22T11:00:00Z",
-    "startTime": "2026-06-22T11:20:17Z",
-    "endTime": "2026-06-22T20:42:29Z",
-    "ttl": "2026-06-29T11:00:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
     "id": "WcoyMW_xa2w",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "渚トラウトシェフによる藍沢エマの罵倒でございます【ぶいすぽっ！/ 藍沢エマ】",
@@ -141,30 +128,6 @@
     "endTime": "2026-06-22T15:49:57Z",
     "ttl": "2026-06-29T14:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316131394675",
-    "channelId": "ren_kisaragi__",
-    "title": "pͪoͣnͬpͣoͥnͭpͣa͡inͥ",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/af8dc247dcb8804f6a66_ren_kisaragi___316131394675_1782121399//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2802613984",
-    "scheduledStartTime": "2026-06-22T09:43:24Z",
-    "startTime": "2026-06-22T09:43:24Z",
-    "platform": "twitch",
-    "ttl": "2026-06-29T09:43:24.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316131375475",
-    "channelId": "ramuneshiranami",
-    "title": "LTKお疲れ様でした振り返り",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d7a77ecdc1351cc62f9c_ramuneshiranami_316131375475_1782121125//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2802612575",
-    "scheduledStartTime": "2026-06-22T09:38:51Z",
-    "startTime": "2026-06-22T09:38:51Z",
-    "platform": "twitch",
-    "ttl": "2026-06-29T09:38:51.000Z",
-    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316133763571",
