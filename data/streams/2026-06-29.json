@@ -101,10 +101,22 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "OZ6c5EJIL18",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 スト６】またここに戻る【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/OZ6c5EJIL18/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=OZ6c5EJIL18",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-29T15:40:00Z",
+    "startTime": "2026-06-29T15:43:50Z",
+    "ttl": "2026-07-06T15:40:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
     "id": "EGfQNp_sysE",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 VALORANT 】ぷるぷるえいむ w/kinako、なちょねこ、ありさか、ふらんしすこ【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/EGfQNp_sysE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/EGfQNp_sysE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=EGfQNp_sysE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-29T12:00:00Z",
@@ -112,18 +124,6 @@
     "endTime": "2026-06-29T15:27:30Z",
     "ttl": "2026-07-06T12:00:00.000Z",
     "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "WPtczHJ7oxI",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "💀アーカイブはメン限💀",
-    "thumbnail": "https://i.ytimg.com/vi/WPtczHJ7oxI/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=WPtczHJ7oxI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-29T12:00:00Z",
-    "startTime": "2026-06-29T11:54:23Z",
-    "ttl": "2026-07-06T12:00:00.000Z",
-    "streamerId": "yano_kuromu"
   },
   {
     "id": "wUOAiiHRCh8",
@@ -180,26 +180,27 @@
   {
     "id": "ZurGruRTMp4",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "ASMR FPS Gaming... | Faceit | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/ZurGruRTMp4/mqdefault_live.jpg",
+    "title": "ASMR FPS Gaming... | Premier | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
+    "thumbnail": "https://i.ytimg.com/vi/ZurGruRTMp4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ZurGruRTMp4",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-29T14:00:00Z",
     "startTime": "2026-06-29T14:00:55Z",
+    "endTime": "2026-06-29T16:33:04Z",
     "ttl": "2026-07-06T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
   {
-    "id": "315308424432",
-    "channelId": "erissuzukami",
-    "title": "vtuber plays league for the first time (real)",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
-    "url": "https://www.twitch.tv/erissuzukami",
-    "scheduledStartTime": "2026-06-29T10:18:13Z",
-    "startTime": "2026-06-29T10:18:13Z",
+    "id": "316165461107",
+    "channelId": "akarindao",
+    "title": "全力応援W杯日本 vs ブラジルDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-06-29T16:19:25Z",
+    "startTime": "2026-06-29T16:19:25Z",
     "platform": "twitch",
-    "ttl": "2026-07-06T10:18:13.000Z",
-    "streamerId": "eris_suzukami"
+    "ttl": "2026-07-06T16:19:25.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316109453298",
