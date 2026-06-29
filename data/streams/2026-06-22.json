@@ -1,31 +1,5 @@
 [
   {
-    "id": "C6l_kJ-Ktx0",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【シャドバWB】最近のカードしらないけどオールスターならやるよね【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/C6l_kJ-Ktx0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=C6l_kJ-Ktx0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-22T11:30:00Z",
-    "startTime": "2026-06-22T11:28:23Z",
-    "endTime": "2026-06-22T14:02:15Z",
-    "ttl": "2026-06-29T11:30:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
-    "id": "BtfnwbBbixk",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "いろんなこと",
-    "thumbnail": "https://i.ytimg.com/vi/BtfnwbBbixk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=BtfnwbBbixk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-22T11:30:00Z",
-    "startTime": "2026-06-22T11:29:58Z",
-    "endTime": "2026-06-22T14:46:04Z",
-    "ttl": "2026-06-29T11:30:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
     "id": "-PJ0QbOki94",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "出勤.通学嫌だよね。集まれ～！！！【空澄セナ/ぶいすぽっ！】",
@@ -65,19 +39,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "vTswyxJfBFQ",
-    "channelId": "UCS5l_Y0oMVTjEos2LuyeSZQ",
-    "title": "ぶいすぽに入って３周年記念 こんばんわ",
-    "thumbnail": "https://i.ytimg.com/vi/vTswyxJfBFQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=vTswyxJfBFQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-22T11:30:00Z",
-    "startTime": "2026-06-22T11:34:54Z",
-    "endTime": "2026-06-22T12:56:41Z",
-    "ttl": "2026-06-29T11:30:00.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "ysCRU7YhJnM",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 OW 〗もしもーし。聞こえてる？の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
@@ -89,32 +50,6 @@
     "endTime": "2026-06-22T17:07:24Z",
     "ttl": "2026-06-29T14:30:00.000Z",
     "streamerId": "yano_kuromu"
-  },
-  {
-    "id": "HD2-dzoFHsk",
-    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
-    "title": "【BIOHAZARD RE:2】クレア編行ってみるぞ！！絶対びっくりしない（決意）【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/HD2-dzoFHsk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=HD2-dzoFHsk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-22T12:00:00Z",
-    "startTime": "2026-06-22T11:59:49Z",
-    "endTime": "2026-06-22T15:13:09Z",
-    "ttl": "2026-06-29T12:00:00.000Z",
-    "streamerId": "amayui_moka"
-  },
-  {
-    "id": "H0q9fzV5b7k",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤ LTK振り返り雑談 ◢　みんなと見ながら振り返るぞ！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/H0q9fzV5b7k/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=H0q9fzV5b7k",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-22T12:30:00Z",
-    "startTime": "2026-06-22T12:31:11Z",
-    "endTime": "2026-06-22T18:59:00Z",
-    "ttl": "2026-06-29T12:30:00.000Z",
-    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "tE1YmpwQCHA",

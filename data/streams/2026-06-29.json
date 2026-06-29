@@ -15,11 +15,12 @@
     "id": "ca74CT6Vhl4",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【APEX】こんにちは、またえぺをやります。【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/ca74CT6Vhl4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ca74CT6Vhl4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ca74CT6Vhl4",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-29T09:00:00Z",
     "startTime": "2026-06-29T09:03:50Z",
+    "endTime": "2026-06-29T12:08:18Z",
     "ttl": "2026-07-06T09:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -45,8 +46,20 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-29T10:00:00Z",
     "startTime": "2026-06-29T10:06:48Z",
+    "endTime": "2026-06-29T11:50:14Z",
     "ttl": "2026-07-06T10:00:00.000Z",
     "streamerId": "tosaki_mimi"
+  },
+  {
+    "id": "_RDHhzuTVsQ",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【雑談】呑み雑🍷【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/_RDHhzuTVsQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=_RDHhzuTVsQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-29T14:00:00Z",
+    "ttl": "2026-07-06T14:00:00.000Z",
+    "streamerId": "yakumo_beni"
   },
   {
     "id": "lItysu6Uctg",
@@ -73,6 +86,30 @@
     "endTime": "2026-06-29T05:34:46Z",
     "ttl": "2026-07-06T01:30:00.000Z",
     "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "EGfQNp_sysE",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 VALORANT 】ぷるぷるえいむ w/kinako、なちょねこ、ありさか、ふらんしすこ【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/EGfQNp_sysE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=EGfQNp_sysE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-29T12:00:00Z",
+    "startTime": "2026-06-29T12:20:18Z",
+    "ttl": "2026-07-06T12:00:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "WPtczHJ7oxI",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "💀アーカイブはメン限💀",
+    "thumbnail": "https://i.ytimg.com/vi/WPtczHJ7oxI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=WPtczHJ7oxI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-29T12:00:00Z",
+    "startTime": "2026-06-29T11:54:23Z",
+    "ttl": "2026-07-06T12:00:00.000Z",
+    "streamerId": "yano_kuromu"
   },
   {
     "id": "wUOAiiHRCh8",
