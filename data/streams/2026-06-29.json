@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=QyO7UhSbA88",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-29T01:30:00Z",
+    "startTime": "2026-06-29T01:29:34Z",
     "ttl": "2026-07-06T01:30:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -29,6 +30,7 @@
     "url": "https://www.youtube.com/watch?v=_2-fJ1X92Cc",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-29T01:30:00Z",
+    "startTime": "2026-06-29T01:30:19Z",
     "ttl": "2026-07-06T01:30:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -42,5 +44,17 @@
     "scheduledStartTime": "2026-06-29T14:00:00Z",
     "ttl": "2026-07-06T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "316099259121",
+    "channelId": "ren_kisaragi__",
+    "title": "Evo三日目みるぞ～～～～",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-29T01:27:13Z",
+    "startTime": "2026-06-29T01:27:13Z",
+    "platform": "twitch",
+    "ttl": "2026-07-06T01:27:13.000Z",
+    "streamerId": "kisaragi_ren"
   }
 ]
