@@ -1,15 +1,39 @@
 [
   {
+    "id": "ca74CT6Vhl4",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【APEX】こんにちは、またえぺをやります。【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/ca74CT6Vhl4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ca74CT6Vhl4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-29T09:00:00Z",
+    "startTime": "2026-06-29T09:03:50Z",
+    "ttl": "2026-07-06T09:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "gQvQox0nLCo",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】た　だ　い　ま【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/gQvQox0nLCo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/gQvQox0nLCo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=gQvQox0nLCo",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-29T05:00:00Z",
     "startTime": "2026-06-29T05:04:45Z",
+    "endTime": "2026-06-29T08:49:31Z",
     "ttl": "2026-07-06T05:00:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "qxx-LwedyOE",
+    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
+    "title": "【APEX】釣り場で出会ったものたちの再会【ぶいすぽ/兎咲ミミ】",
+    "thumbnail": "https://i.ytimg.com/vi/qxx-LwedyOE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=qxx-LwedyOE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-29T10:00:00Z",
+    "ttl": "2026-07-06T10:00:00.000Z",
+    "streamerId": "tosaki_mimi"
   },
   {
     "id": "lItysu6Uctg",
@@ -37,6 +61,18 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "wUOAiiHRCh8",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【Pokémon Champions】いろはさんから学ぶポケモンバトル！！感謝！！【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/wUOAiiHRCh8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=wUOAiiHRCh8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-29T09:00:00Z",
+    "startTime": "2026-06-29T08:57:53Z",
+    "ttl": "2026-07-06T09:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "mhd5SlEoZfE",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　やるぞ焔や！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -44,6 +80,7 @@
     "url": "https://www.youtube.com/watch?v=mhd5SlEoZfE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-29T08:00:00Z",
+    "startTime": "2026-06-29T07:59:31Z",
     "ttl": "2026-07-06T08:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -81,6 +118,18 @@
     "scheduledStartTime": "2026-06-29T14:00:00Z",
     "ttl": "2026-07-06T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "316109453298",
+    "channelId": "ren_kisaragi__",
+    "title": "テイルアーマーをわすれるな",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-06-29T09:02:26Z",
+    "startTime": "2026-06-29T09:02:26Z",
+    "platform": "twitch",
+    "ttl": "2026-07-06T09:02:26.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316099259121",

@@ -78,32 +78,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "x5HwErZSkdQ",
-    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
-    "title": "【 OverWatch 】まずは環境を調査【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/x5HwErZSkdQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=x5HwErZSkdQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-22T08:15:00Z",
-    "startTime": "2026-06-22T08:26:58Z",
-    "endTime": "2026-06-22T16:31:33Z",
-    "ttl": "2026-06-29T08:15:00.000Z",
-    "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "W9N-YCVKXKI",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【鳴潮】2章-第10幕から11幕「暗き潮に映る夜景」まで行くぞー！【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/W9N-YCVKXKI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=W9N-YCVKXKI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-22T09:00:00Z",
-    "startTime": "2026-06-22T09:03:45Z",
-    "endTime": "2026-06-22T15:06:25Z",
-    "ttl": "2026-06-29T09:00:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
     "id": "vTswyxJfBFQ",
     "channelId": "UCS5l_Y0oMVTjEos2LuyeSZQ",
     "title": "ぶいすぽに入って３周年記念 こんばんわ",
@@ -215,17 +189,5 @@
     "platform": "twitch",
     "ttl": "2026-06-29T16:44:00.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316067505649",
-    "channelId": "choyahanabi",
-    "title": "【スト６】 やるしかねえ！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/548bc8c08797e20165db_choyahanabi_316067505649_1782115387//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2802585657",
-    "scheduledStartTime": "2026-06-22T08:03:13Z",
-    "startTime": "2026-06-22T08:03:13Z",
-    "platform": "twitch",
-    "ttl": "2026-06-29T08:03:13.000Z",
-    "streamerId": "choya_hanabi"
   }
 ]
