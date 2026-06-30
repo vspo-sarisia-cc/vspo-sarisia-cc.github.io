@@ -11,6 +11,18 @@
     "streamerId": "vspo_official"
   },
   {
+    "id": "RnM1G3T2JJo",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】マウスパッドちっちゃすぎ【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/RnM1G3T2JJo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=RnM1G3T2JJo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-30T05:45:00Z",
+    "startTime": "2026-06-30T05:46:34Z",
+    "ttl": "2026-07-07T05:45:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "FClwv7W6oJk",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "💀誕生日記念2026グッズ販売中💀",
@@ -77,18 +89,6 @@
     "streamerId": "arya_kuroha"
   },
   {
-    "id": "oUnxO9YOEdo",
-    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
-    "title": "【2ND ANNIVERSARY】we're at the two year finish line!! 💚【#JiraThe2nd #VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/oUnxO9YOEdo/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=oUnxO9YOEdo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-30T03:00:00Z",
-    "startTime": "2026-06-30T03:01:33Z",
-    "ttl": "2026-07-07T03:00:00.000Z",
-    "streamerId": "jira_jisaki"
-  },
-  {
     "id": "U1gjcV0zYr8",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【2ND ANNIVERSARY】unarchived karaoke!!【#JIraThe2nd #VSPOEN #JiraJisaki】",
@@ -96,7 +96,21 @@
     "url": "https://www.youtube.com/watch?v=U1gjcV0zYr8",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T04:00:00Z",
+    "startTime": "2026-06-30T06:09:20Z",
     "ttl": "2026-07-07T04:00:00.000Z",
+    "streamerId": "jira_jisaki"
+  },
+  {
+    "id": "oUnxO9YOEdo",
+    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+    "title": "【2ND ANNIVERSARY】we're at the two year finish line!! 💚【#JiraThe2nd #VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/oUnxO9YOEdo/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=oUnxO9YOEdo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-30T03:00:00Z",
+    "startTime": "2026-06-30T03:01:33Z",
+    "endTime": "2026-06-30T06:02:26Z",
+    "ttl": "2026-07-07T03:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
   {
