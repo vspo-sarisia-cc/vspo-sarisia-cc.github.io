@@ -181,11 +181,12 @@
     "id": "x_MXtTCi-nU",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【APEX LEGENDS】$15,000 FALLOUT CREATOR TOURNAMENT ! #ApexCTS【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/x_MXtTCi-nU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/x_MXtTCi-nU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=x_MXtTCi-nU",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T15:00:00Z",
     "startTime": "2026-06-30T15:05:27Z",
+    "endTime": "2026-06-30T21:26:45Z",
     "ttl": "2026-07-07T15:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -241,18 +242,6 @@
     "streamerId": "yumeno_akari"
   },
   {
-    "id": "320230072027",
-    "channelId": "aryakuroha",
-    "title": "✦ $15,000 Fallout Creator Tournament ! #ApexCTS",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-06-30T15:05:15Z",
-    "startTime": "2026-06-30T15:05:15Z",
-    "platform": "twitch",
-    "ttl": "2026-07-07T15:05:15.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
     "id": "316105810417",
     "channelId": "ramuneshiranami",
     "title": "Mるーーーーーーーーーーくムズすぎ",
@@ -287,5 +276,17 @@
     "platform": "twitch",
     "ttl": "2026-07-07T08:02:07.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "320230072027",
+    "channelId": "aryakuroha",
+    "title": "✦ $15,000 Fallout Creator Tournament ! #ApexCTS",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/5ea3f0f5d171d45eb034_aryakuroha_320230072027_1782831915//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2808928571",
+    "scheduledStartTime": "2026-06-30T15:05:24Z",
+    "startTime": "2026-06-30T15:05:24Z",
+    "platform": "twitch",
+    "ttl": "2026-07-07T15:05:24.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
