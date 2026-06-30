@@ -58,6 +58,17 @@
     "streamerId": "yano_kuromu"
   },
   {
+    "id": "Tnta1tNnURU",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【Pokémon Champions】いろはさんから学ぶポケモンバトル２！！大感謝！！【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/Tnta1tNnURU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Tnta1tNnURU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-30T12:00:00Z",
+    "ttl": "2026-07-07T12:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "Pen4Sc6us9k",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【朝活雑談】　７月おはようはやすぎる！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -113,18 +124,6 @@
     "streamerId": "arya_kuroha"
   },
   {
-    "id": "U1gjcV0zYr8",
-    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
-    "title": "【2ND ANNIVERSARY】unarchived karaoke!!【#JIraThe2nd #VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/U1gjcV0zYr8/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=U1gjcV0zYr8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-30T04:00:00Z",
-    "startTime": "2026-06-30T06:09:20Z",
-    "ttl": "2026-07-07T04:00:00.000Z",
-    "streamerId": "jira_jisaki"
-  },
-  {
     "id": "oUnxO9YOEdo",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【2ND ANNIVERSARY】we're at the two year finish line!! 💚【#JiraThe2nd #VSPOEN #JiraJisaki】",
@@ -156,7 +155,20 @@
     "url": "https://www.youtube.com/watch?v=-A-dhpoNGt4",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T09:00:00Z",
+    "startTime": "2026-06-30T09:00:09Z",
     "ttl": "2026-07-07T09:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316113638898",
+    "channelId": "choyahanabi",
+    "title": "【スト６】地上にいたい！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/8cd3d4644af44b6c323d_choyahanabi_316113638898_1782806522//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2808759119",
+    "scheduledStartTime": "2026-06-30T08:02:07Z",
+    "startTime": "2026-06-30T08:02:07Z",
+    "platform": "twitch",
+    "ttl": "2026-07-07T08:02:07.000Z",
+    "streamerId": "choya_hanabi"
   }
 ]
