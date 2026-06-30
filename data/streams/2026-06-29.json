@@ -195,18 +195,6 @@
     "streamerId": "remia_aotsuki"
   },
   {
-    "id": "316165461107",
-    "channelId": "akarindao",
-    "title": "全力応援W杯モロッコ vs オランダDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-29T16:19:25Z",
-    "startTime": "2026-06-29T16:19:25Z",
-    "platform": "twitch",
-    "ttl": "2026-07-06T16:19:25.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316109453298",
     "channelId": "ren_kisaragi__",
     "title": "テイルアーマーをわすれるな",
@@ -229,5 +217,17 @@
     "platform": "twitch",
     "ttl": "2026-07-06T01:27:18.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316165461107",
+    "channelId": "akarindao",
+    "title": "全力応援W杯日本 vs ブラジルDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/f7eabd72cea121945c05_akarindao_316165461107_1782749965//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2808218922",
+    "scheduledStartTime": "2026-06-29T16:19:30Z",
+    "startTime": "2026-06-29T16:19:30Z",
+    "platform": "twitch",
+    "ttl": "2026-07-06T16:19:30.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]

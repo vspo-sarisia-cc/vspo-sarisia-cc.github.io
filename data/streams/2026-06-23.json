@@ -254,17 +254,5 @@
     "platform": "twitch",
     "ttl": "2026-06-30T13:57:55.000Z",
     "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "316080699250",
-    "channelId": "choyahanabi",
-    "title": "【スト６】 まじでスキマ時間いくぞ！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/af1a85469ef03fcdd1af_choyahanabi_316080699250_1782190891//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2803290304",
-    "scheduledStartTime": "2026-06-23T05:01:36Z",
-    "startTime": "2026-06-23T05:01:36Z",
-    "platform": "twitch",
-    "ttl": "2026-06-30T05:01:36.000Z",
-    "streamerId": "choya_hanabi"
   }
 ]
