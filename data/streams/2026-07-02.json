@@ -31,5 +31,17 @@
     "scheduledStartTime": "2026-07-02T13:45:00Z",
     "ttl": "2026-07-09T13:45:00.000Z",
     "streamerId": "narin_mikure"
+  },
+  {
+    "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
+    "channelId": "remiaaotsuki",
+    "title": "EU faceit elo gain?",
+    "thumbnail": "",
+    "url": "https://www.twitch.tv/remiaaotsuki",
+    "scheduledStartTime": "2026-07-02T14:00:00Z",
+    "startTime": "2026-07-02T14:00:00Z",
+    "platform": "twitch",
+    "ttl": "2026-07-09T14:00:00.000Z",
+    "streamerId": "remia_aotsuki"
   }
 ]
