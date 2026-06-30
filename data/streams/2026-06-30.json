@@ -14,13 +14,37 @@
     "id": "RnM1G3T2JJo",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】マウスパッドちっちゃすぎ【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/RnM1G3T2JJo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/RnM1G3T2JJo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=RnM1G3T2JJo",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T05:45:00Z",
     "startTime": "2026-06-30T05:46:34Z",
+    "endTime": "2026-06-30T07:46:53Z",
     "ttl": "2026-07-07T05:45:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "5Gz_Cbvc9eM",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 #キズナアイ杯2026 】アイちゃんお誕生日おめでとうございます！！！優勝目指します！！！ 【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/5Gz_Cbvc9eM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=5Gz_Cbvc9eM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-30T11:00:00Z",
+    "ttl": "2026-07-07T11:00:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "MVOKB4EdIDo",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】野菜スティックおいしいよね【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/MVOKB4EdIDo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=MVOKB4EdIDo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-30T08:00:00Z",
+    "startTime": "2026-06-30T07:56:50Z",
+    "ttl": "2026-07-07T08:00:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "FClwv7W6oJk",
