@@ -55,7 +55,7 @@
     "id": "dvpvkV_QCvw",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【 Escape from Tarkov 】kappaだしソロでアイスブレイカーいけっしょｗ【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/dvpvkV_QCvw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/dvpvkV_QCvw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=dvpvkV_QCvw",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T13:20:00Z",
@@ -123,6 +123,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T12:00:00Z",
     "startTime": "2026-06-30T12:00:05Z",
+    "endTime": "2026-06-30T16:47:32Z",
     "ttl": "2026-07-07T12:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -237,6 +238,18 @@
     "platform": "twitch",
     "ttl": "2026-07-07T12:35:40.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316115761906",
+    "channelId": "akarindao",
+    "title": "W杯コートジボワール vs ノルウェーDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-06-30T16:50:49Z",
+    "startTime": "2026-06-30T16:50:49Z",
+    "platform": "twitch",
+    "ttl": "2026-07-07T16:50:49.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "320230072027",

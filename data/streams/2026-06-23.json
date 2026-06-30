@@ -13,19 +13,6 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "E2PyDBTO-ng",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  ELDEN RING ◢　＃11 エルデンリング続きやるぞ！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/E2PyDBTO-ng/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=E2PyDBTO-ng",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-23T16:30:00Z",
-    "startTime": "2026-06-23T16:32:23Z",
-    "endTime": "2026-06-23T21:06:49Z",
-    "ttl": "2026-06-30T16:30:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
     "id": "316074726001",
     "channelId": "akarindao",
     "title": "全力でW杯を楽しむ！イングランド vs ガーナDAZNで同時視聴中",
@@ -35,18 +22,6 @@
     "startTime": "2026-06-23T19:47:13Z",
     "platform": "twitch",
     "ttl": "2026-06-30T19:47:13.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316083487090",
-    "channelId": "akarindao",
-    "title": "全力でW杯を楽しむ！ポルトガル vs ウズベキスタンDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/61db06acdb6f420c5bef_akarindao_316083487090_1782233143//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2803577577",
-    "scheduledStartTime": "2026-06-23T16:45:48Z",
-    "startTime": "2026-06-23T16:45:48Z",
-    "platform": "twitch",
-    "ttl": "2026-06-30T16:45:48.000Z",
     "streamerId": "yumeno_akari"
   }
 ]
