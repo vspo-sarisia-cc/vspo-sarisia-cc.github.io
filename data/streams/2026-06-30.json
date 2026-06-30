@@ -231,18 +231,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316116283122",
-    "channelId": "akarindao",
-    "title": "W杯フランス vs スウェーデンDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-30T20:53:11Z",
-    "startTime": "2026-06-30T20:53:11Z",
-    "platform": "twitch",
-    "ttl": "2026-07-07T20:53:11.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316105810417",
     "channelId": "ramuneshiranami",
     "title": "Mるーーーーーーーーーーくムズすぎ",
@@ -253,6 +241,18 @@
     "platform": "twitch",
     "ttl": "2026-07-07T12:35:45.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316116283122",
+    "channelId": "akarindao",
+    "title": "W杯フランス vs スウェーデンDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/a0f8de32705be62a2b33_akarindao_316116283122_1782852791//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2809158710",
+    "scheduledStartTime": "2026-06-30T20:53:17Z",
+    "startTime": "2026-06-30T20:53:17Z",
+    "platform": "twitch",
+    "ttl": "2026-07-07T20:53:17.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316115761906",
