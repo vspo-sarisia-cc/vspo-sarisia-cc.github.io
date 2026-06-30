@@ -41,11 +41,12 @@
     "id": "5Gz_Cbvc9eM",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 #キズナアイ杯2026 】アイちゃんお誕生日おめでとうございます！！！優勝目指します！！！ 【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/5Gz_Cbvc9eM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/5Gz_Cbvc9eM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=5Gz_Cbvc9eM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T11:00:00Z",
     "startTime": "2026-06-30T10:58:31Z",
+    "endTime": "2026-06-30T13:34:11Z",
     "ttl": "2026-07-07T11:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -57,6 +58,7 @@
     "url": "https://www.youtube.com/watch?v=dvpvkV_QCvw",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T13:20:00Z",
+    "startTime": "2026-06-30T13:23:14Z",
     "ttl": "2026-07-07T13:20:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -68,6 +70,7 @@
     "url": "https://www.youtube.com/watch?v=fVNIq0cRKTE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T13:15:00Z",
+    "startTime": "2026-06-30T13:15:38Z",
     "ttl": "2026-07-07T13:15:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -93,6 +96,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T11:00:00Z",
     "startTime": "2026-06-30T11:01:17Z",
+    "endTime": "2026-06-30T13:48:59Z",
     "ttl": "2026-07-07T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -150,6 +154,7 @@
     "url": "https://www.youtube.com/watch?v=n3VPT1WQ0Ds",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T13:57:00Z",
+    "startTime": "2026-06-30T13:57:07Z",
     "ttl": "2026-07-07T13:57:00.000Z",
     "streamerId": "remia_aotsuki"
   },

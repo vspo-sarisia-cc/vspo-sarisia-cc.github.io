@@ -87,17 +87,5 @@
     "platform": "twitch",
     "ttl": "2026-06-30T16:45:48.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316073615089",
-    "channelId": "kokagetsumugi",
-    "title": "OWインストール終わるまで大リハビリデスマ",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/ac15ecb0842490c205cc_kokagetsumugi_316073615089_1782223070//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2803483162",
-    "scheduledStartTime": "2026-06-23T13:57:55Z",
-    "startTime": "2026-06-23T13:57:55Z",
-    "platform": "twitch",
-    "ttl": "2026-06-30T13:57:55.000Z",
-    "streamerId": "tsumugi_kokage"
   }
 ]
