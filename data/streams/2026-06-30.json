@@ -16,7 +16,7 @@
     "id": "kp6A2VCMq8Y",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【APEX】またまたえぺらしい【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/kp6A2VCMq8Y/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/kp6A2VCMq8Y/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=kp6A2VCMq8Y",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T12:00:00Z",
@@ -60,6 +60,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T13:20:00Z",
     "startTime": "2026-06-30T13:23:14Z",
+    "endTime": "2026-06-30T16:06:22Z",
     "ttl": "2026-07-07T13:20:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -67,11 +68,12 @@
     "id": "fVNIq0cRKTE",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【雑談】6月もおわりですね【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/fVNIq0cRKTE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/fVNIq0cRKTE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=fVNIq0cRKTE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T13:15:00Z",
     "startTime": "2026-06-30T13:15:38Z",
+    "endTime": "2026-06-30T15:03:58Z",
     "ttl": "2026-07-07T13:15:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -127,12 +129,13 @@
   {
     "id": "s_yGVjfPHPE",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "＃2【 逆転裁判123 成歩堂セレクション 】　完全初見論破でゆく！！！！！！！！※ネタバレ注意　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/s_yGVjfPHPE/mqdefault_live.jpg",
+    "title": "＃2【 逆転裁判123 成歩堂セレクション 】　完全初見論破でゆく！！！！！！！！※ネタバレ注意　3話～　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/s_yGVjfPHPE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=s_yGVjfPHPE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T11:00:00Z",
     "startTime": "2026-06-30T11:00:35Z",
+    "endTime": "2026-06-30T15:20:01Z",
     "ttl": "2026-07-07T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -180,6 +183,7 @@
     "url": "https://www.youtube.com/watch?v=x_MXtTCi-nU",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T15:00:00Z",
+    "startTime": "2026-06-30T15:05:27Z",
     "ttl": "2026-07-07T15:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -200,7 +204,7 @@
     "id": "ZGaTS_F55HE",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【POWERWASH SIMULATOR 2】i'm back home! :D【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/ZGaTS_F55HE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ZGaTS_F55HE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ZGaTS_F55HE",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T11:00:00Z",
@@ -233,6 +237,18 @@
     "platform": "twitch",
     "ttl": "2026-07-07T12:35:40.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "320230072027",
+    "channelId": "aryakuroha",
+    "title": "✦ $15,000 Fallout Creator Tournament ! #ApexCTS",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-06-30T15:05:15Z",
+    "startTime": "2026-06-30T15:05:15Z",
+    "platform": "twitch",
+    "ttl": "2026-07-07T15:05:15.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "316113638898",
