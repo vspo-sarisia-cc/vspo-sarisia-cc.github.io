@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=mVf_yBhUDyM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T09:50:00Z",
+    "startTime": "2026-06-30T09:50:18Z",
     "ttl": "2026-07-07T09:50:00.000Z",
     "streamerId": "vspo_official"
   },
@@ -38,13 +39,25 @@
     "id": "MVOKB4EdIDo",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】野菜スティックおいしいよね【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/MVOKB4EdIDo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/MVOKB4EdIDo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=MVOKB4EdIDo",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T08:00:00Z",
     "startTime": "2026-06-30T07:56:50Z",
+    "endTime": "2026-06-30T10:11:08Z",
     "ttl": "2026-07-07T08:00:00.000Z",
     "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "otSXIygME6A",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【雑談】６月も終わりだね～【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/otSXIygME6A/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=otSXIygME6A",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-30T11:00:00Z",
+    "ttl": "2026-07-07T11:00:00.000Z",
+    "streamerId": "nekota_tsuna"
   },
   {
     "id": "FClwv7W6oJk",
