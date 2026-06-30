@@ -154,12 +154,13 @@
   {
     "id": "LUhYoYkAeSM",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "2nd Anniversary | Celebrating my 2nd year existing! #Remia2Ani【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/LUhYoYkAeSM/mqdefault_live.jpg",
+    "title": "2nd Anniversary + 3d Chibi debut | Celebrating my 2 Years! #Remia2Ani【#VSPOEN #RemiaAotsuki】",
+    "thumbnail": "https://i.ytimg.com/vi/LUhYoYkAeSM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=LUhYoYkAeSM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T14:00:00Z",
     "startTime": "2026-06-30T14:01:38Z",
+    "endTime": "2026-06-30T19:10:55Z",
     "ttl": "2026-07-07T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -228,30 +229,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316115761906",
-    "channelId": "akarindao",
-    "title": "W杯コートジボワール vs ノルウェーDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-06-30T16:50:49Z",
-    "startTime": "2026-06-30T16:50:49Z",
-    "platform": "twitch",
-    "ttl": "2026-07-07T16:50:49.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316105810417",
-    "channelId": "ramuneshiranami",
-    "title": "Mるーーーーーーーーーーくムズすぎ",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-06-30T12:35:40Z",
-    "startTime": "2026-06-30T12:35:40Z",
-    "platform": "twitch",
-    "ttl": "2026-07-07T12:35:40.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "320230072027",
     "channelId": "aryakuroha",
     "title": "✦ $15,000 Fallout Creator Tournament ! #ApexCTS",
@@ -262,6 +239,30 @@
     "platform": "twitch",
     "ttl": "2026-07-07T15:05:15.000Z",
     "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "316105810417",
+    "channelId": "ramuneshiranami",
+    "title": "Mるーーーーーーーーーーくムズすぎ",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/ab79beafed9fb28d92b8_ramuneshiranami_316105810417_1782822940//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2808853207",
+    "scheduledStartTime": "2026-06-30T12:35:45Z",
+    "startTime": "2026-06-30T12:35:45Z",
+    "platform": "twitch",
+    "ttl": "2026-07-07T12:35:45.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316115761906",
+    "channelId": "akarindao",
+    "title": "W杯コートジボワール vs ノルウェーDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/703adbbc0093094d18ef_akarindao_316115761906_1782838248//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2808990346",
+    "scheduledStartTime": "2026-06-30T16:50:54Z",
+    "startTime": "2026-06-30T16:50:54Z",
+    "platform": "twitch",
+    "ttl": "2026-07-07T16:50:54.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316113638898",

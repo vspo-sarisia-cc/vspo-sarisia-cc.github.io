@@ -11,17 +11,5 @@
     "endTime": "2026-06-23T23:54:17Z",
     "ttl": "2026-06-30T22:00:00.000Z",
     "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "316074726001",
-    "channelId": "akarindao",
-    "title": "全力でW杯を楽しむ！イングランド vs ガーナDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/cf7716466a592521dca7_akarindao_316074726001_1782244028//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2803705312",
-    "scheduledStartTime": "2026-06-23T19:47:13Z",
-    "startTime": "2026-06-23T19:47:13Z",
-    "platform": "twitch",
-    "ttl": "2026-06-30T19:47:13.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
