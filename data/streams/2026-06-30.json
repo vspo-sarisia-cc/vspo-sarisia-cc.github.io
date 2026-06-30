@@ -21,6 +21,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T12:00:00Z",
     "startTime": "2026-06-30T12:00:48Z",
+    "endTime": "2026-06-30T14:59:50Z",
     "ttl": "2026-07-07T12:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -91,7 +92,7 @@
     "id": "otSXIygME6A",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【雑談】６月も終わりだね～【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/otSXIygME6A/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/otSXIygME6A/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=otSXIygME6A",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T11:00:00Z",
@@ -147,6 +148,18 @@
     "streamerId": "choya_hanabi"
   },
   {
+    "id": "LUhYoYkAeSM",
+    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
+    "title": "2nd Anniversary | Celebrating my 2nd year existing! #Remia2Ani【#VSPOEN #RemiaAotsuki】",
+    "thumbnail": "https://i.ytimg.com/vi/LUhYoYkAeSM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=LUhYoYkAeSM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-30T14:00:00Z",
+    "startTime": "2026-06-30T14:01:38Z",
+    "ttl": "2026-07-07T14:00:00.000Z",
+    "streamerId": "remia_aotsuki"
+  },
+  {
     "id": "n3VPT1WQ0Ds",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "花になって『Remia COVER』#vspo_en",
@@ -155,24 +168,14 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T13:57:00Z",
     "startTime": "2026-06-30T13:57:07Z",
+    "endTime": "2026-06-30T14:01:25Z",
     "ttl": "2026-07-07T13:57:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "LUhYoYkAeSM",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "2nd Anniversary | Celebrating my 2nd year existing! #Remia2Ani【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/LUhYoYkAeSM/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=LUhYoYkAeSM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-30T14:00:00Z",
-    "ttl": "2026-07-07T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
   {
     "id": "x_MXtTCi-nU",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-    "title": "【APEX LEGENDS】$15,000 CREATOR TOURNAMENT !!【#VSPOEN #AryaKuroha】",
+    "title": "【APEX LEGENDS】$15,000 FALLOUT CREATOR TOURNAMENT ! #ApexCTS【#VSPOEN #AryaKuroha】",
     "thumbnail": "https://i.ytimg.com/vi/x_MXtTCi-nU/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=x_MXtTCi-nU",
     "platform": "youtube",
@@ -202,6 +205,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T11:00:00Z",
     "startTime": "2026-06-30T11:17:44Z",
+    "endTime": "2026-06-30T15:01:14Z",
     "ttl": "2026-07-07T11:00:00.000Z",
     "streamerId": "riko_solari"
   },
