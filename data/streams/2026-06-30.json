@@ -3,11 +3,12 @@
     "id": "mVf_yBhUDyM",
     "channelId": "UCuI5XaO-6VkOEhHao6ij7JA",
     "title": "【無料パート＆お姉さん達の裏側配信】少年の、忘れられないミステリアスお姉さん・・・ 【#ぶいすぽ激ロー】",
-    "thumbnail": "https://i.ytimg.com/vi/mVf_yBhUDyM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/mVf_yBhUDyM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=mVf_yBhUDyM",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T09:50:00Z",
     "startTime": "2026-06-30T09:50:18Z",
+    "endTime": "2026-06-30T12:28:38Z",
     "ttl": "2026-07-07T09:50:00.000Z",
     "streamerId": "vspo_official"
   },
@@ -47,6 +48,28 @@
     "startTime": "2026-06-30T10:58:31Z",
     "ttl": "2026-07-07T11:00:00.000Z",
     "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "dvpvkV_QCvw",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【 Escape from Tarkov 】kappaだしソロでアイスブレイカーいけっしょｗ【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/dvpvkV_QCvw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=dvpvkV_QCvw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-30T13:20:00Z",
+    "ttl": "2026-07-07T13:20:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "fVNIq0cRKTE",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【雑談】6月もおわりですね【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/fVNIq0cRKTE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=fVNIq0cRKTE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-30T13:15:00Z",
+    "ttl": "2026-07-07T13:15:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "MVOKB4EdIDo",
@@ -189,6 +212,18 @@
     "endTime": "2026-06-30T11:20:08Z",
     "ttl": "2026-07-07T09:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316105810417",
+    "channelId": "ramuneshiranami",
+    "title": "Mるーーーーーーーーーーくムズすぎ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-06-30T12:35:40Z",
+    "startTime": "2026-06-30T12:35:40Z",
+    "platform": "twitch",
+    "ttl": "2026-07-07T12:35:40.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316113638898",
