@@ -31,5 +31,16 @@
     "scheduledStartTime": "2026-07-01T03:00:00Z",
     "ttl": "2026-07-08T03:00:00.000Z",
     "streamerId": "narin_mikure"
+  },
+  {
+    "id": "dw44tbH-h7M",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Meccha Chameleon◢ PAINTING WITH PINOYS | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/dw44tbH-h7M/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=dw44tbH-h7M",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-01T10:00:00Z",
+    "ttl": "2026-07-08T10:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]

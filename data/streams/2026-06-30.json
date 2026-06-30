@@ -12,6 +12,18 @@
     "streamerId": "vspo_official"
   },
   {
+    "id": "kp6A2VCMq8Y",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【APEX】またまたえぺらしい【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/kp6A2VCMq8Y/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=kp6A2VCMq8Y",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-06-30T12:00:00Z",
+    "startTime": "2026-06-30T12:00:48Z",
+    "ttl": "2026-07-07T12:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "RnM1G3T2JJo",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】マウスパッドちっちゃすぎ【 ぶいすぽっ！胡桃のあ 】",
@@ -80,6 +92,7 @@
     "url": "https://www.youtube.com/watch?v=Tnta1tNnURU",
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T12:00:00Z",
+    "startTime": "2026-06-30T12:00:05Z",
     "ttl": "2026-07-07T12:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
