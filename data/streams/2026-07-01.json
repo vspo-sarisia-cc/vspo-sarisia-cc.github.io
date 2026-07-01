@@ -26,6 +26,17 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "yVSmeFAzwE0",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "【ぶいすぽ空澄セナさん】ぶいすぽとして＿＿＿VALORANT編【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/yVSmeFAzwE0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=yVSmeFAzwE0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-01T22:30:00Z",
+    "ttl": "2026-07-08T22:30:00.000Z",
+    "streamerId": "asumi_sena"
+  },
+  {
     "id": "jcajum4Sa-c",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Apex Legends 】ひさびさぺくす w/胡桃、やまP 【ぶいすぽっ！/橘ひなの】",
@@ -214,6 +225,7 @@
     "url": "https://www.youtube.com/watch?v=VZClHVHONjE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-01T22:00:00Z",
+    "startTime": "2026-07-01T22:00:22Z",
     "ttl": "2026-07-08T22:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -255,6 +267,18 @@
     "endTime": "2026-07-01T14:17:07Z",
     "ttl": "2026-07-08T10:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "320251106523",
+    "channelId": "aryakuroha",
+    "title": "✦ 2nd Anniversary Celebration !! #2ndAryversary",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-07-01T22:00:08Z",
+    "startTime": "2026-07-01T22:00:08Z",
+    "platform": "twitch",
+    "ttl": "2026-07-08T22:00:08.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "316171631859",
