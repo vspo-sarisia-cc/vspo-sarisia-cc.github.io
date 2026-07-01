@@ -26,7 +26,7 @@
   {
     "id": "G3cN6phfCGs",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 VALO 〗はなびと浦島太郎ｳﾞｧﾛﾗﾝﾄ。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+    "title": "〖 VALO 〗はなびと浦島太郎ｳﾞｧﾛﾗﾝﾁｮ。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
     "thumbnail": "https://i.ytimg.com/vi/G3cN6phfCGs/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=G3cN6phfCGs",
     "platform": "youtube",
@@ -102,5 +102,29 @@
     "scheduledStartTime": "2026-07-01T10:00:00Z",
     "ttl": "2026-07-08T10:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316171631859",
+    "channelId": "hinanotachiba7",
+    "title": "一旦OWやるべ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hinanotachiba7-320x180.jpg",
+    "url": "https://www.twitch.tv/hinanotachiba7",
+    "scheduledStartTime": "2026-07-01T04:40:40Z",
+    "startTime": "2026-07-01T04:40:40Z",
+    "platform": "twitch",
+    "ttl": "2026-07-08T04:40:40.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "316108409073",
+    "channelId": "saineginjo",
+    "title": "敗北を恐れないソロキュー。",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saineginjo-320x180.jpg",
+    "url": "https://www.twitch.tv/saineginjo",
+    "scheduledStartTime": "2026-07-01T04:18:09Z",
+    "startTime": "2026-07-01T04:18:09Z",
+    "platform": "twitch",
+    "ttl": "2026-07-08T04:18:09.000Z",
+    "streamerId": "ginjo_saine"
   }
 ]
