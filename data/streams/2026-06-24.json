@@ -1,83 +1,5 @@
 [
   {
-    "id": "JTg4JAlYl5g",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【 Escape from Tarkov 】やるぞやるぞやるぞw/レイード Lv43~ 【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/JTg4JAlYl5g/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=JTg4JAlYl5g",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-24T11:20:00Z",
-    "startTime": "2026-06-24T11:33:50Z",
-    "endTime": "2026-06-24T20:37:57Z",
-    "ttl": "2026-07-01T11:20:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
-    "id": "wRRuQybd4jk",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【OVERWATCH】CRカップOWに出ます！顔合わせ＆１日目！【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/wRRuQybd4jk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=wRRuQybd4jk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-24T10:15:00Z",
-    "startTime": "2026-06-24T10:17:55Z",
-    "endTime": "2026-06-24T17:11:59Z",
-    "ttl": "2026-07-01T10:15:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "BuifR37Hlgo",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 OW 〗CRCUPスクリム1日目！みなさん、よろしく。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/BuifR37Hlgo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=BuifR37Hlgo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-24T11:00:00Z",
-    "startTime": "2026-06-24T11:03:34Z",
-    "endTime": "2026-06-24T19:09:36Z",
-    "ttl": "2026-07-01T11:00:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
-    "id": "S0Vp1TwIITQ",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【それってなんスか！？】　第一回ゲスト：LAMママ！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/S0Vp1TwIITQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=S0Vp1TwIITQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-24T11:00:00Z",
-    "startTime": "2026-06-24T11:00:17Z",
-    "endTime": "2026-06-24T12:08:11Z",
-    "ttl": "2026-07-01T11:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "6C8QJaaQgBg",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【カスタム】すごいワチャワチャVALO＋LoL【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/6C8QJaaQgBg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=6C8QJaaQgBg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-24T10:30:00Z",
-    "startTime": "2026-06-24T10:30:16Z",
-    "endTime": "2026-06-24T16:25:44Z",
-    "ttl": "2026-07-01T10:30:00.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "3tF6RNnYK2w",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  VALORANT → LOL ◢　新マップカスタム呼んでいただけたのでいきます！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/3tF6RNnYK2w/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=3tF6RNnYK2w",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-24T11:00:00Z",
-    "startTime": "2026-06-24T11:01:52Z",
-    "endTime": "2026-06-24T16:45:00Z",
-    "ttl": "2026-07-01T11:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
     "id": "H8vAzAEZ9bk",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Pro Apex Player trying CS2  | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
@@ -117,18 +39,6 @@
     "streamerId": "jira_jisaki"
   },
   {
-    "id": "316140751987",
-    "channelId": "ramuneshiranami",
-    "title": "valorant新MAPカスタム",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/c007254dd2be4e027434_ramuneshiranami_316140751987_1782299110//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2804181167",
-    "scheduledStartTime": "2026-06-24T11:05:16Z",
-    "startTime": "2026-06-24T11:05:16Z",
-    "platform": "twitch",
-    "ttl": "2026-07-01T11:05:16.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316142960243",
     "channelId": "akarindao",
     "title": "全力でW杯を楽しむ！スコットランド vs ブラジルDAZNで同時視聴中",
@@ -151,30 +61,6 @@
     "platform": "twitch",
     "ttl": "2026-07-01T18:52:22.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316086478578",
-    "channelId": "akarindao",
-    "title": "ロルのメンバーでvaloカスタム",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/68a4200104a18c29896a_akarindao_316086478578_1782298842//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2804179147",
-    "scheduledStartTime": "2026-06-24T11:00:47Z",
-    "startTime": "2026-06-24T11:00:47Z",
-    "platform": "twitch",
-    "ttl": "2026-07-01T11:00:47.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316077271025",
-    "channelId": "choyahanabi",
-    "title": "【スト６】 ちょっとね！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/59b0cdc99f7825a82e86_choyahanabi_316077271025_1782298769//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2804178461",
-    "scheduledStartTime": "2026-06-24T10:59:34Z",
-    "startTime": "2026-06-24T10:59:34Z",
-    "platform": "twitch",
-    "ttl": "2026-07-01T10:59:34.000Z",
-    "streamerId": "choya_hanabi"
   },
   {
     "id": "320017983450",

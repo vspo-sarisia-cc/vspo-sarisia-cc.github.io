@@ -1,5 +1,17 @@
 [
   {
+    "id": "dPpZ9lFj8GI",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【VALORANT】エイム募【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/dPpZ9lFj8GI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=dPpZ9lFj8GI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-01T11:00:00Z",
+    "startTime": "2026-07-01T11:07:23Z",
+    "ttl": "2026-07-08T11:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "VGrkWSsW84U",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】ふるぱ🎶【 ぶいすぽっ！胡桃のあ 】",
@@ -7,6 +19,7 @@
     "url": "https://www.youtube.com/watch?v=VGrkWSsW84U",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-01T11:00:00Z",
+    "startTime": "2026-07-01T11:02:13Z",
     "ttl": "2026-07-08T11:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -18,8 +31,21 @@
     "url": "https://www.youtube.com/watch?v=jcajum4Sa-c",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-01T11:00:00Z",
+    "startTime": "2026-07-01T11:02:14Z",
     "ttl": "2026-07-08T11:00:00.000Z",
     "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "mAPr5rPbvRI",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【VALORANT】スキル出せるかも危うい【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/mAPr5rPbvRI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=mAPr5rPbvRI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-01T11:00:00Z",
+    "startTime": "2026-07-01T11:03:18Z",
+    "ttl": "2026-07-08T11:00:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "8NzRC9kxvYs",
@@ -54,6 +80,7 @@
     "url": "https://www.youtube.com/watch?v=G3cN6phfCGs",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-01T11:00:00Z",
+    "startTime": "2026-07-01T11:01:39Z",
     "ttl": "2026-07-08T11:00:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -73,11 +100,12 @@
     "id": "-Oy1s3MhVXI",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【MSI2026】TLAW vs T1 Play In Day 4 同時視聴！【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/-Oy1s3MhVXI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/-Oy1s3MhVXI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=-Oy1s3MhVXI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-01T08:00:00Z",
     "startTime": "2026-07-01T08:00:29Z",
+    "endTime": "2026-07-01T10:59:10Z",
     "ttl": "2026-07-08T08:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -102,6 +130,7 @@
     "url": "https://www.youtube.com/watch?v=dRzTr2jIyfs",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-01T11:00:00Z",
+    "startTime": "2026-07-01T11:01:55Z",
     "ttl": "2026-07-08T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -109,11 +138,12 @@
     "id": "jhpM9UUL5bo",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】台にレバレス置いてやってみる【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/jhpM9UUL5bo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/jhpM9UUL5bo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=jhpM9UUL5bo",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-01T08:05:00Z",
     "startTime": "2026-07-01T08:05:05Z",
+    "endTime": "2026-07-01T10:31:03Z",
     "ttl": "2026-07-08T08:05:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -172,6 +202,7 @@
     "url": "https://www.youtube.com/watch?v=o4vi6KZWppY",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-01T11:00:00Z",
+    "startTime": "2026-07-01T11:00:15Z",
     "ttl": "2026-07-08T11:00:00.000Z",
     "streamerId": "riko_solari"
   },
@@ -202,7 +233,7 @@
   {
     "id": "316118198898",
     "channelId": "ramuneshiranami",
-    "title": "Mルーーーク→20時くらいからVALO",
+    "title": "Mルーーーク→Masters vs NEXT VALO",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
     "url": "https://www.twitch.tv/ramuneshiranami",
     "scheduledStartTime": "2026-07-01T09:11:18Z",
@@ -210,6 +241,18 @@
     "platform": "twitch",
     "ttl": "2026-07-08T09:11:18.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316118605554",
+    "channelId": "akarindao",
+    "title": "VALOでマスターズをぼこぼこにする会！",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-01T11:02:16Z",
+    "startTime": "2026-07-01T11:02:16Z",
+    "platform": "twitch",
+    "ttl": "2026-07-08T11:02:16.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316171631859",
