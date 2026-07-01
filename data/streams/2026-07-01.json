@@ -35,6 +35,17 @@
     "streamerId": "yano_kuromu"
   },
   {
+    "id": "-Oy1s3MhVXI",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【MSI2026】TLAW vs T1 Play In Day 4 同時視聴！【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/-Oy1s3MhVXI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=-Oy1s3MhVXI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-01T08:00:00Z",
+    "ttl": "2026-07-08T08:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
     "id": "0H6_bTvWeDQ",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "お久しぶりです",
@@ -46,6 +57,17 @@
     "endTime": "2026-07-01T03:37:25Z",
     "ttl": "2026-07-08T03:30:00.000Z",
     "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "dRzTr2jIyfs",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【 VALORANT 】　むーーーーさんと久々ヴァロ！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/dRzTr2jIyfs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=dRzTr2jIyfs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-01T11:00:00Z",
+    "ttl": "2026-07-08T11:00:00.000Z",
+    "streamerId": "choya_hanabi"
   },
   {
     "id": "09kGOFDkoWw",
@@ -73,11 +95,12 @@
     "id": "h-grOjVB_Nk",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
     "title": "【Meccha Chameleon】 game looks fun !!! i wana try yup yup 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/h-grOjVB_Nk/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/h-grOjVB_Nk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=h-grOjVB_Nk",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-01T03:00:00Z",
     "startTime": "2026-07-01T03:14:37Z",
+    "endTime": "2026-07-01T05:50:04Z",
     "ttl": "2026-07-08T03:00:00.000Z",
     "streamerId": "narin_mikure"
   },
@@ -106,7 +129,7 @@
   {
     "id": "316171631859",
     "channelId": "hinanotachiba7",
-    "title": "一旦OWやるべ",
+    "title": "一旦OWやるべ→スト６",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hinanotachiba7-320x180.jpg",
     "url": "https://www.twitch.tv/hinanotachiba7",
     "scheduledStartTime": "2026-07-01T04:40:40Z",
@@ -119,12 +142,12 @@
     "id": "316108409073",
     "channelId": "saineginjo",
     "title": "敗北を恐れないソロキュー。",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saineginjo-320x180.jpg",
-    "url": "https://www.twitch.tv/saineginjo",
-    "scheduledStartTime": "2026-07-01T04:18:09Z",
-    "startTime": "2026-07-01T04:18:09Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/88896286ff6228a5bc52_saineginjo_316108409073_1782879489//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2809439385",
+    "scheduledStartTime": "2026-07-01T04:18:14Z",
+    "startTime": "2026-07-01T04:18:14Z",
     "platform": "twitch",
-    "ttl": "2026-07-08T04:18:09.000Z",
+    "ttl": "2026-07-08T04:18:14.000Z",
     "streamerId": "ginjo_saine"
   }
 ]
