@@ -1,5 +1,27 @@
 [
   {
+    "id": "VGrkWSsW84U",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】ふるぱ🎶【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/VGrkWSsW84U/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=VGrkWSsW84U",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-01T11:00:00Z",
+    "ttl": "2026-07-08T11:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "jcajum4Sa-c",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 Apex Legends 】ひさびさぺくす w/胡桃、やまP 【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/jcajum4Sa-c/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=jcajum4Sa-c",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-01T11:00:00Z",
+    "ttl": "2026-07-08T11:00:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "8NzRC9kxvYs",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【APEX】つよつよ女子パエペ　w/こはくちゃん、Dtto.ちゃん【ぶいすぽ / 猫汰つな】",
@@ -7,6 +29,7 @@
     "url": "https://www.youtube.com/watch?v=8NzRC9kxvYs",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-01T10:00:00Z",
+    "startTime": "2026-07-01T10:02:38Z",
     "ttl": "2026-07-08T10:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -95,6 +118,18 @@
     "streamerId": "amayui_moka"
   },
   {
+    "id": "auYlyeeH_nY",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤ めっちゃカメレオン ◢　CCメンバーと2次会するぞ～！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/auYlyeeH_nY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=auYlyeeH_nY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-01T10:00:00Z",
+    "startTime": "2026-07-01T10:03:06Z",
+    "ttl": "2026-07-08T10:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
+  },
+  {
     "id": "09kGOFDkoWw",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Let's gain 100 elo | Faceit | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
@@ -148,31 +183,56 @@
     "url": "https://www.youtube.com/watch?v=dw44tbH-h7M",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-01T10:00:00Z",
+    "startTime": "2026-07-01T09:51:05Z",
     "ttl": "2026-07-08T10:00:00.000Z",
     "streamerId": "juno_umezono"
   },
   {
+    "id": "316109235697",
+    "channelId": "ren_kisaragi__",
+    "title": "SAVOGE Pokémon Championsに参加するぞ！！ #PR",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-07-01T08:55:27Z",
+    "startTime": "2026-07-01T08:55:27Z",
+    "platform": "twitch",
+    "ttl": "2026-07-08T08:55:27.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316118198898",
+    "channelId": "ramuneshiranami",
+    "title": "Mルーーーク→20時くらいからVALO",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-07-01T09:11:18Z",
+    "startTime": "2026-07-01T09:11:18Z",
+    "platform": "twitch",
+    "ttl": "2026-07-08T09:11:18.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
     "id": "316171631859",
     "channelId": "hinanotachiba7",
-    "title": "一旦OWやるべ→スト６",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hinanotachiba7-320x180.jpg",
-    "url": "https://www.twitch.tv/hinanotachiba7",
-    "scheduledStartTime": "2026-07-01T04:40:40Z",
-    "startTime": "2026-07-01T04:40:40Z",
+    "title": "一旦OWやるべ",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/06199c9586bf08789bc5_hinanotachiba7_316171631859_1782880840//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2809449936",
+    "scheduledStartTime": "2026-07-01T04:40:45Z",
+    "startTime": "2026-07-01T04:40:45Z",
     "platform": "twitch",
-    "ttl": "2026-07-08T04:40:40.000Z",
+    "ttl": "2026-07-08T04:40:45.000Z",
     "streamerId": "tachibana_hinano"
   },
   {
     "id": "316118039794",
     "channelId": "choyahanabi",
     "title": "【スト６】ちょっとやるぞ！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_choyahanabi-320x180.jpg",
-    "url": "https://www.twitch.tv/choyahanabi",
-    "scheduledStartTime": "2026-07-01T08:17:55Z",
-    "startTime": "2026-07-01T08:17:55Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/cc9be74fd0b80271ba53_choyahanabi_316118039794_1782893875//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2809524957",
+    "scheduledStartTime": "2026-07-01T08:18:00Z",
+    "startTime": "2026-07-01T08:18:00Z",
     "platform": "twitch",
-    "ttl": "2026-07-08T08:17:55.000Z",
+    "ttl": "2026-07-08T08:18:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
