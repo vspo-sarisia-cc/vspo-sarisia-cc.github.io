@@ -185,11 +185,12 @@
     "id": "09kGOFDkoWw",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Let's gain 100 elo | Faceit | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/09kGOFDkoWw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/09kGOFDkoWw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=09kGOFDkoWw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-01T14:00:00Z",
     "startTime": "2026-07-01T14:00:33Z",
+    "endTime": "2026-07-01T18:21:14Z",
     "ttl": "2026-07-08T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -244,18 +245,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316118198898",
-    "channelId": "ramuneshiranami",
-    "title": "Mルーーーク→Masters vs NEXT VALO",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-01T09:11:18Z",
-    "startTime": "2026-07-01T09:11:18Z",
-    "platform": "twitch",
-    "ttl": "2026-07-08T09:11:18.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316171631859",
     "channelId": "hinanotachiba7",
     "title": "一旦OWやるべ",
@@ -290,6 +279,18 @@
     "platform": "twitch",
     "ttl": "2026-07-08T08:55:32.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316118198898",
+    "channelId": "ramuneshiranami",
+    "title": "Mルーーーク→20時くらいからVALO",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/0454b729ed7330548120_ramuneshiranami_316118198898_1782897078//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2809541086",
+    "scheduledStartTime": "2026-07-01T09:11:23Z",
+    "startTime": "2026-07-01T09:11:23Z",
+    "platform": "twitch",
+    "ttl": "2026-07-08T09:11:23.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316118605554",
