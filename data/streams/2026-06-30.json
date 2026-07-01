@@ -136,6 +136,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-06-30T22:00:00Z",
     "startTime": "2026-06-30T22:01:10Z",
+    "endTime": "2026-07-01T00:07:20Z",
     "ttl": "2026-07-07T22:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
