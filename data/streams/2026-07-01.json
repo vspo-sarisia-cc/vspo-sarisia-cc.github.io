@@ -231,18 +231,6 @@
     "streamerId": "kisaragi_ren"
   },
   {
-    "id": "316118198898",
-    "channelId": "ramuneshiranami",
-    "title": "Mルーーーク→Masters vs NEXT VALO",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-01T09:11:18Z",
-    "startTime": "2026-07-01T09:11:18Z",
-    "platform": "twitch",
-    "ttl": "2026-07-08T09:11:18.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316118605554",
     "channelId": "akarindao",
     "title": "VALOでマスターズをぼこぼこにする会！",
@@ -253,6 +241,18 @@
     "platform": "twitch",
     "ttl": "2026-07-08T11:02:16.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316118198898",
+    "channelId": "ramuneshiranami",
+    "title": "Mルーーーク→Masters vs NEXT VALO",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-07-01T09:11:18Z",
+    "startTime": "2026-07-01T09:11:18Z",
+    "platform": "twitch",
+    "ttl": "2026-07-08T09:11:18.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316171631859",
