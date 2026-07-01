@@ -208,18 +208,6 @@
     "streamerId": "jira_jisaki"
   },
   {
-    "id": "316076527985",
-    "channelId": "ren_kisaragi__",
-    "title": "新シーズンガッツリ初見",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/501bf155884dc0840ae4_ren_kisaragi___316076527985_1782286031//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2804111841",
-    "scheduledStartTime": "2026-06-24T07:27:16Z",
-    "startTime": "2026-06-24T07:27:16Z",
-    "platform": "twitch",
-    "ttl": "2026-07-01T07:27:16.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "316140751987",
     "channelId": "ramuneshiranami",
     "title": "valorant新MAPカスタム",

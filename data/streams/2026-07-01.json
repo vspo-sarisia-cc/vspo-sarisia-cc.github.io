@@ -35,6 +35,18 @@
     "streamerId": "yano_kuromu"
   },
   {
+    "id": "bRWc44CjW_4",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【Pokémon Champions】SAVOGE - はじまりの王者決定戦 -👻【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/bRWc44CjW_4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=bRWc44CjW_4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-01T09:00:00Z",
+    "startTime": "2026-07-01T08:25:13Z",
+    "ttl": "2026-07-08T09:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "-Oy1s3MhVXI",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【MSI2026】TLAW vs T1 Play In Day 4 同時視聴！【 ぶいすぽっ！ / 千燈ゆうひ 】",
@@ -42,6 +54,7 @@
     "url": "https://www.youtube.com/watch?v=-Oy1s3MhVXI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-01T08:00:00Z",
+    "startTime": "2026-07-01T08:00:29Z",
     "ttl": "2026-07-08T08:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -68,6 +81,18 @@
     "scheduledStartTime": "2026-07-01T11:00:00Z",
     "ttl": "2026-07-08T11:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "jhpM9UUL5bo",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【スト6】台にレバレス置いてやってみる【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/jhpM9UUL5bo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=jhpM9UUL5bo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-01T08:05:00Z",
+    "startTime": "2026-07-01T08:05:05Z",
+    "ttl": "2026-07-08T08:05:00.000Z",
+    "streamerId": "amayui_moka"
   },
   {
     "id": "09kGOFDkoWw",
@@ -137,6 +162,18 @@
     "platform": "twitch",
     "ttl": "2026-07-08T04:40:40.000Z",
     "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "316118039794",
+    "channelId": "choyahanabi",
+    "title": "【スト６】ちょっとやるぞ！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_choyahanabi-320x180.jpg",
+    "url": "https://www.twitch.tv/choyahanabi",
+    "scheduledStartTime": "2026-07-01T08:17:55Z",
+    "startTime": "2026-07-01T08:17:55Z",
+    "platform": "twitch",
+    "ttl": "2026-07-08T08:17:55.000Z",
+    "streamerId": "choya_hanabi"
   },
   {
     "id": "316108409073",
