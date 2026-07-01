@@ -148,14 +148,27 @@
     "streamerId": "amayui_moka"
   },
   {
+    "id": "cJLEwPLL85A",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤ Goose Goose Duck ◢　CCメンバーと3次会するぞ～！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/cJLEwPLL85A/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=cJLEwPLL85A",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-01T13:10:00Z",
+    "startTime": "2026-07-01T13:11:57Z",
+    "ttl": "2026-07-08T13:10:00.000Z",
+    "streamerId": "tatsumaki_chise"
+  },
+  {
     "id": "auYlyeeH_nY",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤ めっちゃカメレオン ◢　CCメンバーと2次会するぞ～！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/auYlyeeH_nY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/auYlyeeH_nY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=auYlyeeH_nY",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-01T10:00:00Z",
     "startTime": "2026-07-01T10:03:06Z",
+    "endTime": "2026-07-01T13:09:38Z",
     "ttl": "2026-07-08T10:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
