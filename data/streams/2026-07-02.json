@@ -23,6 +23,18 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "PJ1UlBP7Rnk",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "昼にやることと言えば…",
+    "thumbnail": "https://i.ytimg.com/vi/PJ1UlBP7Rnk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=PJ1UlBP7Rnk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-02T02:20:00Z",
+    "startTime": "2026-07-02T02:19:35Z",
+    "ttl": "2026-07-09T02:20:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
     "id": "FGx4bI2MFRs",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "トンデモワンダーズ/ 蝶屋はなび cover",
@@ -58,13 +70,25 @@
   {
     "id": "LBonoABzP4M",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤League of Legends◢ grippers unleashed the ripper will feast | #JunoUmezono #VSPOEN",
+    "title": "◤League of Legends◢ dantes and jynxzi but vtubers | #JunoUmezono #VSPOEN",
     "thumbnail": "https://i.ytimg.com/vi/LBonoABzP4M/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=LBonoABzP4M",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-02T07:00:00Z",
     "ttl": "2026-07-09T07:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "315298827759",
+    "channelId": "erissuzukami",
+    "title": "please yell at the streamer to do her chores @im_iPN @riusisonder",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
+    "url": "https://www.twitch.tv/erissuzukami",
+    "scheduledStartTime": "2026-07-02T05:19:39Z",
+    "startTime": "2026-07-02T05:19:39Z",
+    "platform": "twitch",
+    "ttl": "2026-07-09T05:19:39.000Z",
+    "streamerId": "eris_suzukami"
   },
   {
     "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",

@@ -39,19 +39,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "sw0TVF1P28Y",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 オーバーウォッチ 】練習すんねん【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/sw0TVF1P28Y/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=sw0TVF1P28Y",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-25T04:35:00Z",
-    "startTime": "2026-06-25T04:39:59Z",
-    "endTime": "2026-06-25T08:06:21Z",
-    "ttl": "2026-07-02T04:35:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "65Ru6LcDAzw",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【ひなのちゃんの平成ときめきハウス】#3  バズりおもちゃで遊ぼう！",
@@ -156,19 +143,6 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "S7OxTGslRWY",
-    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
-    "title": "【Pokémon Pokopia】 we try to finish this game today!!! 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/S7OxTGslRWY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=S7OxTGslRWY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-25T03:00:00Z",
-    "startTime": "2026-06-25T03:22:21Z",
-    "endTime": "2026-06-25T06:50:39Z",
-    "ttl": "2026-07-02T03:00:00.000Z",
-    "streamerId": "narin_mikure"
-  },
-  {
     "id": "-zhD32SzDkI",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves 1.x◢ WUWA IS MY MEDICINE (part. 4) | #JunoUmezono #VSPOEN",
@@ -216,18 +190,6 @@
     "platform": "twitch",
     "ttl": "2026-07-02T19:44:40.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316080781425",
-    "channelId": "choyahanabi",
-    "title": "【スト６】収録まで ！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/3e8ce8a29cbdca14ed7d_choyahanabi_316080781425_1782365162//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2804846046",
-    "scheduledStartTime": "2026-06-25T05:26:08Z",
-    "startTime": "2026-06-25T05:26:08Z",
-    "platform": "twitch",
-    "ttl": "2026-07-02T05:26:08.000Z",
-    "streamerId": "choya_hanabi"
   },
   {
     "id": "317100634595",

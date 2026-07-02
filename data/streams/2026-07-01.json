@@ -81,11 +81,12 @@
     "id": "ANlgmRQVWdo",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 ゼルダの伝説 ブレワイ 】#1 \"はじめての\"冒険【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/ANlgmRQVWdo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ANlgmRQVWdo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ANlgmRQVWdo",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-01T21:30:00Z",
     "startTime": "2026-07-01T21:32:30Z",
+    "endTime": "2026-07-02T02:52:18Z",
     "ttl": "2026-07-08T21:30:00.000Z",
     "streamerId": "komori_met"
   },
@@ -223,11 +224,12 @@
     "id": "VZClHVHONjE",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【2ND ANNIVERSARY】two years in paradise~!【#2ndAryversary #VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/VZClHVHONjE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/VZClHVHONjE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=VZClHVHONjE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-01T22:00:00Z",
     "startTime": "2026-07-01T22:00:22Z",
+    "endTime": "2026-07-02T02:30:58Z",
     "ttl": "2026-07-08T22:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -269,18 +271,6 @@
     "endTime": "2026-07-01T14:17:07Z",
     "ttl": "2026-07-08T10:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "320251106523",
-    "channelId": "aryakuroha",
-    "title": "✦ 2nd Anniversary Celebration !! #2ndAryversary",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-07-01T22:00:08Z",
-    "startTime": "2026-07-01T22:00:08Z",
-    "platform": "twitch",
-    "ttl": "2026-07-08T22:00:08.000Z",
-    "streamerId": "arya_kuroha"
   },
   {
     "id": "316171631859",
@@ -365,5 +355,17 @@
     "platform": "twitch",
     "ttl": "2026-07-08T04:18:14.000Z",
     "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "320251106523",
+    "channelId": "aryakuroha",
+    "title": "✦ 2nd Anniversary Celebration !! #2ndAryversary",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/70190c50d3894263aea1_aryakuroha_320251106523_1782943208//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2809967492",
+    "scheduledStartTime": "2026-07-01T22:00:17Z",
+    "startTime": "2026-07-01T22:00:17Z",
+    "platform": "twitch",
+    "ttl": "2026-07-08T22:00:17.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
