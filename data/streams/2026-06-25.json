@@ -10,17 +10,5 @@
     "platform": "twitch",
     "ttl": "2026-07-02T19:44:40.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "317100634595",
-    "channelId": "remiaaotsuki",
-    "title": "im melting away I Faceit",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/f0e10a078afabc555254_remiaaotsuki_317100634595_1782396020//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2805034188",
-    "scheduledStartTime": "2026-06-25T14:00:28Z",
-    "startTime": "2026-06-25T14:00:28Z",
-    "platform": "twitch",
-    "ttl": "2026-07-02T14:00:28.000Z",
-    "streamerId": "remia_aotsuki"
   }
 ]

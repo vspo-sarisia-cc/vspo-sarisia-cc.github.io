@@ -42,13 +42,26 @@
     "id": "9ufRPEFFKtw",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【#ぶいすぽGF2026】ぶいすぽゴッフィ最強DUO決定戦⚔🔥【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/9ufRPEFFKtw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/9ufRPEFFKtw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=9ufRPEFFKtw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-02T11:00:00Z",
     "startTime": "2026-07-02T11:06:56Z",
+    "endTime": "2026-07-02T13:39:09Z",
     "ttl": "2026-07-09T11:00:00.000Z",
     "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "15Z8pprXado",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】ねるまえのちる【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/15Z8pprXado/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=15Z8pprXado",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-02T14:00:00Z",
+    "startTime": "2026-07-02T14:06:25Z",
+    "ttl": "2026-07-09T14:00:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "etFGBUG2aCc",
@@ -62,6 +75,18 @@
     "endTime": "2026-07-02T10:48:45Z",
     "ttl": "2026-07-09T08:00:00.000Z",
     "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "CWsaS9LppZc",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【リズム天国 ミラクルスターズ】人生初めてのリズム天国♪【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/CWsaS9LppZc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=CWsaS9LppZc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-02T14:30:00Z",
+    "startTime": "2026-07-02T14:32:03Z",
+    "ttl": "2026-07-09T14:30:00.000Z",
+    "streamerId": "nekota_tsuna"
   },
   {
     "id": "af9IjbIDNIg",
@@ -121,6 +146,7 @@
     "url": "https://www.youtube.com/watch?v=kIj370O0nRM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-02T13:30:00Z",
+    "startTime": "2026-07-02T13:30:29Z",
     "ttl": "2026-07-09T13:30:00.000Z",
     "streamerId": "riko_solari"
   },
@@ -136,6 +162,30 @@
     "endTime": "2026-07-02T11:17:17Z",
     "ttl": "2026-07-09T07:30:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316123942130",
+    "channelId": "ramuneshiranami",
+    "title": "よしなまさんにＭルーク教えてもらう",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-07-02T13:42:21Z",
+    "startTime": "2026-07-02T13:42:21Z",
+    "platform": "twitch",
+    "ttl": "2026-07-09T13:42:21.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "317139695204",
+    "channelId": "remiaaotsuki",
+    "title": "we gain some elo? I Faceit",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_remiaaotsuki-320x180.jpg",
+    "url": "https://www.twitch.tv/remiaaotsuki",
+    "scheduledStartTime": "2026-07-02T14:03:51Z",
+    "startTime": "2026-07-02T14:03:51Z",
+    "platform": "twitch",
+    "ttl": "2026-07-09T14:03:51.000Z",
+    "streamerId": "remia_aotsuki"
   },
   {
     "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
