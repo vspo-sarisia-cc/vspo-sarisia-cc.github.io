@@ -1,5 +1,29 @@
 [
   {
+    "id": "60MNnwK0ZdA",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【マインクラフト】なんと…！今年はやりますぶいすぽ夏祭り【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/60MNnwK0ZdA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=60MNnwK0ZdA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-02T08:00:00Z",
+    "startTime": "2026-07-02T08:06:24Z",
+    "ttl": "2026-07-09T08:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "_ishVc3P1fM",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 Minecraft 】今年はやるぞ！ぶいすぽ夏祭り！まずは会場決め w/なずエマ #ぶいすぽマイクラ夏祭り2026 【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/_ishVc3P1fM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=_ishVc3P1fM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-02T08:00:00Z",
+    "startTime": "2026-07-02T08:03:36Z",
+    "ttl": "2026-07-09T08:00:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "9ufRPEFFKtw",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【#ぶいすぽGF2026】ぶいすぽゴッフィ最強DUO決定戦⚔🔥【ぶいすぽ/八雲べに】",
@@ -11,14 +35,27 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "etFGBUG2aCc",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【Minecraft】今年はぶいすぽマイクラ夏祭りやるぞ！！#ぶいすぽマイクラ夏祭り2026【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/etFGBUG2aCc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=etFGBUG2aCc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-02T08:00:00Z",
+    "startTime": "2026-07-02T08:01:11Z",
+    "ttl": "2026-07-09T08:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "af9IjbIDNIg",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【OVERWATCH】YOASOBIコラボスキンが使い隊【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/af9IjbIDNIg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/af9IjbIDNIg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=af9IjbIDNIg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-02T01:30:00Z",
     "startTime": "2026-07-02T01:34:14Z",
+    "endTime": "2026-07-02T05:46:58Z",
     "ttl": "2026-07-09T01:30:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -26,11 +63,12 @@
     "id": "PJ1UlBP7Rnk",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "昼にやることと言えば…",
-    "thumbnail": "https://i.ytimg.com/vi/PJ1UlBP7Rnk/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/PJ1UlBP7Rnk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=PJ1UlBP7Rnk",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-02T02:20:00Z",
     "startTime": "2026-07-02T02:19:35Z",
+    "endTime": "2026-07-02T06:16:16Z",
     "ttl": "2026-07-09T02:20:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -74,21 +112,10 @@
     "thumbnail": "https://i.ytimg.com/vi/LBonoABzP4M/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=LBonoABzP4M",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-02T07:00:00Z",
-    "ttl": "2026-07-09T07:00:00.000Z",
+    "scheduledStartTime": "2026-07-02T07:30:00Z",
+    "startTime": "2026-07-02T07:28:27Z",
+    "ttl": "2026-07-09T07:30:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "315298827759",
-    "channelId": "erissuzukami",
-    "title": "please yell at the streamer to do her chores @im_iPN @riusisonder",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
-    "url": "https://www.twitch.tv/erissuzukami",
-    "scheduledStartTime": "2026-07-02T05:19:39Z",
-    "startTime": "2026-07-02T05:19:39Z",
-    "platform": "twitch",
-    "ttl": "2026-07-09T05:19:39.000Z",
-    "streamerId": "eris_suzukami"
   },
   {
     "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",

@@ -1,18 +1,5 @@
 [
   {
-    "id": "IdPeyjn6PTI",
-    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
-    "title": "【OW】CRカップ顔合わせ２【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/IdPeyjn6PTI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=IdPeyjn6PTI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-25T08:10:00Z",
-    "startTime": "2026-06-25T08:09:30Z",
-    "endTime": "2026-06-25T15:45:10Z",
-    "ttl": "2026-07-02T08:10:00.000Z",
-    "streamerId": "kaga_sumire"
-  },
-  {
     "id": "tZddnSW1DNs",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 DBD 】なんとDBDデート w/てとちゃん【 ぶいすぽ / 小雀とと 】",
@@ -141,19 +128,6 @@
     "endTime": "2026-06-25T16:51:08Z",
     "ttl": "2026-07-02T11:00:00.000Z",
     "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "-zhD32SzDkI",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Wuthering Waves 1.x◢ WUWA IS MY MEDICINE (part. 4) | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/-zhD32SzDkI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=-zhD32SzDkI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-25T06:00:00Z",
-    "startTime": "2026-06-25T05:53:33Z",
-    "endTime": "2026-06-25T08:57:16Z",
-    "ttl": "2026-07-02T06:00:00.000Z",
-    "streamerId": "juno_umezono"
   },
   {
     "id": "316091000178",
