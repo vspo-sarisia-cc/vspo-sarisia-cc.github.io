@@ -26,17 +26,6 @@
     "streamerId": "tachibana_hinano"
   },
   {
-    "id": "tQEca8YFNGU",
-    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
-    "title": "【RUST】公式鯖RUSTどこまでいけんのか生活 参加者は概要欄【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/tQEca8YFNGU/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=tQEca8YFNGU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-02T18:00:00Z",
-    "ttl": "2026-07-09T18:00:00.000Z",
-    "streamerId": "kaminari_qpi"
-  },
-  {
     "id": "ZE4UExQhW0Q",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【STREET FIGHTER 6】V最終わったらこれしよあれしよ！の予定すべて終えてきたヨ✌【ぶいすぽっ！/神成きゅぴ】",
@@ -154,11 +143,12 @@
     "id": "kIj370O0nRM",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "idk what we're doing today",
-    "thumbnail": "https://i.ytimg.com/vi/kIj370O0nRM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/kIj370O0nRM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=kIj370O0nRM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-02T13:30:00Z",
     "startTime": "2026-07-02T13:30:29Z",
+    "endTime": "2026-07-02T18:09:01Z",
     "ttl": "2026-07-09T13:30:00.000Z",
     "streamerId": "riko_solari"
   },
@@ -176,16 +166,16 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "317139695204",
-    "channelId": "remiaaotsuki",
-    "title": "we gain some elo? I Faceit",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_remiaaotsuki-320x180.jpg",
-    "url": "https://www.twitch.tv/remiaaotsuki",
-    "scheduledStartTime": "2026-07-02T14:03:51Z",
-    "startTime": "2026-07-02T14:03:51Z",
+    "id": "316124844274",
+    "channelId": "ren_kisaragi__",
+    "title": "こんな時間に初見のゲームを配信するのは間違ってるし私にはリズム感がない",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-07-02T18:16:01Z",
+    "startTime": "2026-07-02T18:16:01Z",
     "platform": "twitch",
-    "ttl": "2026-07-09T14:03:51.000Z",
-    "streamerId": "remia_aotsuki"
+    "ttl": "2026-07-09T18:16:01.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316123942130",
@@ -198,5 +188,17 @@
     "platform": "twitch",
     "ttl": "2026-07-09T13:42:29.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "317139695204",
+    "channelId": "remiaaotsuki",
+    "title": "we gain some elo? I Faceit",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/b7649f2f82460639377e_remiaaotsuki_317139695204_1783001031//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2810431795",
+    "scheduledStartTime": "2026-07-02T14:03:59Z",
+    "startTime": "2026-07-02T14:03:59Z",
+    "platform": "twitch",
+    "ttl": "2026-07-09T14:03:59.000Z",
+    "streamerId": "remia_aotsuki"
   }
 ]
