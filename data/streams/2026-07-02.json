@@ -105,11 +105,12 @@
     "id": "CWsaS9LppZc",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【リズム天国 ミラクルスターズ】人生初めてのリズム天国♪【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/CWsaS9LppZc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/CWsaS9LppZc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=CWsaS9LppZc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-02T14:30:00Z",
     "startTime": "2026-07-02T14:32:03Z",
+    "endTime": "2026-07-02T22:25:00Z",
     "ttl": "2026-07-09T14:30:00.000Z",
     "streamerId": "nekota_tsuna"
   },
