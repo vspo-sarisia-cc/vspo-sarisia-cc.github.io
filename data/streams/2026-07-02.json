@@ -191,6 +191,18 @@
     "streamerId": "juno_umezono"
   },
   {
+    "id": "316116456689",
+    "channelId": "akarindao",
+    "title": "W杯ポルトガル vs クロアチアDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-02T22:51:27Z",
+    "startTime": "2026-07-02T22:51:27Z",
+    "platform": "twitch",
+    "ttl": "2026-07-09T22:51:27.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
     "id": "316124844274",
     "channelId": "ren_kisaragi__",
     "title": "こんな時間に初見のゲームを配信するのは間違ってるし私にはリズム感がない",
@@ -213,6 +225,18 @@
     "platform": "twitch",
     "ttl": "2026-07-09T13:42:29.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316116447345",
+    "channelId": "akarindao",
+    "title": "VALOでマスターズをぼこぼこにする会！",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/826b6dceb8bed9d4f5e6_akarindao_316116447345_1783032493//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2810774108",
+    "scheduledStartTime": "2026-07-02T22:48:19Z",
+    "startTime": "2026-07-02T22:48:19Z",
+    "platform": "twitch",
+    "ttl": "2026-07-09T22:48:19.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "317139695204",
