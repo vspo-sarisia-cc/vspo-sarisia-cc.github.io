@@ -26,6 +26,17 @@
     "streamerId": "tachibana_hinano"
   },
   {
+    "id": "tQEca8YFNGU",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【RUST】公式鯖RUSTどこまでいけんのか生活 参加者は概要欄【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/tQEca8YFNGU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=tQEca8YFNGU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-02T18:00:00Z",
+    "ttl": "2026-07-09T18:00:00.000Z",
+    "streamerId": "kaminari_qpi"
+  },
+  {
     "id": "ZE4UExQhW0Q",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【STREET FIGHTER 6】V最終わったらこれしよあれしよ！の予定すべて終えてきたヨ✌【ぶいすぽっ！/神成きゅぴ】",
@@ -55,11 +66,12 @@
     "id": "15Z8pprXado",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】ねるまえのちる【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/15Z8pprXado/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/15Z8pprXado/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=15Z8pprXado",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-02T14:00:00Z",
     "startTime": "2026-07-02T14:06:25Z",
+    "endTime": "2026-07-02T15:56:03Z",
     "ttl": "2026-07-09T14:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -164,18 +176,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316123942130",
-    "channelId": "ramuneshiranami",
-    "title": "よしなまさんにＭルーク教えてもらう",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-02T13:42:21Z",
-    "startTime": "2026-07-02T13:42:21Z",
-    "platform": "twitch",
-    "ttl": "2026-07-09T13:42:21.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "317139695204",
     "channelId": "remiaaotsuki",
     "title": "we gain some elo? I Faceit",
@@ -188,15 +188,15 @@
     "streamerId": "remia_aotsuki"
   },
   {
-    "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyN30=",
-    "channelId": "remiaaotsuki",
-    "title": "EU faceit elo gain?",
-    "thumbnail": "",
-    "url": "https://www.twitch.tv/remiaaotsuki",
-    "scheduledStartTime": "2026-07-02T14:00:00Z",
-    "startTime": "2026-07-02T14:00:00Z",
+    "id": "316123942130",
+    "channelId": "ramuneshiranami",
+    "title": "よしなまさんにＭルーク教えてもらう",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/af958447c8bdaebfac11_ramuneshiranami_316123942130_1782999741//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2810420339",
+    "scheduledStartTime": "2026-07-02T13:42:29Z",
+    "startTime": "2026-07-02T13:42:29Z",
     "platform": "twitch",
-    "ttl": "2026-07-09T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
+    "ttl": "2026-07-09T13:42:29.000Z",
+    "streamerId": "shiranami_ramune"
   }
 ]
