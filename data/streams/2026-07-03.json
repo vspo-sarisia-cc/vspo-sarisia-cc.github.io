@@ -70,13 +70,14 @@
     "url": "https://www.youtube.com/watch?v=oIQsM3m68PE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T12:00:00Z",
+    "startTime": "2026-07-03T12:09:02Z",
     "ttl": "2026-07-10T12:00:00.000Z",
     "streamerId": "tosaki_mimi"
   },
   {
     "id": "E9GoKE2y4vY",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
-    "title": "【深夜雑談】今週もお疲れ様。【空澄セナ/ぶいすぽっ！】",
+    "title": "【深夜雑談】お酒嗜みながら＿＿今週もお疲れ様。【空澄セナ/ぶいすぽっ！】",
     "thumbnail": "https://i.ytimg.com/vi/E9GoKE2y4vY/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=E9GoKE2y4vY",
     "platform": "youtube",
@@ -98,15 +99,15 @@
     "streamerId": "asumi_sena"
   },
   {
-    "id": "jYUsEgtuXLI",
+    "id": "VM9e616OSGM",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【RUST】公式鯖RUSTどこまでいけんのか生活 参加者は概要欄【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/jYUsEgtuXLI/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=jYUsEgtuXLI",
+    "thumbnail": "https://i.ytimg.com/vi/VM9e616OSGM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=VM9e616OSGM",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-03T11:30:00Z",
-    "startTime": "2026-07-03T11:54:29Z",
-    "ttl": "2026-07-10T11:30:00.000Z",
+    "scheduledStartTime": "2026-07-03T12:20:00Z",
+    "startTime": "2026-07-03T12:24:50Z",
+    "ttl": "2026-07-10T12:20:00.000Z",
     "streamerId": "kaminari_qpi"
   },
   {
@@ -149,11 +150,12 @@
     "id": "J7Awpl7B7JI",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【APEX】つよつよ女子パ　ｗ/Arya Kurohaちゃん、Dtto.ちゃん【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/J7Awpl7B7JI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/J7Awpl7B7JI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=J7Awpl7B7JI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T11:00:00Z",
     "startTime": "2026-07-03T11:04:11Z",
+    "endTime": "2026-07-03T13:35:21Z",
     "ttl": "2026-07-10T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -238,13 +240,25 @@
     "id": "JcEcAqk4GkQ",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤ 風燕伝：Where Winds Meet  ◢　初見プレイ！五代十国時代を舞台にした武侠オープンワールドARPGやらせていただきます！  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/JcEcAqk4GkQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/JcEcAqk4GkQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=JcEcAqk4GkQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T11:00:00Z",
     "startTime": "2026-07-03T11:02:05Z",
+    "endTime": "2026-07-03T13:12:43Z",
     "ttl": "2026-07-10T11:00:00.000Z",
     "streamerId": "tatsumaki_chise"
+  },
+  {
+    "id": "UcoU4zj9Lis",
+    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
+    "title": "+2 to lv10  | Faceit | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
+    "thumbnail": "https://i.ytimg.com/vi/UcoU4zj9Lis/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=UcoU4zj9Lis",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-03T17:00:00Z",
+    "ttl": "2026-07-10T17:00:00.000Z",
+    "streamerId": "remia_aotsuki"
   },
   {
     "id": "R5-GADTwN90",
@@ -266,6 +280,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T11:00:00Z",
     "startTime": "2026-07-03T10:55:36Z",
+    "endTime": "2026-07-03T13:36:24Z",
     "ttl": "2026-07-10T11:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -289,13 +304,14 @@
     "url": "https://www.youtube.com/watch?v=VOgYXClH3VI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T12:00:00Z",
+    "startTime": "2026-07-03T12:00:48Z",
     "ttl": "2026-07-10T12:00:00.000Z",
     "streamerId": "riko_solari"
   },
   {
     "id": "B7sKjZHddw4",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Apex Legends◢ SOLO RANKED (APEX TOURNEY PRACTICE) | #JunoUmezono #VSPOEN",
+    "title": "◤Apex Legends◢ SOLO CULTIVATION (APEX TOURNEY PRACTICE) | #JunoUmezono #VSPOEN",
     "thumbnail": "https://i.ytimg.com/vi/B7sKjZHddw4/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=B7sKjZHddw4",
     "platform": "youtube",
@@ -317,16 +333,16 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "320166870106",
-    "channelId": "aryakuroha",
-    "title": "✦ epe w/ @dttodot & @tsuna_nekota",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-07-03T10:55:08Z",
-    "startTime": "2026-07-03T10:55:08Z",
+    "id": "316182076275",
+    "channelId": "ramuneshiranami",
+    "title": "サブノーティカ２ w/みみたや ハルさん つるぎ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-07-03T12:08:50Z",
+    "startTime": "2026-07-03T12:08:50Z",
     "platform": "twitch",
-    "ttl": "2026-07-10T10:55:08.000Z",
-    "streamerId": "arya_kuroha"
+    "ttl": "2026-07-10T12:08:50.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316180244851",
@@ -339,5 +355,17 @@
     "platform": "twitch",
     "ttl": "2026-07-10T02:50:18.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "320166870106",
+    "channelId": "aryakuroha",
+    "title": "✦ epe w/ @dttodot & @tsuna_nekota",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/be87021217bc215a72d0_aryakuroha_320166870106_1783076108//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2811126675",
+    "scheduledStartTime": "2026-07-03T10:55:17Z",
+    "startTime": "2026-07-03T10:55:17Z",
+    "platform": "twitch",
+    "ttl": "2026-07-10T10:55:17.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
