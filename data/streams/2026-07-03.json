@@ -120,11 +120,12 @@
     "id": "VM9e616OSGM",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【RUST】公式鯖RUSTどこまでいけんのか生活 参加者は概要欄【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/VM9e616OSGM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/VM9e616OSGM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=VM9e616OSGM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T12:20:00Z",
     "startTime": "2026-07-03T12:24:50Z",
+    "endTime": "2026-07-03T20:32:17Z",
     "ttl": "2026-07-10T12:20:00.000Z",
     "streamerId": "kaminari_qpi"
   },
@@ -362,11 +363,12 @@
     "id": "B7sKjZHddw4",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Apex Legends◢ CULTIVATION (APEX TOURNEY PRACTICE) | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/B7sKjZHddw4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/B7sKjZHddw4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=B7sKjZHddw4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T14:30:00Z",
     "startTime": "2026-07-03T14:30:51Z",
+    "endTime": "2026-07-03T20:20:02Z",
     "ttl": "2026-07-10T14:30:00.000Z",
     "streamerId": "juno_umezono"
   },
@@ -384,18 +386,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316120333681",
-    "channelId": "akarindao",
-    "title": "W杯オーストラリア vs エジプトDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-03T17:52:21Z",
-    "startTime": "2026-07-03T17:52:21Z",
-    "platform": "twitch",
-    "ttl": "2026-07-10T17:52:21.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316182076275",
     "channelId": "ramuneshiranami",
     "title": "サブノーティカ２ w/みみたや ハルさん つるぎ",
@@ -406,6 +396,18 @@
     "platform": "twitch",
     "ttl": "2026-07-10T12:08:55.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316120333681",
+    "channelId": "akarindao",
+    "title": "W杯オーストラリア vs エジプトDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/6d4e261172fcf8f8fc8a_akarindao_316120333681_1783101141//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2811355893",
+    "scheduledStartTime": "2026-07-03T17:52:26Z",
+    "startTime": "2026-07-03T17:52:26Z",
+    "platform": "twitch",
+    "ttl": "2026-07-10T17:52:26.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316180244851",
