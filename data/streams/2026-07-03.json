@@ -29,11 +29,12 @@
     "id": "_vA6JVreBOg",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 Apex 】オセロ方式今日はわたしもネオポルテ w/てとちゃん、アリアちゃん【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/_vA6JVreBOg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/_vA6JVreBOg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=_vA6JVreBOg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T11:00:00Z",
     "startTime": "2026-07-03T11:02:39Z",
+    "endTime": "2026-07-03T14:55:54Z",
     "ttl": "2026-07-10T11:00:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -41,11 +42,12 @@
     "id": "UqvG2G-Iw2o",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【LOST JUDGMENT:裁かれざる記憶】完全初見！ジャッジメント一ノ瀬見参【ぶいすぽ/一ノ瀬うるは】※ネタバレあり",
-    "thumbnail": "https://i.ytimg.com/vi/UqvG2G-Iw2o/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/UqvG2G-Iw2o/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=UqvG2G-Iw2o",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T11:00:00Z",
     "startTime": "2026-07-03T11:01:40Z",
+    "endTime": "2026-07-03T14:30:14Z",
     "ttl": "2026-07-10T11:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -82,6 +84,7 @@
     "url": "https://www.youtube.com/watch?v=E9GoKE2y4vY",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T14:00:00Z",
+    "startTime": "2026-07-03T14:01:42Z",
     "ttl": "2026-07-10T14:00:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -97,6 +100,18 @@
     "endTime": "2026-07-03T07:04:43Z",
     "ttl": "2026-07-10T07:00:00.000Z",
     "streamerId": "asumi_sena"
+  },
+  {
+    "id": "Wuy0IItcrGo",
+    "channelId": "UCGWa1dMU_sDCaRQjdabsVgg",
+    "title": "【雑談】SAVOGE振り返り【ぶいすぽ/如月れん】",
+    "thumbnail": "https://i.ytimg.com/vi/Wuy0IItcrGo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Wuy0IItcrGo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-03T14:59:49Z",
+    "startTime": "2026-07-03T15:08:31Z",
+    "ttl": "2026-07-10T14:59:49.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "VM9e616OSGM",
@@ -122,14 +137,26 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "YhI21_Spgv0",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "呼び方に厳しいひなちゃん【ぶいすぽっ！/ 藍沢エマ/花芽なずな/橘ひなの/マイクラ】",
+    "thumbnail": "https://i.ytimg.com/vi/YhI21_Spgv0/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=YhI21_Spgv0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-03T22:00:00Z",
+    "ttl": "2026-07-10T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "ISHm6ZSK67I",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【めっちゃカメレオン】擬態アートいけます【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/ISHm6ZSK67I/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ISHm6ZSK67I/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ISHm6ZSK67I",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T11:00:00Z",
     "startTime": "2026-07-03T11:03:36Z",
+    "endTime": "2026-07-03T14:11:35Z",
     "ttl": "2026-07-10T11:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -202,11 +229,12 @@
     "id": "uiXiPfwof-E",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "＃３【 逆転裁判123 成歩堂セレクション 】　完全初見！裁判負けるわけなくてぇ！！！！！！！！※ネタバレ注意　3話途中～　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/uiXiPfwof-E/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/uiXiPfwof-E/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=uiXiPfwof-E",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T11:00:00Z",
     "startTime": "2026-07-03T11:00:01Z",
+    "endTime": "2026-07-03T15:03:28Z",
     "ttl": "2026-07-10T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -237,6 +265,18 @@
     "streamerId": "amayui_moka"
   },
   {
+    "id": "jH9A8HM_vYs",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【 リズム天国 ミラクルスターズ 】人生初めてやってみる！歌は得意なのですが…！？【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/jH9A8HM_vYs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=jH9A8HM_vYs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-03T14:10:00Z",
+    "startTime": "2026-07-03T14:22:07Z",
+    "ttl": "2026-07-10T14:10:00.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
     "id": "JcEcAqk4GkQ",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤ 風燕伝：Where Winds Meet  ◢　初見プレイ！五代十国時代を舞台にした武侠オープンワールドARPGやらせていただきます！  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
@@ -250,6 +290,18 @@
     "streamerId": "tatsumaki_chise"
   },
   {
+    "id": "R5-GADTwN90",
+    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
+    "title": "Anomaly searching in Chibi form | CAPTURED 2【#VSPOEN #RemiaAotsuki】",
+    "thumbnail": "https://i.ytimg.com/vi/R5-GADTwN90/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=R5-GADTwN90",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-03T14:00:00Z",
+    "startTime": "2026-07-03T14:00:59Z",
+    "ttl": "2026-07-10T14:00:00.000Z",
+    "streamerId": "remia_aotsuki"
+  },
+  {
     "id": "UcoU4zj9Lis",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "+2 to lv10  | Faceit | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
@@ -261,21 +313,10 @@
     "streamerId": "remia_aotsuki"
   },
   {
-    "id": "R5-GADTwN90",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "Anomaly searching in Chibi form | CAPTURED 2【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/R5-GADTwN90/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=R5-GADTwN90",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-03T14:00:00Z",
-    "ttl": "2026-07-10T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
     "id": "EPSVqov8O8o",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【APEX LEGENDS】ranked with @dttodot & @tsuna_nekota !!【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/EPSVqov8O8o/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/EPSVqov8O8o/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=EPSVqov8O8o",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T11:00:00Z",
@@ -288,11 +329,12 @@
     "id": "2NsEypds7Fo",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【League of Legends】ITS BEEN SO LONG I NEED TO PLAY LEAGUE YATTAAAAA【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/2NsEypds7Fo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/2NsEypds7Fo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=2NsEypds7Fo",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T11:00:00Z",
     "startTime": "2026-07-03T11:30:17Z",
+    "endTime": "2026-07-03T14:06:48Z",
     "ttl": "2026-07-10T11:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -311,11 +353,12 @@
   {
     "id": "B7sKjZHddw4",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Apex Legends◢ SOLO CULTIVATION (APEX TOURNEY PRACTICE) | #JunoUmezono #VSPOEN",
+    "title": "◤Apex Legends◢ CULTIVATION (APEX TOURNEY PRACTICE) | #JunoUmezono #VSPOEN",
     "thumbnail": "https://i.ytimg.com/vi/B7sKjZHddw4/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=B7sKjZHddw4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T14:30:00Z",
+    "startTime": "2026-07-03T14:30:51Z",
     "ttl": "2026-07-10T14:30:00.000Z",
     "streamerId": "juno_umezono"
   },

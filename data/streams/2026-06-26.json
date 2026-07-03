@@ -39,19 +39,6 @@
     "streamerId": "tatsumaki_chise"
   },
   {
-    "id": "VCDGpnmQU_w",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "First time playing killer  | Dead by Daylight【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/VCDGpnmQU_w/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=VCDGpnmQU_w",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-26T14:00:00Z",
-    "startTime": "2026-06-26T14:06:03Z",
-    "endTime": "2026-06-26T17:05:03Z",
-    "ttl": "2026-07-03T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
     "id": "316097544562",
     "channelId": "ren_kisaragi__",
     "title": "のんびりEvoみてるだけ※画面なし",
@@ -61,18 +48,6 @@
     "startTime": "2026-06-26T18:23:49Z",
     "platform": "twitch",
     "ttl": "2026-07-03T18:23:49.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316096793842",
-    "channelId": "ren_kisaragi__",
-    "title": "ぽこあヴァイパー村二次会",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/307cf880045f4ee3ab5b_ren_kisaragi___316096793842_1782484980//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2805832504",
-    "scheduledStartTime": "2026-06-26T14:43:05Z",
-    "startTime": "2026-06-26T14:43:05Z",
-    "platform": "twitch",
-    "ttl": "2026-07-03T14:43:05.000Z",
     "streamerId": "kisaragi_ren"
   },
   {
