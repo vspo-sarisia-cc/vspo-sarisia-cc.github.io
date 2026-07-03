@@ -29,11 +29,12 @@
     "id": "SG2WYVxScNw",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【RUST】公式鯖RUSTどこまでいけんのか生活 参加者は概要欄【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/SG2WYVxScNw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/SG2WYVxScNw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=SG2WYVxScNw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-02T18:55:00Z",
     "startTime": "2026-07-02T19:06:26Z",
+    "endTime": "2026-07-03T02:32:11Z",
     "ttl": "2026-07-09T18:55:00.000Z",
     "streamerId": "kaminari_qpi"
   },
@@ -93,11 +94,12 @@
     "id": "17rm3Dz9NEo",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 スト６】しゃが中【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/17rm3Dz9NEo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/17rm3Dz9NEo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=17rm3Dz9NEo",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-02T21:05:00Z",
     "startTime": "2026-07-02T21:09:14Z",
+    "endTime": "2026-07-03T02:07:24Z",
     "ttl": "2026-07-09T21:05:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -154,17 +156,6 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "eo59hkXhFR8",
-    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
-    "title": "【EWC 2026 VALORANT】 PRX vs NRG — Watchparty 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/eo59hkXhFR8/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=eo59hkXhFR8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-02T13:45:00Z",
-    "ttl": "2026-07-09T13:45:00.000Z",
-    "streamerId": "narin_mikure"
-  },
-  {
     "id": "kIj370O0nRM",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "idk what we're doing today",
@@ -191,18 +182,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316116456689",
-    "channelId": "akarindao",
-    "title": "W杯ポルトガル vs クロアチアDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-02T22:51:27Z",
-    "startTime": "2026-07-02T22:51:27Z",
-    "platform": "twitch",
-    "ttl": "2026-07-09T22:51:27.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316124844274",
     "channelId": "ren_kisaragi__",
     "title": "こんな時間に初見のゲームを配信するのは間違ってるし私にはリズム感がない",
@@ -227,15 +206,15 @@
     "streamerId": "shiranami_ramune"
   },
   {
-    "id": "316116447345",
+    "id": "316116456689",
     "channelId": "akarindao",
-    "title": "VALOでマスターズをぼこぼこにする会！",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/826b6dceb8bed9d4f5e6_akarindao_316116447345_1783032493//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2810774108",
-    "scheduledStartTime": "2026-07-02T22:48:19Z",
-    "startTime": "2026-07-02T22:48:19Z",
+    "title": "W杯ポルトガル vs クロアチアDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/06011fef3ac5a394a657_akarindao_316116456689_1783032687//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2810776263",
+    "scheduledStartTime": "2026-07-02T22:51:32Z",
+    "startTime": "2026-07-02T22:51:32Z",
     "platform": "twitch",
-    "ttl": "2026-07-09T22:48:19.000Z",
+    "ttl": "2026-07-09T22:51:32.000Z",
     "streamerId": "yumeno_akari"
   },
   {

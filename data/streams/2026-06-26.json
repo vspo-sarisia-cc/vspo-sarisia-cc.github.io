@@ -169,19 +169,6 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "anxFTqahSZM",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【スト６】　一歩ずつ前進してゆく！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/anxFTqahSZM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=anxFTqahSZM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-26T05:00:00Z",
-    "startTime": "2026-06-26T05:00:33Z",
-    "endTime": "2026-06-26T07:07:07Z",
-    "ttl": "2026-07-03T05:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
     "id": "c6cZrLbM10w",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【】ﾄﾞﾓ【 ぶいすぽっ！甘結もか 】",
@@ -258,19 +245,6 @@
     "endTime": "2026-06-26T17:05:03Z",
     "ttl": "2026-07-03T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "q86hV0NfvP4",
-    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-    "title": "【DEAD BY DAYLIGHT】checking out the new killer !!【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/q86hV0NfvP4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=q86hV0NfvP4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-26T00:00:00Z",
-    "startTime": "2026-06-26T00:01:14Z",
-    "endTime": "2026-06-26T02:01:01Z",
-    "ttl": "2026-07-03T00:00:00.000Z",
-    "streamerId": "arya_kuroha"
   },
   {
     "id": "_s92pT-qe7w",
@@ -357,29 +331,5 @@
     "platform": "twitch",
     "ttl": "2026-07-03T18:59:37.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316148007411",
-    "channelId": "saineginjo",
-    "title": "まるで健康的な朝",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/c82c592e872eef0cb9ba_saineginjo_316148007411_1782438206//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2805500063",
-    "scheduledStartTime": "2026-06-26T01:43:31Z",
-    "startTime": "2026-06-26T01:43:31Z",
-    "platform": "twitch",
-    "ttl": "2026-07-03T01:43:31.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "320037086298",
-    "channelId": "aryakuroha",
-    "title": "✦ jason is here !",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/5ab5dbf0262aa906f850_aryakuroha_320037086298_1782432010//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2805424471",
-    "scheduledStartTime": "2026-06-26T00:00:19Z",
-    "startTime": "2026-06-26T00:00:19Z",
-    "platform": "twitch",
-    "ttl": "2026-07-03T00:00:19.000Z",
-    "streamerId": "arya_kuroha"
   }
 ]
