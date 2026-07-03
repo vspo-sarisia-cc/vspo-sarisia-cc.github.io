@@ -80,11 +80,12 @@
     "id": "E9GoKE2y4vY",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【深夜雑談】お酒嗜みながら＿＿今週もお疲れ様。【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/E9GoKE2y4vY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/E9GoKE2y4vY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=E9GoKE2y4vY",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T14:00:00Z",
     "startTime": "2026-07-03T14:01:42Z",
+    "endTime": "2026-07-03T16:07:11Z",
     "ttl": "2026-07-10T14:00:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -110,6 +111,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T14:59:49Z",
     "startTime": "2026-07-03T15:08:31Z",
+    "endTime": "2026-07-03T17:08:41Z",
     "ttl": "2026-07-10T14:59:49.000Z",
     "streamerId": "kisaragi_ren"
   },
@@ -290,18 +292,6 @@
     "streamerId": "tatsumaki_chise"
   },
   {
-    "id": "R5-GADTwN90",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "Anomaly searching in Chibi form | CAPTURED 2【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/R5-GADTwN90/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=R5-GADTwN90",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-03T14:00:00Z",
-    "startTime": "2026-07-03T14:00:59Z",
-    "ttl": "2026-07-10T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
     "id": "UcoU4zj9Lis",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "+2 to lv10  | Faceit | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
@@ -309,7 +299,21 @@
     "url": "https://www.youtube.com/watch?v=UcoU4zj9Lis",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T17:00:00Z",
+    "startTime": "2026-07-03T17:09:43Z",
     "ttl": "2026-07-10T17:00:00.000Z",
+    "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "R5-GADTwN90",
+    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
+    "title": "Anomaly searching in Chibi form | CAPTURED 2【#VSPOEN #RemiaAotsuki】",
+    "thumbnail": "https://i.ytimg.com/vi/R5-GADTwN90/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=R5-GADTwN90",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-03T14:00:00Z",
+    "startTime": "2026-07-03T14:00:59Z",
+    "endTime": "2026-07-03T16:51:48Z",
+    "ttl": "2026-07-10T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
   {
@@ -342,11 +346,12 @@
     "id": "VOgYXClH3VI",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【VALORANT】why am i doing this to myself【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/VOgYXClH3VI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/VOgYXClH3VI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=VOgYXClH3VI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T12:00:00Z",
     "startTime": "2026-07-03T12:00:48Z",
+    "endTime": "2026-07-03T15:50:45Z",
     "ttl": "2026-07-10T12:00:00.000Z",
     "streamerId": "riko_solari"
   },
