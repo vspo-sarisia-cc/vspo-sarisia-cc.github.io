@@ -36,17 +36,5 @@
     "platform": "twitch",
     "ttl": "2026-07-03T23:46:59.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316088501873",
-    "channelId": "akarindao",
-    "title": "遂に、、！！W杯ノルウェー vs フランスDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/fbad0e24afcb5cad7edf_akarindao_316088501873_1782500372//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2805994938",
-    "scheduledStartTime": "2026-06-26T18:59:37Z",
-    "startTime": "2026-06-26T18:59:37Z",
-    "platform": "twitch",
-    "ttl": "2026-07-03T18:59:37.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
