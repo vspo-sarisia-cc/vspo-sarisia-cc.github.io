@@ -20,6 +20,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T09:00:00Z",
     "startTime": "2026-07-04T09:19:09Z",
+    "endTime": "2026-07-04T14:34:23Z",
     "ttl": "2026-07-11T09:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -27,11 +28,12 @@
     "id": "xD7ZqQqjEqQ",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【Dark Hours】強盗系ホラー潜入【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/xD7ZqQqjEqQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/xD7ZqQqjEqQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=xD7ZqQqjEqQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T11:00:00Z",
     "startTime": "2026-07-04T11:03:30Z",
+    "endTime": "2026-07-04T13:51:32Z",
     "ttl": "2026-07-11T11:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -39,11 +41,12 @@
     "id": "LqqL0jpT64k",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】TGS APEX LEGENDS CUSTOMに参加します！/むかいさん、てとち【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/LqqL0jpT64k/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/LqqL0jpT64k/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=LqqL0jpT64k",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T12:00:00Z",
     "startTime": "2026-07-04T11:57:33Z",
+    "endTime": "2026-07-04T14:10:07Z",
     "ttl": "2026-07-11T12:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -76,11 +79,12 @@
     "id": "lBIwzhsxUnU",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Dark Hours 】うるはさんと強盗系ホラー～ホラゲー苦手男２人を添えて～ 【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/lBIwzhsxUnU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/lBIwzhsxUnU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=lBIwzhsxUnU",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T11:00:00Z",
     "startTime": "2026-07-04T11:05:45Z",
+    "endTime": "2026-07-04T13:54:30Z",
     "ttl": "2026-07-11T11:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -110,14 +114,27 @@
     "streamerId": "kaminari_qpi"
   },
   {
+    "id": "oD_dbRA5TPY",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【 Escape from Tarkov 】オトモいかせていただきますw/光葉エニ【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/oD_dbRA5TPY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=oD_dbRA5TPY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T14:20:00Z",
+    "startTime": "2026-07-04T14:22:11Z",
+    "ttl": "2026-07-11T14:20:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
     "id": "aNU8eaEQVQA",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【勝利の女神:NIKKE】夏だ！水着だ！NIKKEだ～🍉💚【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/aNU8eaEQVQA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/aNU8eaEQVQA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=aNU8eaEQVQA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T11:30:00Z",
     "startTime": "2026-07-04T11:29:43Z",
+    "endTime": "2026-07-04T13:22:58Z",
     "ttl": "2026-07-11T11:30:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -125,11 +142,12 @@
     "id": "fiuAxPmT1OU",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【崩壊:スターレイル】#12 調和セレモニーが始まる…【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/fiuAxPmT1OU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/fiuAxPmT1OU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=fiuAxPmT1OU",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T11:00:00Z",
     "startTime": "2026-07-04T11:06:41Z",
+    "endTime": "2026-07-04T13:18:50Z",
     "ttl": "2026-07-11T11:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -145,6 +163,17 @@
     "endTime": "2026-07-04T09:16:53Z",
     "ttl": "2026-07-11T07:00:00.000Z",
     "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "h7RgiwLc054",
+    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
+    "title": "【 ニチアサ 】みなさん、朝ですよ【 ぶいすぽっ！ / 小森めと 】",
+    "thumbnail": "https://i.ytimg.com/vi/h7RgiwLc054/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=h7RgiwLc054",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T23:00:00Z",
+    "ttl": "2026-07-11T23:00:00.000Z",
+    "streamerId": "komori_met"
   },
   {
     "id": "Qu4aS-Csp2s",
@@ -176,11 +205,12 @@
     "id": "dqb-vd7tts4",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【リズム天国 ミラクルスターズ 】　キターーーーーーー！！いくぞ天国！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/dqb-vd7tts4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/dqb-vd7tts4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=dqb-vd7tts4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T11:00:00Z",
     "startTime": "2026-07-04T11:01:17Z",
+    "endTime": "2026-07-04T14:14:14Z",
     "ttl": "2026-07-11T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -293,18 +323,6 @@
     "streamerId": "narin_mikure"
   },
   {
-    "id": "qS5AWdBq8nU",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Apex Legends◢ TGS customs first tournament with @dttodot & @rprxx  | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/qS5AWdBq8nU/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=qS5AWdBq8nU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-04T11:00:00Z",
-    "startTime": "2026-07-04T10:18:27Z",
-    "ttl": "2026-07-11T11:00:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
     "id": "27I8CxaQVYg",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Meccha Chameleon◢ senpai please dont shoot your kouhai | #JunoUmezono #VSPOEN",
@@ -314,18 +332,6 @@
     "scheduledStartTime": "2026-07-04T23:00:00Z",
     "ttl": "2026-07-11T23:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316123800689",
-    "channelId": "ren_kisaragi__",
-    "title": "激浅OW部第二回",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-07-04T12:02:15Z",
-    "startTime": "2026-07-04T12:02:15Z",
-    "platform": "twitch",
-    "ttl": "2026-07-11T12:02:15.000Z",
-    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316186781811",
@@ -338,5 +344,17 @@
     "platform": "twitch",
     "ttl": "2026-07-11T11:03:03.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316123800689",
+    "channelId": "ren_kisaragi__",
+    "title": "激浅OW部第二回",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-07-04T12:02:15Z",
+    "startTime": "2026-07-04T12:02:15Z",
+    "platform": "twitch",
+    "ttl": "2026-07-11T12:02:15.000Z",
+    "streamerId": "kisaragi_ren"
   }
 ]
