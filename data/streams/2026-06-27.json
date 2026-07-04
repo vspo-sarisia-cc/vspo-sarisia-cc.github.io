@@ -26,19 +26,6 @@
     "streamerId": "kaga_nazuna"
   },
   {
-    "id": "Ax8-nVVT_tg",
-    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
-    "title": "【 DBD 】周年イベきた！乗り込めーーー！！！ w/顔芸さん【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/Ax8-nVVT_tg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Ax8-nVVT_tg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-27T05:00:00Z",
-    "startTime": "2026-06-27T05:05:37Z",
-    "endTime": "2026-06-27T09:23:57Z",
-    "ttl": "2026-07-04T05:00:00.000Z",
-    "streamerId": "kogara_toto"
-  },
-  {
     "id": "jRM1FJ-CHXE",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 オーバーウォッチ 】本番！優勝すっぞ！ #GGEGWIN 【 ぶいすぽっ！胡桃のあ 】",
@@ -216,18 +203,6 @@
     "startTime": "2026-06-27T20:52:05Z",
     "platform": "twitch",
     "ttl": "2026-07-04T20:52:05.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316152895091",
-    "channelId": "akarindao",
-    "title": "W杯ニュージーランド vs ベルギーDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/fc0831535333f93652fd_akarindao_316152895091_1782528710//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2806320268",
-    "scheduledStartTime": "2026-06-27T02:51:55Z",
-    "startTime": "2026-06-27T02:51:55Z",
-    "platform": "twitch",
-    "ttl": "2026-07-04T02:51:55.000Z",
     "streamerId": "yumeno_akari"
   }
 ]

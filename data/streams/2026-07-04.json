@@ -11,6 +11,64 @@
     "streamerId": "asumi_sena"
   },
   {
+    "id": "aNU8eaEQVQA",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【勝利の女神:NIKKE】夏だ！水着だ！NIKKEだ～🍉💚【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/aNU8eaEQVQA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=aNU8eaEQVQA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T11:30:00Z",
+    "ttl": "2026-07-11T11:30:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "Qu4aS-Csp2s",
+    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
+    "title": "【 ゼルダの伝説 ブレワイ 】#2 姫今助けます【 ぶいすぽっ！ / 小森めと 】",
+    "thumbnail": "https://i.ytimg.com/vi/Qu4aS-Csp2s/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Qu4aS-Csp2s",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T02:15:00Z",
+    "startTime": "2026-07-04T02:23:36Z",
+    "ttl": "2026-07-11T02:15:00.000Z",
+    "streamerId": "komori_met"
+  },
+  {
+    "id": "rJCrnsNm8N4",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【MSI2026】 LYON vs FUR - BLG vs T1 | Mid-Season Invitational 2026 Bracket Stage Day 2 同時視聴！",
+    "thumbnail": "https://i.ytimg.com/vi/rJCrnsNm8N4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=rJCrnsNm8N4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T03:15:00Z",
+    "startTime": "2026-07-04T03:17:54Z",
+    "ttl": "2026-07-11T03:15:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "r0WhsxyUAxA",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【スト６】　焔無限編突入！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/r0WhsxyUAxA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=r0WhsxyUAxA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T05:00:00Z",
+    "startTime": "2026-07-04T05:00:45Z",
+    "ttl": "2026-07-11T05:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "dqb-vd7tts4",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【リズム天国 ミラクルスターズ 】　キターーーーーーー！！いくぞ天国！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/dqb-vd7tts4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=dqb-vd7tts4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T11:00:00Z",
+    "ttl": "2026-07-11T11:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "QsR8IDVFv_Q",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【テイルズ オブ ジ アビス】#6 テイルズシリーズ完全初見！奪ってきた\"命\"の重さ＿＿＿。 TALES OF THE ABYSS【ぶいすぽっ！ #銀城サイネ 】",
@@ -52,6 +110,7 @@
     "url": "https://www.youtube.com/watch?v=xvaY34IBmKE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T03:00:00Z",
+    "startTime": "2026-07-04T03:01:22Z",
     "ttl": "2026-07-11T03:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
