@@ -7,8 +7,20 @@
     "url": "https://www.youtube.com/watch?v=E53Krx9i5T4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T09:00:00Z",
+    "startTime": "2026-07-04T09:19:09Z",
     "ttl": "2026-07-11T09:00:00.000Z",
     "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "xD7ZqQqjEqQ",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【Dark Hours】強盗系ホラー潜入【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/xD7ZqQqjEqQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=xD7ZqQqjEqQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T11:00:00Z",
+    "ttl": "2026-07-11T11:00:00.000Z",
+    "streamerId": "ichinose_uruha"
   },
   {
     "id": "SWkwoKlb3ZQ",
@@ -18,6 +30,7 @@
     "url": "https://www.youtube.com/watch?v=SWkwoKlb3ZQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T10:00:00Z",
+    "startTime": "2026-07-04T10:00:44Z",
     "ttl": "2026-07-11T10:00:00.000Z",
     "streamerId": "tosaki_mimi"
   },
@@ -28,19 +41,20 @@
     "thumbnail": "https://i.ytimg.com/vi/xIS5saRl-aA/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=xIS5saRl-aA",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-04T12:00:00Z",
-    "ttl": "2026-07-11T12:00:00.000Z",
+    "scheduledStartTime": "2026-07-04T12:30:00Z",
+    "ttl": "2026-07-11T12:30:00.000Z",
     "streamerId": "asumi_sena"
   },
   {
     "id": "IuUHuj7bcbQ",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 リズム天国 ミラクルスターズ 】リズム感は多分あんまりないです 【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/IuUHuj7bcbQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/IuUHuj7bcbQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=IuUHuj7bcbQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T06:35:00Z",
     "startTime": "2026-07-04T06:32:50Z",
+    "endTime": "2026-07-04T09:55:57Z",
     "ttl": "2026-07-11T06:35:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -59,11 +73,12 @@
     "id": "G2mo7cq--mQ",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】優雅にいきましょう【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/G2mo7cq--mQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/G2mo7cq--mQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=G2mo7cq--mQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T07:00:00Z",
     "startTime": "2026-07-04T06:57:51Z",
+    "endTime": "2026-07-04T09:16:53Z",
     "ttl": "2026-07-11T07:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -82,11 +97,12 @@
     "id": "Qu4aS-Csp2s",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 ゼルダの伝説 ブレワイ 】#2 姫今助けます【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/Qu4aS-Csp2s/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Qu4aS-Csp2s/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Qu4aS-Csp2s",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T02:15:00Z",
     "startTime": "2026-07-04T02:23:36Z",
+    "endTime": "2026-07-04T09:04:30Z",
     "ttl": "2026-07-11T02:15:00.000Z",
     "streamerId": "komori_met"
   },
@@ -106,7 +122,7 @@
     "id": "r0WhsxyUAxA",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　焔無限編突入！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/r0WhsxyUAxA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/r0WhsxyUAxA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=r0WhsxyUAxA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T05:00:00Z",
@@ -125,6 +141,18 @@
     "scheduledStartTime": "2026-07-04T11:00:00Z",
     "ttl": "2026-07-11T11:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "6uKAOv6xs-U",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【スト6】とうとうやるのか…はじめてのランク【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/6uKAOv6xs-U/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=6uKAOv6xs-U",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T09:00:00Z",
+    "startTime": "2026-07-04T09:01:17Z",
+    "ttl": "2026-07-11T09:00:00.000Z",
+    "streamerId": "ginjo_saine"
   },
   {
     "id": "QsR8IDVFv_Q",
@@ -186,6 +214,18 @@
     "streamerId": "narin_mikure"
   },
   {
+    "id": "qS5AWdBq8nU",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Apex Legends◢ TGS customs first tournament with @dttodot & @rprxx  | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/qS5AWdBq8nU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=qS5AWdBq8nU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T11:00:00Z",
+    "startTime": "2026-07-04T10:18:27Z",
+    "ttl": "2026-07-11T11:00:00.000Z",
+    "streamerId": "juno_umezono"
+  },
+  {
     "id": "27I8CxaQVYg",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Meccha Chameleon◢ senpai please dont shoot your kouhai | #JunoUmezono #VSPOEN",
@@ -194,17 +234,6 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T23:00:00Z",
     "ttl": "2026-07-11T23:00:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
-    "id": "qS5AWdBq8nU",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Apex Legends◢ TGS customs first tournament with @dttodot & @rprxx  | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/qS5AWdBq8nU/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=qS5AWdBq8nU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-04T11:00:00Z",
-    "ttl": "2026-07-11T11:00:00.000Z",
     "streamerId": "juno_umezono"
   }
 ]
