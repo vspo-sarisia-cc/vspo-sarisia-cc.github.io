@@ -1,5 +1,27 @@
 [
   {
+    "id": "E53Krx9i5T4",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【漢義リーグ】もうついに第５節ですか…w ..白雪レイド、本阿弥あずさ、ルイス・キャミー【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/E53Krx9i5T4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=E53Krx9i5T4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T09:00:00Z",
+    "ttl": "2026-07-11T09:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "SWkwoKlb3ZQ",
+    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
+    "title": "【#兎咲ミミ6周年】7年目もがんばっていくぞ～※告知あり【ぶいすぽ/兎咲ミミ】",
+    "thumbnail": "https://i.ytimg.com/vi/SWkwoKlb3ZQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=SWkwoKlb3ZQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T10:00:00Z",
+    "ttl": "2026-07-11T10:00:00.000Z",
+    "streamerId": "tosaki_mimi"
+  },
+  {
     "id": "xIS5saRl-aA",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "#05【BIOHAZARD RE:4】完全初見！バイオ4遂にエイダ登場！！【空澄セナ/ぶいすぽっ！】",
@@ -11,6 +33,18 @@
     "streamerId": "asumi_sena"
   },
   {
+    "id": "IuUHuj7bcbQ",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 リズム天国 ミラクルスターズ 】リズム感は多分あんまりないです 【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/IuUHuj7bcbQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=IuUHuj7bcbQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T06:35:00Z",
+    "startTime": "2026-07-04T06:32:50Z",
+    "ttl": "2026-07-11T06:35:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "aNU8eaEQVQA",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【勝利の女神:NIKKE】夏だ！水着だ！NIKKEだ～🍉💚【ぶいすぽ/八雲べに】",
@@ -20,6 +54,29 @@
     "scheduledStartTime": "2026-07-04T11:30:00Z",
     "ttl": "2026-07-11T11:30:00.000Z",
     "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "G2mo7cq--mQ",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】優雅にいきましょう【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/G2mo7cq--mQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=G2mo7cq--mQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T07:00:00Z",
+    "startTime": "2026-07-04T06:57:51Z",
+    "ttl": "2026-07-11T07:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "fiuAxPmT1OU",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【崩壊:スターレイル】#12 調和セレモニーが始まる…【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/fiuAxPmT1OU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=fiuAxPmT1OU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T11:00:00Z",
+    "ttl": "2026-07-11T11:00:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "Qu4aS-Csp2s",
@@ -54,6 +111,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T05:00:00Z",
     "startTime": "2026-07-04T05:00:45Z",
+    "endTime": "2026-07-04T06:58:13Z",
     "ttl": "2026-07-11T05:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -72,11 +130,12 @@
     "id": "QsR8IDVFv_Q",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【テイルズ オブ ジ アビス】#6 テイルズシリーズ完全初見！奪ってきた\"命\"の重さ＿＿＿。 TALES OF THE ABYSS【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/QsR8IDVFv_Q/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/QsR8IDVFv_Q/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=QsR8IDVFv_Q",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T01:00:00Z",
     "startTime": "2026-07-04T01:01:49Z",
+    "endTime": "2026-07-04T07:29:43Z",
     "ttl": "2026-07-11T01:00:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -106,11 +165,12 @@
     "id": "xvaY34IBmKE",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【League of Legends】back with a vengeance. 【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/xvaY34IBmKE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/xvaY34IBmKE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=xvaY34IBmKE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T03:00:00Z",
     "startTime": "2026-07-04T03:01:22Z",
+    "endTime": "2026-07-04T05:14:46Z",
     "ttl": "2026-07-11T03:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -143,8 +203,8 @@
     "thumbnail": "https://i.ytimg.com/vi/qS5AWdBq8nU/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=qS5AWdBq8nU",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-04T12:00:00Z",
-    "ttl": "2026-07-11T12:00:00.000Z",
+    "scheduledStartTime": "2026-07-04T11:00:00Z",
+    "ttl": "2026-07-11T11:00:00.000Z",
     "streamerId": "juno_umezono"
   }
 ]

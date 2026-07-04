@@ -1,44 +1,5 @@
 [
   {
-    "id": "CkRttJloDlM",
-    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
-    "title": "【OW】CRカップ本番かなり危険な存在【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/CkRttJloDlM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=CkRttJloDlM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-27T07:00:00Z",
-    "startTime": "2026-06-27T07:18:25Z",
-    "endTime": "2026-06-27T14:46:46Z",
-    "ttl": "2026-07-04T07:00:00.000Z",
-    "streamerId": "kaga_sumire"
-  },
-  {
-    "id": "UxCZjQKuq7A",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【雀魂】久々にやる雀やん【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/UxCZjQKuq7A/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=UxCZjQKuq7A",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-27T07:50:00Z",
-    "startTime": "2026-06-27T07:50:47Z",
-    "endTime": "2026-06-27T10:38:01Z",
-    "ttl": "2026-07-04T07:50:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
-    "id": "jRM1FJ-CHXE",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 オーバーウォッチ 】本番！優勝すっぞ！ #GGEGWIN 【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/jRM1FJ-CHXE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=jRM1FJ-CHXE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-27T07:00:00Z",
-    "startTime": "2026-06-27T07:15:15Z",
-    "endTime": "2026-06-27T15:29:58Z",
-    "ttl": "2026-07-04T07:00:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "sxwuOs2BLMo",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【 Escape from Tarkov 】べに、今日kappaいくってよ！！！！！【ぶいすぽ/八雲べに】",
@@ -65,58 +26,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "8KWoFjP-IQw",
-    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
-    "title": "【 OVERWATCH 】CRcup本番！#しゃらくせー不動大人冗談２１WIN【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/8KWoFjP-IQw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=8KWoFjP-IQw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-27T07:00:00Z",
-    "startTime": "2026-06-27T07:08:35Z",
-    "endTime": "2026-06-27T15:04:17Z",
-    "ttl": "2026-07-04T07:00:00.000Z",
-    "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "B2yito0Y1aE",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【OVERWATCH】CRカップOW本番！勝つぞー！！【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/B2yito0Y1aE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=B2yito0Y1aE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-27T07:00:00Z",
-    "startTime": "2026-06-27T06:09:58Z",
-    "endTime": "2026-06-27T15:46:29Z",
-    "ttl": "2026-07-04T07:00:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "Kd3FH8R7pi4",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 OW 〗CRCUP本番‼️ぽいドンＷＩＮ‼️‼️の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/Kd3FH8R7pi4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Kd3FH8R7pi4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-27T06:30:00Z",
-    "startTime": "2026-06-27T06:21:11Z",
-    "endTime": "2026-06-27T15:16:00Z",
-    "ttl": "2026-07-04T06:30:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
-    "id": "Oqp1lXKGQ3A",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【Overwatch】CRカップ本番！しゃらくせー不動大人冗談21【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/Oqp1lXKGQ3A/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Oqp1lXKGQ3A",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-27T07:00:00Z",
-    "startTime": "2026-06-27T07:08:27Z",
-    "endTime": "2026-06-27T15:04:55Z",
-    "ttl": "2026-07-04T07:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
     "id": "sFA3PjdHD38",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 APEX 】　スカした（？）方たちとフルパエペなんよ！！！！！w/あじゃ、きるま【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -127,19 +36,6 @@
     "startTime": "2026-06-27T11:04:40Z",
     "endTime": "2026-06-27T16:20:45Z",
     "ttl": "2026-07-04T11:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "hf7XTEv9uyM",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【スト６】　焔しか勝たんの感じでゆく！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/hf7XTEv9uyM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=hf7XTEv9uyM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-27T07:00:00Z",
-    "startTime": "2026-06-27T06:59:00Z",
-    "endTime": "2026-06-27T09:11:40Z",
-    "ttl": "2026-07-04T07:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -167,19 +63,6 @@
     "endTime": "2026-06-27T23:40:38Z",
     "ttl": "2026-07-04T21:00:00.000Z",
     "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "8fVa4qyRS98",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Wuthering Waves 1.x◢ FINISHING 1.x? (part. 5) | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/8fVa4qyRS98/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=8fVa4qyRS98",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-27T07:00:00Z",
-    "startTime": "2026-06-27T06:59:10Z",
-    "endTime": "2026-06-27T11:09:02Z",
-    "ttl": "2026-07-04T07:00:00.000Z",
-    "streamerId": "juno_umezono"
   },
   {
     "id": "316093466353",
