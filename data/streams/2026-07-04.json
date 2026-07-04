@@ -1,5 +1,17 @@
 [
   {
+    "id": "Ka7KmQQ8oPE",
+    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
+    "title": "【Poppy Playtime Chapter 3】ネコチャンが出るのカナ❓😅💦【ぶいすぽっ！/花芽すみれ】",
+    "thumbnail": "https://i.ytimg.com/vi/Ka7KmQQ8oPE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Ka7KmQQ8oPE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T13:00:00Z",
+    "startTime": "2026-07-04T12:58:46Z",
+    "ttl": "2026-07-11T13:00:00.000Z",
+    "streamerId": "kaga_sumire"
+  },
+  {
     "id": "E53Krx9i5T4",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【漢義リーグ】もうついに第５節ですか…w ..白雪レイド、本阿弥あずさ、ルイス・キャミー【ぶいすぽ/花芽なずな】",
@@ -31,6 +43,7 @@
     "url": "https://www.youtube.com/watch?v=LqqL0jpT64k",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T12:00:00Z",
+    "startTime": "2026-07-04T11:57:33Z",
     "ttl": "2026-07-11T12:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -38,7 +51,7 @@
     "id": "SWkwoKlb3ZQ",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
     "title": "【#兎咲ミミ6周年】7年目もがんばっていくぞ～※告知あり【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/SWkwoKlb3ZQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/SWkwoKlb3ZQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=SWkwoKlb3ZQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T10:00:00Z",
@@ -55,6 +68,7 @@
     "url": "https://www.youtube.com/watch?v=xIS5saRl-aA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T12:30:00Z",
+    "startTime": "2026-07-04T12:33:21Z",
     "ttl": "2026-07-11T12:30:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -187,11 +201,12 @@
     "id": "6uKAOv6xs-U",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【スト6】とうとうやるのか…はじめてのランク【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/6uKAOv6xs-U/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/6uKAOv6xs-U/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=6uKAOv6xs-U",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T09:00:00Z",
     "startTime": "2026-07-04T09:01:17Z",
+    "endTime": "2026-07-04T11:57:28Z",
     "ttl": "2026-07-11T09:00:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -216,6 +231,7 @@
     "url": "https://www.youtube.com/watch?v=ZwnDEYW8jbQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T12:00:00Z",
+    "startTime": "2026-07-04T12:02:20Z",
     "ttl": "2026-07-11T12:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -240,6 +256,17 @@
     "scheduledStartTime": "2026-07-04T23:00:00Z",
     "ttl": "2026-07-11T23:00:00.000Z",
     "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "Rvgk2rLAkJw",
+    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+    "title": "【Meccha Chameleon】they call me mozart cuz i be mozzing da art 【#VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/Rvgk2rLAkJw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Rvgk2rLAkJw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T23:00:00Z",
+    "ttl": "2026-07-11T23:00:00.000Z",
+    "streamerId": "jira_jisaki"
   },
   {
     "id": "xvaY34IBmKE",
@@ -287,6 +314,18 @@
     "scheduledStartTime": "2026-07-04T23:00:00Z",
     "ttl": "2026-07-11T23:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316123800689",
+    "channelId": "ren_kisaragi__",
+    "title": "激浅OW部第二回",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-07-04T12:02:15Z",
+    "startTime": "2026-07-04T12:02:15Z",
+    "platform": "twitch",
+    "ttl": "2026-07-11T12:02:15.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316186781811",
