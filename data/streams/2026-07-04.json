@@ -15,7 +15,7 @@
     "id": "E53Krx9i5T4",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【漢義リーグ】もうついに第５節ですか…w ..白雪レイド、本阿弥あずさ、ルイス・キャミー【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/E53Krx9i5T4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/E53Krx9i5T4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=E53Krx9i5T4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T09:00:00Z",
@@ -67,11 +67,12 @@
     "id": "xIS5saRl-aA",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "#05【BIOHAZARD RE:4】完全初見！バイオ4遂にエイダ登場！！【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/xIS5saRl-aA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/xIS5saRl-aA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=xIS5saRl-aA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T12:30:00Z",
     "startTime": "2026-07-04T12:33:21Z",
+    "endTime": "2026-07-04T15:05:03Z",
     "ttl": "2026-07-11T12:30:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -163,6 +164,18 @@
     "endTime": "2026-07-04T09:16:53Z",
     "ttl": "2026-07-11T07:00:00.000Z",
     "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "f_CPFtGd2Uo",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 リズム天国 ミラクルスターズ 】いいかんじ代表【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/f_CPFtGd2Uo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=f_CPFtGd2Uo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T14:55:00Z",
+    "startTime": "2026-07-04T14:56:44Z",
+    "ttl": "2026-07-11T14:55:00.000Z",
+    "streamerId": "shinomiya_runa"
   },
   {
     "id": "h7RgiwLc054",
@@ -262,6 +275,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T12:00:00Z",
     "startTime": "2026-07-04T12:02:20Z",
+    "endTime": "2026-07-04T15:46:39Z",
     "ttl": "2026-07-11T12:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -349,12 +363,12 @@
     "id": "316123800689",
     "channelId": "ren_kisaragi__",
     "title": "激浅OW部第二回",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-07-04T12:02:15Z",
-    "startTime": "2026-07-04T12:02:15Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/617cf89bc6d840008e05_ren_kisaragi___316123800689_1783166535//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2811944448",
+    "scheduledStartTime": "2026-07-04T12:02:20Z",
+    "startTime": "2026-07-04T12:02:20Z",
     "platform": "twitch",
-    "ttl": "2026-07-11T12:02:15.000Z",
+    "ttl": "2026-07-11T12:02:20.000Z",
     "streamerId": "kisaragi_ren"
   }
 ]
