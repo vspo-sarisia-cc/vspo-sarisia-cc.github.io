@@ -202,6 +202,7 @@
     "url": "https://www.youtube.com/watch?v=h7RgiwLc054",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T23:00:00Z",
+    "startTime": "2026-07-04T23:00:12Z",
     "ttl": "2026-07-11T23:00:00.000Z",
     "streamerId": "komori_met"
   },
@@ -304,6 +305,7 @@
     "url": "https://www.youtube.com/watch?v=OhgiCl9dPTw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T23:00:00Z",
+    "startTime": "2026-07-04T23:01:15Z",
     "ttl": "2026-07-11T23:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -315,6 +317,7 @@
     "url": "https://www.youtube.com/watch?v=SnMw0avyRfk",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T23:00:00Z",
+    "startTime": "2026-07-04T23:17:56Z",
     "ttl": "2026-07-11T23:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -326,6 +329,7 @@
     "url": "https://www.youtube.com/watch?v=Rvgk2rLAkJw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T23:00:00Z",
+    "startTime": "2026-07-04T23:13:15Z",
     "ttl": "2026-07-11T23:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -350,6 +354,7 @@
     "url": "https://www.youtube.com/watch?v=CG9KtlJ-eCE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T23:00:00Z",
+    "startTime": "2026-07-04T23:04:39Z",
     "ttl": "2026-07-11T23:00:00.000Z",
     "streamerId": "narin_mikure"
   },
@@ -361,8 +366,21 @@
     "url": "https://www.youtube.com/watch?v=dSIYQTOAy4Y",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T23:00:00Z",
+    "startTime": "2026-07-04T23:01:07Z",
     "ttl": "2026-07-11T23:00:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "27I8CxaQVYg",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Meccha Chameleon◢ senpai please dont shoot your kouhai | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/27I8CxaQVYg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=27I8CxaQVYg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T23:00:00Z",
+    "startTime": "2026-07-04T22:55:11Z",
+    "ttl": "2026-07-11T23:00:00.000Z",
+    "streamerId": "juno_umezono"
   },
   {
     "id": "qS5AWdBq8nU",
@@ -378,15 +396,16 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "27I8CxaQVYg",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Meccha Chameleon◢ senpai please dont shoot your kouhai | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/27I8CxaQVYg/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=27I8CxaQVYg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-04T23:00:00Z",
-    "ttl": "2026-07-11T23:00:00.000Z",
-    "streamerId": "juno_umezono"
+    "id": "320301745755",
+    "channelId": "aryakuroha",
+    "title": "✦ PRO MECCHA PLAYER W/ VSPO!EN !",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-07-04T23:17:43Z",
+    "startTime": "2026-07-04T23:17:43Z",
+    "platform": "twitch",
+    "ttl": "2026-07-11T23:17:43.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "316123800689",
