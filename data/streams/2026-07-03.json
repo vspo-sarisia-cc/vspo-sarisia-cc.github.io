@@ -133,11 +133,12 @@
     "id": "9zJGcmEbD5Y",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【ワールドカップ同時視聴】DAZNで！アルゼンチン応援⚽【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/9zJGcmEbD5Y/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/9zJGcmEbD5Y/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=9zJGcmEbD5Y",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-03T22:00:00Z",
     "startTime": "2026-07-03T22:10:21Z",
+    "endTime": "2026-07-04T00:51:34Z",
     "ttl": "2026-07-10T22:00:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -389,18 +390,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316120933233",
-    "channelId": "akarindao",
-    "title": "W杯アルゼンチン vs カーボベルデDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-03T21:51:51Z",
-    "startTime": "2026-07-03T21:51:51Z",
-    "platform": "twitch",
-    "ttl": "2026-07-10T21:51:51.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316182076275",
     "channelId": "ramuneshiranami",
     "title": "サブノーティカ２ w/みみたや ハルさん つるぎ",
@@ -411,6 +400,18 @@
     "platform": "twitch",
     "ttl": "2026-07-10T12:08:55.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316120933233",
+    "channelId": "akarindao",
+    "title": "W杯アルゼンチン vs カーボベルデDAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/c9e6ab20ada1a3837d28_akarindao_316120933233_1783115511//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2811526563",
+    "scheduledStartTime": "2026-07-03T21:51:56Z",
+    "startTime": "2026-07-03T21:51:56Z",
+    "platform": "twitch",
+    "ttl": "2026-07-10T21:51:56.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316120333681",
