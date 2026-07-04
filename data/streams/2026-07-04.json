@@ -103,14 +103,27 @@
     "streamerId": "tachibana_hinano"
   },
   {
+    "id": "NNgrFtYDbu4",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【RUST】公式鯖RUSTどこまでいけんのか生活Final【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/NNgrFtYDbu4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=NNgrFtYDbu4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T16:30:00Z",
+    "startTime": "2026-07-04T16:29:38Z",
+    "ttl": "2026-07-11T16:30:00.000Z",
+    "streamerId": "kaminari_qpi"
+  },
+  {
     "id": "H4eVQ3vy0qU",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【PAYDAY3】風雷叶鬼二次会-銀行強盗編-【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/H4eVQ3vy0qU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/H4eVQ3vy0qU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=H4eVQ3vy0qU",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T11:30:00Z",
     "startTime": "2026-07-04T11:36:39Z",
+    "endTime": "2026-07-04T16:07:09Z",
     "ttl": "2026-07-11T11:30:00.000Z",
     "streamerId": "kaminari_qpi"
   },
@@ -270,7 +283,7 @@
     "id": "ZwnDEYW8jbQ",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤ Overwatch ◢　フルパでやります！！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/ZwnDEYW8jbQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ZwnDEYW8jbQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ZwnDEYW8jbQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T12:00:00Z",
@@ -337,6 +350,19 @@
     "streamerId": "narin_mikure"
   },
   {
+    "id": "qS5AWdBq8nU",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Apex Legends◢ TGS customs first tournament with @dttodot & @rprxx  | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/qS5AWdBq8nU/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=qS5AWdBq8nU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-04T11:00:00Z",
+    "startTime": "2026-07-04T10:18:27Z",
+    "endTime": "2026-07-04T14:02:44Z",
+    "ttl": "2026-07-11T11:00:00.000Z",
+    "streamerId": "juno_umezono"
+  },
+  {
     "id": "27I8CxaQVYg",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Meccha Chameleon◢ senpai please dont shoot your kouhai | #JunoUmezono #VSPOEN",
@@ -346,18 +372,6 @@
     "scheduledStartTime": "2026-07-04T23:00:00Z",
     "ttl": "2026-07-11T23:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316186781811",
-    "channelId": "ramuneshiranami",
-    "title": "LTKメンバーAPEXカスタム",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-04T11:03:03Z",
-    "startTime": "2026-07-04T11:03:03Z",
-    "platform": "twitch",
-    "ttl": "2026-07-11T11:03:03.000Z",
-    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316123800689",
@@ -370,5 +384,17 @@
     "platform": "twitch",
     "ttl": "2026-07-11T12:02:20.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316186781811",
+    "channelId": "ramuneshiranami",
+    "title": "LTKメンバーAPEXカスタム",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/7ff40d069c7493bed48c_ramuneshiranami_316186781811_1783162983//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2811919634",
+    "scheduledStartTime": "2026-07-04T11:03:08Z",
+    "startTime": "2026-07-04T11:03:08Z",
+    "platform": "twitch",
+    "ttl": "2026-07-11T11:03:08.000Z",
+    "streamerId": "shiranami_ramune"
   }
 ]
