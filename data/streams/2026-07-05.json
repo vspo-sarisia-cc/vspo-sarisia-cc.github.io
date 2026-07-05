@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=o-V2-yfAtYg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T11:00:00Z",
+    "startTime": "2026-07-05T11:02:01Z",
     "ttl": "2026-07-12T11:00:00.000Z",
     "streamerId": "kaga_sumire"
   },
@@ -31,6 +32,7 @@
     "url": "https://www.youtube.com/watch?v=1pBnuRI719E",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T11:00:00Z",
+    "startTime": "2026-07-05T11:04:56Z",
     "ttl": "2026-07-12T11:00:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -46,6 +48,18 @@
     "endTime": "2026-07-05T10:08:06Z",
     "ttl": "2026-07-12T04:30:00.000Z",
     "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "8QK6fntZst4",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】結局ソロなんや【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/8QK6fntZst4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=8QK6fntZst4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-05T11:00:00Z",
+    "startTime": "2026-07-05T11:04:29Z",
+    "ttl": "2026-07-12T11:00:00.000Z",
+    "streamerId": "kurumi_noah"
   },
   {
     "id": "ItBUvWNNBh0",
@@ -84,6 +98,18 @@
     "streamerId": "tachibana_hinano"
   },
   {
+    "id": "Q5VdDB0l0Qw",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【崩壊:スターレイル】#13 夢…？【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/Q5VdDB0l0Qw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Q5VdDB0l0Qw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-05T12:00:00Z",
+    "startTime": "2026-07-05T12:02:33Z",
+    "ttl": "2026-07-12T12:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "8oidaRKQIHc",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【Minecraft】ぶいすぽ鯖案内についていくよ～！【ぶいすぽっ！/ 藍沢エマ】",
@@ -92,18 +118,8 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T09:00:00Z",
     "startTime": "2026-07-05T08:56:30Z",
+    "endTime": "2026-07-05T10:56:18Z",
     "ttl": "2026-07-12T09:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "Q5VdDB0l0Qw",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【崩壊:スターレイル】#13 夢…？【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/Q5VdDB0l0Qw/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=Q5VdDB0l0Qw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-05T12:00:00Z",
-    "ttl": "2026-07-12T12:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -114,6 +130,7 @@
     "url": "https://www.youtube.com/watch?v=RI4mMxcP_TE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T11:00:00Z",
+    "startTime": "2026-07-05T10:59:27Z",
     "ttl": "2026-07-12T11:00:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -125,21 +142,9 @@
     "url": "https://www.youtube.com/watch?v=EfanrGMvHrE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T11:00:00Z",
+    "startTime": "2026-07-05T11:01:54Z",
     "ttl": "2026-07-12T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "yOPJP3QaLXg",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 Minecraft 〗新人メンバーの夜乃くろむです‼️‼️‼️の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/yOPJP3QaLXg/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=yOPJP3QaLXg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-05T09:00:00Z",
-    "startTime": "2026-07-05T08:58:08Z",
-    "endTime": "2026-07-05T10:32:04Z",
-    "ttl": "2026-07-12T09:00:00.000Z",
-    "streamerId": "yano_kuromu"
   },
   {
     "id": "1Ren0Yp--4A",
@@ -149,8 +154,34 @@
     "url": "https://www.youtube.com/watch?v=1Ren0Yp--4A",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T11:00:00Z",
+    "startTime": "2026-07-05T11:00:29Z",
     "ttl": "2026-07-12T11:00:00.000Z",
     "streamerId": "yano_kuromu"
+  },
+  {
+    "id": "yOPJP3QaLXg",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "〖 Minecraft 〗新人メンバーの夜乃くろむです‼️‼️‼️の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+    "thumbnail": "https://i.ytimg.com/vi/yOPJP3QaLXg/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=yOPJP3QaLXg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-05T09:00:00Z",
+    "startTime": "2026-07-05T08:58:08Z",
+    "endTime": "2026-07-05T10:32:04Z",
+    "ttl": "2026-07-12T09:00:00.000Z",
+    "streamerId": "yano_kuromu"
+  },
+  {
+    "id": "3CgOQ1ygSp8",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【Overwatch】YOASOBIコラボだー！ぶいすぽフルパゆきます！【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/3CgOQ1ygSp8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=3CgOQ1ygSp8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-05T11:00:00Z",
+    "startTime": "2026-07-05T11:00:33Z",
+    "ttl": "2026-07-12T11:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "lYylz-hP9KY",
@@ -177,17 +208,6 @@
     "streamerId": "tsumugi_kokage"
   },
   {
-    "id": "3CgOQ1ygSp8",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【Overwatch】YOASOBIコラボだー！ぶいすぽフルパゆきます！【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/3CgOQ1ygSp8/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=3CgOQ1ygSp8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-05T11:00:00Z",
-    "ttl": "2026-07-12T11:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
     "id": "AnpwLDNqsOQ",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【MSI2026】TSW vs TES - HLE vs G2 | Mid-Season Invitational 2026 Bracket Stage Day 3 同時視聴！",
@@ -208,6 +228,7 @@
     "url": "https://www.youtube.com/watch?v=vz7h2FDCIa4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T11:00:00Z",
+    "startTime": "2026-07-05T11:01:13Z",
     "ttl": "2026-07-12T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -260,6 +281,18 @@
     "endTime": "2026-07-05T08:02:32Z",
     "ttl": "2026-07-12T05:00:00.000Z",
     "streamerId": "tatsumaki_chise"
+  },
+  {
+    "id": "316137271922",
+    "channelId": "akarindao",
+    "title": "めっちゃ隠れる、夢野隠し、めっちゃカメレオン",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-05T11:03:40Z",
+    "startTime": "2026-07-05T11:03:40Z",
+    "platform": "twitch",
+    "ttl": "2026-07-12T11:03:40.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316126402929",
