@@ -48,13 +48,36 @@
     "id": "Evb1j_1Eg-Y",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 リズム天国 ミラクルスターズ 】今日もキメるぜ 【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/Evb1j_1Eg-Y/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Evb1j_1Eg-Y/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Evb1j_1Eg-Y",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T03:30:00Z",
     "startTime": "2026-07-05T03:31:58Z",
+    "endTime": "2026-07-05T07:53:18Z",
     "ttl": "2026-07-12T03:30:00.000Z",
     "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "Q5VdDB0l0Qw",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【崩壊:スターレイル】#13 夢…？【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/Q5VdDB0l0Qw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Q5VdDB0l0Qw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-05T12:00:00Z",
+    "ttl": "2026-07-12T12:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "8oidaRKQIHc",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【Minecraft】ぶいすぽ鯖案内についていくよ～！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/8oidaRKQIHc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=8oidaRKQIHc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-05T09:00:00Z",
+    "ttl": "2026-07-12T09:00:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "RI4mMxcP_TE",
@@ -79,6 +102,17 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "yOPJP3QaLXg",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "〖 Minecraft 〗新人メンバーの夜乃くろむです‼️‼️‼️の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+    "thumbnail": "https://i.ytimg.com/vi/yOPJP3QaLXg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=yOPJP3QaLXg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-05T09:00:00Z",
+    "ttl": "2026-07-12T09:00:00.000Z",
+    "streamerId": "yano_kuromu"
+  },
+  {
     "id": "1Ren0Yp--4A",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 OW 〗YOASOBIコラボをメンバーとたのしむ🎵の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
@@ -88,6 +122,29 @@
     "scheduledStartTime": "2026-07-05T11:00:00Z",
     "ttl": "2026-07-12T11:00:00.000Z",
     "streamerId": "yano_kuromu"
+  },
+  {
+    "id": "lYylz-hP9KY",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【ポケモン ファイアレッド】バッチ4個か5個か6個なう#6【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/lYylz-hP9KY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=lYylz-hP9KY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-05T08:15:00Z",
+    "startTime": "2026-07-05T08:17:53Z",
+    "ttl": "2026-07-12T08:15:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "JQ8kagDLZxc",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【飲酒雑談】V最スト6、CRカップOW、ポケモン お疲れ様会。お酒飲もー【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/JQ8kagDLZxc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=JQ8kagDLZxc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-05T13:30:00Z",
+    "ttl": "2026-07-12T13:30:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "3CgOQ1ygSp8",
@@ -108,6 +165,7 @@
     "url": "https://www.youtube.com/watch?v=AnpwLDNqsOQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T05:25:00Z",
+    "startTime": "2026-07-05T05:34:34Z",
     "ttl": "2026-07-12T05:25:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -126,23 +184,36 @@
     "id": "ppKziJyC46Q",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】お昼WW(^o^)【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/ppKziJyC46Q/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ppKziJyC46Q/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ppKziJyC46Q",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T03:00:00Z",
     "startTime": "2026-07-05T02:58:43Z",
+    "endTime": "2026-07-05T05:44:44Z",
     "ttl": "2026-07-12T03:00:00.000Z",
     "streamerId": "amayui_moka"
+  },
+  {
+    "id": "oxXuzQb2omM",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【Minecraft】ぶいすぽサーバー初上陸！／ ひなの先輩、エマ先輩、くろむ先輩、ちーたま【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/oxXuzQb2omM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=oxXuzQb2omM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-05T09:00:00Z",
+    "ttl": "2026-07-12T09:00:00.000Z",
+    "streamerId": "ginjo_saine"
   },
   {
     "id": "gwi9QkNvAz0",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  League of Legends  ◢　ソロランクいくど！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/gwi9QkNvAz0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/gwi9QkNvAz0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=gwi9QkNvAz0",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T05:00:00Z",
     "startTime": "2026-07-05T05:04:27Z",
+    "endTime": "2026-07-05T08:02:32Z",
     "ttl": "2026-07-12T05:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },

@@ -13,19 +13,6 @@
     "streamerId": "kaga_sumire"
   },
   {
-    "id": "MJMIRNBznyY",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【歌枠】平成アニソンまみれです【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/MJMIRNBznyY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=MJMIRNBznyY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-28T07:30:00Z",
-    "startTime": "2026-06-28T07:32:50Z",
-    "endTime": "2026-06-28T09:37:00Z",
-    "ttl": "2026-07-05T07:30:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "8M9rQrYq4eM",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【APEX】こんにちは、えぺをやります。【ぶいすぽ/一ノ瀬うるは】",
@@ -167,17 +154,5 @@
     "endTime": "2026-06-28T16:22:15Z",
     "ttl": "2026-07-05T14:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316095469553",
-    "channelId": "choyahanabi",
-    "title": "【スト６】堅実にいくか？？！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/170322a9e975f3bd812c_choyahanabi_316095469553_1782625053//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2807192888",
-    "scheduledStartTime": "2026-06-28T05:37:38Z",
-    "startTime": "2026-06-28T05:37:38Z",
-    "platform": "twitch",
-    "ttl": "2026-07-05T05:37:38.000Z",
-    "streamerId": "choya_hanabi"
   }
 ]
