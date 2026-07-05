@@ -203,6 +203,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-04T23:00:00Z",
     "startTime": "2026-07-04T23:00:12Z",
+    "endTime": "2026-07-05T01:14:05Z",
     "ttl": "2026-07-11T23:00:00.000Z",
     "streamerId": "komori_met"
   },
