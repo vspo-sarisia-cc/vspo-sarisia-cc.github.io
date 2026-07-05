@@ -312,6 +312,18 @@
     "streamerId": "tatsumaki_chise"
   },
   {
+    "id": "316193635955",
+    "channelId": "akarindao",
+    "title": "W杯ノルウェーvブラジルみるよ！",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-05T20:13:12Z",
+    "startTime": "2026-07-05T20:13:12Z",
+    "platform": "twitch",
+    "ttl": "2026-07-12T20:13:12.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
     "id": "316126402929",
     "channelId": "asumisena",
     "title": "ui",
