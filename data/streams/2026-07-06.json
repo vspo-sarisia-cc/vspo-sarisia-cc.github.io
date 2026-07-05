@@ -9,5 +9,16 @@
     "scheduledStartTime": "2026-07-06T11:00:00Z",
     "ttl": "2026-07-13T11:00:00.000Z",
     "streamerId": "kogara_toto"
+  },
+  {
+    "id": "DjaaV6JnMK4",
+    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
+    "title": "Last day of Season 4 |  Premier  |  Counter-Strike 2 【#VSPOEN #RemiaAotsuki】",
+    "thumbnail": "https://i.ytimg.com/vi/DjaaV6JnMK4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=DjaaV6JnMK4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-06T14:00:00Z",
+    "ttl": "2026-07-13T14:00:00.000Z",
+    "streamerId": "remia_aotsuki"
   }
 ]
