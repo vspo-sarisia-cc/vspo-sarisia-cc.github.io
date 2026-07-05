@@ -73,6 +73,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T13:00:00Z",
     "startTime": "2026-07-05T13:04:02Z",
+    "endTime": "2026-07-05T18:44:06Z",
     "ttl": "2026-07-12T13:00:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -197,7 +198,7 @@
     "id": "JQ8kagDLZxc",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【飲酒雑談】V最スト6、CRカップOW、ポケモン お疲れ様会。お酒飲もー【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/JQ8kagDLZxc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/JQ8kagDLZxc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=JQ8kagDLZxc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T13:30:00Z",
