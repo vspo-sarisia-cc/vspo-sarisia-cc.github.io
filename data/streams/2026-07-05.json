@@ -3,11 +3,12 @@
     "id": "o-V2-yfAtYg",
     "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
     "title": "【OW】ぶいすぽフルパOWするぞい✨【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/o-V2-yfAtYg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/o-V2-yfAtYg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=o-V2-yfAtYg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T11:00:00Z",
     "startTime": "2026-07-05T11:02:01Z",
+    "endTime": "2026-07-05T12:59:21Z",
     "ttl": "2026-07-12T11:00:00.000Z",
     "streamerId": "kaga_sumire"
   },
@@ -33,6 +34,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T11:00:00Z",
     "startTime": "2026-07-05T11:04:56Z",
+    "endTime": "2026-07-05T14:03:00Z",
     "ttl": "2026-07-12T11:00:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -64,11 +66,12 @@
   {
     "id": "ItBUvWNNBh0",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
-    "title": "【Subnautica2】待望の『サブノーティカ2』をやります w/白那しずく,とおこ【空澄セナ/ぶいすぽっ！】",
+    "title": "# 2【Subnautica2】安眠『サブノーティカ2』をやります w/白那しずく,とおこ【空澄セナ/ぶいすぽっ！】",
     "thumbnail": "https://i.ytimg.com/vi/ItBUvWNNBh0/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=ItBUvWNNBh0",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T13:00:00Z",
+    "startTime": "2026-07-05T13:04:02Z",
     "ttl": "2026-07-12T13:00:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -113,7 +116,7 @@
     "id": "8oidaRKQIHc",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【Minecraft】ぶいすぽ鯖案内についていくよ～！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/8oidaRKQIHc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/8oidaRKQIHc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=8oidaRKQIHc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T09:00:00Z",
@@ -126,13 +129,26 @@
     "id": "RI4mMxcP_TE",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 OVERWATCH 】YOASOBIコラボきたー！【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/RI4mMxcP_TE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/RI4mMxcP_TE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=RI4mMxcP_TE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T11:00:00Z",
     "startTime": "2026-07-05T10:59:27Z",
+    "endTime": "2026-07-05T12:59:19Z",
     "ttl": "2026-07-12T11:00:00.000Z",
     "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "GZLhfu_DeiM",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【歌枠】新しいマイクで歌います🎤【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/GZLhfu_DeiM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=GZLhfu_DeiM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-05T14:00:00Z",
+    "startTime": "2026-07-05T14:05:38Z",
+    "ttl": "2026-07-12T14:00:00.000Z",
+    "streamerId": "nekota_tsuna"
   },
   {
     "id": "EfanrGMvHrE",
@@ -143,6 +159,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T11:00:00Z",
     "startTime": "2026-07-05T11:01:54Z",
+    "endTime": "2026-07-05T12:59:14Z",
     "ttl": "2026-07-12T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -155,6 +172,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T11:00:00Z",
     "startTime": "2026-07-05T11:00:29Z",
+    "endTime": "2026-07-05T13:00:21Z",
     "ttl": "2026-07-12T11:00:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -172,14 +190,27 @@
     "streamerId": "yano_kuromu"
   },
   {
+    "id": "JQ8kagDLZxc",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【飲酒雑談】V最スト6、CRカップOW、ポケモン お疲れ様会。お酒飲もー【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/JQ8kagDLZxc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=JQ8kagDLZxc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-05T13:30:00Z",
+    "startTime": "2026-07-05T13:44:53Z",
+    "ttl": "2026-07-12T13:30:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "3CgOQ1ygSp8",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【Overwatch】YOASOBIコラボだー！ぶいすぽフルパゆきます！【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/3CgOQ1ygSp8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/3CgOQ1ygSp8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=3CgOQ1ygSp8",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T11:00:00Z",
     "startTime": "2026-07-05T11:00:33Z",
+    "endTime": "2026-07-05T13:00:54Z",
     "ttl": "2026-07-12T11:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -194,17 +225,6 @@
     "startTime": "2026-07-05T08:17:53Z",
     "endTime": "2026-07-05T10:04:41Z",
     "ttl": "2026-07-12T08:15:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "JQ8kagDLZxc",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【飲酒雑談】V最スト6、CRカップOW、ポケモン お疲れ様会。お酒飲もー【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/JQ8kagDLZxc/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=JQ8kagDLZxc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-05T13:30:00Z",
-    "ttl": "2026-07-12T13:30:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
   {
@@ -283,18 +303,6 @@
     "streamerId": "tatsumaki_chise"
   },
   {
-    "id": "316137271922",
-    "channelId": "akarindao",
-    "title": "めっちゃ隠れる、夢野隠し、めっちゃカメレオン",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-05T11:03:40Z",
-    "startTime": "2026-07-05T11:03:40Z",
-    "platform": "twitch",
-    "ttl": "2026-07-12T11:03:40.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316126402929",
     "channelId": "asumisena",
     "title": "ui",
@@ -305,6 +313,18 @@
     "platform": "twitch",
     "ttl": "2026-07-12T01:59:31.000Z",
     "streamerId": "asumi_sena"
+  },
+  {
+    "id": "316137271922",
+    "channelId": "akarindao",
+    "title": "めっちゃ隠れる、夢野隠し",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/4c552e85cce0074c628a_akarindao_316137271922_1783249420//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2812661651",
+    "scheduledStartTime": "2026-07-05T11:03:45Z",
+    "startTime": "2026-07-05T11:03:45Z",
+    "platform": "twitch",
+    "ttl": "2026-07-12T11:03:45.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316126377201",

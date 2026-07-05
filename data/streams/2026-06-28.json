@@ -1,31 +1,5 @@
 [
   {
-    "id": "Sb3Vi7mwpdQ",
-    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
-    "title": "最近色々とお疲れ様でした【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/Sb3Vi7mwpdQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Sb3Vi7mwpdQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-28T12:30:00Z",
-    "startTime": "2026-06-28T12:32:46Z",
-    "endTime": "2026-06-28T14:36:05Z",
-    "ttl": "2026-07-05T12:30:00.000Z",
-    "streamerId": "kaga_sumire"
-  },
-  {
-    "id": "8M9rQrYq4eM",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【APEX】こんにちは、えぺをやります。【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/8M9rQrYq4eM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=8M9rQrYq4eM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-28T12:30:00Z",
-    "startTime": "2026-06-28T12:36:57Z",
-    "endTime": "2026-06-28T15:38:00Z",
-    "ttl": "2026-07-05T12:30:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
     "id": "oBQd8KkgTiQ",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "お仕事.学校行きたくない人、集合。【空澄セナ/ぶいすぽっ！】",
@@ -52,19 +26,6 @@
     "streamerId": "tsumugi_kokage"
   },
   {
-    "id": "VV2rVAktuqY",
-    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
-    "title": "【Hozy】日曜チル🍃お掃除してお部屋をアレンジする！【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/VV2rVAktuqY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=VV2rVAktuqY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-28T13:00:00Z",
-    "startTime": "2026-06-28T13:00:22Z",
-    "endTime": "2026-06-28T15:23:01Z",
-    "ttl": "2026-07-05T13:00:00.000Z",
-    "streamerId": "amayui_moka"
-  },
-  {
     "id": "x2UguTvu4Ig",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【雑談】寝坊はダメ！ですよ！【ぶいすぽっ！ #銀城サイネ 】",
@@ -76,31 +37,5 @@
     "endTime": "2026-06-29T00:47:09Z",
     "ttl": "2026-07-05T22:15:00.000Z",
     "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "qXtMfzESISU",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "BOTchi Picasso time | MECCHA CHAMELEON【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/qXtMfzESISU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=qXtMfzESISU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-28T14:00:00Z",
-    "startTime": "2026-06-28T14:07:14Z",
-    "endTime": "2026-06-28T17:04:15Z",
-    "ttl": "2026-07-05T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "fBOqGPhEmtA",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Meccha Chameleon◢ color blind plays meccha chameleon | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/fBOqGPhEmtA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=fBOqGPhEmtA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-28T14:00:00Z",
-    "startTime": "2026-06-28T13:59:33Z",
-    "endTime": "2026-06-28T16:22:15Z",
-    "ttl": "2026-07-05T14:00:00.000Z",
-    "streamerId": "juno_umezono"
   }
 ]
