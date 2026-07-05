@@ -18,18 +18,32 @@
     "url": "https://www.youtube.com/watch?v=c7s3p3Pd1yE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T10:00:00Z",
+    "startTime": "2026-07-05T10:00:06Z",
+    "endTime": "2026-07-05T10:16:20Z",
     "ttl": "2026-07-12T10:00:00.000Z",
     "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "1pBnuRI719E",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "【 DBD 】BP2倍ときいて w/顔芸さん【 ぶいすぽ / 小雀とと 】",
+    "thumbnail": "https://i.ytimg.com/vi/1pBnuRI719E/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=1pBnuRI719E",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-05T11:00:00Z",
+    "ttl": "2026-07-12T11:00:00.000Z",
+    "streamerId": "kogara_toto"
   },
   {
     "id": "KzG-awFZaQY",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【LOST JUDGMENT:裁かれざる記憶】完全初見！この世の悪を一掃する【ぶいすぽ/一ノ瀬うるは】※ネタバレあり",
-    "thumbnail": "https://i.ytimg.com/vi/KzG-awFZaQY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/KzG-awFZaQY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=KzG-awFZaQY",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T04:30:00Z",
     "startTime": "2026-07-05T04:32:30Z",
+    "endTime": "2026-07-05T10:08:06Z",
     "ttl": "2026-07-12T04:30:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -45,6 +59,18 @@
     "streamerId": "asumi_sena"
   },
   {
+    "id": "q_Z8WZuaEFA",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 Minecraft 】夏祭りの前に新人（？）たちにサーバーを案内するw/エマ、くろむ、サイネ、ちせ【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/q_Z8WZuaEFA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=q_Z8WZuaEFA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-05T09:00:00Z",
+    "startTime": "2026-07-05T09:01:14Z",
+    "ttl": "2026-07-12T09:00:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "Evb1j_1Eg-Y",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 リズム天国 ミラクルスターズ 】今日もキメるぜ 【ぶいすぽっ！/橘ひなの】",
@@ -58,6 +84,18 @@
     "streamerId": "tachibana_hinano"
   },
   {
+    "id": "8oidaRKQIHc",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【Minecraft】ぶいすぽ鯖案内についていくよ～！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/8oidaRKQIHc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=8oidaRKQIHc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-05T09:00:00Z",
+    "startTime": "2026-07-05T08:56:30Z",
+    "ttl": "2026-07-12T09:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "Q5VdDB0l0Qw",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【崩壊:スターレイル】#13 夢…？【ぶいすぽっ！/ 藍沢エマ】",
@@ -66,17 +104,6 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T12:00:00Z",
     "ttl": "2026-07-12T12:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "8oidaRKQIHc",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【Minecraft】ぶいすぽ鯖案内についていくよ～！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/8oidaRKQIHc/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=8oidaRKQIHc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-05T09:00:00Z",
-    "ttl": "2026-07-12T09:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -109,6 +136,8 @@
     "url": "https://www.youtube.com/watch?v=yOPJP3QaLXg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T09:00:00Z",
+    "startTime": "2026-07-05T08:58:08Z",
+    "endTime": "2026-07-05T10:32:04Z",
     "ttl": "2026-07-12T09:00:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -127,11 +156,12 @@
     "id": "lYylz-hP9KY",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【ポケモン ファイアレッド】バッチ4個か5個か6個なう#6【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/lYylz-hP9KY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/lYylz-hP9KY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=lYylz-hP9KY",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T08:15:00Z",
     "startTime": "2026-07-05T08:17:53Z",
+    "endTime": "2026-07-05T10:04:41Z",
     "ttl": "2026-07-12T08:15:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -161,11 +191,12 @@
     "id": "AnpwLDNqsOQ",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【MSI2026】TSW vs TES - HLE vs G2 | Mid-Season Invitational 2026 Bracket Stage Day 3 同時視聴！",
-    "thumbnail": "https://i.ytimg.com/vi/AnpwLDNqsOQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/AnpwLDNqsOQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=AnpwLDNqsOQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T05:25:00Z",
     "startTime": "2026-07-05T05:34:34Z",
+    "endTime": "2026-07-05T09:05:42Z",
     "ttl": "2026-07-12T05:25:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -201,8 +232,21 @@
     "url": "https://www.youtube.com/watch?v=oxXuzQb2omM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-05T09:00:00Z",
+    "startTime": "2026-07-05T08:56:33Z",
     "ttl": "2026-07-12T09:00:00.000Z",
     "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "1TKHSs-8qS0",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  Minecraft  ◢　ぶいすぽサーバーいくぞおお！！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/1TKHSs-8qS0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=1TKHSs-8qS0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-05T09:00:00Z",
+    "startTime": "2026-07-05T09:01:59Z",
+    "ttl": "2026-07-12T09:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "gwi9QkNvAz0",
