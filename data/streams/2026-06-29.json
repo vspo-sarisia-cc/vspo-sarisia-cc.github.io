@@ -13,19 +13,6 @@
     "streamerId": "kaga_nazuna"
   },
   {
-    "id": "ca74CT6Vhl4",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【APEX】こんにちは、またえぺをやります。【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/ca74CT6Vhl4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ca74CT6Vhl4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-29T09:00:00Z",
-    "startTime": "2026-06-29T09:03:50Z",
-    "endTime": "2026-06-29T12:08:18Z",
-    "ttl": "2026-07-06T09:00:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
     "id": "qxx-LwedyOE",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
     "title": "【APEX】釣り場で出会ったものたちの再会【ぶいすぽ/兎咲ミミ】",
@@ -65,19 +52,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "lItysu6Uctg",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】ご飯食べたから２時間は起きていなきゃいけないんです【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/lItysu6Uctg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=lItysu6Uctg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-29T07:15:00Z",
-    "startTime": "2026-06-29T07:18:51Z",
-    "endTime": "2026-06-29T10:08:04Z",
-    "ttl": "2026-07-06T07:15:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
     "id": "OZ6c5EJIL18",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 スト６】またここに戻る【 ぶいすぽっ！/紫宮るな 】",
@@ -104,19 +78,6 @@
     "streamerId": "shinomiya_runa"
   },
   {
-    "id": "wUOAiiHRCh8",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【Pokémon Champions】いろはさんから学ぶポケモンバトル！！感謝！！【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/wUOAiiHRCh8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=wUOAiiHRCh8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-29T09:00:00Z",
-    "startTime": "2026-06-29T08:57:53Z",
-    "endTime": "2026-06-29T15:04:35Z",
-    "ttl": "2026-07-06T09:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
     "id": "N5xIFFwe6tc",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Splatoon3 】　かなりの初心者具合！塗ります！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -127,19 +88,6 @@
     "startTime": "2026-06-29T11:01:41Z",
     "endTime": "2026-06-29T13:11:37Z",
     "ttl": "2026-07-06T11:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "mhd5SlEoZfE",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【スト６】　やるぞ焔や！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/mhd5SlEoZfE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=mhd5SlEoZfE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-29T08:00:00Z",
-    "startTime": "2026-06-29T07:59:31Z",
-    "endTime": "2026-06-29T10:02:16Z",
-    "ttl": "2026-07-06T08:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -154,18 +102,6 @@
     "endTime": "2026-06-29T16:33:04Z",
     "ttl": "2026-07-06T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "316109453298",
-    "channelId": "ren_kisaragi__",
-    "title": "テイルアーマーをわすれるな",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/20635a186c340350d01d_ren_kisaragi___316109453298_1782723746//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2808028282",
-    "scheduledStartTime": "2026-06-29T09:02:31Z",
-    "startTime": "2026-06-29T09:02:31Z",
-    "platform": "twitch",
-    "ttl": "2026-07-06T09:02:31.000Z",
-    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316165461107",
