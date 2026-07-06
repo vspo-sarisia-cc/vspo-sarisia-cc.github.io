@@ -98,6 +98,7 @@
     "url": "https://www.youtube.com/watch?v=YD5vv6He_WE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-06T19:00:00Z",
+    "startTime": "2026-07-06T18:55:55Z",
     "ttl": "2026-07-13T19:00:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -228,6 +229,18 @@
     "endTime": "2026-07-06T16:15:27Z",
     "ttl": "2026-07-13T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "316197907955",
+    "channelId": "akarindao",
+    "title": "Ｗ杯 ポルトガル vs スペインみるよお！",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-06T18:51:33Z",
+    "startTime": "2026-07-06T18:51:33Z",
+    "platform": "twitch",
+    "ttl": "2026-07-13T18:51:33.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316194217971",
