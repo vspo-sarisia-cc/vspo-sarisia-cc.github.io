@@ -1,18 +1,5 @@
 [
   {
-    "id": "_RDHhzuTVsQ",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【雑談】呑み雑🍷【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/_RDHhzuTVsQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=_RDHhzuTVsQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-29T14:00:00Z",
-    "startTime": "2026-06-29T14:03:23Z",
-    "endTime": "2026-06-29T16:55:18Z",
-    "ttl": "2026-07-06T14:00:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
     "id": "HP6yF2jhaR8",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "「もし自分に子どもがいたら」という話題で盛り上がるちる部【ぶいすぽっ！/ 藍沢エマ/緋月ゆい/夕刻ロベル/APEX】",
@@ -24,43 +11,5 @@
     "endTime": "2026-06-29T22:19:10Z",
     "ttl": "2026-07-06T22:00:00.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "OZ6c5EJIL18",
-    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
-    "title": "【 スト６】またここに戻る【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/OZ6c5EJIL18/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=OZ6c5EJIL18",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-29T15:40:00Z",
-    "startTime": "2026-06-29T15:43:50Z",
-    "endTime": "2026-06-30T00:29:11Z",
-    "ttl": "2026-07-06T15:40:00.000Z",
-    "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "ZurGruRTMp4",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "ASMR FPS Gaming... | Premier | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/ZurGruRTMp4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ZurGruRTMp4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-29T14:00:00Z",
-    "startTime": "2026-06-29T14:00:55Z",
-    "endTime": "2026-06-29T16:33:04Z",
-    "ttl": "2026-07-06T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "316165461107",
-    "channelId": "akarindao",
-    "title": "全力応援W杯日本 vs ブラジルDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/f7eabd72cea121945c05_akarindao_316165461107_1782749965//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2808218922",
-    "scheduledStartTime": "2026-06-29T16:19:30Z",
-    "startTime": "2026-06-29T16:19:30Z",
-    "platform": "twitch",
-    "ttl": "2026-07-06T16:19:30.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
