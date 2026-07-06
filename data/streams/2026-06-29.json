@@ -1,31 +1,5 @@
 [
   {
-    "id": "7ZYvtmOmQAQ",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【シャドバWB】新弾きたし水着きたし最近のカード覚えるか【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/7ZYvtmOmQAQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=7ZYvtmOmQAQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-29T10:45:00Z",
-    "startTime": "2026-06-29T10:45:12Z",
-    "endTime": "2026-06-29T14:22:10Z",
-    "ttl": "2026-07-06T10:45:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
-    "id": "qxx-LwedyOE",
-    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
-    "title": "【APEX】釣り場で出会ったものたちの再会【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/qxx-LwedyOE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=qxx-LwedyOE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-29T10:00:00Z",
-    "startTime": "2026-06-29T10:06:48Z",
-    "endTime": "2026-06-29T11:50:14Z",
-    "ttl": "2026-07-06T10:00:00.000Z",
-    "streamerId": "tosaki_mimi"
-  },
-  {
     "id": "_RDHhzuTVsQ",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【雑談】呑み雑🍷【ぶいすぽ/八雲べに】",
@@ -63,32 +37,6 @@
     "endTime": "2026-06-30T00:29:11Z",
     "ttl": "2026-07-06T15:40:00.000Z",
     "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "EGfQNp_sysE",
-    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
-    "title": "【 VALORANT 】ぷるぷるえいむ w/kinako、なちょねこ、ありさか、ふらんしすこ【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/EGfQNp_sysE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=EGfQNp_sysE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-29T12:00:00Z",
-    "startTime": "2026-06-29T12:20:18Z",
-    "endTime": "2026-06-29T15:27:30Z",
-    "ttl": "2026-07-06T12:00:00.000Z",
-    "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "N5xIFFwe6tc",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【 Splatoon3 】　かなりの初心者具合！塗ります！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/N5xIFFwe6tc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=N5xIFFwe6tc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-29T11:00:00Z",
-    "startTime": "2026-06-29T11:01:41Z",
-    "endTime": "2026-06-29T13:11:37Z",
-    "ttl": "2026-07-06T11:00:00.000Z",
-    "streamerId": "choya_hanabi"
   },
   {
     "id": "ZurGruRTMp4",

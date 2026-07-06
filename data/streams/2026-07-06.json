@@ -1,12 +1,26 @@
 [
   {
+    "id": "7CopPxc4JQc",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【マインクラフト】夏祭り準備つきそい【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/7CopPxc4JQc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=7CopPxc4JQc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-06T11:30:00Z",
+    "startTime": "2026-07-06T11:25:24Z",
+    "ttl": "2026-07-13T11:30:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "ZUwRjXzREi4",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 #小雀とと新衣装 】30万人ありがと～！新衣装お披露目✨【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/ZUwRjXzREi4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ZUwRjXzREi4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ZUwRjXzREi4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-06T11:00:00Z",
+    "startTime": "2026-07-06T11:00:29Z",
+    "endTime": "2026-07-06T13:24:45Z",
     "ttl": "2026-07-13T11:00:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -18,6 +32,7 @@
     "url": "https://www.youtube.com/watch?v=jvGrhAl5uiE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-06T11:30:00Z",
+    "startTime": "2026-07-06T11:32:02Z",
     "ttl": "2026-07-13T11:30:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -33,6 +48,30 @@
     "endTime": "2026-07-06T08:53:39Z",
     "ttl": "2026-07-13T07:00:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "5m8igDoc2MM",
+    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
+    "title": "【Minecraft】ぶいすぽ夏祭りのために w/はなび、もか、サイネ、ちせ、ゆうひ 【ぶいすぽ/兎咲ミミ】",
+    "thumbnail": "https://i.ytimg.com/vi/5m8igDoc2MM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=5m8igDoc2MM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-06T11:00:00Z",
+    "startTime": "2026-07-06T11:06:32Z",
+    "ttl": "2026-07-13T11:00:00.000Z",
+    "streamerId": "tosaki_mimi"
+  },
+  {
+    "id": "-sIPmTKaAKg",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 Minecraft 】エンドラ討伐部をBGMにサギョウする【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/-sIPmTKaAKg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=-sIPmTKaAKg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-06T12:00:00Z",
+    "startTime": "2026-07-06T11:58:49Z",
+    "ttl": "2026-07-13T12:00:00.000Z",
+    "streamerId": "tachibana_hinano"
   },
   {
     "id": "7zVa0YTGdw8",
@@ -54,9 +93,22 @@
     "thumbnail": "https://i.ytimg.com/vi/cbiVHe-2O-M/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=cbiVHe-2O-M",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-06T11:15:00Z",
-    "ttl": "2026-07-13T11:15:00.000Z",
+    "scheduledStartTime": "2026-07-06T11:30:00Z",
+    "startTime": "2026-07-06T11:38:27Z",
+    "ttl": "2026-07-13T11:30:00.000Z",
     "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "VC_fLB0UPLk",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 APEX 】♬ w/秋雪こはく、絲依とい【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/VC_fLB0UPLk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=VC_fLB0UPLk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-06T11:00:00Z",
+    "startTime": "2026-07-06T11:03:35Z",
+    "ttl": "2026-07-13T11:00:00.000Z",
+    "streamerId": "shinomiya_runa"
   },
   {
     "id": "faTT3Bgw8wA",
@@ -87,13 +139,50 @@
   {
     "id": "BUAkD7sn4Xs",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【 Minecraft 】　ぶいすぽ資源サーバーエンドラ討伐れちご！！！！！！！！ミミ先輩、もか、さっちゃん、ちーたま　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "title": "【 Minecraft 】　ぶいすぽ資源サーバーエンドラ討伐れちご！！！！！！！！ミミ先輩、うひさん、もか、さっちゃん、ちーたま　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
     "thumbnail": "https://i.ytimg.com/vi/BUAkD7sn4Xs/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=BUAkD7sn4Xs",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-06T11:00:00Z",
+    "startTime": "2026-07-06T11:02:44Z",
     "ttl": "2026-07-13T11:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "UKq2OYmnjwk",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【Minecraft】ぶいすぽメンバーとエンドラ倒すぞ！！！！倒すの初かも【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/UKq2OYmnjwk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=UKq2OYmnjwk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-06T11:00:00Z",
+    "startTime": "2026-07-06T11:02:55Z",
+    "ttl": "2026-07-13T11:00:00.000Z",
+    "streamerId": "amayui_moka"
+  },
+  {
+    "id": "iTQpSkjaUvI",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【Minecraft エンドラ討伐】ガチで危機感もった方がいい ／ ぶいすぽメンバー【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/iTQpSkjaUvI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=iTQpSkjaUvI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-06T11:00:00Z",
+    "startTime": "2026-07-06T11:02:45Z",
+    "ttl": "2026-07-13T11:00:00.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "to_Z6rxeiaA",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  Minecraft  ◢　ぶいすぽ資源サーバーエンドラ討伐いきます！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/to_Z6rxeiaA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=to_Z6rxeiaA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-06T11:00:00Z",
+    "startTime": "2026-07-06T11:10:54Z",
+    "ttl": "2026-07-13T11:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "DjaaV6JnMK4",
@@ -105,6 +194,18 @@
     "scheduledStartTime": "2026-07-06T14:00:00Z",
     "ttl": "2026-07-13T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "316196005875",
+    "channelId": "sendo_yuuhi",
+    "title": "もかに枠取ってって言われたから",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sendo_yuuhi-320x180.jpg",
+    "url": "https://www.twitch.tv/sendo_yuuhi",
+    "scheduledStartTime": "2026-07-06T11:10:28Z",
+    "startTime": "2026-07-06T11:10:28Z",
+    "platform": "twitch",
+    "ttl": "2026-07-13T11:10:28.000Z",
+    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "316194217971",

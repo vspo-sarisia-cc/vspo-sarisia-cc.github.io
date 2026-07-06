@@ -1,5 +1,49 @@
 [
   {
+    "id": "JBBR82WuhrY",
+    "channelId": "UCuI5XaO-6VkOEhHao6ij7JA",
+    "title": "【メイン配信】ぶいすぽっ！7周年大感謝祭【#ぶいすぽ7周年大感謝祭】",
+    "thumbnail": "https://i.ytimg.com/vi/JBBR82WuhrY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=JBBR82WuhrY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-07T09:50:00Z",
+    "ttl": "2026-07-14T09:50:00.000Z",
+    "streamerId": "vspo_official"
+  },
+  {
+    "id": "PstHp90h280",
+    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
+    "title": "【#ぶいすぽ7周年大感謝祭】みんなでクイズ解くぞおおおおお‼ 【ぶいすぽっ！/花芽すみれ】",
+    "thumbnail": "https://i.ytimg.com/vi/PstHp90h280/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=PstHp90h280",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-07T10:00:00Z",
+    "ttl": "2026-07-14T10:00:00.000Z",
+    "streamerId": "kaga_sumire"
+  },
+  {
+    "id": "kG-gQUgnyQU",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "【 #ぶいすぽ7周年大感謝祭 】ぶいすぽ7周年だ～！！ととるなはなび視点✨【 ぶいすぽ / 小雀とと 】",
+    "thumbnail": "https://i.ytimg.com/vi/kG-gQUgnyQU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=kG-gQUgnyQU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-07T10:00:00Z",
+    "ttl": "2026-07-14T10:00:00.000Z",
+    "streamerId": "kogara_toto"
+  },
+  {
+    "id": "Ss-k_GZqrIo",
+    "channelId": "UCGWa1dMU_sDCaRQjdabsVgg",
+    "title": "7周年大感謝祭！れんつなもか視点【#ぶいすぽ7周年大感謝祭 】",
+    "thumbnail": "https://i.ytimg.com/vi/Ss-k_GZqrIo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Ss-k_GZqrIo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-07T10:00:00Z",
+    "ttl": "2026-07-14T10:00:00.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
     "id": "5V35yDj7wvQ",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　焔を手癖にできるまでがんばんねん！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -53,5 +97,16 @@
     "scheduledStartTime": "2026-07-07T03:00:00Z",
     "ttl": "2026-07-14T03:00:00.000Z",
     "streamerId": "narin_mikure"
+  },
+  {
+    "id": "_lDnPLG3yJc",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Wuthering Waves 2.x◢ CONTINUING MY JOURNEY ! (part. 6) | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/_lDnPLG3yJc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=_lDnPLG3yJc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-07T07:30:00Z",
+    "ttl": "2026-07-14T07:30:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
