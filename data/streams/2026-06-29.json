@@ -26,19 +26,6 @@
     "streamerId": "ichinose_uruha"
   },
   {
-    "id": "gQvQox0nLCo",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】た　だ　い　ま【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/gQvQox0nLCo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=gQvQox0nLCo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-29T05:00:00Z",
-    "startTime": "2026-06-29T05:04:45Z",
-    "endTime": "2026-06-29T08:49:31Z",
-    "ttl": "2026-07-06T05:00:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "qxx-LwedyOE",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
     "title": "【APEX】釣り場で出会ったものたちの再会【ぶいすぽ/兎咲ミミ】",
@@ -88,19 +75,6 @@
     "startTime": "2026-06-29T07:18:51Z",
     "endTime": "2026-06-29T10:08:04Z",
     "ttl": "2026-07-06T07:15:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "QyO7UhSbA88",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【応援DAY3】EVO ラスベガス スト6 ミラー配信！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/QyO7UhSbA88/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=QyO7UhSbA88",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-29T01:30:00Z",
-    "startTime": "2026-06-29T01:29:34Z",
-    "endTime": "2026-06-29T05:34:46Z",
-    "ttl": "2026-07-06T01:30:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -169,19 +143,6 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "_2-fJ1X92Cc",
-    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
-    "title": "【スト6】EVOラスベガスミラー配信！楽しく見よー！！！【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/_2-fJ1X92Cc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=_2-fJ1X92Cc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-29T01:30:00Z",
-    "startTime": "2026-06-29T01:30:19Z",
-    "endTime": "2026-06-29T05:24:22Z",
-    "ttl": "2026-07-06T01:30:00.000Z",
-    "streamerId": "amayui_moka"
-  },
-  {
     "id": "ZurGruRTMp4",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "ASMR FPS Gaming... | Premier | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
@@ -204,18 +165,6 @@
     "startTime": "2026-06-29T09:02:31Z",
     "platform": "twitch",
     "ttl": "2026-07-06T09:02:31.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316099259121",
-    "channelId": "ren_kisaragi__",
-    "title": "Evo三日目みるぞ～～～～",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/4c49367e5dc3b3f0f47b_ren_kisaragi___316099259121_1782696433//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2807841006",
-    "scheduledStartTime": "2026-06-29T01:27:18Z",
-    "startTime": "2026-06-29T01:27:18Z",
-    "platform": "twitch",
-    "ttl": "2026-07-06T01:27:18.000Z",
     "streamerId": "kisaragi_ren"
   },
   {

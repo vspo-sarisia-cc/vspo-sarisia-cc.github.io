@@ -1,5 +1,27 @@
 [
   {
+    "id": "5V35yDj7wvQ",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【スト６】　焔を手癖にできるまでがんばんねん！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/5V35yDj7wvQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=5V35yDj7wvQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-07T03:00:00Z",
+    "ttl": "2026-07-14T03:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "tshqw6jteSc",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【朝活雑談】　おはよU!!!!!!最近天気がいまいちねぇ！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/tshqw6jteSc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=tshqw6jteSc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-07T22:00:00Z",
+    "ttl": "2026-07-14T22:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "Yf0a24-vFyw",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Lv10 and a bit more...  | Faceit | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
@@ -9,5 +31,27 @@
     "scheduledStartTime": "2026-07-07T14:00:00Z",
     "ttl": "2026-07-14T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "vnMYE-Sd0LE",
+    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
+    "title": "【APEX LEGENDS】EWC DAY 1 - WATCHPARTY !【#VSPOEN #AryaKuroha】",
+    "thumbnail": "https://i.ytimg.com/vi/vnMYE-Sd0LE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=vnMYE-Sd0LE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-07T11:00:00Z",
+    "ttl": "2026-07-14T11:00:00.000Z",
+    "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "trj6EF_RW9Y",
+    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
+    "title": "【Meccha Chameleon】 custom maps :3 【#VSPOEN #NarinMikure】",
+    "thumbnail": "https://i.ytimg.com/vi/trj6EF_RW9Y/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=trj6EF_RW9Y",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-07T03:00:00Z",
+    "ttl": "2026-07-14T03:00:00.000Z",
+    "streamerId": "narin_mikure"
   }
 ]

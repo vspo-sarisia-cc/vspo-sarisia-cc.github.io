@@ -11,6 +11,54 @@
     "streamerId": "kogara_toto"
   },
   {
+    "id": "7zVa0YTGdw8",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 Minecraft 】整地したり素材あつめ【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/7zVa0YTGdw8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=7zVa0YTGdw8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-06T03:30:00Z",
+    "startTime": "2026-07-06T03:40:04Z",
+    "ttl": "2026-07-13T03:30:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "faTT3Bgw8wA",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【MSI2026】BLG vs LYON - T1 vs FUR | Mid-Season Invitational 2026 Bracket Stage Day 4 同時視聴！　ぱーと２",
+    "thumbnail": "https://i.ytimg.com/vi/faTT3Bgw8wA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=faTT3Bgw8wA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-06T04:05:00Z",
+    "startTime": "2026-07-06T04:05:39Z",
+    "ttl": "2026-07-13T04:05:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "wPOqjv2zedU",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【MSI2026】BLG vs LYON - T1 vs FUR | Mid-Season Invitational 2026 Bracket Stage Day 4 同時視聴！",
+    "thumbnail": "https://i.ytimg.com/vi/wPOqjv2zedU/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=wPOqjv2zedU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-06T03:50:00Z",
+    "startTime": "2026-07-06T03:57:54Z",
+    "endTime": "2026-07-06T04:04:15Z",
+    "ttl": "2026-07-13T03:50:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "BUAkD7sn4Xs",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【 Minecraft 】　ぶいすぽ資源サーバーエンドラ討伐れちご！！！！！！！！ミミ先輩、もか、さっちゃん、ちーたま　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/BUAkD7sn4Xs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=BUAkD7sn4Xs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-06T11:00:00Z",
+    "ttl": "2026-07-13T11:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "DjaaV6JnMK4",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Last day of Season 4 |  Premier  |  Counter-Strike 2 【#VSPOEN #RemiaAotsuki】",
@@ -25,12 +73,24 @@
     "id": "316194217971",
     "channelId": "akarindao",
     "title": "W杯メキシコ vs イングランドみるよ！",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-06T00:53:13Z",
-    "startTime": "2026-07-06T00:53:13Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/6afdc7c7399629b03951_akarindao_316194217971_1783299193//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2813163090",
+    "scheduledStartTime": "2026-07-06T00:53:18Z",
+    "startTime": "2026-07-06T00:53:18Z",
     "platform": "twitch",
-    "ttl": "2026-07-13T00:53:13.000Z",
+    "ttl": "2026-07-13T00:53:18.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316140095218",
+    "channelId": "choyahanabi",
+    "title": "【スト６】焔無限GOGO地上！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/74fd2e61835e1772ec1c_choyahanabi_316140095218_1783306939//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2813231373",
+    "scheduledStartTime": "2026-07-06T03:02:24Z",
+    "startTime": "2026-07-06T03:02:24Z",
+    "platform": "twitch",
+    "ttl": "2026-07-13T03:02:24.000Z",
+    "streamerId": "choya_hanabi"
   }
 ]
