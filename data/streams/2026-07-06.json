@@ -54,12 +54,13 @@
   {
     "id": "5m8igDoc2MM",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
-    "title": "【Minecraft】ぶいすぽ夏祭りのために w/はなび、もか、サイネ、ちせ、ゆうひ 【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/5m8igDoc2MM/mqdefault_live.jpg",
+    "title": "【Minecraft】ぶいすぽ夏祭りのために w/はなび、もか、サイネ、ちせ、ゆうひ、なずな、ひなの 【ぶいすぽ/兎咲ミミ】",
+    "thumbnail": "https://i.ytimg.com/vi/5m8igDoc2MM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=5m8igDoc2MM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-06T11:00:00Z",
     "startTime": "2026-07-06T11:06:32Z",
+    "endTime": "2026-07-06T17:10:39Z",
     "ttl": "2026-07-13T11:00:00.000Z",
     "streamerId": "tosaki_mimi"
   },
@@ -67,11 +68,12 @@
     "id": "-sIPmTKaAKg",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Minecraft 】エンドラ討伐部をBGMにサギョウする【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/-sIPmTKaAKg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/-sIPmTKaAKg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=-sIPmTKaAKg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-06T12:00:00Z",
     "startTime": "2026-07-06T11:58:49Z",
+    "endTime": "2026-07-06T16:58:33Z",
     "ttl": "2026-07-13T12:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -87,6 +89,17 @@
     "endTime": "2026-07-06T05:58:20Z",
     "ttl": "2026-07-13T03:30:00.000Z",
     "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "YD5vv6He_WE",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【ワールドカップ同時視聴】DAZNで観る！ポルトガルvsスペイン⚽【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/YD5vv6He_WE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=YD5vv6He_WE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-06T19:00:00Z",
+    "ttl": "2026-07-13T19:00:00.000Z",
+    "streamerId": "yakumo_beni"
   },
   {
     "id": "cbiVHe-2O-M",
@@ -155,11 +168,12 @@
     "id": "BUAkD7sn4Xs",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Minecraft 】　ぶいすぽ資源サーバーエンドラ討伐れちご！！！！！！！！ミミ先輩、うひさん、もか、さっちゃん、ちーたま　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/BUAkD7sn4Xs/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/BUAkD7sn4Xs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=BUAkD7sn4Xs",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-06T11:00:00Z",
     "startTime": "2026-07-06T11:02:44Z",
+    "endTime": "2026-07-06T17:00:25Z",
     "ttl": "2026-07-13T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -167,11 +181,12 @@
     "id": "UKq2OYmnjwk",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【Minecraft】ぶいすぽメンバーとエンドラ倒すぞ！！！！倒すの初かも【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/UKq2OYmnjwk/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/UKq2OYmnjwk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=UKq2OYmnjwk",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-06T11:00:00Z",
     "startTime": "2026-07-06T11:02:55Z",
+    "endTime": "2026-07-06T16:54:43Z",
     "ttl": "2026-07-13T11:00:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -179,11 +194,12 @@
     "id": "iTQpSkjaUvI",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【Minecraft エンドラ討伐】ガチで危機感もった方がいい ／ ぶいすぽメンバー【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/iTQpSkjaUvI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/iTQpSkjaUvI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=iTQpSkjaUvI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-06T11:00:00Z",
     "startTime": "2026-07-06T11:02:45Z",
+    "endTime": "2026-07-06T17:00:55Z",
     "ttl": "2026-07-13T11:00:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -191,11 +207,12 @@
     "id": "to_Z6rxeiaA",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  Minecraft  ◢　ぶいすぽ資源サーバーエンドラ討伐いきます！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/to_Z6rxeiaA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/to_Z6rxeiaA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=to_Z6rxeiaA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-06T11:00:00Z",
     "startTime": "2026-07-06T11:10:54Z",
+    "endTime": "2026-07-06T17:16:14Z",
     "ttl": "2026-07-13T11:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -213,18 +230,6 @@
     "streamerId": "remia_aotsuki"
   },
   {
-    "id": "316196005875",
-    "channelId": "sendo_yuuhi",
-    "title": "もかに枠取ってって言われたから",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sendo_yuuhi-320x180.jpg",
-    "url": "https://www.twitch.tv/sendo_yuuhi",
-    "scheduledStartTime": "2026-07-06T11:10:28Z",
-    "startTime": "2026-07-06T11:10:28Z",
-    "platform": "twitch",
-    "ttl": "2026-07-13T11:10:28.000Z",
-    "streamerId": "sendo_yuuhi"
-  },
-  {
     "id": "316194217971",
     "channelId": "akarindao",
     "title": "W杯メキシコ vs イングランドみるよ！",
@@ -235,6 +240,18 @@
     "platform": "twitch",
     "ttl": "2026-07-13T00:53:18.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316196005875",
+    "channelId": "sendo_yuuhi",
+    "title": "もかに枠取ってって言われたから",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/af333d0c3ad968f100ff_sendo_yuuhi_316196005875_1783336227//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2813398513",
+    "scheduledStartTime": "2026-07-06T11:10:33Z",
+    "startTime": "2026-07-06T11:10:33Z",
+    "platform": "twitch",
+    "ttl": "2026-07-13T11:10:33.000Z",
+    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "316140095218",
