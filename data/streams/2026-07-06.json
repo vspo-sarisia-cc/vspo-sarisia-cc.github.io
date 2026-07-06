@@ -20,5 +20,17 @@
     "scheduledStartTime": "2026-07-06T14:00:00Z",
     "ttl": "2026-07-13T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "316194217971",
+    "channelId": "akarindao",
+    "title": "W杯メキシコ vs イングランドみるよ！",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-06T00:53:13Z",
+    "startTime": "2026-07-06T00:53:13Z",
+    "platform": "twitch",
+    "ttl": "2026-07-13T00:53:13.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
