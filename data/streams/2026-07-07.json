@@ -44,6 +44,18 @@
     "streamerId": "kogara_toto"
   },
   {
+    "id": "HE8Ms4E4E3s",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】急げ！わーるずえっじだ！【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/HE8Ms4E4E3s/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=HE8Ms4E4E3s",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-07T04:25:00Z",
+    "startTime": "2026-07-07T04:29:37Z",
+    "ttl": "2026-07-14T04:25:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "GjFMZeq3bbA",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 #ぶいすぽ7周年大感謝祭 】うひ、のあ、エマ視点です！ 【 ぶいすぽっ！胡桃のあ 】",
@@ -53,6 +65,40 @@
     "scheduledStartTime": "2026-07-07T10:00:00Z",
     "ttl": "2026-07-14T10:00:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "luKZDx3SSzo",
+    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
+    "title": "【#ぶいすぽ7周年大感謝祭】ミミ、きゅぴ、こかげ視点【ぶいすぽ/兎咲ミミ】",
+    "thumbnail": "https://i.ytimg.com/vi/luKZDx3SSzo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=luKZDx3SSzo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-07T10:00:00Z",
+    "ttl": "2026-07-14T10:00:00.000Z",
+    "streamerId": "tosaki_mimi"
+  },
+  {
+    "id": "NmcA-oHcHzs",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "【#ぶいすぽ7周年大感謝祭】心は3人。セナくろむ視点＿♪【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/NmcA-oHcHzs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=NmcA-oHcHzs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-07T10:00:00Z",
+    "ttl": "2026-07-14T10:00:00.000Z",
+    "streamerId": "asumi_sena"
+  },
+  {
+    "id": "rRIhDgWtoZ8",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 Apex Legends 】APEXがうまくなさそうなお二人をつれてきました  w/ゼロスト、ワタル 【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/rRIhDgWtoZ8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=rRIhDgWtoZ8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-07T05:00:00Z",
+    "startTime": "2026-07-07T05:02:22Z",
+    "ttl": "2026-07-14T05:00:00.000Z",
+    "streamerId": "tachibana_hinano"
   },
   {
     "id": "Ss-k_GZqrIo",
@@ -84,6 +130,7 @@
     "url": "https://www.youtube.com/watch?v=5V35yDj7wvQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-07T03:00:00Z",
+    "startTime": "2026-07-07T03:30:38Z",
     "ttl": "2026-07-14T03:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -97,6 +144,18 @@
     "scheduledStartTime": "2026-07-07T22:00:00Z",
     "ttl": "2026-07-14T22:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "dNBBp2oWUe0",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【 リズム天国 ミラクルスターズ 】おしとやかなステップを刻んでっ！！【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/dNBBp2oWUe0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=dNBBp2oWUe0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-07T02:30:00Z",
+    "startTime": "2026-07-07T02:30:27Z",
+    "ttl": "2026-07-14T02:30:00.000Z",
+    "streamerId": "ginjo_saine"
   },
   {
     "id": "Yf0a24-vFyw",
@@ -127,8 +186,8 @@
     "thumbnail": "https://i.ytimg.com/vi/_lDnPLG3yJc/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=_lDnPLG3yJc",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-07T13:30:00Z",
-    "ttl": "2026-07-14T13:30:00.000Z",
+    "scheduledStartTime": "2026-07-07T14:00:00Z",
+    "ttl": "2026-07-14T14:00:00.000Z",
     "streamerId": "juno_umezono"
   }
 ]
