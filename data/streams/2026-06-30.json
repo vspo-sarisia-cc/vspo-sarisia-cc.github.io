@@ -23,17 +23,5 @@
     "platform": "twitch",
     "ttl": "2026-07-07T20:53:17.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316115761906",
-    "channelId": "akarindao",
-    "title": "W杯コートジボワール vs ノルウェーDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/703adbbc0093094d18ef_akarindao_316115761906_1782838248//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2808990346",
-    "scheduledStartTime": "2026-06-30T16:50:54Z",
-    "startTime": "2026-06-30T16:50:54Z",
-    "platform": "twitch",
-    "ttl": "2026-07-07T16:50:54.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]

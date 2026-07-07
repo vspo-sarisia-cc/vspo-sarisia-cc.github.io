@@ -196,11 +196,12 @@
     "id": "Yf0a24-vFyw",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Lv10 and a bit more...  | Faceit | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/Yf0a24-vFyw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Yf0a24-vFyw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Yf0a24-vFyw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-07T14:00:00Z",
     "startTime": "2026-07-07T14:00:50Z",
+    "endTime": "2026-07-07T16:42:06Z",
     "ttl": "2026-07-14T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -238,6 +239,18 @@
     "startTime": "2026-07-07T14:02:10Z",
     "ttl": "2026-07-14T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316138388081",
+    "channelId": "akarindao",
+    "title": "アルゼンチン vs エジプトみるよお！DAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-07T16:17:34Z",
+    "startTime": "2026-07-07T16:17:34Z",
+    "platform": "twitch",
+    "ttl": "2026-07-14T16:17:34.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "320229034970",
