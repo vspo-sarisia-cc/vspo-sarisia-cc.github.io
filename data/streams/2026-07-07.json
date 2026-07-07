@@ -156,6 +156,18 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "tshqw6jteSc",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【朝活雑談】　おはよU!!!!!!最近天気がいまいちねぇ！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/tshqw6jteSc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=tshqw6jteSc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-07T22:00:00Z",
+    "startTime": "2026-07-07T22:01:57Z",
+    "ttl": "2026-07-14T22:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "5V35yDj7wvQ",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　焔を手癖にできるまでがんばんねん！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -166,17 +178,6 @@
     "startTime": "2026-07-07T03:30:38Z",
     "endTime": "2026-07-07T05:34:06Z",
     "ttl": "2026-07-14T03:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "tshqw6jteSc",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【朝活雑談】　おはよU!!!!!!最近天気がいまいちねぇ！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/tshqw6jteSc/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=tshqw6jteSc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-07T22:00:00Z",
-    "ttl": "2026-07-14T22:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -222,11 +223,12 @@
     "id": "0i7vy4BIyn8",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【APEX LEGENDS】ranking with BRR【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/0i7vy4BIyn8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/0i7vy4BIyn8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=0i7vy4BIyn8",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-07T18:00:00Z",
     "startTime": "2026-07-07T18:20:07Z",
+    "endTime": "2026-07-07T22:04:23Z",
     "ttl": "2026-07-14T18:00:00.000Z",
     "streamerId": "riko_solari"
   },
