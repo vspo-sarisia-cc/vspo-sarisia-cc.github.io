@@ -1,57 +1,5 @@
 [
   {
-    "id": "kp6A2VCMq8Y",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【APEX】またまたえぺらしい【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/kp6A2VCMq8Y/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=kp6A2VCMq8Y",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-30T12:00:00Z",
-    "startTime": "2026-06-30T12:00:48Z",
-    "endTime": "2026-06-30T14:59:50Z",
-    "ttl": "2026-07-07T12:00:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
-    "id": "dvpvkV_QCvw",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【 Escape from Tarkov 】kappaだしソロでアイスブレイカーいけっしょｗ【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/dvpvkV_QCvw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=dvpvkV_QCvw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-30T13:20:00Z",
-    "startTime": "2026-06-30T13:23:14Z",
-    "endTime": "2026-06-30T16:06:22Z",
-    "ttl": "2026-07-07T13:20:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
-    "id": "fVNIq0cRKTE",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【雑談】6月もおわりですね【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/fVNIq0cRKTE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=fVNIq0cRKTE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-30T13:15:00Z",
-    "startTime": "2026-06-30T13:15:38Z",
-    "endTime": "2026-06-30T15:03:58Z",
-    "ttl": "2026-07-07T13:15:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "Tnta1tNnURU",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【Pokémon Champions】いろはさんから学ぶポケモンバトル２！！大感謝！！【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/Tnta1tNnURU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Tnta1tNnURU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-30T12:00:00Z",
-    "startTime": "2026-06-30T12:00:05Z",
-    "endTime": "2026-06-30T16:47:32Z",
-    "ttl": "2026-07-07T12:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
     "id": "Pen4Sc6us9k",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【朝活雑談】　７月おはようはやすぎる！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -102,18 +50,6 @@
     "endTime": "2026-06-30T21:26:45Z",
     "ttl": "2026-07-07T15:00:00.000Z",
     "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "316105810417",
-    "channelId": "ramuneshiranami",
-    "title": "Mるーーーーーーーーーーくムズすぎ",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/ab79beafed9fb28d92b8_ramuneshiranami_316105810417_1782822940//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2808853207",
-    "scheduledStartTime": "2026-06-30T12:35:45Z",
-    "startTime": "2026-06-30T12:35:45Z",
-    "platform": "twitch",
-    "ttl": "2026-07-07T12:35:45.000Z",
-    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316116283122",

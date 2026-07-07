@@ -11,6 +11,17 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "XqhSLkJ7gt4",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【Echoes of Aincrad】死んだら即終了！？デスゲームチャレンジに挑戦します！✨【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/XqhSLkJ7gt4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=XqhSLkJ7gt4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-08T08:00:00Z",
+    "ttl": "2026-07-15T08:00:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
     "id": "HCLOnANyKHw",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【APEX LEGENDS】EWC DAY 2 - WATCHPARTY !【#VSPOEN #AryaKuroha】",
@@ -20,5 +31,16 @@
     "scheduledStartTime": "2026-07-08T11:00:00Z",
     "ttl": "2026-07-15T11:00:00.000Z",
     "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "zUAeSQ_s30U",
+    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+    "title": "【TWITCH】league on twitch :3【#VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/zUAeSQ_s30U/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=zUAeSQ_s30U",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-08T01:00:00Z",
+    "ttl": "2026-07-15T01:00:00.000Z",
+    "streamerId": "jira_jisaki"
   }
 ]
