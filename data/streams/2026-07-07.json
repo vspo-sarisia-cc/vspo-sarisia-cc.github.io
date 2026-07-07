@@ -200,6 +200,7 @@
     "url": "https://www.youtube.com/watch?v=Yf0a24-vFyw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-07T14:00:00Z",
+    "startTime": "2026-07-07T14:00:50Z",
     "ttl": "2026-07-14T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -234,6 +235,7 @@
     "url": "https://www.youtube.com/watch?v=_lDnPLG3yJc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-07T14:00:00Z",
+    "startTime": "2026-07-07T14:02:10Z",
     "ttl": "2026-07-14T14:00:00.000Z",
     "streamerId": "juno_umezono"
   },

@@ -13,45 +13,6 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "LUhYoYkAeSM",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "2nd Anniversary + 3d Chibi debut | Celebrating my 2 Years! #Remia2Ani【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/LUhYoYkAeSM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=LUhYoYkAeSM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-30T14:00:00Z",
-    "startTime": "2026-06-30T14:01:38Z",
-    "endTime": "2026-06-30T19:10:55Z",
-    "ttl": "2026-07-07T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "n3VPT1WQ0Ds",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "花になって『Remia COVER』#vspo_en",
-    "thumbnail": "https://i.ytimg.com/vi/n3VPT1WQ0Ds/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=n3VPT1WQ0Ds",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-30T13:57:00Z",
-    "startTime": "2026-06-30T13:57:07Z",
-    "endTime": "2026-06-30T14:01:25Z",
-    "ttl": "2026-07-07T13:57:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "x_MXtTCi-nU",
-    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-    "title": "【APEX LEGENDS】$15,000 FALLOUT CREATOR TOURNAMENT ! #ApexCTS【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/x_MXtTCi-nU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=x_MXtTCi-nU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-30T15:00:00Z",
-    "startTime": "2026-06-30T15:05:27Z",
-    "endTime": "2026-06-30T21:26:45Z",
-    "ttl": "2026-07-07T15:00:00.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
     "id": "316116283122",
     "channelId": "akarindao",
     "title": "W杯フランス vs スウェーデンDAZNで同時視聴中",
@@ -74,17 +35,5 @@
     "platform": "twitch",
     "ttl": "2026-07-07T16:50:54.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "320230072027",
-    "channelId": "aryakuroha",
-    "title": "✦ $15,000 Fallout Creator Tournament ! #ApexCTS",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/5ea3f0f5d171d45eb034_aryakuroha_320230072027_1782831915//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2808928571",
-    "scheduledStartTime": "2026-06-30T15:05:24Z",
-    "startTime": "2026-06-30T15:05:24Z",
-    "platform": "twitch",
-    "ttl": "2026-07-07T15:05:24.000Z",
-    "streamerId": "arya_kuroha"
   }
 ]

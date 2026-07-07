@@ -17,9 +17,20 @@
     "thumbnail": "https://i.ytimg.com/vi/XqhSLkJ7gt4/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=XqhSLkJ7gt4",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-08T08:00:00Z",
-    "ttl": "2026-07-15T08:00:00.000Z",
+    "scheduledStartTime": "2026-07-08T11:00:00Z",
+    "ttl": "2026-07-15T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "Df-0DwJy7XU",
+    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
+    "title": "Typing AND cooking game?!  |  Chef's Shift 【#VSPOEN #RemiaAotsuki】",
+    "thumbnail": "https://i.ytimg.com/vi/Df-0DwJy7XU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Df-0DwJy7XU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-08T14:00:00Z",
+    "ttl": "2026-07-15T14:00:00.000Z",
+    "streamerId": "remia_aotsuki"
   },
   {
     "id": "HCLOnANyKHw",
