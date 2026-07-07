@@ -26,19 +26,6 @@
     "streamerId": "ichinose_uruha"
   },
   {
-    "id": "RnM1G3T2JJo",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】マウスパッドちっちゃすぎ【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/RnM1G3T2JJo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=RnM1G3T2JJo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-30T05:45:00Z",
-    "startTime": "2026-06-30T05:46:34Z",
-    "endTime": "2026-06-30T07:46:53Z",
-    "ttl": "2026-07-07T05:45:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "5Gz_Cbvc9eM",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 #キズナアイ杯2026 】アイちゃんお誕生日おめでとうございます！！！優勝目指します！！！ 【ぶいすぽっ！/橘ひなの】",
@@ -75,19 +62,6 @@
     "startTime": "2026-06-30T13:15:38Z",
     "endTime": "2026-06-30T15:03:58Z",
     "ttl": "2026-07-07T13:15:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "MVOKB4EdIDo",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】野菜スティックおいしいよね【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/MVOKB4EdIDo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=MVOKB4EdIDo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-06-30T08:00:00Z",
-    "startTime": "2026-06-30T07:56:50Z",
-    "endTime": "2026-06-30T10:11:08Z",
-    "ttl": "2026-07-07T08:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -242,18 +216,6 @@
     "platform": "twitch",
     "ttl": "2026-07-07T16:50:54.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316113638898",
-    "channelId": "choyahanabi",
-    "title": "【スト６】地上にいたい！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/8cd3d4644af44b6c323d_choyahanabi_316113638898_1782806522//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2808759119",
-    "scheduledStartTime": "2026-06-30T08:02:07Z",
-    "startTime": "2026-06-30T08:02:07Z",
-    "platform": "twitch",
-    "ttl": "2026-07-07T08:02:07.000Z",
-    "streamerId": "choya_hanabi"
   },
   {
     "id": "320230072027",
