@@ -38,6 +38,18 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "WfXQ-F-DF94",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【崩壊:スターレイル】#14 さよなら、ピノコニー 【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/WfXQ-F-DF94/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=WfXQ-F-DF94",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-08T12:00:00Z",
+    "startTime": "2026-07-08T12:01:05Z",
+    "ttl": "2026-07-15T12:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "WeORbO3MNYw",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】この時間は筋トレの時間【ぶいすぽっ！/ 藍沢エマ】",
@@ -51,17 +63,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "WfXQ-F-DF94",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【崩壊:スターレイル】#14 さよなら、ピノコニー 【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/WfXQ-F-DF94/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=WfXQ-F-DF94",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-08T12:00:00Z",
-    "ttl": "2026-07-15T12:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
     "id": "XqhSLkJ7gt4",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【Echoes of Aincrad】死んだら即終了！？デスゲームチャレンジに挑戦します！✨【ぶいすぽ / 猫汰つな】",
@@ -70,8 +71,20 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-08T12:40:00Z",
     "startTime": "2026-07-08T10:47:52Z",
+    "endTime": "2026-07-08T12:27:45Z",
     "ttl": "2026-07-15T12:40:00.000Z",
     "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "E1yYaEytv-c",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  雑談  ◢　寝る前にお絵かきしながら雑談しよ～！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/E1yYaEytv-c/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=E1yYaEytv-c",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-08T14:00:00Z",
+    "ttl": "2026-07-15T14:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "Df-0DwJy7XU",
@@ -80,8 +93,8 @@
     "thumbnail": "https://i.ytimg.com/vi/Df-0DwJy7XU/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=Df-0DwJy7XU",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-08T14:00:00Z",
-    "ttl": "2026-07-15T14:00:00.000Z",
+    "scheduledStartTime": "2026-07-08T14:30:00Z",
+    "ttl": "2026-07-15T14:30:00.000Z",
     "streamerId": "remia_aotsuki"
   },
   {
