@@ -26,19 +26,6 @@
     "streamerId": "komori_met"
   },
   {
-    "id": "09kGOFDkoWw",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "Let's gain 100 elo | Faceit | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/09kGOFDkoWw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=09kGOFDkoWw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-01T14:00:00Z",
-    "startTime": "2026-07-01T14:00:33Z",
-    "endTime": "2026-07-01T18:21:14Z",
-    "ttl": "2026-07-08T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
     "id": "VZClHVHONjE",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【2ND ANNIVERSARY】two years in paradise~!【#2ndAryversary #VSPOEN #AryaKuroha】",
@@ -50,18 +37,6 @@
     "endTime": "2026-07-02T02:30:58Z",
     "ttl": "2026-07-08T22:00:00.000Z",
     "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "316119685362",
-    "channelId": "ren_kisaragi__",
-    "title": "SAVOGE 二次会",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/ba8920c72b0cb8e705e9_ren_kisaragi___316119685362_1782916269//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2809674710",
-    "scheduledStartTime": "2026-07-01T14:31:14Z",
-    "startTime": "2026-07-01T14:31:14Z",
-    "platform": "twitch",
-    "ttl": "2026-07-08T14:31:14.000Z",
-    "streamerId": "kisaragi_ren"
   },
   {
     "id": "320251106523",

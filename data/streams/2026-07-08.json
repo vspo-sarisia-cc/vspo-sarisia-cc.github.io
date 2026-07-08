@@ -8,6 +8,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-08T11:30:00Z",
     "startTime": "2026-07-08T11:31:59Z",
+    "endTime": "2026-07-08T15:43:42Z",
     "ttl": "2026-07-15T11:30:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -41,11 +42,12 @@
     "id": "WfXQ-F-DF94",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【崩壊:スターレイル】#14 さよなら、ピノコニー 【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/WfXQ-F-DF94/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/WfXQ-F-DF94/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=WfXQ-F-DF94",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-08T12:00:00Z",
     "startTime": "2026-07-08T12:01:05Z",
+    "endTime": "2026-07-08T15:39:14Z",
     "ttl": "2026-07-15T12:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -66,7 +68,7 @@
     "id": "XqhSLkJ7gt4",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【Echoes of Aincrad】死んだら即終了！？デスゲームチャレンジに挑戦します！✨【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/XqhSLkJ7gt4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/XqhSLkJ7gt4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=XqhSLkJ7gt4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-08T12:40:00Z",
@@ -83,6 +85,7 @@
     "url": "https://www.youtube.com/watch?v=E1yYaEytv-c",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-08T14:00:00Z",
+    "startTime": "2026-07-08T14:04:46Z",
     "ttl": "2026-07-15T14:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -94,6 +97,7 @@
     "url": "https://www.youtube.com/watch?v=Df-0DwJy7XU",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-08T14:30:00Z",
+    "startTime": "2026-07-08T14:15:41Z",
     "ttl": "2026-07-15T14:30:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -113,11 +117,12 @@
     "id": "IoBAU6sz-Uk",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【RHYTHM HEAVEN GROOVE】first time playing rhythm heaven!!!!【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/IoBAU6sz-Uk/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/IoBAU6sz-Uk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=IoBAU6sz-Uk",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-08T11:00:00Z",
     "startTime": "2026-07-08T11:01:41Z",
+    "endTime": "2026-07-08T14:19:42Z",
     "ttl": "2026-07-15T11:00:00.000Z",
     "streamerId": "riko_solari"
   },
@@ -129,20 +134,9 @@
     "url": "https://www.youtube.com/watch?v=8oEPejpbxD4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-08T14:00:00Z",
+    "startTime": "2026-07-08T14:01:09Z",
     "ttl": "2026-07-15T14:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316141212913",
-    "channelId": "ren_kisaragi__",
-    "title": "うお～～～～スト6",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-07-08T10:58:00Z",
-    "startTime": "2026-07-08T10:58:00Z",
-    "platform": "twitch",
-    "ttl": "2026-07-15T10:58:00.000Z",
-    "streamerId": "kisaragi_ren"
   },
   {
     "id": "320356955227",
@@ -155,6 +149,18 @@
     "platform": "twitch",
     "ttl": "2026-07-15T10:54:09.000Z",
     "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "316141212913",
+    "channelId": "ren_kisaragi__",
+    "title": "うお～～～～スト6",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/5633f1fe86455aaafba7_ren_kisaragi___316141212913_1783508280//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2814926550",
+    "scheduledStartTime": "2026-07-08T10:58:05Z",
+    "startTime": "2026-07-08T10:58:05Z",
+    "platform": "twitch",
+    "ttl": "2026-07-15T10:58:05.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316140302449",
