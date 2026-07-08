@@ -1,5 +1,30 @@
 [
   {
+    "id": "mvxFg1_Tx2A",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【LOST JUDGMENT:裁かれざる記憶】完全初見！真相に・・・！迫る（りたい）【ぶいすぽ/一ノ瀬うるは】※ネタバレあり",
+    "thumbnail": "https://i.ytimg.com/vi/mvxFg1_Tx2A/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=mvxFg1_Tx2A",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-08T11:30:00Z",
+    "startTime": "2026-07-08T11:31:59Z",
+    "ttl": "2026-07-15T11:30:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "MaOT-hgSO18",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "登録者80万人ありがとう✨「アンノウン・マザーグース」歌ってみた 胡桃のあ",
+    "thumbnail": "https://i.ytimg.com/vi/MaOT-hgSO18/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=MaOT-hgSO18",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-08T11:00:00Z",
+    "startTime": "2026-07-08T11:00:06Z",
+    "endTime": "2026-07-08T11:06:42Z",
+    "ttl": "2026-07-15T11:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "8j2kbGjkyaI",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】ジム行ってきたよん🎶【 ぶいすぽっ！胡桃のあ 】",
@@ -13,26 +38,27 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "MaOT-hgSO18",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "登録者80万人ありがとう✨「アンノウン・マザーグース」歌ってみた 胡桃のあ",
-    "thumbnail": "https://i.ytimg.com/vi/MaOT-hgSO18/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=MaOT-hgSO18",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-08T11:00:00Z",
-    "ttl": "2026-07-15T11:00:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "WeORbO3MNYw",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】この時間は筋トレの時間【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/WeORbO3MNYw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/WeORbO3MNYw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=WeORbO3MNYw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-08T07:40:00Z",
     "startTime": "2026-07-08T07:44:30Z",
+    "endTime": "2026-07-08T10:42:07Z",
     "ttl": "2026-07-15T07:40:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "WfXQ-F-DF94",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【崩壊:スターレイル】#14 さよなら、ピノコニー 【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/WfXQ-F-DF94/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=WfXQ-F-DF94",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-08T12:00:00Z",
+    "ttl": "2026-07-15T12:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -42,8 +68,9 @@
     "thumbnail": "https://i.ytimg.com/vi/XqhSLkJ7gt4/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=XqhSLkJ7gt4",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-08T11:00:00Z",
-    "ttl": "2026-07-15T11:00:00.000Z",
+    "scheduledStartTime": "2026-07-08T12:40:00Z",
+    "startTime": "2026-07-08T10:47:52Z",
+    "ttl": "2026-07-15T12:40:00.000Z",
     "streamerId": "nekota_tsuna"
   },
   {
@@ -65,6 +92,7 @@
     "url": "https://www.youtube.com/watch?v=HCLOnANyKHw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-08T11:00:00Z",
+    "startTime": "2026-07-08T10:54:20Z",
     "ttl": "2026-07-15T11:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -76,6 +104,7 @@
     "url": "https://www.youtube.com/watch?v=IoBAU6sz-Uk",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-08T11:00:00Z",
+    "startTime": "2026-07-08T11:01:41Z",
     "ttl": "2026-07-15T11:00:00.000Z",
     "streamerId": "riko_solari"
   },
@@ -91,15 +120,39 @@
     "streamerId": "juno_umezono"
   },
   {
+    "id": "316141212913",
+    "channelId": "ren_kisaragi__",
+    "title": "うお～～～～スト6",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-07-08T10:58:00Z",
+    "startTime": "2026-07-08T10:58:00Z",
+    "platform": "twitch",
+    "ttl": "2026-07-15T10:58:00.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "320356955227",
+    "channelId": "aryakuroha",
+    "title": "✦ EWC DAY 2 - WATCHPARTY !",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-07-08T10:54:09Z",
+    "startTime": "2026-07-08T10:54:09Z",
+    "platform": "twitch",
+    "ttl": "2026-07-15T10:54:09.000Z",
+    "streamerId": "arya_kuroha"
+  },
+  {
     "id": "316140302449",
     "channelId": "tsuna_nekota",
     "title": "TWITCH初心者さんOWやります",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsuna_nekota-320x180.jpg",
-    "url": "https://www.twitch.tv/tsuna_nekota",
-    "scheduledStartTime": "2026-07-08T06:14:38Z",
-    "startTime": "2026-07-08T06:14:38Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/2469150dd8570b44fa31_tsuna_nekota_316140302449_1783491278//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2814839590",
+    "scheduledStartTime": "2026-07-08T06:14:43Z",
+    "startTime": "2026-07-08T06:14:43Z",
     "platform": "twitch",
-    "ttl": "2026-07-15T06:14:38.000Z",
+    "ttl": "2026-07-15T06:14:43.000Z",
     "streamerId": "nekota_tsuna"
   }
 ]
