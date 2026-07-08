@@ -75,5 +75,17 @@
     "scheduledStartTime": "2026-07-08T14:00:00Z",
     "ttl": "2026-07-15T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "315332705008",
+    "channelId": "jirajisaki",
+    "title": "くーーーー friendly neighborhood kaiju screensharing her game for you while she goes nonverbal 💚 !youtube",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jirajisaki-320x180.jpg",
+    "url": "https://www.twitch.tv/jirajisaki",
+    "scheduledStartTime": "2026-07-08T01:03:21Z",
+    "startTime": "2026-07-08T01:03:21Z",
+    "platform": "twitch",
+    "ttl": "2026-07-15T01:03:21.000Z",
+    "streamerId": "jira_jisaki"
   }
 ]
