@@ -1,5 +1,17 @@
 [
   {
+    "id": "xlWSgy-vVEk",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 リズム天国 ミラクルスターズ 】新たなリズムを感じに今日もゆく 【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/xlWSgy-vVEk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=xlWSgy-vVEk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-09T04:45:00Z",
+    "startTime": "2026-07-09T04:51:06Z",
+    "ttl": "2026-07-16T04:45:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "6t_ecPSRoBU",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【APEX LEGENDS】EWC DAY 3 - WATCHPARTY !【#VSPOEN #AryaKuroha】",
@@ -25,12 +37,12 @@
     "id": "316207401331",
     "channelId": "asumisena",
     "title": "ui",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asumisena-320x180.jpg",
-    "url": "https://www.twitch.tv/asumisena",
-    "scheduledStartTime": "2026-07-09T01:13:21Z",
-    "startTime": "2026-07-09T01:13:21Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/210c3d656b75bb9d8251_asumisena_316207401331_1783559601//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2815463369",
+    "scheduledStartTime": "2026-07-09T01:13:26Z",
+    "startTime": "2026-07-09T01:13:26Z",
     "platform": "twitch",
-    "ttl": "2026-07-16T01:13:21.000Z",
+    "ttl": "2026-07-16T01:13:26.000Z",
     "streamerId": "asumi_sena"
   },
   {
