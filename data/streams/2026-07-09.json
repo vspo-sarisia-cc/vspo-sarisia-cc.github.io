@@ -150,6 +150,7 @@
     "url": "https://www.youtube.com/watch?v=Jl3WStaJGLk",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-09T22:00:00Z",
+    "startTime": "2026-07-09T22:29:16Z",
     "ttl": "2026-07-16T22:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -187,6 +188,7 @@
     "url": "https://www.youtube.com/watch?v=LssFFKxOEuk",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-09T22:00:00Z",
+    "startTime": "2026-07-09T22:29:53Z",
     "ttl": "2026-07-16T22:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -217,16 +219,16 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "316211115763",
-    "channelId": "akarindao",
-    "title": "フランス vs モロッコみるよ！DAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-09T19:41:41Z",
-    "startTime": "2026-07-09T19:41:41Z",
+    "id": "316211441523",
+    "channelId": "ramuneshiranami",
+    "title": "【Echoes of Aincrad】SAOの新作ゲーム！デスゲームする",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-07-09T22:29:07Z",
+    "startTime": "2026-07-09T22:29:07Z",
     "platform": "twitch",
-    "ttl": "2026-07-16T19:41:41.000Z",
-    "streamerId": "yumeno_akari"
+    "ttl": "2026-07-16T22:29:07.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316207401331",
@@ -251,6 +253,18 @@
     "platform": "twitch",
     "ttl": "2026-07-16T11:06:36.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316211115763",
+    "channelId": "akarindao",
+    "title": "フランス vs モロッコみるよ！DAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/57eaf03dfb0703109d57_akarindao_316211115763_1783626101//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2816026654",
+    "scheduledStartTime": "2026-07-09T19:41:46Z",
+    "startTime": "2026-07-09T19:41:46Z",
+    "platform": "twitch",
+    "ttl": "2026-07-16T19:41:46.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "317193328100",
