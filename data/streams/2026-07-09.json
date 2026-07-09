@@ -22,6 +22,18 @@
     "streamerId": "riko_solari"
   },
   {
+    "id": "316207401331",
+    "channelId": "asumisena",
+    "title": "ui",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asumisena-320x180.jpg",
+    "url": "https://www.twitch.tv/asumisena",
+    "scheduledStartTime": "2026-07-09T01:13:21Z",
+    "startTime": "2026-07-09T01:13:21Z",
+    "platform": "twitch",
+    "ttl": "2026-07-16T01:13:21.000Z",
+    "streamerId": "asumi_sena"
+  },
+  {
     "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
     "channelId": "remiaaotsuki",
     "title": "EU faceit elo gain?",
