@@ -8,6 +8,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-09T10:00:00Z",
     "startTime": "2026-07-09T10:15:43Z",
+    "endTime": "2026-07-09T17:03:28Z",
     "ttl": "2026-07-16T10:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -28,11 +29,12 @@
     "id": "FXxcHeQqAeQ",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【Minecraft】ぶいすぽメンバーと夏祭りじゅんび🎶【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/FXxcHeQqAeQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/FXxcHeQqAeQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=FXxcHeQqAeQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-09T11:00:00Z",
     "startTime": "2026-07-09T11:04:40Z",
+    "endTime": "2026-07-09T15:25:54Z",
     "ttl": "2026-07-16T11:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -78,11 +80,12 @@
     "id": "pKL7xcNn5y4",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【Minecraft】夏祭り準備！なに作るかな～？🎆【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/pKL7xcNn5y4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/pKL7xcNn5y4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=pKL7xcNn5y4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-09T11:00:00Z",
     "startTime": "2026-07-09T11:04:41Z",
+    "endTime": "2026-07-09T15:11:00Z",
     "ttl": "2026-07-16T11:00:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -157,6 +160,7 @@
     "url": "https://www.youtube.com/watch?v=6t_ecPSRoBU",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-09T11:00:00Z",
+    "startTime": "2026-07-09T15:00:55Z",
     "ttl": "2026-07-16T11:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -164,25 +168,14 @@
     "id": "sBy2JsS8UoY",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【APEX LEGENDS】i guess we're grinding lawl【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/sBy2JsS8UoY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/sBy2JsS8UoY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=sBy2JsS8UoY",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-09T12:00:00Z",
     "startTime": "2026-07-09T12:00:55Z",
+    "endTime": "2026-07-09T15:03:50Z",
     "ttl": "2026-07-16T12:00:00.000Z",
     "streamerId": "riko_solari"
-  },
-  {
-    "id": "316154578034",
-    "channelId": "ramuneshiranami",
-    "title": "夏祭りの準備します",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-09T11:06:32Z",
-    "startTime": "2026-07-09T11:06:32Z",
-    "platform": "twitch",
-    "ttl": "2026-07-16T11:06:32.000Z",
-    "streamerId": "shiranami_ramune"
   },
   {
     "id": "317193328100",
@@ -197,6 +190,18 @@
     "streamerId": "remia_aotsuki"
   },
   {
+    "id": "320205333849",
+    "channelId": "aryakuroha",
+    "title": "✦ EWC DAY 3 - WATCHPARTY !",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-07-09T15:00:27Z",
+    "startTime": "2026-07-09T15:00:27Z",
+    "platform": "twitch",
+    "ttl": "2026-07-16T15:00:27.000Z",
+    "streamerId": "arya_kuroha"
+  },
+  {
     "id": "316207401331",
     "channelId": "asumisena",
     "title": "ui",
@@ -209,15 +214,15 @@
     "streamerId": "asumi_sena"
   },
   {
-    "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOH0=",
-    "channelId": "remiaaotsuki",
-    "title": "EU faceit elo gain?",
-    "thumbnail": "",
-    "url": "https://www.twitch.tv/remiaaotsuki",
-    "scheduledStartTime": "2026-07-09T14:00:00Z",
-    "startTime": "2026-07-09T14:00:00Z",
+    "id": "316154578034",
+    "channelId": "ramuneshiranami",
+    "title": "夏祭りの準備します",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/a6c5d4348f12a4d8f7c0_ramuneshiranami_316154578034_1783595191//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2815718707",
+    "scheduledStartTime": "2026-07-09T11:06:36Z",
+    "startTime": "2026-07-09T11:06:36Z",
     "platform": "twitch",
-    "ttl": "2026-07-16T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
+    "ttl": "2026-07-16T11:06:36.000Z",
+    "streamerId": "shiranami_ramune"
   }
 ]

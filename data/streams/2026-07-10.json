@@ -42,5 +42,16 @@
     "scheduledStartTime": "2026-07-10T14:00:00Z",
     "ttl": "2026-07-17T14:00:00.000Z",
     "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "epopEr27lvo",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Dota 2◢ VSPO'S DOTA 2 DEBUT | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/epopEr27lvo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=epopEr27lvo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-10T14:00:00Z",
+    "ttl": "2026-07-17T14:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
