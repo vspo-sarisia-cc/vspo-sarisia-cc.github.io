@@ -81,11 +81,12 @@
     "id": "FbJS0D2JUtE",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【ワールドカップ同時視聴】DAZNで観る！準々決勝フランスvsモロッコ⚽【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/FbJS0D2JUtE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/FbJS0D2JUtE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=FbJS0D2JUtE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-09T20:00:00Z",
     "startTime": "2026-07-09T20:01:20Z",
+    "endTime": "2026-07-09T22:05:08Z",
     "ttl": "2026-07-16T20:00:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -177,6 +178,17 @@
     "endTime": "2026-07-09T11:49:46Z",
     "ttl": "2026-07-16T08:00:00.000Z",
     "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "LssFFKxOEuk",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  Echoes of Aincrad  ◢　デスゲームに誘っていただきました！ネタバレ注意   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/LssFFKxOEuk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=LssFFKxOEuk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-09T22:00:00Z",
+    "ttl": "2026-07-16T22:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "6t_ecPSRoBU",
