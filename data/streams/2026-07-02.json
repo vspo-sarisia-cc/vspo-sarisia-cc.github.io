@@ -1,18 +1,5 @@
 [
   {
-    "id": "SG2WYVxScNw",
-    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
-    "title": "【RUST】公式鯖RUSTどこまでいけんのか生活 参加者は概要欄【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/SG2WYVxScNw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=SG2WYVxScNw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-02T18:55:00Z",
-    "startTime": "2026-07-02T19:06:26Z",
-    "endTime": "2026-07-03T02:32:11Z",
-    "ttl": "2026-07-09T18:55:00.000Z",
-    "streamerId": "kaminari_qpi"
-  },
-  {
     "id": "17rm3Dz9NEo",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 スト６】しゃが中【 ぶいすぽっ！/紫宮るな 】",
@@ -24,18 +11,6 @@
     "endTime": "2026-07-03T02:07:24Z",
     "ttl": "2026-07-09T21:05:00.000Z",
     "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "316124844274",
-    "channelId": "ren_kisaragi__",
-    "title": "こんな時間に初見のゲームを配信するのは間違ってるし私にはリズム感がない",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/fada020ee8b6a1aac027_ren_kisaragi___316124844274_1783016161//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2810588879",
-    "scheduledStartTime": "2026-07-02T18:16:06Z",
-    "startTime": "2026-07-02T18:16:06Z",
-    "platform": "twitch",
-    "ttl": "2026-07-09T18:16:06.000Z",
-    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316116456689",

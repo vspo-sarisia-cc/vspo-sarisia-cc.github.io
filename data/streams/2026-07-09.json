@@ -3,7 +3,7 @@
     "id": "Tgyo95Se4ss",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【マインクラフト】メンバーとまたーり夏祭りじゅーんび【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/Tgyo95Se4ss/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Tgyo95Se4ss/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Tgyo95Se4ss",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-09T10:00:00Z",
@@ -55,11 +55,12 @@
     "id": "xmdyAE0QY2g",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Minecraft 】夏祭り準備🎆【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/xmdyAE0QY2g/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/xmdyAE0QY2g/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=xmdyAE0QY2g",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-09T10:15:00Z",
     "startTime": "2026-07-09T10:26:02Z",
+    "endTime": "2026-07-09T17:31:21Z",
     "ttl": "2026-07-16T10:15:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -93,11 +94,12 @@
     "id": "2VkqWuoq4XI",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【Minecraft】夏祭りじゅんび！ゆる～くやる！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/2VkqWuoq4XI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/2VkqWuoq4XI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=2VkqWuoq4XI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-09T10:00:00Z",
     "startTime": "2026-07-09T10:15:35Z",
+    "endTime": "2026-07-09T17:05:17Z",
     "ttl": "2026-07-16T10:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -136,6 +138,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-09T14:00:00Z",
     "startTime": "2026-07-09T14:07:31Z",
+    "endTime": "2026-07-09T18:50:16Z",
     "ttl": "2026-07-16T14:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -178,18 +181,6 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "317193328100",
-    "channelId": "remiaaotsuki",
-    "title": "New Season New Me!!!!!",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_remiaaotsuki-320x180.jpg",
-    "url": "https://www.twitch.tv/remiaaotsuki",
-    "scheduledStartTime": "2026-07-09T14:00:50Z",
-    "startTime": "2026-07-09T14:00:50Z",
-    "platform": "twitch",
-    "ttl": "2026-07-16T14:00:50.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
     "id": "320205333849",
     "channelId": "aryakuroha",
     "title": "✦ EWC DAY 3 - WATCHPARTY !",
@@ -224,5 +215,17 @@
     "platform": "twitch",
     "ttl": "2026-07-16T11:06:36.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "317193328100",
+    "channelId": "remiaaotsuki",
+    "title": "New Season New Me!!!!!",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/bd39743f5f28db9d8e99_remiaaotsuki_317193328100_1783605650//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2815799560",
+    "scheduledStartTime": "2026-07-09T14:00:56Z",
+    "startTime": "2026-07-09T14:00:56Z",
+    "platform": "twitch",
+    "ttl": "2026-07-16T14:00:56.000Z",
+    "streamerId": "remia_aotsuki"
   }
 ]
