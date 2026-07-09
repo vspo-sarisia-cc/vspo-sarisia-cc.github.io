@@ -15,11 +15,12 @@
     "id": "I6v7CmBQxp0",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 Minecraft 】みんなで夏祭り準備🌸【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/I6v7CmBQxp0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/I6v7CmBQxp0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=I6v7CmBQxp0",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-09T10:00:00Z",
     "startTime": "2026-07-09T10:15:39Z",
+    "endTime": "2026-07-09T13:39:36Z",
     "ttl": "2026-07-16T10:00:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -34,6 +35,19 @@
     "startTime": "2026-07-09T11:04:40Z",
     "ttl": "2026-07-16T11:00:00.000Z",
     "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "XQS3aj2netU",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】いつもとは違う環境で失礼するぞ【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/XQS3aj2netU/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=XQS3aj2netU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-09T11:50:00Z",
+    "startTime": "2026-07-09T12:03:49Z",
+    "endTime": "2026-07-09T13:36:26Z",
+    "ttl": "2026-07-16T11:50:00.000Z",
+    "streamerId": "kurumi_noah"
   },
   {
     "id": "xmdyAE0QY2g",
@@ -111,14 +125,27 @@
     "streamerId": "shinomiya_runa"
   },
   {
+    "id": "Gvx5I6qLMSY",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】ランクにいきましょ。リハビリ編【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/Gvx5I6qLMSY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Gvx5I6qLMSY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-09T14:00:00Z",
+    "startTime": "2026-07-09T14:07:31Z",
+    "ttl": "2026-07-16T14:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "6IlQ-PR15dc",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【MSI2026】HLE vs BLG | Mid-Season Invitational 2026 Upper Bracket Final 同時視聴！ ゲストちーたま、さいさい",
-    "thumbnail": "https://i.ytimg.com/vi/6IlQ-PR15dc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/6IlQ-PR15dc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=6IlQ-PR15dc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-09T08:00:00Z",
     "startTime": "2026-07-09T08:00:59Z",
+    "endTime": "2026-07-09T11:49:46Z",
     "ttl": "2026-07-16T08:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -141,6 +168,7 @@
     "url": "https://www.youtube.com/watch?v=sBy2JsS8UoY",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-09T12:00:00Z",
+    "startTime": "2026-07-09T12:00:55Z",
     "ttl": "2026-07-16T12:00:00.000Z",
     "streamerId": "riko_solari"
   },
@@ -155,6 +183,18 @@
     "platform": "twitch",
     "ttl": "2026-07-16T11:06:32.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "317193328100",
+    "channelId": "remiaaotsuki",
+    "title": "New Season New Me!!!!!",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_remiaaotsuki-320x180.jpg",
+    "url": "https://www.twitch.tv/remiaaotsuki",
+    "scheduledStartTime": "2026-07-09T14:00:50Z",
+    "startTime": "2026-07-09T14:00:50Z",
+    "platform": "twitch",
+    "ttl": "2026-07-16T14:00:50.000Z",
+    "streamerId": "remia_aotsuki"
   },
   {
     "id": "316207401331",

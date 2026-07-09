@@ -13,19 +13,6 @@
     "streamerId": "kaminari_qpi"
   },
   {
-    "id": "15Z8pprXado",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】ねるまえのちる【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/15Z8pprXado/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=15Z8pprXado",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-02T14:00:00Z",
-    "startTime": "2026-07-02T14:06:25Z",
-    "endTime": "2026-07-02T15:56:03Z",
-    "ttl": "2026-07-09T14:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
     "id": "17rm3Dz9NEo",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 スト６】しゃが中【 ぶいすぽっ！/紫宮るな 】",
@@ -37,32 +24,6 @@
     "endTime": "2026-07-03T02:07:24Z",
     "ttl": "2026-07-09T21:05:00.000Z",
     "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "CWsaS9LppZc",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【リズム天国 ミラクルスターズ】人生初めてのリズム天国♪【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/CWsaS9LppZc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=CWsaS9LppZc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-02T14:30:00Z",
-    "startTime": "2026-07-02T14:32:03Z",
-    "endTime": "2026-07-02T22:25:00Z",
-    "ttl": "2026-07-09T14:30:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "kIj370O0nRM",
-    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
-    "title": "idk what we're doing today",
-    "thumbnail": "https://i.ytimg.com/vi/kIj370O0nRM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=kIj370O0nRM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-02T13:30:00Z",
-    "startTime": "2026-07-02T13:30:29Z",
-    "endTime": "2026-07-02T18:09:01Z",
-    "ttl": "2026-07-09T13:30:00.000Z",
-    "streamerId": "riko_solari"
   },
   {
     "id": "316124844274",
@@ -77,18 +38,6 @@
     "streamerId": "kisaragi_ren"
   },
   {
-    "id": "316123942130",
-    "channelId": "ramuneshiranami",
-    "title": "よしなまさんにＭルーク教えてもらう",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/af958447c8bdaebfac11_ramuneshiranami_316123942130_1782999741//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2810420339",
-    "scheduledStartTime": "2026-07-02T13:42:29Z",
-    "startTime": "2026-07-02T13:42:29Z",
-    "platform": "twitch",
-    "ttl": "2026-07-09T13:42:29.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316116456689",
     "channelId": "akarindao",
     "title": "W杯ポルトガル vs クロアチアDAZNで同時視聴中",
@@ -99,17 +48,5 @@
     "platform": "twitch",
     "ttl": "2026-07-09T22:51:32.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "317139695204",
-    "channelId": "remiaaotsuki",
-    "title": "we gain some elo? I Faceit",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/b7649f2f82460639377e_remiaaotsuki_317139695204_1783001031//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2810431795",
-    "scheduledStartTime": "2026-07-02T14:03:59Z",
-    "startTime": "2026-07-02T14:03:59Z",
-    "platform": "twitch",
-    "ttl": "2026-07-09T14:03:59.000Z",
-    "streamerId": "remia_aotsuki"
   }
 ]
