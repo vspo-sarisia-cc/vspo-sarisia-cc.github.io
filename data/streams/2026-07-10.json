@@ -130,11 +130,12 @@
     "id": "Zdc0OjHVD98",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VALORANT】ソロランクへ２【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/Zdc0OjHVD98/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Zdc0OjHVD98/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Zdc0OjHVD98",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-10T12:30:00Z",
     "startTime": "2026-07-10T12:19:32Z",
+    "endTime": "2026-07-10T18:48:35Z",
     "ttl": "2026-07-17T12:30:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -225,6 +226,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-10T14:00:00Z",
     "startTime": "2026-07-10T13:53:12Z",
+    "endTime": "2026-07-10T19:21:10Z",
     "ttl": "2026-07-17T14:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -253,18 +255,6 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "epopEr27lvo",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Dota 2◢ VSPO'S DOTA 2 DEBUT | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/epopEr27lvo/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=epopEr27lvo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-10T14:00:00Z",
-    "startTime": "2026-07-10T14:00:08Z",
-    "ttl": "2026-07-17T14:00:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
     "id": "BPjoPHdcoP8",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤FIFA WORLD CUP◢ i wanna know ball (neutral noob POV) | #JunoUmezono #VSPOEN",
@@ -272,20 +262,34 @@
     "url": "https://www.youtube.com/watch?v=BPjoPHdcoP8",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-10T18:30:00Z",
+    "startTime": "2026-07-10T18:48:00Z",
     "ttl": "2026-07-17T18:30:00.000Z",
     "streamerId": "juno_umezono"
   },
   {
-    "id": "320281506010",
-    "channelId": "aryakuroha",
-    "title": "✦ EWC DAY 4 ELIMS - WATCHPARTY !",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-07-10T13:52:59Z",
-    "startTime": "2026-07-10T13:52:59Z",
+    "id": "epopEr27lvo",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Dota 2◢ VSPO'S DOTA 2 DEBUT | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/epopEr27lvo/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=epopEr27lvo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-10T14:00:00Z",
+    "startTime": "2026-07-10T14:00:08Z",
+    "endTime": "2026-07-10T18:47:10Z",
+    "ttl": "2026-07-17T14:00:00.000Z",
+    "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316215498995",
+    "channelId": "akarindao",
+    "title": "W杯スペイン vs ベルギーみるよ！DAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-10T18:53:42Z",
+    "startTime": "2026-07-10T18:53:42Z",
     "platform": "twitch",
-    "ttl": "2026-07-17T13:52:59.000Z",
-    "streamerId": "arya_kuroha"
+    "ttl": "2026-07-17T18:53:42.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316213551859",
@@ -298,5 +302,17 @@
     "platform": "twitch",
     "ttl": "2026-07-17T11:00:08.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "320281506010",
+    "channelId": "aryakuroha",
+    "title": "✦ EWC DAY 4 ELIMS - WATCHPARTY !",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/e0b4724ea442c48a169d_aryakuroha_320281506010_1783691579//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2816610338",
+    "scheduledStartTime": "2026-07-10T13:53:08Z",
+    "startTime": "2026-07-10T13:53:08Z",
+    "platform": "twitch",
+    "ttl": "2026-07-17T13:53:08.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
