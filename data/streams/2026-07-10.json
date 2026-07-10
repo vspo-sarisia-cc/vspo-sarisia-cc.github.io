@@ -1,5 +1,17 @@
 [
   {
+    "id": "1GWar6UdFCY",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【シャドバWB】三日後大会まじですかヘルプミー【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/1GWar6UdFCY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=1GWar6UdFCY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-10T14:25:00Z",
+    "startTime": "2026-07-10T14:33:49Z",
+    "ttl": "2026-07-17T14:25:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "yqceahDbxrM",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 リミットゼロ ブレイカーズ 】3人マルチで遊ぶ＆座談会！【 ぶいすぽ / 小雀とと 】",
@@ -16,11 +28,12 @@
     "id": "c9Yg2H3EXGk",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【LOST JUDGMENT:裁かれざる記憶】完全初見！まだ謎は多い【ぶいすぽ/一ノ瀬うるは】※ネタバレあり",
-    "thumbnail": "https://i.ytimg.com/vi/c9Yg2H3EXGk/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/c9Yg2H3EXGk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=c9Yg2H3EXGk",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-10T11:30:00Z",
     "startTime": "2026-07-10T11:33:08Z",
+    "endTime": "2026-07-10T14:41:36Z",
     "ttl": "2026-07-17T11:30:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -87,6 +100,17 @@
     "endTime": "2026-07-10T11:36:44Z",
     "ttl": "2026-07-17T09:30:00.000Z",
     "streamerId": "kaminari_qpi"
+  },
+  {
+    "id": "IKh1nGRaqdE",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "橘ひなのに見守られながらクリーキングと戦う藍沢エマ【ぶいすぽっ！/ 藍沢エマ/花芽なずな/小雀とと/橘ひなの/マイクラ】",
+    "thumbnail": "https://i.ytimg.com/vi/IKh1nGRaqdE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=IKh1nGRaqdE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-10T22:00:00Z",
+    "ttl": "2026-07-17T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "7T1JTTtzchE",
@@ -184,17 +208,19 @@
     "url": "https://www.youtube.com/watch?v=oWvnGolAgIU",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-10T14:00:00Z",
+    "startTime": "2026-07-10T14:02:57Z",
     "ttl": "2026-07-17T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
   {
     "id": "pAnqSKMsaes",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-    "title": "【APEX LEGENDS】EWC DAY 4 SURVIVAL - WATCHPARTY !【#VSPOEN #AryaKuroha】",
+    "title": "【APEX LEGENDS】EWC DAY 4 ELIMINATIONS - WATCHPARTY !【#VSPOEN #AryaKuroha】",
     "thumbnail": "https://i.ytimg.com/vi/pAnqSKMsaes/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=pAnqSKMsaes",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-10T14:00:00Z",
+    "startTime": "2026-07-10T13:53:12Z",
     "ttl": "2026-07-17T14:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -217,8 +243,21 @@
     "url": "https://www.youtube.com/watch?v=kPKU_r087Bo",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-10T14:00:00Z",
+    "startTime": "2026-07-10T14:00:29Z",
     "ttl": "2026-07-17T14:00:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "epopEr27lvo",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Dota 2◢ VSPO'S DOTA 2 DEBUT | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/epopEr27lvo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=epopEr27lvo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-10T14:00:00Z",
+    "startTime": "2026-07-10T14:00:08Z",
+    "ttl": "2026-07-17T14:00:00.000Z",
+    "streamerId": "juno_umezono"
   },
   {
     "id": "BPjoPHdcoP8",
@@ -232,15 +271,16 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "epopEr27lvo",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Dota 2◢ VSPO'S DOTA 2 DEBUT | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/epopEr27lvo/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=epopEr27lvo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-10T14:00:00Z",
-    "ttl": "2026-07-17T14:00:00.000Z",
-    "streamerId": "juno_umezono"
+    "id": "320281506010",
+    "channelId": "aryakuroha",
+    "title": "✦ EWC DAY 4 ELIMS - WATCHPARTY !",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-07-10T13:52:59Z",
+    "startTime": "2026-07-10T13:52:59Z",
+    "platform": "twitch",
+    "ttl": "2026-07-17T13:52:59.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "316213551859",

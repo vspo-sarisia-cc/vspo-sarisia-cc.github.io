@@ -1,31 +1,5 @@
 [
   {
-    "id": "E9GoKE2y4vY",
-    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
-    "title": "【深夜雑談】お酒嗜みながら＿＿今週もお疲れ様。【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/E9GoKE2y4vY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=E9GoKE2y4vY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-03T14:00:00Z",
-    "startTime": "2026-07-03T14:01:42Z",
-    "endTime": "2026-07-03T16:07:11Z",
-    "ttl": "2026-07-10T14:00:00.000Z",
-    "streamerId": "asumi_sena"
-  },
-  {
-    "id": "Wuy0IItcrGo",
-    "channelId": "UCGWa1dMU_sDCaRQjdabsVgg",
-    "title": "【雑談】SAVOGE振り返り【ぶいすぽ/如月れん】",
-    "thumbnail": "https://i.ytimg.com/vi/Wuy0IItcrGo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Wuy0IItcrGo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-03T14:59:49Z",
-    "startTime": "2026-07-03T15:08:31Z",
-    "endTime": "2026-07-03T17:08:41Z",
-    "ttl": "2026-07-10T14:59:49.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "9zJGcmEbD5Y",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【ワールドカップ同時視聴】DAZNで！アルゼンチン応援⚽【ぶいすぽ/八雲べに】",
@@ -52,19 +26,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "jH9A8HM_vYs",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【 リズム天国 ミラクルスターズ 】人生初めてやってみる！歌は得意なのですが…！？【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/jH9A8HM_vYs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=jH9A8HM_vYs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-03T14:10:00Z",
-    "startTime": "2026-07-03T14:22:07Z",
-    "endTime": "2026-07-03T17:34:19Z",
-    "ttl": "2026-07-10T14:10:00.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
     "id": "UcoU4zj9Lis",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "+2 to lv10  | Faceit | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
@@ -76,32 +37,6 @@
     "endTime": "2026-07-03T18:09:12Z",
     "ttl": "2026-07-10T17:00:00.000Z",
     "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "R5-GADTwN90",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "Anomaly searching in Chibi form | CAPTURED 2【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/R5-GADTwN90/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=R5-GADTwN90",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-03T14:00:00Z",
-    "startTime": "2026-07-03T14:00:59Z",
-    "endTime": "2026-07-03T16:51:48Z",
-    "ttl": "2026-07-10T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "B7sKjZHddw4",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Apex Legends◢ CULTIVATION (APEX TOURNEY PRACTICE) | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/B7sKjZHddw4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=B7sKjZHddw4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-03T14:30:00Z",
-    "startTime": "2026-07-03T14:30:51Z",
-    "endTime": "2026-07-03T20:20:02Z",
-    "ttl": "2026-07-10T14:30:00.000Z",
-    "streamerId": "juno_umezono"
   },
   {
     "id": "316120933233",
