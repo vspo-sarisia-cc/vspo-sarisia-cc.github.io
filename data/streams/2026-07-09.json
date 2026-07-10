@@ -146,11 +146,12 @@
     "id": "Jl3WStaJGLk",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【Echoes of Aincrad】Steams版リリースキター！デスゲーム行きます　w/かみーと、ギルくん、あと何人か来る予定【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/Jl3WStaJGLk/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Jl3WStaJGLk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Jl3WStaJGLk",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-09T22:00:00Z",
     "startTime": "2026-07-09T22:29:16Z",
+    "endTime": "2026-07-10T10:23:59Z",
     "ttl": "2026-07-16T22:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -220,18 +221,6 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "316211441523",
-    "channelId": "ramuneshiranami",
-    "title": "【Echoes of Aincrad】SAOの新作ゲーム！デスゲームする",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-09T22:29:07Z",
-    "startTime": "2026-07-09T22:29:07Z",
-    "platform": "twitch",
-    "ttl": "2026-07-16T22:29:07.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316207401331",
     "channelId": "asumisena",
     "title": "ui",
@@ -242,6 +231,18 @@
     "platform": "twitch",
     "ttl": "2026-07-16T01:13:26.000Z",
     "streamerId": "asumi_sena"
+  },
+  {
+    "id": "316211441523",
+    "channelId": "ramuneshiranami",
+    "title": "【Echoes of Aincrad】SAOの新作ゲーム！デスゲームする",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/deae69eeaee1f5613bd5_ramuneshiranami_316211441523_1783636147//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2816137655",
+    "scheduledStartTime": "2026-07-09T22:29:13Z",
+    "startTime": "2026-07-09T22:29:13Z",
+    "platform": "twitch",
+    "ttl": "2026-07-16T22:29:13.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316154578034",
