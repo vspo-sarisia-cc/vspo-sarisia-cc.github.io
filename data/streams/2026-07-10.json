@@ -3,7 +3,7 @@
     "id": "yqceahDbxrM",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 リミットゼロ ブレイカーズ 】3人マルチで遊ぶ＆座談会！【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/yqceahDbxrM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/yqceahDbxrM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=yqceahDbxrM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-10T10:00:00Z",
@@ -20,18 +20,32 @@
     "url": "https://www.youtube.com/watch?v=c9Yg2H3EXGk",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-10T11:30:00Z",
+    "startTime": "2026-07-10T11:33:08Z",
     "ttl": "2026-07-17T11:30:00.000Z",
     "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "kIdIgVJTbFY",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "【Satisfactory】圧倒的好評✨ちせまると工業系チルゲームする w/龍巻ちせ【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/kIdIgVJTbFY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=kIdIgVJTbFY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-10T13:30:00Z",
+    "startTime": "2026-07-10T13:34:10Z",
+    "ttl": "2026-07-17T13:30:00.000Z",
+    "streamerId": "asumi_sena"
   },
   {
     "id": "t9ByHsD7qz8",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 めっちゃカメレオン 】友達たちに誘って貰えたのでやります【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/t9ByHsD7qz8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/t9ByHsD7qz8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=t9ByHsD7qz8",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-10T11:00:00Z",
     "startTime": "2026-07-10T11:06:20Z",
+    "endTime": "2026-07-10T13:16:33Z",
     "ttl": "2026-07-17T11:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -49,18 +63,6 @@
     "streamerId": "tachibana_hinano"
   },
   {
-    "id": "Jg6mEsz4msc",
-    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
-    "title": "【STREET FIGHTER 6】超うれしいお知らせｱﾘ！6年前の今日配信を始めたらしい【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/Jg6mEsz4msc/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=Jg6mEsz4msc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-10T09:30:00Z",
-    "startTime": "2026-07-10T09:32:22Z",
-    "ttl": "2026-07-17T09:30:00.000Z",
-    "streamerId": "kaminari_qpi"
-  },
-  {
     "id": "e7SOg471FFs",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "アネモネ / 神成きゅぴ",
@@ -68,7 +70,22 @@
     "url": "https://www.youtube.com/watch?v=e7SOg471FFs",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-10T12:00:00Z",
+    "startTime": "2026-07-10T12:00:06Z",
+    "endTime": "2026-07-10T12:04:16Z",
     "ttl": "2026-07-17T12:00:00.000Z",
+    "streamerId": "kaminari_qpi"
+  },
+  {
+    "id": "Jg6mEsz4msc",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【STREET FIGHTER 6】超うれしいお知らせｱﾘ！6年前の今日配信を始めたらしい【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/Jg6mEsz4msc/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Jg6mEsz4msc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-10T09:30:00Z",
+    "startTime": "2026-07-10T09:32:22Z",
+    "endTime": "2026-07-10T11:36:44Z",
+    "ttl": "2026-07-17T09:30:00.000Z",
     "streamerId": "kaminari_qpi"
   },
   {
@@ -84,10 +101,22 @@
     "streamerId": "shinomiya_runa"
   },
   {
+    "id": "Zdc0OjHVD98",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】ソロランクへ２【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/Zdc0OjHVD98/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Zdc0OjHVD98",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-10T12:30:00Z",
+    "startTime": "2026-07-10T12:19:32Z",
+    "ttl": "2026-07-17T12:30:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "rdfaoS0XT0U",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VALORANT】ソロコンペへ１【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/rdfaoS0XT0U/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/rdfaoS0XT0U/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=rdfaoS0XT0U",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-10T08:51:00Z",
@@ -136,14 +165,26 @@
     "streamerId": "ginjo_saine"
   },
   {
+    "id": "RVe7HdS_02c",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  Satisfactory  ◢　セナ先輩と工場建設させていただきます！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/RVe7HdS_02c/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=RVe7HdS_02c",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-10T13:30:00Z",
+    "startTime": "2026-07-10T13:34:07Z",
+    "ttl": "2026-07-17T13:30:00.000Z",
+    "streamerId": "tatsumaki_chise"
+  },
+  {
     "id": "oWvnGolAgIU",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Part 2 - Can we escape?!  |  Escape the Backrooms 【#VSPOEN #RemiaAotsuki】",
     "thumbnail": "https://i.ytimg.com/vi/oWvnGolAgIU/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=oWvnGolAgIU",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-10T15:00:00Z",
-    "ttl": "2026-07-17T15:00:00.000Z",
+    "scheduledStartTime": "2026-07-10T14:00:00Z",
+    "ttl": "2026-07-17T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
   {
@@ -205,12 +246,12 @@
     "id": "316213551859",
     "channelId": "ren_kisaragi__",
     "title": "ベガ海賊団の人たちとめっちゃカメレオンで遊ぶ",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-07-10T11:00:03Z",
-    "startTime": "2026-07-10T11:00:03Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/0a17036a33c12dd6da93_ren_kisaragi___316213551859_1783681202//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2816527237",
+    "scheduledStartTime": "2026-07-10T11:00:08Z",
+    "startTime": "2026-07-10T11:00:08Z",
     "platform": "twitch",
-    "ttl": "2026-07-17T11:00:03.000Z",
+    "ttl": "2026-07-17T11:00:08.000Z",
     "streamerId": "kisaragi_ren"
   }
 ]
