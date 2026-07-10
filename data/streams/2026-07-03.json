@@ -26,19 +26,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "UcoU4zj9Lis",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "+2 to lv10  | Faceit | Counter-Strike 2【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/UcoU4zj9Lis/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=UcoU4zj9Lis",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-03T17:00:00Z",
-    "startTime": "2026-07-03T17:09:43Z",
-    "endTime": "2026-07-03T18:09:12Z",
-    "ttl": "2026-07-10T17:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
     "id": "316120933233",
     "channelId": "akarindao",
     "title": "W杯アルゼンチン vs カーボベルデDAZNで同時視聴中",
@@ -48,18 +35,6 @@
     "startTime": "2026-07-03T21:51:56Z",
     "platform": "twitch",
     "ttl": "2026-07-10T21:51:56.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316120333681",
-    "channelId": "akarindao",
-    "title": "W杯オーストラリア vs エジプトDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/6d4e261172fcf8f8fc8a_akarindao_316120333681_1783101141//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2811355893",
-    "scheduledStartTime": "2026-07-03T17:52:26Z",
-    "startTime": "2026-07-03T17:52:26Z",
-    "platform": "twitch",
-    "ttl": "2026-07-10T17:52:26.000Z",
     "streamerId": "yumeno_akari"
   }
 ]
