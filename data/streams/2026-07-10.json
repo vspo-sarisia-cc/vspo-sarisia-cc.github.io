@@ -111,6 +111,8 @@
     "url": "https://www.youtube.com/watch?v=IKh1nGRaqdE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-10T22:00:00Z",
+    "startTime": "2026-07-10T22:00:06Z",
+    "endTime": "2026-07-10T22:19:03Z",
     "ttl": "2026-07-17T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -266,18 +268,6 @@
     "startTime": "2026-07-10T14:00:08Z",
     "endTime": "2026-07-10T18:47:10Z",
     "ttl": "2026-07-17T14:00:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
-    "id": "BPjoPHdcoP8",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤FIFA WORLD CUP◢ i wanna know ball (neutral noob POV) | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/BPjoPHdcoP8/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=BPjoPHdcoP8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-10T18:30:00Z",
-    "startTime": "2026-07-10T18:48:00Z",
-    "ttl": "2026-07-17T18:30:00.000Z",
     "streamerId": "juno_umezono"
   },
   {
