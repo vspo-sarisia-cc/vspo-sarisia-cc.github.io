@@ -64,5 +64,16 @@
     "scheduledStartTime": "2026-07-11T13:45:00Z",
     "ttl": "2026-07-18T13:45:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "KngYh36oyBI",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Rocket League◢ VSPO! WORLD CUP? TEAM EN POV! | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/KngYh36oyBI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=KngYh36oyBI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T10:45:00Z",
+    "ttl": "2026-07-18T10:45:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
