@@ -24,17 +24,5 @@
     "endTime": "2026-07-03T22:18:47Z",
     "ttl": "2026-07-10T22:00:00.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "316120933233",
-    "channelId": "akarindao",
-    "title": "W杯アルゼンチン vs カーボベルデDAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/c9e6ab20ada1a3837d28_akarindao_316120933233_1783115511//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2811526563",
-    "scheduledStartTime": "2026-07-03T21:51:56Z",
-    "startTime": "2026-07-03T21:51:56Z",
-    "platform": "twitch",
-    "ttl": "2026-07-10T21:51:56.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]

@@ -256,18 +256,6 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "BPjoPHdcoP8",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤FIFA WORLD CUP◢ i wanna know ball (neutral noob POV) | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/BPjoPHdcoP8/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=BPjoPHdcoP8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-10T18:30:00Z",
-    "startTime": "2026-07-10T18:48:00Z",
-    "ttl": "2026-07-17T18:30:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
     "id": "epopEr27lvo",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Dota 2◢ VSPO'S DOTA 2 DEBUT | #JunoUmezono #VSPOEN",
@@ -281,9 +269,21 @@
     "streamerId": "juno_umezono"
   },
   {
+    "id": "BPjoPHdcoP8",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤FIFA WORLD CUP◢ i wanna know ball (neutral noob POV) | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/BPjoPHdcoP8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=BPjoPHdcoP8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-10T18:30:00Z",
+    "startTime": "2026-07-10T18:48:00Z",
+    "ttl": "2026-07-17T18:30:00.000Z",
+    "streamerId": "juno_umezono"
+  },
+  {
     "id": "316215498995",
     "channelId": "akarindao",
-    "title": "W杯スペイン vs ベルギーみるよ！DAZNで同時視聴中",
+    "title": "ぶいすぽ夏祭りに向けてガチ素材集めTV",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
     "url": "https://www.twitch.tv/akarindao",
     "scheduledStartTime": "2026-07-10T18:53:42Z",
