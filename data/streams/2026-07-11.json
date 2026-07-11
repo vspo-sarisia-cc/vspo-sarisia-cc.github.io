@@ -347,18 +347,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316155584241",
-    "channelId": "ramuneshiranami",
-    "title": "【Echoes of Aincrad】デスゲームの続き",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-11T13:36:31Z",
-    "startTime": "2026-07-11T13:36:31Z",
-    "platform": "twitch",
-    "ttl": "2026-07-18T13:36:31.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "320412316123",
     "channelId": "aryakuroha",
     "title": "✦ EWC FINALS - WATCHPARTY !",
@@ -369,6 +357,18 @@
     "platform": "twitch",
     "ttl": "2026-07-18T13:36:25.000Z",
     "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "316155584241",
+    "channelId": "ramuneshiranami",
+    "title": "【Echoes of Aincrad】デスゲームの続き",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/ae3c01e860c9c9e5879c_ramuneshiranami_316155584241_1783776991//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2817438874",
+    "scheduledStartTime": "2026-07-11T13:36:36Z",
+    "startTime": "2026-07-11T13:36:36Z",
+    "platform": "twitch",
+    "ttl": "2026-07-18T13:36:36.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316218398195",
