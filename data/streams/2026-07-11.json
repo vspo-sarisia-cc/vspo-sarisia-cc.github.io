@@ -24,6 +24,30 @@
     "streamerId": "kaga_nazuna"
   },
   {
+    "id": "3zF6SMg1VtI",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【LOST JUDGMENT:裁かれざる記憶】完全初見！敵を探れ！【ぶいすぽ/一ノ瀬うるは】※ネタバレあり",
+    "thumbnail": "https://i.ytimg.com/vi/3zF6SMg1VtI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=3zF6SMg1VtI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T06:00:00Z",
+    "startTime": "2026-07-11T06:04:42Z",
+    "ttl": "2026-07-18T06:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "cTbE9a_LDMs",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】Eディスに囚われている【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/cTbE9a_LDMs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=cTbE9a_LDMs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T07:00:00Z",
+    "startTime": "2026-07-11T06:57:44Z",
+    "ttl": "2026-07-18T07:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "AX1fhmVhMxk",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Minecraft 】今日もコツコツ 【ぶいすぽっ！/橘ひなの】",
@@ -36,6 +60,17 @@
     "streamerId": "tachibana_hinano"
   },
   {
+    "id": "9fEWh78FRpU",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【Rocket League】ぶいすぽW杯キターーーー⚽ #ぶいすぽGG【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/9fEWh78FRpU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=9fEWh78FRpU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T11:00:00Z",
+    "ttl": "2026-07-18T11:00:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
     "id": "6oYoLdgVom0",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【APEX】たのむワールズエッジであってくれ【ぶいすぽっ！/ 藍沢エマ】",
@@ -43,6 +78,7 @@
     "url": "https://www.youtube.com/watch?v=6oYoLdgVom0",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T05:00:00Z",
+    "startTime": "2026-07-11T05:02:27Z",
     "ttl": "2026-07-18T05:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -66,8 +102,21 @@
     "url": "https://www.youtube.com/watch?v=Vk_JHtAb6s0",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T05:00:00Z",
+    "startTime": "2026-07-11T05:00:29Z",
     "ttl": "2026-07-18T05:00:00.000Z",
     "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "A0_4UMH_qdo",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  Echoes of Aincrad  ◢　ベリーハードのデスゲームやるぞー！！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/A0_4UMH_qdo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=A0_4UMH_qdo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T05:05:00Z",
+    "startTime": "2026-07-11T05:05:27Z",
+    "ttl": "2026-07-18T05:05:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "OgTOjcQzUhM",
@@ -95,11 +144,12 @@
     "id": "YqJ1wNGxdF4",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
     "title": "【Zatsudan 雑談】 hi i'm back from bein sick :'3 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/YqJ1wNGxdF4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/YqJ1wNGxdF4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=YqJ1wNGxdF4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T03:00:00Z",
     "startTime": "2026-07-11T03:02:39Z",
+    "endTime": "2026-07-11T05:00:17Z",
     "ttl": "2026-07-18T03:00:00.000Z",
     "streamerId": "narin_mikure"
   },
@@ -124,5 +174,17 @@
     "scheduledStartTime": "2026-07-11T10:45:00Z",
     "ttl": "2026-07-18T10:45:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316153582705",
+    "channelId": "ramuneshiranami",
+    "title": "【Echoes of Aincrad】デスゲームの続きする",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-07-11T05:38:43Z",
+    "startTime": "2026-07-11T05:38:43Z",
+    "platform": "twitch",
+    "ttl": "2026-07-18T05:38:43.000Z",
+    "streamerId": "shiranami_ramune"
   }
 ]
