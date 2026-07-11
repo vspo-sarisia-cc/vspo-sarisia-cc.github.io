@@ -24,6 +24,17 @@
     "streamerId": "kaga_nazuna"
   },
   {
+    "id": "IKswcs7mAM8",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "【 Rocket League 】#ぶいすぽGG うおー！ロケリだー！【 ぶいすぽ / 小雀とと 】",
+    "thumbnail": "https://i.ytimg.com/vi/IKswcs7mAM8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=IKswcs7mAM8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T11:00:00Z",
+    "ttl": "2026-07-18T11:00:00.000Z",
+    "streamerId": "kogara_toto"
+  },
+  {
     "id": "3zF6SMg1VtI",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【LOST JUDGMENT:裁かれざる記憶】完全初見！敵を探れ！【ぶいすぽ/一ノ瀬うるは】※ネタバレあり",
@@ -40,11 +51,12 @@
     "id": "cTbE9a_LDMs",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】Eディスに囚われている【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/cTbE9a_LDMs/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/cTbE9a_LDMs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=cTbE9a_LDMs",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T07:00:00Z",
     "startTime": "2026-07-11T06:57:44Z",
+    "endTime": "2026-07-11T09:50:31Z",
     "ttl": "2026-07-18T07:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -52,11 +64,12 @@
     "id": "AX1fhmVhMxk",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Minecraft 】今日もコツコツ 【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/AX1fhmVhMxk/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/AX1fhmVhMxk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=AX1fhmVhMxk",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T04:45:00Z",
     "startTime": "2026-07-11T04:45:48Z",
+    "endTime": "2026-07-11T09:14:10Z",
     "ttl": "2026-07-18T04:45:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -75,7 +88,7 @@
     "id": "6oYoLdgVom0",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【APEX】たのむワールズエッジであってくれ【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/6oYoLdgVom0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/6oYoLdgVom0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=6oYoLdgVom0",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T05:00:00Z",
@@ -95,6 +108,17 @@
     "startTime": "2026-07-11T01:31:33Z",
     "ttl": "2026-07-18T01:30:00.000Z",
     "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "JnuvIehnppc",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【Rocket League®】あかさん主催のぶいすぽロケットリーグ！/ なずぴ、べに先輩チーム【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/JnuvIehnppc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=JnuvIehnppc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T11:00:00Z",
+    "ttl": "2026-07-18T11:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "vLsUa7b3vnM",
@@ -120,6 +144,17 @@
     "streamerId": "sendo_yuuhi"
   },
   {
+    "id": "-H9VHRqT7ko",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【 Rocket League 】　うおおおおおおおいくぞおおおおおお！！！！！！！！ #ぶいすぽGG　w/うるは先輩、ひなの先輩　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/-H9VHRqT7ko/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=-H9VHRqT7ko",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T11:00:00Z",
+    "ttl": "2026-07-18T11:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "mCsy59O-bp8",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】チラ見しながらやるでい【 ぶいすぽっ！甘結もか 】",
@@ -135,7 +170,7 @@
     "id": "Vk_JHtAb6s0",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【APEX LEGENDS】おひさしぶりですFPSさん ／ エマ先輩、ゆいさん【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/Vk_JHtAb6s0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Vk_JHtAb6s0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Vk_JHtAb6s0",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T05:00:00Z",
@@ -148,11 +183,12 @@
     "id": "A0_4UMH_qdo",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  Echoes of Aincrad  ◢　ベリーハードのデスゲームやるぞー！！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/A0_4UMH_qdo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/A0_4UMH_qdo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=A0_4UMH_qdo",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T05:05:00Z",
     "startTime": "2026-07-11T05:05:27Z",
+    "endTime": "2026-07-11T09:53:58Z",
     "ttl": "2026-07-18T05:05:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -177,6 +213,17 @@
     "scheduledStartTime": "2026-07-11T14:00:00Z",
     "ttl": "2026-07-18T14:00:00.000Z",
     "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "xNs4PQx2lZI",
+    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+    "title": "【League of Legends】i love sona【#VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/xNs4PQx2lZI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=xNs4PQx2lZI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T11:00:00Z",
+    "ttl": "2026-07-18T11:00:00.000Z",
+    "streamerId": "jira_jisaki"
   },
   {
     "id": "YqJ1wNGxdF4",
@@ -217,12 +264,12 @@
     "id": "316154033265",
     "channelId": "ramuneshiranami",
     "title": "【Echoes of Aincrad】デスゲームの続きする",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-11T07:48:08Z",
-    "startTime": "2026-07-11T07:48:08Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/e7b70ad648ad1661eb64_ramuneshiranami_316154033265_1783756088//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2817298123",
+    "scheduledStartTime": "2026-07-11T07:48:13Z",
+    "startTime": "2026-07-11T07:48:13Z",
     "platform": "twitch",
-    "ttl": "2026-07-18T07:48:08.000Z",
+    "ttl": "2026-07-18T07:48:13.000Z",
     "streamerId": "shiranami_ramune"
   },
   {
