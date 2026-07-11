@@ -27,11 +27,12 @@
     "id": "3zF6SMg1VtI",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【LOST JUDGMENT:裁かれざる記憶】完全初見！敵を探れ！【ぶいすぽ/一ノ瀬うるは】※ネタバレあり",
-    "thumbnail": "https://i.ytimg.com/vi/3zF6SMg1VtI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/3zF6SMg1VtI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=3zF6SMg1VtI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T06:00:00Z",
     "startTime": "2026-07-11T06:04:42Z",
+    "endTime": "2026-07-11T08:35:24Z",
     "ttl": "2026-07-18T06:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -79,6 +80,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T05:00:00Z",
     "startTime": "2026-07-11T05:02:27Z",
+    "endTime": "2026-07-11T08:45:41Z",
     "ttl": "2026-07-18T05:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -95,6 +97,41 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "vLsUa7b3vnM",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【MSI2026】HLE vs LYON | Mid-Season Invitational 2026 Lower Bracket Final 同時視聴！",
+    "thumbnail": "https://i.ytimg.com/vi/vLsUa7b3vnM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=vLsUa7b3vnM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T07:50:00Z",
+    "startTime": "2026-07-11T07:53:40Z",
+    "ttl": "2026-07-18T07:50:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "OWs9NRgijik",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【League of Legends】ほぼ湯けむり5v5ランクいくぞー！！w/酒寄颯馬,スタンミじゃぱん,焼きパン,たかやスペシャル【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/OWs9NRgijik/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=OWs9NRgijik",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T13:00:00Z",
+    "ttl": "2026-07-18T13:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "mCsy59O-bp8",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【スト6】チラ見しながらやるでい【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/mCsy59O-bp8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=mCsy59O-bp8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T08:13:00Z",
+    "startTime": "2026-07-11T08:13:22Z",
+    "ttl": "2026-07-18T08:13:00.000Z",
+    "streamerId": "amayui_moka"
+  },
+  {
     "id": "Vk_JHtAb6s0",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【APEX LEGENDS】おひさしぶりですFPSさん ／ エマ先輩、ゆいさん【ぶいすぽっ！ #銀城サイネ 】",
@@ -103,6 +140,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T05:00:00Z",
     "startTime": "2026-07-11T05:00:29Z",
+    "endTime": "2026-07-11T08:46:50Z",
     "ttl": "2026-07-18T05:00:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -176,15 +214,27 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316153582705",
+    "id": "316154033265",
     "channelId": "ramuneshiranami",
     "title": "【Echoes of Aincrad】デスゲームの続きする",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
     "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-11T05:38:43Z",
-    "startTime": "2026-07-11T05:38:43Z",
+    "scheduledStartTime": "2026-07-11T07:48:08Z",
+    "startTime": "2026-07-11T07:48:08Z",
     "platform": "twitch",
-    "ttl": "2026-07-18T05:38:43.000Z",
+    "ttl": "2026-07-18T07:48:08.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316153582705",
+    "channelId": "ramuneshiranami",
+    "title": "【Echoes of Aincrad】デスゲームの続きする",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/595a987102eaec75b827_ramuneshiranami_316153582705_1783748323//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2817248937",
+    "scheduledStartTime": "2026-07-11T05:38:48Z",
+    "startTime": "2026-07-11T05:38:48Z",
+    "platform": "twitch",
+    "ttl": "2026-07-18T05:38:48.000Z",
     "streamerId": "shiranami_ramune"
   }
 ]
