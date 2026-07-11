@@ -1,5 +1,17 @@
 [
   {
+    "id": "zmmzZC77rSU",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【ロケットリーグ】＃ぶいすぽGG　このチーム大丈夫そう？【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/zmmzZC77rSU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=zmmzZC77rSU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T11:00:00Z",
+    "startTime": "2026-07-11T11:06:57Z",
+    "ttl": "2026-07-18T11:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "9Fm2AG4CNhQ",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【シャドバWB】莉々華ちゃんとドラ×エルフで対戦会するよ！w.リグゼコーチ【ぶいすぽ/花芽なずな】",
@@ -13,17 +25,6 @@
     "streamerId": "kaga_nazuna"
   },
   {
-    "id": "zmmzZC77rSU",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【ロケットリーグ】＃ぶいすぽGG　このチーム大丈夫そう？【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/zmmzZC77rSU/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=zmmzZC77rSU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-11T11:00:00Z",
-    "ttl": "2026-07-18T11:00:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "IKswcs7mAM8",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 Rocket League 】#ぶいすぽGG うおー！ロケリだー！【 ぶいすぽ / 小雀とと 】",
@@ -31,8 +32,21 @@
     "url": "https://www.youtube.com/watch?v=IKswcs7mAM8",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T11:00:00Z",
+    "startTime": "2026-07-11T11:02:47Z",
     "ttl": "2026-07-18T11:00:00.000Z",
     "streamerId": "kogara_toto"
+  },
+  {
+    "id": "bJokvTDD7TA",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【ロケットリーグ】や、やれんのか？ｗ【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/bJokvTDD7TA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=bJokvTDD7TA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T11:00:00Z",
+    "startTime": "2026-07-11T11:07:03Z",
+    "ttl": "2026-07-18T11:00:00.000Z",
+    "streamerId": "ichinose_uruha"
   },
   {
     "id": "3zF6SMg1VtI",
@@ -61,6 +75,18 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "-JBpd6NPyts",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 ロケットリーグ 】 勝てるのか！？このチーム！？ w/うるは、はなび #ぶいすぽGG【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/-JBpd6NPyts/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=-JBpd6NPyts",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T11:00:00Z",
+    "startTime": "2026-07-11T11:03:21Z",
+    "ttl": "2026-07-18T11:00:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "AX1fhmVhMxk",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Minecraft 】今日もコツコツ 【ぶいすぽっ！/橘ひなの】",
@@ -81,6 +107,7 @@
     "url": "https://www.youtube.com/watch?v=9fEWh78FRpU",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T11:00:00Z",
+    "startTime": "2026-07-11T11:02:46Z",
     "ttl": "2026-07-18T11:00:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -117,6 +144,7 @@
     "url": "https://www.youtube.com/watch?v=JnuvIehnppc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T11:00:00Z",
+    "startTime": "2026-07-11T11:02:51Z",
     "ttl": "2026-07-18T11:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -151,6 +179,7 @@
     "url": "https://www.youtube.com/watch?v=-H9VHRqT7ko",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T11:00:00Z",
+    "startTime": "2026-07-11T11:02:52Z",
     "ttl": "2026-07-18T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -158,11 +187,12 @@
     "id": "mCsy59O-bp8",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】チラ見しながらやるでい【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/mCsy59O-bp8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/mCsy59O-bp8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=mCsy59O-bp8",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T08:13:00Z",
     "startTime": "2026-07-11T08:13:22Z",
+    "endTime": "2026-07-11T10:37:38Z",
     "ttl": "2026-07-18T08:13:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -178,6 +208,18 @@
     "endTime": "2026-07-11T08:46:50Z",
     "ttl": "2026-07-18T05:00:00.000Z",
     "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "_b-1kFxXwK8",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  ロケットリーグ ◢　シュート決めにいくぞおおお   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/_b-1kFxXwK8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=_b-1kFxXwK8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T11:00:00Z",
+    "startTime": "2026-07-11T11:07:16Z",
+    "ttl": "2026-07-18T11:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "A0_4UMH_qdo",
@@ -200,6 +242,7 @@
     "url": "https://www.youtube.com/watch?v=OgTOjcQzUhM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T11:00:00Z",
+    "startTime": "2026-07-11T11:02:10Z",
     "ttl": "2026-07-18T11:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -221,8 +264,8 @@
     "thumbnail": "https://i.ytimg.com/vi/xNs4PQx2lZI/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=xNs4PQx2lZI",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-11T11:00:00Z",
-    "ttl": "2026-07-18T11:00:00.000Z",
+    "scheduledStartTime": "2026-07-11T11:15:00Z",
+    "ttl": "2026-07-18T11:15:00.000Z",
     "streamerId": "jira_jisaki"
   },
   {
@@ -237,6 +280,18 @@
     "endTime": "2026-07-11T05:00:17Z",
     "ttl": "2026-07-18T03:00:00.000Z",
     "streamerId": "narin_mikure"
+  },
+  {
+    "id": "Jihi6JLcSIc",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【ROCKET LEAGUE】これはぶいすぽW杯かな？w/ Remia & Juno!!!!  #ぶいすぽGG【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/Jihi6JLcSIc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Jihi6JLcSIc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T11:00:00Z",
+    "startTime": "2026-07-11T11:02:51Z",
+    "ttl": "2026-07-18T11:00:00.000Z",
+    "streamerId": "riko_solari"
   },
   {
     "id": "ZIx6_5MkmmE",
@@ -256,9 +311,34 @@
     "thumbnail": "https://i.ytimg.com/vi/KngYh36oyBI/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=KngYh36oyBI",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-11T10:45:00Z",
-    "ttl": "2026-07-18T10:45:00.000Z",
+    "scheduledStartTime": "2026-07-11T11:00:00Z",
+    "startTime": "2026-07-11T11:03:28Z",
+    "ttl": "2026-07-18T11:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316218398579",
+    "channelId": "akarindao",
+    "title": "ぶいすぽGG 夢野あかりpresentsロケットリーグ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-11T11:06:54Z",
+    "startTime": "2026-07-11T11:06:54Z",
+    "platform": "twitch",
+    "ttl": "2026-07-18T11:06:54.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316218398195",
+    "channelId": "ramuneshiranami",
+    "title": "【ロケットリーグ】初見ですが頑張ります w/ととさん ちーたま#ぶいすぽGG",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-07-11T11:06:51Z",
+    "startTime": "2026-07-11T11:06:51Z",
+    "platform": "twitch",
+    "ttl": "2026-07-18T11:06:51.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316154033265",
