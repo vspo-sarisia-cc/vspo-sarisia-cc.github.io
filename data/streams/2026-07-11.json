@@ -176,6 +176,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T13:30:00Z",
     "startTime": "2026-07-11T13:27:22Z",
+    "endTime": "2026-07-11T18:25:37Z",
     "ttl": "2026-07-18T13:30:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -204,19 +205,6 @@
     "endTime": "2026-07-11T13:27:18Z",
     "ttl": "2026-07-18T11:00:00.000Z",
     "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "mCsy59O-bp8",
-    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
-    "title": "【スト6】チラ見しながらやるでい【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/mCsy59O-bp8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=mCsy59O-bp8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-11T08:13:00Z",
-    "startTime": "2026-07-11T08:13:22Z",
-    "endTime": "2026-07-11T10:37:38Z",
-    "ttl": "2026-07-18T08:13:00.000Z",
-    "streamerId": "amayui_moka"
   },
   {
     "id": "Vk_JHtAb6s0",
@@ -336,7 +324,7 @@
   {
     "id": "KngYh36oyBI",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Rocket League◢ VSPO! WORLD CUP? TEAM EN POV! | #JunoUmezono #VSPOEN",
+    "title": "◤Rocket League◢ VSPO! WORLD CUP? TEAM EN POV! | #JunoUmezono #VSPOEN #ぶいすぽGG",
     "thumbnail": "https://i.ytimg.com/vi/KngYh36oyBI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=KngYh36oyBI",
     "platform": "youtube",
