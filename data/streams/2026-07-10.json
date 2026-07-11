@@ -260,18 +260,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316215498995",
-    "channelId": "akarindao",
-    "title": "ぶいすぽ夏祭りに向けてガチ素材集めTV",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-10T18:53:42Z",
-    "startTime": "2026-07-10T18:53:42Z",
-    "platform": "twitch",
-    "ttl": "2026-07-17T18:53:42.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316213551859",
     "channelId": "ren_kisaragi__",
     "title": "ベガ海賊団の人たちとめっちゃカメレオンで遊ぶ",
@@ -282,6 +270,18 @@
     "platform": "twitch",
     "ttl": "2026-07-17T11:00:08.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316215498995",
+    "channelId": "akarindao",
+    "title": "W杯スペイン vs ベルギーみるよ！DAZNで同時視聴中",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/bd26c8189418562c3166_akarindao_316215498995_1783709622//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2816806677",
+    "scheduledStartTime": "2026-07-10T18:53:47Z",
+    "startTime": "2026-07-10T18:53:47Z",
+    "platform": "twitch",
+    "ttl": "2026-07-17T18:53:47.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "320281506010",

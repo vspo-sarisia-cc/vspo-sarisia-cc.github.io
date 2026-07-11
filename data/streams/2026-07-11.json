@@ -3,12 +3,37 @@
     "id": "9Fm2AG4CNhQ",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【シャドバWB】莉々華ちゃんとドラ×エルフで対戦会するよ！w.リグゼコーチ【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/9Fm2AG4CNhQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/9Fm2AG4CNhQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=9Fm2AG4CNhQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T02:00:00Z",
+    "startTime": "2026-07-11T02:04:26Z",
+    "endTime": "2026-07-11T04:26:51Z",
     "ttl": "2026-07-18T02:00:00.000Z",
     "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "zmmzZC77rSU",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【ロケットリーグ】＃ぶいすぽGG　このチーム大丈夫そう？【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/zmmzZC77rSU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=zmmzZC77rSU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T11:00:00Z",
+    "ttl": "2026-07-18T11:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "AX1fhmVhMxk",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 Minecraft 】今日もコツコツ 【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/AX1fhmVhMxk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=AX1fhmVhMxk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T04:45:00Z",
+    "startTime": "2026-07-11T04:45:48Z",
+    "ttl": "2026-07-18T04:45:00.000Z",
+    "streamerId": "tachibana_hinano"
   },
   {
     "id": "6oYoLdgVom0",
@@ -32,6 +57,17 @@
     "startTime": "2026-07-11T01:31:33Z",
     "ttl": "2026-07-18T01:30:00.000Z",
     "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "Vk_JHtAb6s0",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【APEX LEGENDS】おひさしぶりですFPSさん ／ エマ先輩、ゆいさん【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/Vk_JHtAb6s0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Vk_JHtAb6s0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-11T05:00:00Z",
+    "ttl": "2026-07-18T05:00:00.000Z",
+    "streamerId": "ginjo_saine"
   },
   {
     "id": "OgTOjcQzUhM",
@@ -63,6 +99,7 @@
     "url": "https://www.youtube.com/watch?v=YqJ1wNGxdF4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T03:00:00Z",
+    "startTime": "2026-07-11T03:02:39Z",
     "ttl": "2026-07-18T03:00:00.000Z",
     "streamerId": "narin_mikure"
   },
