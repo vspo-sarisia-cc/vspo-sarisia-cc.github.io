@@ -3,11 +3,12 @@
     "id": "EYfjjIry-P4",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【漢義リーグ】第6節ですよ！w ..白雪レイド、本阿弥あずさ、ルイス・キャミー【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/EYfjjIry-P4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/EYfjjIry-P4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=EYfjjIry-P4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T09:15:00Z",
     "startTime": "2026-07-12T09:01:58Z",
+    "endTime": "2026-07-12T13:56:39Z",
     "ttl": "2026-07-19T09:15:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -50,6 +51,17 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "d7AGARDCzZc",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "【深夜雑談】チルしたっていい。【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/d7AGARDCzZc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=d7AGARDCzZc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-12T14:50:00Z",
+    "ttl": "2026-07-19T14:50:00.000Z",
+    "streamerId": "asumi_sena"
+  },
+  {
     "id": "SQvBSSsGtmA",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 マリオテニス フィーバー 】 過去作もやったことない女、行きます w/イブラヒム【ぶいすぽっ！/橘ひなの】",
@@ -87,18 +99,6 @@
     "streamerId": "yakumo_beni"
   },
   {
-    "id": "sEYozDWAnW8",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】はいよ～【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/sEYozDWAnW8/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=sEYozDWAnW8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T10:45:00Z",
-    "startTime": "2026-07-12T10:41:17Z",
-    "ttl": "2026-07-19T10:45:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
     "id": "8h2aTYQRGN8",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【Minecraft】全ロスを経て【ぶいすぽっ！/ 藍沢エマ】",
@@ -106,7 +106,21 @@
     "url": "https://www.youtube.com/watch?v=8h2aTYQRGN8",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T14:00:00Z",
+    "startTime": "2026-07-12T14:07:29Z",
     "ttl": "2026-07-19T14:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "sEYozDWAnW8",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】はいよ～【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/sEYozDWAnW8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=sEYozDWAnW8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-12T10:45:00Z",
+    "startTime": "2026-07-12T10:41:17Z",
+    "endTime": "2026-07-12T13:27:03Z",
+    "ttl": "2026-07-19T10:45:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -188,11 +202,12 @@
     "id": "zzbc7YLYM2c",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【Behind the Frame ※ネタバレ注意】日曜チル🍃気になってるゲーム【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/zzbc7YLYM2c/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/zzbc7YLYM2c/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=zzbc7YLYM2c",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T12:00:00Z",
     "startTime": "2026-07-12T12:00:14Z",
+    "endTime": "2026-07-12T13:46:53Z",
     "ttl": "2026-07-19T12:00:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -210,14 +225,26 @@
     "streamerId": "ginjo_saine"
   },
   {
+    "id": "-i7eA1LO4jg",
+    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+    "title": "【League of Legends】i STILL LOVE SONA【#VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/-i7eA1LO4jg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=-i7eA1LO4jg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-12T15:00:00Z",
+    "ttl": "2026-07-19T15:00:00.000Z",
+    "streamerId": "jira_jisaki"
+  },
+  {
     "id": "tvM-fZT2lQY",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
     "title": "【The Fears to Fathom: Scratch Creek】 lawl 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/tvM-fZT2lQY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/tvM-fZT2lQY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=tvM-fZT2lQY",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T11:00:00Z",
     "startTime": "2026-07-12T11:02:07Z",
+    "endTime": "2026-07-12T13:52:52Z",
     "ttl": "2026-07-19T11:00:00.000Z",
     "streamerId": "narin_mikure"
   },
@@ -225,11 +252,12 @@
     "id": "C4lB9uQbX1Y",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【FEARS TO FATHOM - SCRATCH CREEK】horror game with nawin :3【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/C4lB9uQbX1Y/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/C4lB9uQbX1Y/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=C4lB9uQbX1Y",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T11:00:00Z",
     "startTime": "2026-07-12T11:00:31Z",
+    "endTime": "2026-07-12T13:52:21Z",
     "ttl": "2026-07-19T11:00:00.000Z",
     "streamerId": "riko_solari"
   },
@@ -241,6 +269,7 @@
     "url": "https://www.youtube.com/watch?v=_cMf3dapJDw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T14:00:00Z",
+    "startTime": "2026-07-12T14:01:57Z",
     "ttl": "2026-07-19T14:00:00.000Z",
     "streamerId": "juno_umezono"
   },
