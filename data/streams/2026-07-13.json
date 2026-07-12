@@ -1,5 +1,16 @@
 [
   {
+    "id": "1pgBWV8ihS4",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【雑談】ちる部でだべる【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/1pgBWV8ihS4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=1pgBWV8ihS4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-13T12:00:00Z",
+    "ttl": "2026-07-20T12:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "3Tx8rpCbkB0",
     "channelId": "UC61OwuYOVuKkpKnid-43Twg",
     "title": "【#クロスタTCG】あかりんとXross Starsブースターパック第4弾で開封対決🔥【白波らむね/ぶいすぽ】",
@@ -9,5 +20,16 @@
     "scheduledStartTime": "2026-07-13T10:00:00Z",
     "ttl": "2026-07-20T10:00:00.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "uwyJChVJ1qo",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【ART STREAM】feeling artsy too【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/uwyJChVJ1qo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=uwyJChVJ1qo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-13T11:00:00Z",
+    "ttl": "2026-07-20T11:00:00.000Z",
+    "streamerId": "riko_solari"
   }
 ]
