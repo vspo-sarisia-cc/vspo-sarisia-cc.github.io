@@ -40,11 +40,12 @@
     "id": "MkgWvXukhQg",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】またEディスに囚われている【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/MkgWvXukhQg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/MkgWvXukhQg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=MkgWvXukhQg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T10:25:00Z",
     "startTime": "2026-07-12T10:34:23Z",
+    "endTime": "2026-07-12T12:38:50Z",
     "ttl": "2026-07-19T10:25:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -56,6 +57,7 @@
     "url": "https://www.youtube.com/watch?v=SQvBSSsGtmA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T12:00:00Z",
+    "startTime": "2026-07-12T12:01:27Z",
     "ttl": "2026-07-19T12:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -140,18 +142,32 @@
     "url": "https://www.youtube.com/watch?v=SA1CEkOM-Fk",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T13:00:00Z",
+    "startTime": "2026-07-12T12:50:56Z",
     "ttl": "2026-07-19T13:00:00.000Z",
     "streamerId": "yano_kuromu"
+  },
+  {
+    "id": "pPyAmDF3aIs",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【ドカポンキングダム コネクト】ドカポン初心者達による友情破壊 w/うるか、釈迦、鈴木ノリアキ【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/pPyAmDF3aIs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=pPyAmDF3aIs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-12T12:15:00Z",
+    "startTime": "2026-07-12T12:17:36Z",
+    "ttl": "2026-07-19T12:15:00.000Z",
+    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "dJSrpCYpPoE",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【MSI2026】HLE vs BLG | Mid-Season Invitational 2026 Grand Final 同時視聴！　たまもいます",
-    "thumbnail": "https://i.ytimg.com/vi/dJSrpCYpPoE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/dJSrpCYpPoE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=dJSrpCYpPoE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T06:00:00Z",
     "startTime": "2026-07-12T05:59:41Z",
+    "endTime": "2026-07-12T12:18:37Z",
     "ttl": "2026-07-19T06:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -176,6 +192,7 @@
     "url": "https://www.youtube.com/watch?v=zzbc7YLYM2c",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T12:00:00Z",
+    "startTime": "2026-07-12T12:00:14Z",
     "ttl": "2026-07-19T12:00:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -223,8 +240,8 @@
     "thumbnail": "https://i.ytimg.com/vi/_cMf3dapJDw/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=_cMf3dapJDw",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T13:00:00Z",
-    "ttl": "2026-07-19T13:00:00.000Z",
+    "scheduledStartTime": "2026-07-12T14:00:00Z",
+    "ttl": "2026-07-19T14:00:00.000Z",
     "streamerId": "juno_umezono"
   },
   {
