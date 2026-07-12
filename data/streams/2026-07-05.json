@@ -1,44 +1,5 @@
 [
   {
-    "id": "o-V2-yfAtYg",
-    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
-    "title": "【OW】ぶいすぽフルパOWするぞい✨【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/o-V2-yfAtYg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=o-V2-yfAtYg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-05T11:00:00Z",
-    "startTime": "2026-07-05T11:02:01Z",
-    "endTime": "2026-07-05T12:59:21Z",
-    "ttl": "2026-07-12T11:00:00.000Z",
-    "streamerId": "kaga_sumire"
-  },
-  {
-    "id": "1pBnuRI719E",
-    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
-    "title": "【 DBD 】BP2倍ときいて w/顔芸さん【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/1pBnuRI719E/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=1pBnuRI719E",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-05T11:00:00Z",
-    "startTime": "2026-07-05T11:04:56Z",
-    "endTime": "2026-07-05T14:03:00Z",
-    "ttl": "2026-07-12T11:00:00.000Z",
-    "streamerId": "kogara_toto"
-  },
-  {
-    "id": "8QK6fntZst4",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】結局ソロなんや【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/8QK6fntZst4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=8QK6fntZst4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-05T11:00:00Z",
-    "startTime": "2026-07-05T11:04:29Z",
-    "endTime": "2026-07-05T14:21:27Z",
-    "ttl": "2026-07-12T11:00:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "ItBUvWNNBh0",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "# 2【Subnautica2】安眠『サブノーティカ2』をやります w/白那しずく,とおこ【空澄セナ/ぶいすぽっ！】",
@@ -65,45 +26,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "RI4mMxcP_TE",
-    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
-    "title": "【 OVERWATCH 】YOASOBIコラボきたー！【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/RI4mMxcP_TE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=RI4mMxcP_TE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-05T11:00:00Z",
-    "startTime": "2026-07-05T10:59:27Z",
-    "endTime": "2026-07-05T12:59:19Z",
-    "ttl": "2026-07-12T11:00:00.000Z",
-    "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "EfanrGMvHrE",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【OVERWATCH】メンバーとYOASOBIさんコラボスキンで遊ぶ！w/すーちゃん、るなちゃん、うみんぐ、こかげちゃん【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/EfanrGMvHrE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=EfanrGMvHrE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-05T11:00:00Z",
-    "startTime": "2026-07-05T11:01:54Z",
-    "endTime": "2026-07-05T12:59:14Z",
-    "ttl": "2026-07-12T11:00:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "1Ren0Yp--4A",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 OW 〗YOASOBIコラボをメンバーとたのしむ🎵の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/1Ren0Yp--4A/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=1Ren0Yp--4A",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-05T11:00:00Z",
-    "startTime": "2026-07-05T11:00:29Z",
-    "endTime": "2026-07-05T13:00:21Z",
-    "ttl": "2026-07-12T11:00:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
     "id": "JQ8kagDLZxc",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【飲酒雑談】V最スト6、CRカップOW、ポケモン お疲れ様会。お酒飲もー【ぶいすぽっ！ / 紡木こかげ】",
@@ -115,32 +37,6 @@
     "endTime": "2026-07-05T17:32:17Z",
     "ttl": "2026-07-12T13:30:00.000Z",
     "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "3CgOQ1ygSp8",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【Overwatch】YOASOBIコラボだー！ぶいすぽフルパゆきます！【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/3CgOQ1ygSp8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=3CgOQ1ygSp8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-05T11:00:00Z",
-    "startTime": "2026-07-05T11:00:33Z",
-    "endTime": "2026-07-05T13:00:54Z",
-    "ttl": "2026-07-12T11:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "vz7h2FDCIa4",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "＃４【 逆転裁判123 成歩堂セレクション 】　完全初見！有罪判決？受けたことないっすねぇ！！！！！！！！※ネタバレ注意　４話途中～　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/vz7h2FDCIa4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=vz7h2FDCIa4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-05T11:00:00Z",
-    "startTime": "2026-07-05T11:01:13Z",
-    "endTime": "2026-07-05T16:10:05Z",
-    "ttl": "2026-07-12T11:00:00.000Z",
-    "streamerId": "choya_hanabi"
   },
   {
     "id": "9kTJQsNtGpk",
@@ -165,18 +61,6 @@
     "startTime": "2026-07-05T20:13:17Z",
     "platform": "twitch",
     "ttl": "2026-07-12T20:13:17.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316137271922",
-    "channelId": "akarindao",
-    "title": "めっちゃ隠れる、夢野隠し",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/4c552e85cce0074c628a_akarindao_316137271922_1783249420//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2812661651",
-    "scheduledStartTime": "2026-07-05T11:03:45Z",
-    "startTime": "2026-07-05T11:03:45Z",
-    "platform": "twitch",
-    "ttl": "2026-07-12T11:03:45.000Z",
     "streamerId": "yumeno_akari"
   }
 ]

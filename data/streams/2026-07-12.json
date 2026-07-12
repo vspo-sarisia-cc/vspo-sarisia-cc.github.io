@@ -49,6 +49,17 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "SQvBSSsGtmA",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 マリオテニス フィーバー 】 過去作もやったことない女、行きます w/イブラヒム【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/SQvBSSsGtmA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=SQvBSSsGtmA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-12T12:00:00Z",
+    "ttl": "2026-07-19T12:00:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "0k85lyW2wM0",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【 Escape from Tarkov 】オトモ要請出動🐱w/光葉エニ【ぶいすぽ/八雲べに】",
@@ -189,6 +200,7 @@
     "url": "https://www.youtube.com/watch?v=tvM-fZT2lQY",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T11:00:00Z",
+    "startTime": "2026-07-12T11:02:07Z",
     "ttl": "2026-07-19T11:00:00.000Z",
     "streamerId": "narin_mikure"
   },
@@ -200,6 +212,7 @@
     "url": "https://www.youtube.com/watch?v=C4lB9uQbX1Y",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T11:00:00Z",
+    "startTime": "2026-07-12T11:00:31Z",
     "ttl": "2026-07-19T11:00:00.000Z",
     "streamerId": "riko_solari"
   },
