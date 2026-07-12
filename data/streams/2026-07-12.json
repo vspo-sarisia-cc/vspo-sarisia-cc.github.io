@@ -309,6 +309,18 @@
     "streamerId": "juno_umezono"
   },
   {
+    "id": "316225397875",
+    "channelId": "akarindao",
+    "title": "ぶいすぽ夏祭りに向けてガチ素材集めTV",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-12T22:21:30Z",
+    "startTime": "2026-07-12T22:21:30Z",
+    "platform": "twitch",
+    "ttl": "2026-07-19T22:21:30.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
     "id": "316222032755",
     "channelId": "ramuneshiranami",
     "title": "【Echoes of Aincrad】正式サービスから",
