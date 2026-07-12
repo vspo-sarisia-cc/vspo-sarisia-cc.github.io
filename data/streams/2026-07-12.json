@@ -26,16 +26,41 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "WBZhqFYeljY",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【Echoes of Aincrad】死んだら即終了リベンジさせてくれよー！！！！！　【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/WBZhqFYeljY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=WBZhqFYeljY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-12T06:45:00Z",
+    "startTime": "2026-07-12T06:44:46Z",
+    "ttl": "2026-07-19T06:45:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
     "id": "40JnyNSG-08",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【Echoes of Aincrad】死んだら即終了のベリハードモードのデスゲームに挑戦　【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/40JnyNSG-08/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/40JnyNSG-08/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=40JnyNSG-08",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T04:00:00Z",
     "startTime": "2026-07-12T04:00:59Z",
+    "endTime": "2026-07-12T06:40:08Z",
     "ttl": "2026-07-19T04:00:00.000Z",
     "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "dJSrpCYpPoE",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【MSI2026】HLE vs BLG | Mid-Season Invitational 2026 Grand Final 同時視聴！　たまもいます",
+    "thumbnail": "https://i.ytimg.com/vi/dJSrpCYpPoE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=dJSrpCYpPoE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-12T06:00:00Z",
+    "startTime": "2026-07-12T05:59:41Z",
+    "ttl": "2026-07-19T06:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "jCUjEWn5gJA",
@@ -46,6 +71,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T04:00:00Z",
     "startTime": "2026-07-12T04:00:08Z",
+    "endTime": "2026-07-12T05:19:19Z",
     "ttl": "2026-07-19T04:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -53,11 +79,12 @@
     "id": "jTKgmsEHkTY",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【スト6】🔰初心者なので皆様【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/jTKgmsEHkTY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/jTKgmsEHkTY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=jTKgmsEHkTY",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T02:30:00Z",
     "startTime": "2026-07-12T02:32:04Z",
+    "endTime": "2026-07-12T06:36:34Z",
     "ttl": "2026-07-19T02:30:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -93,6 +120,18 @@
     "scheduledStartTime": "2026-07-12T13:00:00Z",
     "ttl": "2026-07-19T13:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316222032755",
+    "channelId": "ramuneshiranami",
+    "title": "【Echoes of Aincrad】正式サービスから",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-07-12T05:53:35Z",
+    "startTime": "2026-07-12T05:53:35Z",
+    "platform": "twitch",
+    "ttl": "2026-07-19T05:53:35.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316157655409",
