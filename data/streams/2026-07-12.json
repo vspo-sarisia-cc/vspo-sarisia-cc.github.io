@@ -3,10 +3,12 @@
     "id": "8XAJByOkYfg",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【シャドバWB】今日も！ドラ×エルフで対戦会するよ！w.リグゼコーチ【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/8XAJByOkYfg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/8XAJByOkYfg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=8XAJByOkYfg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T02:00:00Z",
+    "startTime": "2026-07-12T02:04:17Z",
+    "endTime": "2026-07-12T03:51:31Z",
     "ttl": "2026-07-19T02:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -14,13 +16,50 @@
     "id": "PO-Rw5Z8RtY",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【ワールドカップ同時視聴】DAZNで！準々決勝アルゼンチン全力応援⚽【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/PO-Rw5Z8RtY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/PO-Rw5Z8RtY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=PO-Rw5Z8RtY",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T01:00:00Z",
     "startTime": "2026-07-12T00:57:56Z",
+    "endTime": "2026-07-12T03:53:25Z",
     "ttl": "2026-07-19T01:00:00.000Z",
     "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "40JnyNSG-08",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【Echoes of Aincrad】死んだら即終了のベリハードモードのデスゲームに挑戦　【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/40JnyNSG-08/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=40JnyNSG-08",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-12T04:00:00Z",
+    "startTime": "2026-07-12T04:00:59Z",
+    "ttl": "2026-07-19T04:00:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "jCUjEWn5gJA",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【 Minecraft 】　夏祭りにむけて素材あつめたり！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/jCUjEWn5gJA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=jCUjEWn5gJA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-12T04:00:00Z",
+    "startTime": "2026-07-12T04:00:08Z",
+    "ttl": "2026-07-19T04:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "jTKgmsEHkTY",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【スト6】🔰初心者なので皆様【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/jTKgmsEHkTY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=jTKgmsEHkTY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-12T02:30:00Z",
+    "startTime": "2026-07-12T02:32:04Z",
+    "ttl": "2026-07-19T02:30:00.000Z",
+    "streamerId": "ginjo_saine"
   },
   {
     "id": "tvM-fZT2lQY",
@@ -54,5 +93,17 @@
     "scheduledStartTime": "2026-07-12T13:00:00Z",
     "ttl": "2026-07-19T13:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316157655409",
+    "channelId": "choyahanabi",
+    "title": "【スト６】帰宅後初焔！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/2aca5eaf69f46a8b0abd_choyahanabi_316157655409_1783822369//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2817931710",
+    "scheduledStartTime": "2026-07-12T02:12:55Z",
+    "startTime": "2026-07-12T02:12:55Z",
+    "platform": "twitch",
+    "ttl": "2026-07-19T02:12:55.000Z",
+    "streamerId": "choya_hanabi"
   }
 ]

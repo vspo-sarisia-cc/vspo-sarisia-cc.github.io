@@ -276,7 +276,7 @@
     "id": "xNs4PQx2lZI",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【League of Legends】i love sona【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/xNs4PQx2lZI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/xNs4PQx2lZI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=xNs4PQx2lZI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-11T11:15:00Z",
@@ -338,18 +338,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316165837810",
-    "channelId": "akarindao",
-    "title": "アルゼンチン vs スイス DAZNで同時視聴",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-11T20:51:55Z",
-    "startTime": "2026-07-11T20:51:55Z",
-    "platform": "twitch",
-    "ttl": "2026-07-18T20:51:55.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316155584241",
     "channelId": "ramuneshiranami",
     "title": "【Echoes of Aincrad】デスゲームの続き",
@@ -396,6 +384,18 @@
     "platform": "twitch",
     "ttl": "2026-07-18T05:38:48.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316165837810",
+    "channelId": "akarindao",
+    "title": "W杯ノルウェー vs イングランド DAZNで同時視聴",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/09d2f28af29d89b89f42_akarindao_316165837810_1783803115//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2817729826",
+    "scheduledStartTime": "2026-07-11T20:52:00Z",
+    "startTime": "2026-07-11T20:52:00Z",
+    "platform": "twitch",
+    "ttl": "2026-07-18T20:52:00.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316218398579",

@@ -39,19 +39,6 @@
     "streamerId": "kogara_toto"
   },
   {
-    "id": "KzG-awFZaQY",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【LOST JUDGMENT:裁かれざる記憶】完全初見！この世の悪を一掃する【ぶいすぽ/一ノ瀬うるは】※ネタバレあり",
-    "thumbnail": "https://i.ytimg.com/vi/KzG-awFZaQY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=KzG-awFZaQY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-05T04:30:00Z",
-    "startTime": "2026-07-05T04:32:30Z",
-    "endTime": "2026-07-05T10:08:06Z",
-    "ttl": "2026-07-12T04:30:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
     "id": "8QK6fntZst4",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】結局ソロなんや【 ぶいすぽっ！胡桃のあ 】",
@@ -88,19 +75,6 @@
     "startTime": "2026-07-05T09:01:14Z",
     "endTime": "2026-07-05T16:11:33Z",
     "ttl": "2026-07-12T09:00:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "Evb1j_1Eg-Y",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 リズム天国 ミラクルスターズ 】今日もキメるぜ 【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/Evb1j_1Eg-Y/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Evb1j_1Eg-Y",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-05T03:30:00Z",
-    "startTime": "2026-07-05T03:31:58Z",
-    "endTime": "2026-07-05T07:53:18Z",
-    "ttl": "2026-07-12T03:30:00.000Z",
     "streamerId": "tachibana_hinano"
   },
   {
@@ -247,19 +221,6 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "ppKziJyC46Q",
-    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
-    "title": "【スト6】お昼WW(^o^)【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/ppKziJyC46Q/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ppKziJyC46Q",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-05T03:00:00Z",
-    "startTime": "2026-07-05T02:58:43Z",
-    "endTime": "2026-07-05T05:44:44Z",
-    "ttl": "2026-07-12T03:00:00.000Z",
-    "streamerId": "amayui_moka"
-  },
-  {
     "id": "9kTJQsNtGpk",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【雑談】なんと、本日も起きれて偉い。【ぶいすぽっ！ #銀城サイネ 】",
@@ -312,18 +273,6 @@
     "streamerId": "tatsumaki_chise"
   },
   {
-    "id": "316126402929",
-    "channelId": "asumisena",
-    "title": "ui",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/1f219013262d1fbc1e9d_asumisena_316126402929_1783216765//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2812442691",
-    "scheduledStartTime": "2026-07-05T01:59:31Z",
-    "startTime": "2026-07-05T01:59:31Z",
-    "platform": "twitch",
-    "ttl": "2026-07-12T01:59:31.000Z",
-    "streamerId": "asumi_sena"
-  },
-  {
     "id": "316193635955",
     "channelId": "akarindao",
     "title": "W杯ノルウェーvブラジルみるよ！",
@@ -346,17 +295,5 @@
     "platform": "twitch",
     "ttl": "2026-07-12T11:03:45.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316126377201",
-    "channelId": "choyahanabi",
-    "title": "【スト６】ちょっとだけ焔する！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/67091b3fedff2a9d3b3c_choyahanabi_316126377201_1783216214//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2812437674",
-    "scheduledStartTime": "2026-07-05T01:50:19Z",
-    "startTime": "2026-07-05T01:50:19Z",
-    "platform": "twitch",
-    "ttl": "2026-07-12T01:50:19.000Z",
-    "streamerId": "choya_hanabi"
   }
 ]
