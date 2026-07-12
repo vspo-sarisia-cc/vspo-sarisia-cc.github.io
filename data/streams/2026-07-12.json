@@ -1,5 +1,17 @@
 [
   {
+    "id": "EYfjjIry-P4",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【漢義リーグ】第6節ですよ！w ..白雪レイド、本阿弥あずさ、ルイス・キャミー【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/EYfjjIry-P4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=EYfjjIry-P4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-12T09:15:00Z",
+    "startTime": "2026-07-12T09:01:58Z",
+    "ttl": "2026-07-19T09:15:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "8XAJByOkYfg",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【シャドバWB】今日も！ドラ×エルフで対戦会するよ！w.リグゼコーチ【ぶいすぽ/花芽なずな】",
@@ -11,6 +23,17 @@
     "endTime": "2026-07-12T03:51:31Z",
     "ttl": "2026-07-19T02:00:00.000Z",
     "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "cQ7kn4CrIBU",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【LOST JUDGMENT:裁かれざる記憶】完全初見！この世の悪を正す【ぶいすぽ/一ノ瀬うるは】※ネタバレあり",
+    "thumbnail": "https://i.ytimg.com/vi/cQ7kn4CrIBU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=cQ7kn4CrIBU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-12T10:15:00Z",
+    "ttl": "2026-07-19T10:15:00.000Z",
+    "streamerId": "ichinose_uruha"
   },
   {
     "id": "PO-Rw5Z8RtY",
@@ -51,6 +74,17 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "SA1CEkOM-Fk",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "〖 Minecraft 〗のんびりぶいすぽ鯖。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+    "thumbnail": "https://i.ytimg.com/vi/SA1CEkOM-Fk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=SA1CEkOM-Fk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-12T13:00:00Z",
+    "ttl": "2026-07-19T13:00:00.000Z",
+    "streamerId": "yano_kuromu"
+  },
+  {
     "id": "dJSrpCYpPoE",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【MSI2026】HLE vs BLG | Mid-Season Invitational 2026 Grand Final 同時視聴！　たまもいます",
@@ -66,7 +100,7 @@
     "id": "jCUjEWn5gJA",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Minecraft 】　夏祭りにむけて素材あつめたり！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/jCUjEWn5gJA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/jCUjEWn5gJA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=jCUjEWn5gJA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T04:00:00Z",
