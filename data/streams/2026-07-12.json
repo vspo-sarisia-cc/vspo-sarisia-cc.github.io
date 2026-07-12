@@ -58,6 +58,7 @@
     "url": "https://www.youtube.com/watch?v=d7AGARDCzZc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T14:50:00Z",
+    "startTime": "2026-07-12T14:55:57Z",
     "ttl": "2026-07-19T14:50:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -124,6 +125,31 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "3bC8jc9x7rc",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 Minecraft 】建てる【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/3bC8jc9x7rc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=3bC8jc9x7rc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-12T14:55:00Z",
+    "startTime": "2026-07-12T14:59:00Z",
+    "ttl": "2026-07-19T14:55:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "WBZhqFYeljY",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【Echoes of Aincrad】死んだら即終了リベンジさせてくれよー！！！！！　【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/WBZhqFYeljY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=WBZhqFYeljY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-12T06:45:00Z",
+    "startTime": "2026-07-12T06:44:46Z",
+    "endTime": "2026-07-12T15:02:05Z",
+    "ttl": "2026-07-19T06:45:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
     "id": "40JnyNSG-08",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【Echoes of Aincrad】死んだら即終了のベリハードモードのデスゲームに挑戦　【ぶいすぽ / 猫汰つな】",
@@ -134,18 +160,6 @@
     "startTime": "2026-07-12T04:00:59Z",
     "endTime": "2026-07-12T06:40:08Z",
     "ttl": "2026-07-19T04:00:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "WBZhqFYeljY",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【Echoes of Aincrad】死んだら即終了リベンジさせてくれよー！！！！！　【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/WBZhqFYeljY/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=WBZhqFYeljY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T06:45:00Z",
-    "startTime": "2026-07-12T06:44:46Z",
-    "ttl": "2026-07-19T06:45:00.000Z",
     "streamerId": "nekota_tsuna"
   },
   {
@@ -161,18 +175,6 @@
     "streamerId": "yano_kuromu"
   },
   {
-    "id": "pPyAmDF3aIs",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【ドカポンキングダム コネクト】ドカポン初心者達による友情破壊 w/うるか、釈迦、鈴木ノリアキ【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/pPyAmDF3aIs/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=pPyAmDF3aIs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T12:15:00Z",
-    "startTime": "2026-07-12T12:17:36Z",
-    "ttl": "2026-07-19T12:15:00.000Z",
-    "streamerId": "sendo_yuuhi"
-  },
-  {
     "id": "dJSrpCYpPoE",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【MSI2026】HLE vs BLG | Mid-Season Invitational 2026 Grand Final 同時視聴！　たまもいます",
@@ -183,6 +185,18 @@
     "startTime": "2026-07-12T05:59:41Z",
     "endTime": "2026-07-12T12:18:37Z",
     "ttl": "2026-07-19T06:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "pPyAmDF3aIs",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【ドカポンキングダム コネクト】ドカポン初心者達による友情破壊 w/うるか、釈迦、鈴木ノリアキ【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/pPyAmDF3aIs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=pPyAmDF3aIs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-12T12:15:00Z",
+    "startTime": "2026-07-12T12:17:36Z",
+    "ttl": "2026-07-19T12:15:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
   {
@@ -232,6 +246,7 @@
     "url": "https://www.youtube.com/watch?v=-i7eA1LO4jg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-12T15:00:00Z",
+    "startTime": "2026-07-12T15:03:48Z",
     "ttl": "2026-07-19T15:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
