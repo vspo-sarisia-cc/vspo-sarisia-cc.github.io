@@ -11,17 +11,5 @@
     "endTime": "2026-07-06T00:52:26Z",
     "ttl": "2026-07-12T23:00:00.000Z",
     "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "316193635955",
-    "channelId": "akarindao",
-    "title": "W杯ノルウェーvブラジルみるよ！",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d62f0175692790a1ae79_akarindao_316193635955_1783282392//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2812994136",
-    "scheduledStartTime": "2026-07-05T20:13:17Z",
-    "startTime": "2026-07-05T20:13:17Z",
-    "platform": "twitch",
-    "ttl": "2026-07-12T20:13:17.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
