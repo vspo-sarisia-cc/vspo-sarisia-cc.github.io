@@ -1,18 +1,5 @@
 [
   {
-    "id": "YD5vv6He_WE",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【ワールドカップ同時視聴】DAZNで観る！ポルトガルvsスペイン⚽【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/YD5vv6He_WE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=YD5vv6He_WE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-06T19:00:00Z",
-    "startTime": "2026-07-06T18:55:55Z",
-    "endTime": "2026-07-06T21:10:53Z",
-    "ttl": "2026-07-13T19:00:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
     "id": "YWlYs86gUlY",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "例のエマの家のことをすっかり忘れる橘ひなの【ぶいすぽっ！/ 藍沢エマ/橘ひなの/夜乃くろむ/龍巻ちせ/銀城サイネ/マイクラ】",
@@ -35,18 +22,6 @@
     "startTime": "2026-07-06T23:53:23Z",
     "platform": "twitch",
     "ttl": "2026-07-13T23:53:23.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316197907955",
-    "channelId": "akarindao",
-    "title": "Ｗ杯 ポルトガル vs スペインみるよお！",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/c647a6dbb2a492c5fb1d_akarindao_316197907955_1783363893//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2813651729",
-    "scheduledStartTime": "2026-07-06T18:51:38Z",
-    "startTime": "2026-07-06T18:51:38Z",
-    "platform": "twitch",
-    "ttl": "2026-07-13T18:51:38.000Z",
     "streamerId": "yumeno_akari"
   }
 ]
