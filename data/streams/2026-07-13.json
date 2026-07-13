@@ -124,6 +124,8 @@
     "url": "https://www.youtube.com/watch?v=QyihNyJBjHQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-13T22:00:00Z",
+    "startTime": "2026-07-13T22:00:06Z",
+    "endTime": "2026-07-13T22:17:15Z",
     "ttl": "2026-07-20T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -204,6 +206,17 @@
     "endTime": "2026-07-13T16:56:25Z",
     "ttl": "2026-07-20T11:00:00.000Z",
     "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "cFePolF6t_s",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【 Minecraft 】　まったり夏祭り素材あつめ！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/cFePolF6t_s/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=cFePolF6t_s",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-13T23:00:00Z",
+    "ttl": "2026-07-20T23:00:00.000Z",
+    "streamerId": "choya_hanabi"
   },
   {
     "id": "9ZlknarL8Vk",
