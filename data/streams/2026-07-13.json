@@ -1,5 +1,28 @@
 [
   {
+    "id": "gC9ufI5_AzQ",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【シャドバWB】めあたむと対戦会！w.リグゼコーチ【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/gC9ufI5_AzQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=gC9ufI5_AzQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-13T04:15:00Z",
+    "startTime": "2026-07-13T04:16:39Z",
+    "ttl": "2026-07-20T04:15:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "NkT5ZQxtymo",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【CR Streamer League Shadowverse】優勝賞金GETTTTTTTTw.リグゼコーチ【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/NkT5ZQxtymo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=NkT5ZQxtymo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-13T07:00:00Z",
+    "ttl": "2026-07-20T07:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "1pgBWV8ihS4",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【雑談】ちる部でだべる【ぶいすぽっ！/ 藍沢エマ】",
@@ -20,6 +43,18 @@
     "scheduledStartTime": "2026-07-13T10:00:00Z",
     "ttl": "2026-07-20T10:00:00.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "9sK2MWeoVPo",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "〖 OW 〗午後、ランク、キリコ。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+    "thumbnail": "https://i.ytimg.com/vi/9sK2MWeoVPo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=9sK2MWeoVPo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-13T04:15:00Z",
+    "startTime": "2026-07-13T04:14:22Z",
+    "ttl": "2026-07-20T04:15:00.000Z",
+    "streamerId": "yano_kuromu"
   },
   {
     "id": "9ZlknarL8Vk",
