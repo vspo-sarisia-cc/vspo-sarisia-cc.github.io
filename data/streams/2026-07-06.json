@@ -1,70 +1,5 @@
 [
   {
-    "id": "7CopPxc4JQc",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【マインクラフト】夏祭り準備つきそい【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/7CopPxc4JQc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=7CopPxc4JQc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-06T11:30:00Z",
-    "startTime": "2026-07-06T11:25:24Z",
-    "endTime": "2026-07-06T15:46:40Z",
-    "ttl": "2026-07-13T11:30:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
-    "id": "ZUwRjXzREi4",
-    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
-    "title": "【 #小雀とと新衣装 】30万人ありがと～！新衣装お披露目✨【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/ZUwRjXzREi4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ZUwRjXzREi4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-06T11:00:00Z",
-    "startTime": "2026-07-06T11:00:29Z",
-    "endTime": "2026-07-06T13:24:45Z",
-    "ttl": "2026-07-13T11:00:00.000Z",
-    "streamerId": "kogara_toto"
-  },
-  {
-    "id": "jvGrhAl5uiE",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "#03【LOST JUDGMENT:裁かれざる記憶】完全初見！真の悪は誰だ【ぶいすぽ/一ノ瀬うるは】※ネタバレあり",
-    "thumbnail": "https://i.ytimg.com/vi/jvGrhAl5uiE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=jvGrhAl5uiE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-06T11:30:00Z",
-    "startTime": "2026-07-06T11:32:02Z",
-    "endTime": "2026-07-06T14:52:38Z",
-    "ttl": "2026-07-13T11:30:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
-    "id": "5m8igDoc2MM",
-    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
-    "title": "【Minecraft】ぶいすぽ夏祭りのために w/はなび、もか、サイネ、ちせ、ゆうひ、なずな、ひなの 【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/5m8igDoc2MM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=5m8igDoc2MM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-06T11:00:00Z",
-    "startTime": "2026-07-06T11:06:32Z",
-    "endTime": "2026-07-06T17:10:39Z",
-    "ttl": "2026-07-13T11:00:00.000Z",
-    "streamerId": "tosaki_mimi"
-  },
-  {
-    "id": "-sIPmTKaAKg",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 Minecraft 】エンドラ討伐部をBGMにサギョウする【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/-sIPmTKaAKg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=-sIPmTKaAKg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-06T12:00:00Z",
-    "startTime": "2026-07-06T11:58:49Z",
-    "endTime": "2026-07-06T16:58:33Z",
-    "ttl": "2026-07-13T12:00:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
     "id": "YD5vv6He_WE",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【ワールドカップ同時視聴】DAZNで観る！ポルトガルvsスペイン⚽【ぶいすぽ/八雲べに】",
@@ -75,19 +10,6 @@
     "startTime": "2026-07-06T18:55:55Z",
     "endTime": "2026-07-06T21:10:53Z",
     "ttl": "2026-07-13T19:00:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
-    "id": "cbiVHe-2O-M",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【APEX】ぶいすぽるてペクス w/柊ツルギ、白雪レイド【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/cbiVHe-2O-M/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=cbiVHe-2O-M",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-06T11:30:00Z",
-    "startTime": "2026-07-06T11:38:27Z",
-    "endTime": "2026-07-06T15:55:04Z",
-    "ttl": "2026-07-13T11:30:00.000Z",
     "streamerId": "yakumo_beni"
   },
   {
@@ -102,84 +24,6 @@
     "endTime": "2026-07-06T22:19:55Z",
     "ttl": "2026-07-13T22:00:00.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "VC_fLB0UPLk",
-    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
-    "title": "【 APEX 】♬ w/秋雪こはく、絲依とい【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/VC_fLB0UPLk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=VC_fLB0UPLk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-06T11:00:00Z",
-    "startTime": "2026-07-06T11:03:35Z",
-    "endTime": "2026-07-06T14:59:37Z",
-    "ttl": "2026-07-13T11:00:00.000Z",
-    "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "BUAkD7sn4Xs",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【 Minecraft 】　ぶいすぽ資源サーバーエンドラ討伐れちご！！！！！！！！ミミ先輩、なずぴ先輩、ひなの先輩、うひさん、もか、さっちゃん、ちーたま　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/BUAkD7sn4Xs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=BUAkD7sn4Xs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-06T11:00:00Z",
-    "startTime": "2026-07-06T11:02:44Z",
-    "endTime": "2026-07-06T17:00:25Z",
-    "ttl": "2026-07-13T11:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "UKq2OYmnjwk",
-    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
-    "title": "【Minecraft】ぶいすぽメンバーとエンドラ倒すぞ！！！！倒すの初かも【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/UKq2OYmnjwk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=UKq2OYmnjwk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-06T11:00:00Z",
-    "startTime": "2026-07-06T11:02:55Z",
-    "endTime": "2026-07-06T16:54:43Z",
-    "ttl": "2026-07-13T11:00:00.000Z",
-    "streamerId": "amayui_moka"
-  },
-  {
-    "id": "iTQpSkjaUvI",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【Minecraft エンドラ討伐】ガチで危機感もった方がいい ／ ぶいすぽメンバー【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/iTQpSkjaUvI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=iTQpSkjaUvI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-06T11:00:00Z",
-    "startTime": "2026-07-06T11:02:45Z",
-    "endTime": "2026-07-06T17:00:55Z",
-    "ttl": "2026-07-13T11:00:00.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "to_Z6rxeiaA",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  Minecraft  ◢　ぶいすぽ資源サーバーエンドラ討伐いきます！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/to_Z6rxeiaA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=to_Z6rxeiaA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-06T11:00:00Z",
-    "startTime": "2026-07-06T11:10:54Z",
-    "endTime": "2026-07-06T17:16:14Z",
-    "ttl": "2026-07-13T11:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
-    "id": "DjaaV6JnMK4",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "25k+ Last day of Season 4   |  Premier  |  Counter-Strike 2 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/DjaaV6JnMK4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=DjaaV6JnMK4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-06T14:00:00Z",
-    "startTime": "2026-07-06T14:00:52Z",
-    "endTime": "2026-07-06T16:15:27Z",
-    "ttl": "2026-07-13T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
   },
   {
     "id": "316135087089",
@@ -204,17 +48,5 @@
     "platform": "twitch",
     "ttl": "2026-07-13T18:51:38.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316196005875",
-    "channelId": "sendo_yuuhi",
-    "title": "もかに枠取ってって言われたから",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/af333d0c3ad968f100ff_sendo_yuuhi_316196005875_1783336227//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2813398513",
-    "scheduledStartTime": "2026-07-06T11:10:33Z",
-    "startTime": "2026-07-06T11:10:33Z",
-    "platform": "twitch",
-    "ttl": "2026-07-13T11:10:33.000Z",
-    "streamerId": "sendo_yuuhi"
   }
 ]
