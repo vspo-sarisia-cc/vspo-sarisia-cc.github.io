@@ -25,16 +25,65 @@
     "streamerId": "kaga_nazuna"
   },
   {
+    "id": "-VOQgfL_mZY",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "【 DBD 】みんなで周年イベ行くぜ w/顔芸さん、もかちゃん、ろびんさん【 ぶいすぽ / 小雀とと 】",
+    "thumbnail": "https://i.ytimg.com/vi/-VOQgfL_mZY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=-VOQgfL_mZY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-13T10:00:00Z",
+    "startTime": "2026-07-13T10:01:15Z",
+    "ttl": "2026-07-20T10:00:00.000Z",
+    "streamerId": "kogara_toto"
+  },
+  {
     "id": "1gb9vQSNBFA",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【マリオテニス フィーバー】テニヌかテニスか【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/1gb9vQSNBFA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/1gb9vQSNBFA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=1gb9vQSNBFA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-13T06:00:00Z",
     "startTime": "2026-07-13T06:06:19Z",
+    "endTime": "2026-07-13T10:01:37Z",
     "ttl": "2026-07-20T06:00:00.000Z",
     "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "EMnQGRBsd98",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】来たぞ、ワールズエッジ！【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/EMnQGRBsd98/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=EMnQGRBsd98",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-13T08:15:00Z",
+    "startTime": "2026-07-13T08:19:54Z",
+    "endTime": "2026-07-13T10:18:56Z",
+    "ttl": "2026-07-20T08:15:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "k9lHnTkRhs4",
+    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
+    "title": "【Minecraft】準備をしなきゃなと 【ぶいすぽ/兎咲ミミ】",
+    "thumbnail": "https://i.ytimg.com/vi/k9lHnTkRhs4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=k9lHnTkRhs4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-13T10:00:00Z",
+    "startTime": "2026-07-13T10:10:19Z",
+    "ttl": "2026-07-20T10:00:00.000Z",
+    "streamerId": "tosaki_mimi"
+  },
+  {
+    "id": "s-PbutFd7ig",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【マリオテニスフィーバー】コソ練や！！！！！！🎾【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/s-PbutFd7ig/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=s-PbutFd7ig",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-13T11:00:00Z",
+    "ttl": "2026-07-20T11:00:00.000Z",
+    "streamerId": "yakumo_beni"
   },
   {
     "id": "1pgBWV8ihS4",
@@ -55,6 +104,7 @@
     "url": "https://www.youtube.com/watch?v=3Tx8rpCbkB0",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-13T10:00:00Z",
+    "startTime": "2026-07-13T10:01:48Z",
     "ttl": "2026-07-20T10:00:00.000Z",
     "streamerId": "shiranami_ramune"
   },
@@ -84,6 +134,17 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "1eLJKMWQLLk",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【Satisfactory】サティファクマ工場～～～～～～～！！！！やばいよ【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/1eLJKMWQLLk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=1eLJKMWQLLk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-13T11:00:00Z",
+    "ttl": "2026-07-20T11:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
     "id": "9ZlknarL8Vk",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【それってなんスか！？】　第二回ゲスト：春雨麗女ちゃん！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -102,6 +163,7 @@
     "url": "https://www.youtube.com/watch?v=KCRbEQnTeZM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-13T10:00:00Z",
+    "startTime": "2026-07-13T10:01:05Z",
     "ttl": "2026-07-20T10:00:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -127,5 +189,29 @@
     "scheduledStartTime": "2026-07-13T11:00:00Z",
     "ttl": "2026-07-20T11:00:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "316227029619",
+    "channelId": "ren_kisaragi__",
+    "title": "激浅",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/919a34b8400ffe82e7e5_ren_kisaragi___316227029619_1783932877//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2818896896",
+    "scheduledStartTime": "2026-07-13T08:54:42Z",
+    "startTime": "2026-07-13T08:54:42Z",
+    "platform": "twitch",
+    "ttl": "2026-07-20T08:54:42.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316163181297",
+    "channelId": "choyahanabi",
+    "title": "【スト６】本日も焔やらせてください！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/33ac8b51a064d115f375_choyahanabi_316163181297_1783929936//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2818883141",
+    "scheduledStartTime": "2026-07-13T08:05:41Z",
+    "startTime": "2026-07-13T08:05:41Z",
+    "platform": "twitch",
+    "ttl": "2026-07-20T08:05:41.000Z",
+    "streamerId": "choya_hanabi"
   }
 ]
