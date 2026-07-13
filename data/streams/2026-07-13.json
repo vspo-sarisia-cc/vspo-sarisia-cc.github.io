@@ -1,17 +1,5 @@
 [
   {
-    "id": "gC9ufI5_AzQ",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【シャドバWB】めあたむと対戦会！w.リグゼコーチ【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/gC9ufI5_AzQ/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=gC9ufI5_AzQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-13T04:15:00Z",
-    "startTime": "2026-07-13T04:16:39Z",
-    "ttl": "2026-07-20T04:15:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "NkT5ZQxtymo",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【CR Streamer League Shadowverse】優勝賞金GETTTTTTTTw.リグゼコーチ【ぶいすぽ/花芽なずな】",
@@ -19,8 +7,34 @@
     "url": "https://www.youtube.com/watch?v=NkT5ZQxtymo",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-13T07:00:00Z",
+    "startTime": "2026-07-13T06:46:03Z",
     "ttl": "2026-07-20T07:00:00.000Z",
     "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "gC9ufI5_AzQ",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【シャドバWB】めあたむと対戦会！w.リグゼコーチ【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/gC9ufI5_AzQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=gC9ufI5_AzQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-13T04:15:00Z",
+    "startTime": "2026-07-13T04:16:39Z",
+    "endTime": "2026-07-13T05:48:51Z",
+    "ttl": "2026-07-20T04:15:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "1gb9vQSNBFA",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【マリオテニス フィーバー】テニヌかテニスか【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/1gb9vQSNBFA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=1gb9vQSNBFA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-13T06:00:00Z",
+    "startTime": "2026-07-13T06:06:19Z",
+    "ttl": "2026-07-20T06:00:00.000Z",
+    "streamerId": "ichinose_uruha"
   },
   {
     "id": "1pgBWV8ihS4",
@@ -48,13 +62,26 @@
     "id": "9sK2MWeoVPo",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 OW 〗午後、ランク、キリコ。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/9sK2MWeoVPo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/9sK2MWeoVPo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=9sK2MWeoVPo",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-13T04:15:00Z",
     "startTime": "2026-07-13T04:14:22Z",
+    "endTime": "2026-07-13T07:14:31Z",
     "ttl": "2026-07-20T04:15:00.000Z",
     "streamerId": "yano_kuromu"
+  },
+  {
+    "id": "93tHaoAOYOE",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【パワフルプロ野球2026】夏の甲子園優勝目指して栄冠ナイン！キャラクリから【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/93tHaoAOYOE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=93tHaoAOYOE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-13T07:00:00Z",
+    "startTime": "2026-07-13T07:00:45Z",
+    "ttl": "2026-07-20T07:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "9ZlknarL8Vk",
@@ -66,6 +93,29 @@
     "scheduledStartTime": "2026-07-13T11:00:00Z",
     "ttl": "2026-07-20T11:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "KCRbEQnTeZM",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【Dead by Daylight】イベントやってるらしい！いったりますか　/w　とと先輩、ろびんさん、顔芸さん【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/KCRbEQnTeZM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=KCRbEQnTeZM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-13T10:00:00Z",
+    "ttl": "2026-07-20T10:00:00.000Z",
+    "streamerId": "amayui_moka"
+  },
+  {
+    "id": "lomqBB_pw6k",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  Echoes of Aincrad  ◢　ベリーハードデスゲーム！#3  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/lomqBB_pw6k/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=lomqBB_pw6k",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-13T06:20:00Z",
+    "startTime": "2026-07-13T06:21:21Z",
+    "ttl": "2026-07-20T06:20:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "uwyJChVJ1qo",
