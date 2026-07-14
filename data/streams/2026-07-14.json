@@ -68,11 +68,12 @@
     "id": "4mkCERUcgzw",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【雑談】よるの雑談会【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/4mkCERUcgzw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/4mkCERUcgzw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4mkCERUcgzw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-14T14:15:00Z",
     "startTime": "2026-07-14T14:21:07Z",
+    "endTime": "2026-07-14T17:32:06Z",
     "ttl": "2026-07-21T14:15:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -212,6 +213,18 @@
     "platform": "twitch",
     "ttl": "2026-07-21T08:52:13.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "315351767152",
+    "channelId": "erissuzukami",
+    "title": "ape",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
+    "url": "https://www.twitch.tv/erissuzukami",
+    "scheduledStartTime": "2026-07-14T17:18:40Z",
+    "startTime": "2026-07-14T17:18:40Z",
+    "platform": "twitch",
+    "ttl": "2026-07-21T17:18:40.000Z",
+    "streamerId": "eris_suzukami"
   },
   {
     "id": "316231859059",
