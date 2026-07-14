@@ -20,6 +20,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-14T09:30:00Z",
     "startTime": "2026-07-14T09:31:40Z",
+    "endTime": "2026-07-14T11:57:30Z",
     "ttl": "2026-07-21T09:30:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -133,6 +134,17 @@
     "streamerId": "tatsumaki_chise"
   },
   {
+    "id": "zUAeSQ_s30U",
+    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+    "title": "【TWITCH】league on twitch :3【#VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/zUAeSQ_s30U/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=zUAeSQ_s30U",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-14T14:00:00Z",
+    "ttl": "2026-07-21T14:00:00.000Z",
+    "streamerId": "jira_jisaki"
+  },
+  {
     "id": "LR9Md6SR5Dw",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【RHYTHM HEAVEN GROOVE】yippieee【#VSPOEN #RikoSolari】",
@@ -155,16 +167,16 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316167664625",
-    "channelId": "ramuneshiranami",
-    "title": "【Echoes of Aincrad】第一層",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-14T08:52:13Z",
-    "startTime": "2026-07-14T08:52:13Z",
+    "id": "316231859059",
+    "channelId": "ren_kisaragi__",
+    "title": "VCCTENNIS w/ヘンディー",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-07-14T10:52:01Z",
+    "startTime": "2026-07-14T10:52:01Z",
     "platform": "twitch",
-    "ttl": "2026-07-21T08:52:13.000Z",
-    "streamerId": "shiranami_ramune"
+    "ttl": "2026-07-21T10:52:01.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316231155059",
@@ -177,6 +189,18 @@
     "platform": "twitch",
     "ttl": "2026-07-21T07:14:35.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316167664625",
+    "channelId": "ramuneshiranami",
+    "title": "【Echoes of Aincrad】第一層",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-07-14T08:52:13Z",
+    "startTime": "2026-07-14T08:52:13Z",
+    "platform": "twitch",
+    "ttl": "2026-07-21T08:52:13.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316176110962",

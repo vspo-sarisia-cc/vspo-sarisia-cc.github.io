@@ -26,19 +26,6 @@
     "streamerId": "remia_aotsuki"
   },
   {
-    "id": "vnMYE-Sd0LE",
-    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-    "title": "【APEX LEGENDS】EWC DAY 1 - WATCHPARTY !【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/vnMYE-Sd0LE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=vnMYE-Sd0LE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-07T11:00:00Z",
-    "startTime": "2026-07-07T10:54:22Z",
-    "endTime": "2026-07-07T18:31:42Z",
-    "ttl": "2026-07-14T11:00:00.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
     "id": "0i7vy4BIyn8",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【APEX LEGENDS】ranking with BRR【#VSPOEN #RikoSolari】",
@@ -75,17 +62,5 @@
     "platform": "twitch",
     "ttl": "2026-07-14T16:17:39.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "320229034970",
-    "channelId": "aryakuroha",
-    "title": "✦ EWC DAY 1 - WATCHPARTY !",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/12ff6059bc422c0f6c62_aryakuroha_320229034970_1783421647//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2814152704",
-    "scheduledStartTime": "2026-07-07T10:54:16Z",
-    "startTime": "2026-07-07T10:54:16Z",
-    "platform": "twitch",
-    "ttl": "2026-07-14T10:54:16.000Z",
-    "streamerId": "arya_kuroha"
   }
 ]
