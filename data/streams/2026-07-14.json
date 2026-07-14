@@ -176,6 +176,7 @@
     "url": "https://www.youtube.com/watch?v=wvgYEJ2PzJg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-14T22:00:00Z",
+    "startTime": "2026-07-14T21:59:57Z",
     "ttl": "2026-07-21T22:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -195,7 +196,7 @@
     "id": "nbiDkBzMAAc",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  Jump King ◢　半年たったのでジャンプする　耐久  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/nbiDkBzMAAc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/nbiDkBzMAAc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=nbiDkBzMAAc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-14T09:00:00Z",
@@ -212,6 +213,7 @@
     "url": "https://www.youtube.com/watch?v=70u1UPZf47c",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-14T22:00:00Z",
+    "startTime": "2026-07-14T22:00:43Z",
     "ttl": "2026-07-21T22:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -240,6 +242,18 @@
     "endTime": "2026-07-14T19:09:17Z",
     "ttl": "2026-07-21T14:15:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "320472464347",
+    "channelId": "aryakuroha",
+    "title": "✦ CYBERPUNK COLLAB IS HERE ! drops too !!",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-07-14T22:00:22Z",
+    "startTime": "2026-07-14T22:00:22Z",
+    "platform": "twitch",
+    "ttl": "2026-07-21T22:00:22.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "316231859059",
