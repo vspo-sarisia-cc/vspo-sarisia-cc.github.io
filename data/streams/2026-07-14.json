@@ -52,6 +52,18 @@
     "streamerId": "tachibana_hinano"
   },
   {
+    "id": "MW6hi3TJ7CA",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【ワールドカップ同時視聴】DAZNで！準決勝フランスvsスペイン⚽【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/MW6hi3TJ7CA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=MW6hi3TJ7CA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-14T19:00:00Z",
+    "startTime": "2026-07-14T19:00:49Z",
+    "ttl": "2026-07-21T19:00:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
     "id": "T5WHh6i2gWY",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【 VCC TENNIS 】勝つぞ！！！！🎾w/柊ツルギ【ぶいすぽ/八雲べに】",
@@ -138,6 +150,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-14T10:00:00Z",
     "startTime": "2026-07-14T10:05:17Z",
+    "endTime": "2026-07-14T19:14:33Z",
     "ttl": "2026-07-21T10:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -191,6 +204,18 @@
     "streamerId": "riko_solari"
   },
   {
+    "id": "BodhlQ-4mNw",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤FIFA WORLD CUP◢ WATCH ALONG!! | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/BodhlQ-4mNw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=BodhlQ-4mNw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-14T19:10:00Z",
+    "startTime": "2026-07-14T19:10:27Z",
+    "ttl": "2026-07-21T19:10:00.000Z",
+    "streamerId": "juno_umezono"
+  },
+  {
     "id": "2LOuMhMeoJw",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves 2.x◢ CONTINUING MY 2.X JOURNEY w/ EYE TRACKER (part. 7) | #JunoUmezono #VSPOEN",
@@ -199,25 +224,26 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-14T14:15:00Z",
     "startTime": "2026-07-14T14:15:48Z",
+    "endTime": "2026-07-14T19:09:17Z",
     "ttl": "2026-07-21T14:15:00.000Z",
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316167664625",
-    "channelId": "ramuneshiranami",
-    "title": "【Echoes of Aincrad】第一層",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-14T08:52:13Z",
-    "startTime": "2026-07-14T08:52:13Z",
+    "id": "316178974834",
+    "channelId": "akarindao",
+    "title": "W杯 フランス vs スペインDAZNで同時視聴",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-14T18:55:42Z",
+    "startTime": "2026-07-14T18:55:42Z",
     "platform": "twitch",
-    "ttl": "2026-07-21T08:52:13.000Z",
-    "streamerId": "shiranami_ramune"
+    "ttl": "2026-07-21T18:55:42.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "315351767152",
     "channelId": "erissuzukami",
-    "title": "ape",
+    "title": "come join the tobi crew",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
     "url": "https://www.twitch.tv/erissuzukami",
     "scheduledStartTime": "2026-07-14T17:18:40Z",
@@ -249,6 +275,18 @@
     "platform": "twitch",
     "ttl": "2026-07-21T06:03:12.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316167664625",
+    "channelId": "ramuneshiranami",
+    "title": "【Echoes of Aincrad】第一層",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d500d8d3f524e9147f20_ramuneshiranami_316167664625_1784019133//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2819680739",
+    "scheduledStartTime": "2026-07-14T08:52:18Z",
+    "startTime": "2026-07-14T08:52:18Z",
+    "platform": "twitch",
+    "ttl": "2026-07-21T08:52:18.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316231155059",
