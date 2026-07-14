@@ -8,6 +8,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-14T10:00:00Z",
     "startTime": "2026-07-14T10:07:52Z",
+    "endTime": "2026-07-14T15:33:53Z",
     "ttl": "2026-07-21T10:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -45,6 +46,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-14T10:35:00Z",
     "startTime": "2026-07-14T10:37:12Z",
+    "endTime": "2026-07-14T15:37:09Z",
     "ttl": "2026-07-21T10:35:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -68,6 +70,7 @@
     "url": "https://www.youtube.com/watch?v=4mkCERUcgzw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-14T14:15:00Z",
+    "startTime": "2026-07-14T14:21:07Z",
     "ttl": "2026-07-21T14:15:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -105,6 +108,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-14T09:00:00Z",
     "startTime": "2026-07-14T09:05:57Z",
+    "endTime": "2026-07-14T15:39:46Z",
     "ttl": "2026-07-21T09:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -112,11 +116,12 @@
     "id": "_Do8frc6JM8",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 リズム天国ミラクルスターズ 〗かーもね。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/_Do8frc6JM8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/_Do8frc6JM8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=_Do8frc6JM8",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-14T12:30:00Z",
     "startTime": "2026-07-14T12:35:47Z",
+    "endTime": "2026-07-14T14:56:01Z",
     "ttl": "2026-07-21T12:30:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -183,11 +188,12 @@
     "id": "LR9Md6SR5Dw",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【RHYTHM HEAVEN GROOVE】yippieee【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/LR9Md6SR5Dw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/LR9Md6SR5Dw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=LR9Md6SR5Dw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-14T12:00:00Z",
     "startTime": "2026-07-14T12:17:40Z",
+    "endTime": "2026-07-14T14:48:02Z",
     "ttl": "2026-07-21T12:00:00.000Z",
     "streamerId": "riko_solari"
   },
@@ -199,32 +205,9 @@
     "url": "https://www.youtube.com/watch?v=2LOuMhMeoJw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-14T14:15:00Z",
+    "startTime": "2026-07-14T14:15:48Z",
     "ttl": "2026-07-21T14:15:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316231859059",
-    "channelId": "ren_kisaragi__",
-    "title": "VCCTENNIS w/ヘンディー",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-07-14T10:52:01Z",
-    "startTime": "2026-07-14T10:52:01Z",
-    "platform": "twitch",
-    "ttl": "2026-07-21T10:52:01.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316231155059",
-    "channelId": "akarindao",
-    "title": "VCCテニス もにもにダブルス！！！",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-14T07:14:35Z",
-    "startTime": "2026-07-14T07:14:35Z",
-    "platform": "twitch",
-    "ttl": "2026-07-21T07:14:35.000Z",
-    "streamerId": "yumeno_akari"
   },
   {
     "id": "316167664625",
@@ -239,6 +222,30 @@
     "streamerId": "shiranami_ramune"
   },
   {
+    "id": "315333437423",
+    "channelId": "jirajisaki",
+    "title": "くーーーー 6'7\" friendly neighborhood kaiju 💚 !youtube",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jirajisaki-320x180.jpg",
+    "url": "https://www.twitch.tv/jirajisaki",
+    "scheduledStartTime": "2026-07-14T14:37:38Z",
+    "startTime": "2026-07-14T14:37:38Z",
+    "platform": "twitch",
+    "ttl": "2026-07-21T14:37:38.000Z",
+    "streamerId": "jira_jisaki"
+  },
+  {
+    "id": "316231859059",
+    "channelId": "ren_kisaragi__",
+    "title": "VCCTENNIS w/ヘンディー",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/41ef1589f2d3158fcb35_ren_kisaragi___316231859059_1784026321//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2819719185",
+    "scheduledStartTime": "2026-07-14T10:52:07Z",
+    "startTime": "2026-07-14T10:52:07Z",
+    "platform": "twitch",
+    "ttl": "2026-07-21T10:52:07.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
     "id": "316176110962",
     "channelId": "ren_kisaragi__",
     "title": "激浅テニス練w/ヘンディー",
@@ -249,6 +256,18 @@
     "platform": "twitch",
     "ttl": "2026-07-21T06:03:12.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316231155059",
+    "channelId": "akarindao",
+    "title": "VCCテニス もにもにダブルス！！！",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/6edf468ee8c63484e1df_akarindao_316231155059_1784013275//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2819651583",
+    "scheduledStartTime": "2026-07-14T07:14:41Z",
+    "startTime": "2026-07-14T07:14:41Z",
+    "platform": "twitch",
+    "ttl": "2026-07-21T07:14:41.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316230835187",
