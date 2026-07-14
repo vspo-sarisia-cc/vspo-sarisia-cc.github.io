@@ -145,7 +145,7 @@
     "id": "mj3qVemDx80",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【パワフルプロ野球2026】３年モード２年目！【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/mj3qVemDx80/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/mj3qVemDx80/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=mj3qVemDx80",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-14T10:00:00Z",
@@ -191,6 +191,17 @@
     "streamerId": "tatsumaki_chise"
   },
   {
+    "id": "70u1UPZf47c",
+    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
+    "title": "【APEX LEGENDS】CYBERPUNK COLLAB !!【#VSPOEN #AryaKuroha】",
+    "thumbnail": "https://i.ytimg.com/vi/70u1UPZf47c/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=70u1UPZf47c",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-14T22:00:00Z",
+    "ttl": "2026-07-21T22:00:00.000Z",
+    "streamerId": "arya_kuroha"
+  },
+  {
     "id": "LR9Md6SR5Dw",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【RHYTHM HEAVEN GROOVE】yippieee【#VSPOEN #RikoSolari】",
@@ -219,7 +230,7 @@
     "id": "2LOuMhMeoJw",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves 2.x◢ CONTINUING MY 2.X JOURNEY w/ EYE TRACKER (part. 7) | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/2LOuMhMeoJw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/2LOuMhMeoJw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=2LOuMhMeoJw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-14T14:15:00Z",
@@ -239,18 +250,6 @@
     "platform": "twitch",
     "ttl": "2026-07-21T18:55:42.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "315351767152",
-    "channelId": "erissuzukami",
-    "title": "come join the tobi crew",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
-    "url": "https://www.twitch.tv/erissuzukami",
-    "scheduledStartTime": "2026-07-14T17:18:40Z",
-    "startTime": "2026-07-14T17:18:40Z",
-    "platform": "twitch",
-    "ttl": "2026-07-21T17:18:40.000Z",
-    "streamerId": "eris_suzukami"
   },
   {
     "id": "316231859059",
