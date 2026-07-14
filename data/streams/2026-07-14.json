@@ -6,8 +6,8 @@
     "thumbnail": "https://i.ytimg.com/vi/T5WHh6i2gWY/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=T5WHh6i2gWY",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-14T10:00:00Z",
-    "ttl": "2026-07-21T10:00:00.000Z",
+    "scheduledStartTime": "2026-07-14T09:15:00Z",
+    "ttl": "2026-07-21T09:15:00.000Z",
     "streamerId": "yakumo_beni"
   },
   {
@@ -24,6 +24,29 @@
     "streamerId": "shinomiya_runa"
   },
   {
+    "id": "K-MBzdWaAM0",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【マリオテニス フィーバー】VCC TENNISに参戦！！！かるびちゃんと練習からの本番！　【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/K-MBzdWaAM0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=K-MBzdWaAM0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-14T09:00:00Z",
+    "ttl": "2026-07-21T09:00:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "AsxWgP-ZAWs",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【リズム天国 ミラクルスターズ】11年ぶりの新作うおおおお！！！【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/AsxWgP-ZAWs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=AsxWgP-ZAWs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-14T07:00:00Z",
+    "startTime": "2026-07-14T06:49:20Z",
+    "ttl": "2026-07-21T07:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
     "id": "wvgYEJ2PzJg",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【朝活雑談】　最近あついねえ！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -33,6 +56,17 @@
     "scheduledStartTime": "2026-07-14T22:00:00Z",
     "ttl": "2026-07-21T22:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "nbiDkBzMAAc",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  Jump King ◢　半年たったのでジャンプする　耐久  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/nbiDkBzMAAc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=nbiDkBzMAAc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-14T09:00:00Z",
+    "ttl": "2026-07-21T09:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "LR9Md6SR5Dw",
@@ -57,6 +91,18 @@
     "streamerId": "juno_umezono"
   },
   {
+    "id": "316231155059",
+    "channelId": "akarindao",
+    "title": "VCCテニス もにもにダブルス！！！",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-14T07:14:35Z",
+    "startTime": "2026-07-14T07:14:35Z",
+    "platform": "twitch",
+    "ttl": "2026-07-21T07:14:35.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
     "id": "316176110962",
     "channelId": "ren_kisaragi__",
     "title": "激浅テニス練w/ヘンディー",
@@ -69,15 +115,27 @@
     "streamerId": "kisaragi_ren"
   },
   {
+    "id": "316167664625",
+    "channelId": "ramuneshiranami",
+    "title": "【Echoes of Aincrad】第一層",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-07-14T08:52:13Z",
+    "startTime": "2026-07-14T08:52:13Z",
+    "platform": "twitch",
+    "ttl": "2026-07-21T08:52:13.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
     "id": "316230835187",
     "channelId": "saineginjo",
     "title": "配信LoLなにげにおひさだ",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saineginjo-320x180.jpg",
-    "url": "https://www.twitch.tv/saineginjo",
-    "scheduledStartTime": "2026-07-14T05:24:47Z",
-    "startTime": "2026-07-14T05:24:47Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/6880e1d9fbad13f422ff_saineginjo_316230835187_1784006687//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2819614343",
+    "scheduledStartTime": "2026-07-14T05:24:52Z",
+    "startTime": "2026-07-14T05:24:52Z",
     "platform": "twitch",
-    "ttl": "2026-07-21T05:24:47.000Z",
+    "ttl": "2026-07-21T05:24:52.000Z",
     "streamerId": "ginjo_saine"
   }
 ]
