@@ -24,17 +24,5 @@
     "endTime": "2026-07-07T22:04:23Z",
     "ttl": "2026-07-14T18:00:00.000Z",
     "streamerId": "riko_solari"
-  },
-  {
-    "id": "316138388081",
-    "channelId": "akarindao",
-    "title": "アルゼンチン vs エジプトみるよお！DAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/67ca4a8b6f9f322dbe4f_akarindao_316138388081_1783441054//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2814313355",
-    "scheduledStartTime": "2026-07-07T16:17:39Z",
-    "startTime": "2026-07-07T16:17:39Z",
-    "platform": "twitch",
-    "ttl": "2026-07-14T16:17:39.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
