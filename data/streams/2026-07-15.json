@@ -85,6 +85,7 @@
     "url": "https://www.youtube.com/watch?v=GacgMSsvvTQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-15T19:00:00Z",
+    "startTime": "2026-07-15T18:57:51Z",
     "ttl": "2026-07-22T19:00:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -270,6 +271,18 @@
     "streamerId": "juno_umezono"
   },
   {
+    "id": "316174328689",
+    "channelId": "akarindao",
+    "title": "W杯 イングランド vs アルゼンチンDAZNで同時視聴",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-15T18:57:35Z",
+    "startTime": "2026-07-15T18:57:35Z",
+    "platform": "twitch",
+    "ttl": "2026-07-22T18:57:35.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
     "id": "316172769777",
     "channelId": "ramuneshiranami",
     "title": "【Echoes of Aincrad】２層に帰るぞ",
@@ -280,18 +293,6 @@
     "platform": "twitch",
     "ttl": "2026-07-22T11:58:09.000Z",
     "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "316174328689",
-    "channelId": "akarindao",
-    "title": "W杯 イングランド vs アルゼンチンDAZNで同時視聴",
-    "thumbnail": "https://vod-secure.twitch.tv/_404/404_processing_320x180.png",
-    "url": "https://www.twitch.tv/videos/2820778207",
-    "scheduledStartTime": "2026-07-15T18:57:40Z",
-    "startTime": "2026-07-15T18:57:40Z",
-    "platform": "twitch",
-    "ttl": "2026-07-22T18:57:40.000Z",
-    "streamerId": "yumeno_akari"
   },
   {
     "id": "316181771250",
