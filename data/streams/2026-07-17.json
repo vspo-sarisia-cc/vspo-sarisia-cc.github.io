@@ -9,5 +9,16 @@
     "scheduledStartTime": "2026-07-17T23:00:00Z",
     "ttl": "2026-07-24T23:00:00.000Z",
     "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "VpDL7uvh5Uo",
+    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
+    "title": "【VALORANT】 placement games wahoo 【#VSPOEN #NarinMikure】",
+    "thumbnail": "https://i.ytimg.com/vi/VpDL7uvh5Uo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=VpDL7uvh5Uo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-17T03:00:00Z",
+    "ttl": "2026-07-24T03:00:00.000Z",
+    "streamerId": "narin_mikure"
   }
 ]

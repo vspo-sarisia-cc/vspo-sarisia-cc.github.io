@@ -1,31 +1,5 @@
 [
   {
-    "id": "mvxFg1_Tx2A",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "#04【LOST JUDGMENT:裁かれざる記憶】完全初見！真相に・・・！迫る（りたい）【ぶいすぽ/一ノ瀬うるは】※ネタバレあり",
-    "thumbnail": "https://i.ytimg.com/vi/mvxFg1_Tx2A/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=mvxFg1_Tx2A",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-08T11:30:00Z",
-    "startTime": "2026-07-08T11:31:59Z",
-    "endTime": "2026-07-08T15:43:42Z",
-    "ttl": "2026-07-15T11:30:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
-    "id": "MaOT-hgSO18",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "登録者80万人ありがとう✨「アンノウン・マザーグース」歌ってみた 胡桃のあ",
-    "thumbnail": "https://i.ytimg.com/vi/MaOT-hgSO18/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=MaOT-hgSO18",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-08T11:00:00Z",
-    "startTime": "2026-07-08T11:00:06Z",
-    "endTime": "2026-07-08T11:06:42Z",
-    "ttl": "2026-07-15T11:00:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "WfXQ-F-DF94",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【崩壊:スターレイル】#14 さよなら、ピノコニー 【ぶいすぽっ！/ 藍沢エマ】",
@@ -78,32 +52,6 @@
     "streamerId": "remia_aotsuki"
   },
   {
-    "id": "HCLOnANyKHw",
-    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-    "title": "【APEX LEGENDS】EWC DAY 2 - WATCHPARTY !【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/HCLOnANyKHw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=HCLOnANyKHw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-08T11:00:00Z",
-    "startTime": "2026-07-08T10:54:20Z",
-    "endTime": "2026-07-08T18:20:32Z",
-    "ttl": "2026-07-15T11:00:00.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "IoBAU6sz-Uk",
-    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
-    "title": "【RHYTHM HEAVEN GROOVE】first time playing rhythm heaven!!!!【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/IoBAU6sz-Uk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=IoBAU6sz-Uk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-08T11:00:00Z",
-    "startTime": "2026-07-08T11:01:41Z",
-    "endTime": "2026-07-08T14:19:42Z",
-    "ttl": "2026-07-15T11:00:00.000Z",
-    "streamerId": "riko_solari"
-  },
-  {
     "id": "1DvWl7OXPzY",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Meccha Chameleon◢ i got invited to play meccha chameleon so im live again | #JunoUmezono #VSPOEN",
@@ -128,29 +76,5 @@
     "endTime": "2026-07-08T19:22:03Z",
     "ttl": "2026-07-15T14:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316141212913",
-    "channelId": "ren_kisaragi__",
-    "title": "うお～～～～スト6",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/5633f1fe86455aaafba7_ren_kisaragi___316141212913_1783508280//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2814926550",
-    "scheduledStartTime": "2026-07-08T10:58:05Z",
-    "startTime": "2026-07-08T10:58:05Z",
-    "platform": "twitch",
-    "ttl": "2026-07-15T10:58:05.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "320356955227",
-    "channelId": "aryakuroha",
-    "title": "✦ EWC DAY 2 - WATCHPARTY !",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/a8b3dceabcab5830e2d2_aryakuroha_320356955227_1783508049//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2814925154",
-    "scheduledStartTime": "2026-07-08T10:54:18Z",
-    "startTime": "2026-07-08T10:54:18Z",
-    "platform": "twitch",
-    "ttl": "2026-07-15T10:54:18.000Z",
-    "streamerId": "arya_kuroha"
   }
 ]
