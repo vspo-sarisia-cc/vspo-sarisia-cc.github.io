@@ -39,19 +39,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "WeORbO3MNYw",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】この時間は筋トレの時間【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/WeORbO3MNYw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=WeORbO3MNYw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-08T07:40:00Z",
-    "startTime": "2026-07-08T07:44:30Z",
-    "endTime": "2026-07-08T10:42:07Z",
-    "ttl": "2026-07-15T07:40:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
     "id": "XqhSLkJ7gt4",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【Echoes of Aincrad】死んだら即終了！？デスゲームチャレンジに挑戦します！✨【ぶいすぽ / 猫汰つな】",
@@ -153,18 +140,6 @@
     "platform": "twitch",
     "ttl": "2026-07-15T10:58:05.000Z",
     "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316140302449",
-    "channelId": "tsuna_nekota",
-    "title": "TWITCH初心者さんOWやります",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/2469150dd8570b44fa31_tsuna_nekota_316140302449_1783491278//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2814839590",
-    "scheduledStartTime": "2026-07-08T06:14:43Z",
-    "startTime": "2026-07-08T06:14:43Z",
-    "platform": "twitch",
-    "ttl": "2026-07-15T06:14:43.000Z",
-    "streamerId": "nekota_tsuna"
   },
   {
     "id": "320356955227",
