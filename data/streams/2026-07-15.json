@@ -46,6 +46,7 @@
     "url": "https://www.youtube.com/watch?v=YkXwMR4cBnQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-15T12:00:00Z",
+    "startTime": "2026-07-15T12:05:39Z",
     "ttl": "2026-07-22T12:00:00.000Z",
     "streamerId": "tosaki_mimi"
   },
@@ -57,6 +58,7 @@
     "url": "https://www.youtube.com/watch?v=U9V2f4ghpa8",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-15T12:00:00Z",
+    "startTime": "2026-07-15T12:05:43Z",
     "ttl": "2026-07-22T12:00:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -99,6 +101,30 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "7MYULNyboXU",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 めっちゃカメレオン 】はじめてやる！ w/空澄セナ、兎咲ミミ、猫汰つな、甘結もか、蝶屋はなび、銀城サイネ、龍巻ちせ【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/7MYULNyboXU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=7MYULNyboXU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-15T12:00:00Z",
+    "startTime": "2026-07-15T12:05:37Z",
+    "ttl": "2026-07-22T12:00:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "6IJClwJel_Q",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【めっちゃカメレオン】やってない間に色々増えた？ぶいすぽメンバーと遊ぶ！w/メンバー概要欄【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/6IJClwJel_Q/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=6IJClwJel_Q",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-15T12:00:00Z",
+    "startTime": "2026-07-15T12:05:35Z",
+    "ttl": "2026-07-22T12:00:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
     "id": "R90B-cHZUKE",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【Echoes of Aincrad】バッタ引退しました。第二層に行きたい　【ぶいすぽ / 猫汰つな】",
@@ -112,15 +138,28 @@
     "streamerId": "nekota_tsuna"
   },
   {
-    "id": "6IJClwJel_Q",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【めっちゃカメレオン】やってない間に色々増えた？ぶいすぽメンバーと遊ぶ！w/メンバー概要欄【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/6IJClwJel_Q/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=6IJClwJel_Q",
+    "id": "KGDnpbxbOak",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】ソロコンペ！早くイモータル帰るぞ【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/KGDnpbxbOak/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=KGDnpbxbOak",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-15T12:00:00Z",
-    "ttl": "2026-07-22T12:00:00.000Z",
-    "streamerId": "nekota_tsuna"
+    "scheduledStartTime": "2026-07-15T12:30:00Z",
+    "startTime": "2026-07-15T12:33:51Z",
+    "ttl": "2026-07-22T12:30:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "HcfzWSKvj04",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【beatmania IIDX INFINITAS】久しぶりの皿回し💿🎹【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/HcfzWSKvj04/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=HcfzWSKvj04",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-15T13:00:00Z",
+    "startTime": "2026-07-15T12:59:48Z",
+    "ttl": "2026-07-22T13:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "x2PREYjTTqE",
@@ -130,6 +169,7 @@
     "url": "https://www.youtube.com/watch?v=x2PREYjTTqE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-15T12:00:00Z",
+    "startTime": "2026-07-15T12:06:02Z",
     "ttl": "2026-07-22T12:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -141,6 +181,7 @@
     "url": "https://www.youtube.com/watch?v=jLtqg-W52vg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-15T12:00:00Z",
+    "startTime": "2026-07-15T12:05:39Z",
     "ttl": "2026-07-22T12:00:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -152,6 +193,7 @@
     "url": "https://www.youtube.com/watch?v=gVbCMQpWI3g",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-15T12:00:00Z",
+    "startTime": "2026-07-15T12:00:52Z",
     "ttl": "2026-07-22T12:00:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -176,6 +218,7 @@
     "url": "https://www.youtube.com/watch?v=AzRdCaJTn0c",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-15T12:00:00Z",
+    "startTime": "2026-07-15T12:06:21Z",
     "ttl": "2026-07-22T12:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -187,6 +230,7 @@
     "url": "https://www.youtube.com/watch?v=BYnen1mnaAw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-15T12:00:00Z",
+    "startTime": "2026-07-15T11:59:57Z",
     "ttl": "2026-07-22T12:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -201,6 +245,42 @@
     "startTime": "2026-07-15T11:52:40Z",
     "ttl": "2026-07-22T11:50:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316172769777",
+    "channelId": "ramuneshiranami",
+    "title": "【Echoes of Aincrad】２層に帰るぞ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-07-15T11:58:04Z",
+    "startTime": "2026-07-15T11:58:04Z",
+    "platform": "twitch",
+    "ttl": "2026-07-22T11:58:04.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "320483469787",
+    "channelId": "aryakuroha",
+    "title": "✦ ranking with dtto & juno !!",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-07-15T11:59:39Z",
+    "startTime": "2026-07-15T11:59:39Z",
+    "platform": "twitch",
+    "ttl": "2026-07-22T11:59:39.000Z",
+    "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "316181771250",
+    "channelId": "choyahanabi",
+    "title": "【スト６】まじで一瞬やる！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/9feb33d6f31716708f66_choyahanabi_316181771250_1784117117//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2820534934",
+    "scheduledStartTime": "2026-07-15T12:05:22Z",
+    "startTime": "2026-07-15T12:05:22Z",
+    "platform": "twitch",
+    "ttl": "2026-07-22T12:05:22.000Z",
+    "streamerId": "choya_hanabi"
   },
   {
     "id": "316172374897",
