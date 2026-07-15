@@ -1,31 +1,5 @@
 [
   {
-    "id": "E1yYaEytv-c",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  雑談  ◢　寝る前にお絵かきしながら雑談しよ～！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/E1yYaEytv-c/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=E1yYaEytv-c",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-08T14:00:00Z",
-    "startTime": "2026-07-08T14:04:46Z",
-    "endTime": "2026-07-08T17:36:45Z",
-    "ttl": "2026-07-15T14:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
-    "id": "Df-0DwJy7XU",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "Typing AND cooking game?!  |  Chef's Shift 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/Df-0DwJy7XU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Df-0DwJy7XU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-08T14:30:00Z",
-    "startTime": "2026-07-08T14:15:41Z",
-    "endTime": "2026-07-08T16:57:56Z",
-    "ttl": "2026-07-15T14:30:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
     "id": "1DvWl7OXPzY",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Meccha Chameleon◢ i got invited to play meccha chameleon so im live again | #JunoUmezono #VSPOEN",
@@ -36,19 +10,6 @@
     "startTime": "2026-07-08T20:32:00Z",
     "endTime": "2026-07-08T22:33:25Z",
     "ttl": "2026-07-15T20:30:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
-    "id": "8oEPejpbxD4",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Wuthering Waves 2.x◢ EXPLORING RINASCITA ! | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/8oEPejpbxD4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=8oEPejpbxD4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-08T14:00:00Z",
-    "startTime": "2026-07-08T14:01:09Z",
-    "endTime": "2026-07-08T19:22:03Z",
-    "ttl": "2026-07-15T14:00:00.000Z",
     "streamerId": "juno_umezono"
   }
 ]
