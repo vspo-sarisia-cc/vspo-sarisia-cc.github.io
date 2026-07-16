@@ -26,19 +26,6 @@
     "streamerId": "nekota_tsuna"
   },
   {
-    "id": "Gvx5I6qLMSY",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【VALORANT】ランクにいきましょ。リハビリ編【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/Gvx5I6qLMSY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Gvx5I6qLMSY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-09T14:00:00Z",
-    "startTime": "2026-07-09T14:07:31Z",
-    "endTime": "2026-07-09T18:50:16Z",
-    "ttl": "2026-07-16T14:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
     "id": "LssFFKxOEuk",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  Echoes of Aincrad  ◢　デスゲームに誘っていただきました！ネタバレ注意   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
@@ -74,18 +61,6 @@
     "platform": "twitch",
     "ttl": "2026-07-16T19:41:46.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "317193328100",
-    "channelId": "remiaaotsuki",
-    "title": "New Season New Me!!!!!",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/bd39743f5f28db9d8e99_remiaaotsuki_317193328100_1783605650//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2815799560",
-    "scheduledStartTime": "2026-07-09T14:00:56Z",
-    "startTime": "2026-07-09T14:00:56Z",
-    "platform": "twitch",
-    "ttl": "2026-07-16T14:00:56.000Z",
-    "streamerId": "remia_aotsuki"
   },
   {
     "id": "320205333849",

@@ -16,11 +16,12 @@
     "id": "wRSAaoGzF0o",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【Deltaforce】らむべにと！レインボーシックスシージコラボを遊んでみるう【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/wRSAaoGzF0o/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/wRSAaoGzF0o/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=wRSAaoGzF0o",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-16T11:00:00Z",
     "startTime": "2026-07-16T11:01:17Z",
+    "endTime": "2026-07-16T12:20:24Z",
     "ttl": "2026-07-23T11:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -32,6 +33,7 @@
     "url": "https://www.youtube.com/watch?v=HYyNSCOVJGw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-16T12:15:00Z",
+    "startTime": "2026-07-16T12:18:56Z",
     "ttl": "2026-07-23T12:15:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -52,11 +54,12 @@
     "id": "nz_mU0cG6Ok",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
     "title": "【リズム天国 ミラクルスターズ】 リズム感ないやつが初見プレイ！【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/nz_mU0cG6Ok/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/nz_mU0cG6Ok/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=nz_mU0cG6Ok",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-16T10:30:00Z",
     "startTime": "2026-07-16T10:50:26Z",
+    "endTime": "2026-07-16T13:35:48Z",
     "ttl": "2026-07-23T10:30:00.000Z",
     "streamerId": "tosaki_mimi"
   },
@@ -73,14 +76,27 @@
     "streamerId": "tachibana_hinano"
   },
   {
+    "id": "7MppdLZ4LqI",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【Minecraft】闘技場作り進めるぞ～～～w/うるは【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/7MppdLZ4LqI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=7MppdLZ4LqI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-16T12:45:00Z",
+    "startTime": "2026-07-16T12:37:45Z",
+    "ttl": "2026-07-23T12:45:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
     "id": "-UR2Mtj8nRI",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【Delta Force】ミリタリーFPS⚡レインボーシックスシージコラボ！初見いきますw/なずぴ,らむち【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/-UR2Mtj8nRI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/-UR2Mtj8nRI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=-UR2Mtj8nRI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-16T11:00:00Z",
     "startTime": "2026-07-16T11:01:10Z",
+    "endTime": "2026-07-16T12:20:22Z",
     "ttl": "2026-07-23T11:00:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -200,16 +216,16 @@
     "streamerId": "narin_mikure"
   },
   {
-    "id": "316176784113",
-    "channelId": "ramuneshiranami",
-    "title": "【DeltaForce】レインボーシックスシージコラボ！初見プレイ w/べにさん なずぴ #PR",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-16T11:01:10Z",
-    "startTime": "2026-07-16T11:01:10Z",
+    "id": "316177804529",
+    "channelId": "akarindao",
+    "title": "ぶいすぽ夏祭りに向けて、闘技場編",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-16T14:15:19Z",
+    "startTime": "2026-07-16T14:15:19Z",
     "platform": "twitch",
-    "ttl": "2026-07-23T11:01:10.000Z",
-    "streamerId": "shiranami_ramune"
+    "ttl": "2026-07-23T14:15:19.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316240085107",
@@ -222,6 +238,18 @@
     "platform": "twitch",
     "ttl": "2026-07-23T07:51:11.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316176784113",
+    "channelId": "ramuneshiranami",
+    "title": "【DeltaForce】レインボーシックスシージコラボ！初見プレイ w/べにさん なずぴ #PR",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/5211453bddf50e4ae34e_ramuneshiranami_316176784113_1784199670//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2821291269",
+    "scheduledStartTime": "2026-07-16T11:01:15Z",
+    "startTime": "2026-07-16T11:01:15Z",
+    "platform": "twitch",
+    "ttl": "2026-07-23T11:01:15.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316175894001",
