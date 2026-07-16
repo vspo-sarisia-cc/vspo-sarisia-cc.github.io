@@ -1,31 +1,5 @@
 [
   {
-    "id": "Tgyo95Se4ss",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【マインクラフト】メンバーとまたーり夏祭りじゅーんび【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/Tgyo95Se4ss/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Tgyo95Se4ss",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-09T10:00:00Z",
-    "startTime": "2026-07-09T10:15:43Z",
-    "endTime": "2026-07-09T17:03:28Z",
-    "ttl": "2026-07-16T10:00:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
-    "id": "I6v7CmBQxp0",
-    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
-    "title": "【 Minecraft 】みんなで夏祭り準備🌸【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/I6v7CmBQxp0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=I6v7CmBQxp0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-09T10:00:00Z",
-    "startTime": "2026-07-09T10:15:39Z",
-    "endTime": "2026-07-09T13:39:36Z",
-    "ttl": "2026-07-16T10:00:00.000Z",
-    "streamerId": "kogara_toto"
-  },
-  {
     "id": "FXxcHeQqAeQ",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【Minecraft】ぶいすぽメンバーと夏祭りじゅんび🎶【ぶいすぽ/一ノ瀬うるは】",
@@ -52,19 +26,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "xmdyAE0QY2g",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 Minecraft 】夏祭り準備🎆【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/xmdyAE0QY2g/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=xmdyAE0QY2g",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-09T10:15:00Z",
-    "startTime": "2026-07-09T10:26:02Z",
-    "endTime": "2026-07-09T17:31:21Z",
-    "ttl": "2026-07-16T10:15:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
     "id": "FbJS0D2JUtE",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【ワールドカップ同時視聴】DAZNで観る！準々決勝フランスvsモロッコ⚽【ぶいすぽ/八雲べに】",
@@ -89,19 +50,6 @@
     "endTime": "2026-07-09T15:11:00Z",
     "ttl": "2026-07-16T11:00:00.000Z",
     "streamerId": "yakumo_beni"
-  },
-  {
-    "id": "2VkqWuoq4XI",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【Minecraft】夏祭りじゅんび！ゆる～くやる！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/2VkqWuoq4XI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=2VkqWuoq4XI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-09T10:00:00Z",
-    "startTime": "2026-07-09T10:15:35Z",
-    "endTime": "2026-07-09T17:05:17Z",
-    "ttl": "2026-07-16T10:00:00.000Z",
-    "streamerId": "aizawa_ema"
   },
   {
     "id": "Jl3WStaJGLk",

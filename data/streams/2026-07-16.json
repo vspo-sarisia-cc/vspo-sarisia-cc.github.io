@@ -27,13 +27,25 @@
     "id": "JF0tjeYeP7k",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】頼む！ダイヤ３に行きたいんや！【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/JF0tjeYeP7k/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/JF0tjeYeP7k/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=JF0tjeYeP7k",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-16T07:05:00Z",
     "startTime": "2026-07-16T07:07:34Z",
+    "endTime": "2026-07-16T09:47:07Z",
     "ttl": "2026-07-23T07:05:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "nz_mU0cG6Ok",
+    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
+    "title": "【リズム天国 ミラクルスターズ】 リズム感ないやつが初見プレイ！【ぶいすぽ/兎咲ミミ】",
+    "thumbnail": "https://i.ytimg.com/vi/nz_mU0cG6Ok/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=nz_mU0cG6Ok",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-16T10:30:00Z",
+    "ttl": "2026-07-23T10:30:00.000Z",
+    "streamerId": "tosaki_mimi"
   },
   {
     "id": "-UR2Mtj8nRI",
