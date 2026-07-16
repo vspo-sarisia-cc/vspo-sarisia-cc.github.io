@@ -79,12 +79,13 @@
   {
     "id": "7MppdLZ4LqI",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【Minecraft】闘技場作り進めるぞ～～～w/うるは【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/7MppdLZ4LqI/mqdefault_live.jpg",
+    "title": "【Minecraft】闘技場作り進めるぞ～～～w/うるはあかりはなび【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/7MppdLZ4LqI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=7MppdLZ4LqI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-16T12:45:00Z",
     "startTime": "2026-07-16T12:37:45Z",
+    "endTime": "2026-07-16T18:00:18Z",
     "ttl": "2026-07-23T12:45:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -157,11 +158,12 @@
     "id": "GyVk-IgMXzs",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Minecraft 】　夏祭りに向けて、闘技場作るぞおおおおおおおお！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/GyVk-IgMXzs/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/GyVk-IgMXzs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=GyVk-IgMXzs",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-16T11:00:00Z",
     "startTime": "2026-07-16T11:00:04Z",
+    "endTime": "2026-07-16T17:46:13Z",
     "ttl": "2026-07-23T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -230,18 +232,6 @@
     "streamerId": "yumeno_akari"
   },
   {
-    "id": "316242013939",
-    "channelId": "kokagetsumugi",
-    "title": "エイム調整してちょいコンペ",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kokagetsumugi-320x180.jpg",
-    "url": "https://www.twitch.tv/kokagetsumugi",
-    "scheduledStartTime": "2026-07-16T15:31:32Z",
-    "startTime": "2026-07-16T15:31:32Z",
-    "platform": "twitch",
-    "ttl": "2026-07-23T15:31:32.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
     "id": "316240085107",
     "channelId": "ren_kisaragi__",
     "title": "BBCFw/フェン様",
@@ -264,6 +254,18 @@
     "platform": "twitch",
     "ttl": "2026-07-23T11:01:15.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316242013939",
+    "channelId": "kokagetsumugi",
+    "title": "エイム調整してちょいコンペ",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/a482d22c06540d0b68b0_kokagetsumugi_316242013939_1784215892//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2821422555",
+    "scheduledStartTime": "2026-07-16T15:31:37Z",
+    "startTime": "2026-07-16T15:31:37Z",
+    "platform": "twitch",
+    "ttl": "2026-07-23T15:31:37.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "316241931251",
