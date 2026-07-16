@@ -1,31 +1,5 @@
 [
   {
-    "id": "FXxcHeQqAeQ",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【Minecraft】ぶいすぽメンバーと夏祭りじゅんび🎶【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/FXxcHeQqAeQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=FXxcHeQqAeQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-09T11:00:00Z",
-    "startTime": "2026-07-09T11:04:40Z",
-    "endTime": "2026-07-09T15:25:54Z",
-    "ttl": "2026-07-16T11:00:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
-    "id": "XQS3aj2netU",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】いつもとは違う環境で失礼するぞ【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/XQS3aj2netU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=XQS3aj2netU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-09T11:50:00Z",
-    "startTime": "2026-07-09T12:03:49Z",
-    "endTime": "2026-07-09T13:36:26Z",
-    "ttl": "2026-07-16T11:50:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "FbJS0D2JUtE",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【ワールドカップ同時視聴】DAZNで観る！準々決勝フランスvsモロッコ⚽【ぶいすぽ/八雲べに】",
@@ -36,19 +10,6 @@
     "startTime": "2026-07-09T20:01:20Z",
     "endTime": "2026-07-09T22:05:08Z",
     "ttl": "2026-07-16T20:00:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
-    "id": "pKL7xcNn5y4",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【Minecraft】夏祭り準備！なに作るかな～？🎆【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/pKL7xcNn5y4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=pKL7xcNn5y4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-09T11:00:00Z",
-    "startTime": "2026-07-09T11:04:41Z",
-    "endTime": "2026-07-09T15:11:00Z",
-    "ttl": "2026-07-16T11:00:00.000Z",
     "streamerId": "yakumo_beni"
   },
   {
@@ -91,32 +52,6 @@
     "streamerId": "tatsumaki_chise"
   },
   {
-    "id": "6t_ecPSRoBU",
-    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-    "title": "【APEX LEGENDS】EWC DAY 3 - WATCHPARTY !【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/6t_ecPSRoBU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=6t_ecPSRoBU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-09T11:00:00Z",
-    "startTime": "2026-07-09T15:00:55Z",
-    "endTime": "2026-07-09T19:16:33Z",
-    "ttl": "2026-07-16T11:00:00.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "sBy2JsS8UoY",
-    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
-    "title": "【APEX LEGENDS】i guess we're grinding lawl【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/sBy2JsS8UoY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=sBy2JsS8UoY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-09T12:00:00Z",
-    "startTime": "2026-07-09T12:00:55Z",
-    "endTime": "2026-07-09T15:03:50Z",
-    "ttl": "2026-07-16T12:00:00.000Z",
-    "streamerId": "riko_solari"
-  },
-  {
     "id": "316211441523",
     "channelId": "ramuneshiranami",
     "title": "【Echoes of Aincrad】SAOの新作ゲーム！デスゲームする",
@@ -126,18 +61,6 @@
     "startTime": "2026-07-09T22:29:13Z",
     "platform": "twitch",
     "ttl": "2026-07-16T22:29:13.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "316154578034",
-    "channelId": "ramuneshiranami",
-    "title": "夏祭りの準備します",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/a6c5d4348f12a4d8f7c0_ramuneshiranami_316154578034_1783595191//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2815718707",
-    "scheduledStartTime": "2026-07-09T11:06:36Z",
-    "startTime": "2026-07-09T11:06:36Z",
-    "platform": "twitch",
-    "ttl": "2026-07-16T11:06:36.000Z",
     "streamerId": "shiranami_ramune"
   },
   {

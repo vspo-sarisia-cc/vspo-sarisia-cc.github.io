@@ -20,8 +20,20 @@
     "url": "https://www.youtube.com/watch?v=wRSAaoGzF0o",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-16T11:00:00Z",
+    "startTime": "2026-07-16T11:01:17Z",
     "ttl": "2026-07-23T11:00:00.000Z",
     "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "HYyNSCOVJGw",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【Minecraft】準備こつこつこつ ^^) _旦~~【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/HYyNSCOVJGw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=HYyNSCOVJGw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-16T12:15:00Z",
+    "ttl": "2026-07-23T12:15:00.000Z",
+    "streamerId": "ichinose_uruha"
   },
   {
     "id": "JF0tjeYeP7k",
@@ -44,8 +56,21 @@
     "url": "https://www.youtube.com/watch?v=nz_mU0cG6Ok",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-16T10:30:00Z",
+    "startTime": "2026-07-16T10:50:26Z",
     "ttl": "2026-07-23T10:30:00.000Z",
     "streamerId": "tosaki_mimi"
+  },
+  {
+    "id": "sfwO-eT7tTo",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 Apex Legends 】なんだこのメンツは！？  w/エマ、ツルギ 【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/sfwO-eT7tTo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=sfwO-eT7tTo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-16T11:30:00Z",
+    "startTime": "2026-07-16T11:33:25Z",
+    "ttl": "2026-07-23T11:30:00.000Z",
+    "streamerId": "tachibana_hinano"
   },
   {
     "id": "-UR2Mtj8nRI",
@@ -55,18 +80,32 @@
     "url": "https://www.youtube.com/watch?v=-UR2Mtj8nRI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-16T11:00:00Z",
+    "startTime": "2026-07-16T11:01:10Z",
     "ttl": "2026-07-23T11:00:00.000Z",
     "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "bCnRk6HMoEw",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【APEX】ふるぱでいきますよ【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/bCnRk6HMoEw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=bCnRk6HMoEw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-16T11:30:00Z",
+    "startTime": "2026-07-16T11:34:45Z",
+    "ttl": "2026-07-23T11:30:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "6Qe6PJSaREw",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】夏が来たんか【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/6Qe6PJSaREw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/6Qe6PJSaREw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=6Qe6PJSaREw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-16T08:00:00Z",
     "startTime": "2026-07-16T07:55:58Z",
+    "endTime": "2026-07-16T10:38:50Z",
     "ttl": "2026-07-23T08:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -97,6 +136,18 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "GyVk-IgMXzs",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【 Minecraft 】　夏祭りに向けて、闘技場作るぞおおおおおおおお！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/GyVk-IgMXzs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=GyVk-IgMXzs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-16T11:00:00Z",
+    "startTime": "2026-07-16T11:00:04Z",
+    "ttl": "2026-07-23T11:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "CH1MBL-lQm8",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　やる気のないシミー、まったく当たらないパナシ、倦怠期きてんのよ！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -107,17 +158,6 @@
     "startTime": "2026-07-16T01:29:37Z",
     "endTime": "2026-07-16T03:35:46Z",
     "ttl": "2026-07-23T01:30:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "GyVk-IgMXzs",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【 Minecraft 】　夏祭りに向けて、闘技場作るぞおおおおおおおお！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/GyVk-IgMXzs/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=GyVk-IgMXzs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-16T11:00:00Z",
-    "ttl": "2026-07-23T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -160,15 +200,27 @@
     "streamerId": "narin_mikure"
   },
   {
+    "id": "316176784113",
+    "channelId": "ramuneshiranami",
+    "title": "【DeltaForce】レインボーシックスシージコラボ！初見プレイ w/べにさん なずぴ #PR",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-07-16T11:01:10Z",
+    "startTime": "2026-07-16T11:01:10Z",
+    "platform": "twitch",
+    "ttl": "2026-07-23T11:01:10.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
     "id": "316240085107",
     "channelId": "ren_kisaragi__",
     "title": "BBCFw/フェン様",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-07-16T07:51:06Z",
-    "startTime": "2026-07-16T07:51:06Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/b2e71edc2275cc3cbcad_ren_kisaragi___316240085107_1784188266//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2821231525",
+    "scheduledStartTime": "2026-07-16T07:51:11Z",
+    "startTime": "2026-07-16T07:51:11Z",
     "platform": "twitch",
-    "ttl": "2026-07-23T07:51:06.000Z",
+    "ttl": "2026-07-23T07:51:11.000Z",
     "streamerId": "kisaragi_ren"
   },
   {
