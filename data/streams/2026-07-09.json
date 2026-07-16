@@ -1,18 +1,5 @@
 [
   {
-    "id": "FbJS0D2JUtE",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【ワールドカップ同時視聴】DAZNで観る！準々決勝フランスvsモロッコ⚽【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/FbJS0D2JUtE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=FbJS0D2JUtE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-09T20:00:00Z",
-    "startTime": "2026-07-09T20:01:20Z",
-    "endTime": "2026-07-09T22:05:08Z",
-    "ttl": "2026-07-16T20:00:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
     "id": "Jl3WStaJGLk",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【Echoes of Aincrad】Steams版リリースキター！デスゲーム行きます　w/かみーと、ギルくん、あと何人か来る予定【ぶいすぽ / 猫汰つな】",
@@ -49,17 +36,5 @@
     "platform": "twitch",
     "ttl": "2026-07-16T22:29:13.000Z",
     "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "316211115763",
-    "channelId": "akarindao",
-    "title": "フランス vs モロッコみるよ！DAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/57eaf03dfb0703109d57_akarindao_316211115763_1783626101//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2816026654",
-    "scheduledStartTime": "2026-07-09T19:41:46Z",
-    "startTime": "2026-07-09T19:41:46Z",
-    "platform": "twitch",
-    "ttl": "2026-07-16T19:41:46.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
