@@ -67,11 +67,12 @@
     "id": "sfwO-eT7tTo",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Apex Legends 】なんだこのメンツは！？  w/エマ、ツルギ 【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/sfwO-eT7tTo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/sfwO-eT7tTo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=sfwO-eT7tTo",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-16T11:30:00Z",
     "startTime": "2026-07-16T11:33:25Z",
+    "endTime": "2026-07-16T15:58:15Z",
     "ttl": "2026-07-23T11:30:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -104,11 +105,12 @@
     "id": "bCnRk6HMoEw",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【APEX】ふるぱでいきますよ【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/bCnRk6HMoEw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/bCnRk6HMoEw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=bCnRk6HMoEw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-16T11:30:00Z",
     "startTime": "2026-07-16T11:34:45Z",
+    "endTime": "2026-07-16T15:54:58Z",
     "ttl": "2026-07-23T11:30:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -298,17 +300,5 @@
     "platform": "twitch",
     "ttl": "2026-07-23T05:09:26.000Z",
     "streamerId": "sendo_yuuhi"
-  },
-  {
-    "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjoyOX0=",
-    "channelId": "remiaaotsuki",
-    "title": "EU faceit elo gain?",
-    "thumbnail": "",
-    "url": "https://www.twitch.tv/remiaaotsuki",
-    "scheduledStartTime": "2026-07-16T14:00:00Z",
-    "startTime": "2026-07-16T14:00:00Z",
-    "platform": "twitch",
-    "ttl": "2026-07-23T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
   }
 ]

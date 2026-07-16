@@ -22,6 +22,17 @@
     "streamerId": "arya_kuroha"
   },
   {
+    "id": "kY5qM0KFWZo",
+    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+    "title": "【League of Legends】tank sona tank sona tank sona tan sona【#VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/kY5qM0KFWZo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=kY5qM0KFWZo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-17T03:00:00Z",
+    "ttl": "2026-07-24T03:00:00.000Z",
+    "streamerId": "jira_jisaki"
+  },
+  {
     "id": "VpDL7uvh5Uo",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
     "title": "【VALORANT】 placement games wahoo 【#VSPOEN #NarinMikure】",
@@ -31,5 +42,16 @@
     "scheduledStartTime": "2026-07-17T03:00:00Z",
     "ttl": "2026-07-24T03:00:00.000Z",
     "streamerId": "narin_mikure"
+  },
+  {
+    "id": "ET0zK2NpvE4",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Wuthering Waves 2.2◢ NEW WIVES? w/ EYE TRACKER (part. 1) | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/ET0zK2NpvE4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ET0zK2NpvE4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-17T14:00:00Z",
+    "ttl": "2026-07-24T14:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
