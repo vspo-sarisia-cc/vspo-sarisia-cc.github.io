@@ -228,6 +228,18 @@
     "streamerId": "yumeno_akari"
   },
   {
+    "id": "316242013939",
+    "channelId": "kokagetsumugi",
+    "title": "エイム調整してちょいコンペ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kokagetsumugi-320x180.jpg",
+    "url": "https://www.twitch.tv/kokagetsumugi",
+    "scheduledStartTime": "2026-07-16T15:31:32Z",
+    "startTime": "2026-07-16T15:31:32Z",
+    "platform": "twitch",
+    "ttl": "2026-07-23T15:31:32.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "316240085107",
     "channelId": "ren_kisaragi__",
     "title": "BBCFw/フェン様",
@@ -250,6 +262,18 @@
     "platform": "twitch",
     "ttl": "2026-07-23T11:01:15.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316241931251",
+    "channelId": "kokagetsumugi",
+    "title": "エイム調整してちょいコンペ",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/68a8b4f45d2d03c0ea2c_kokagetsumugi_316241931251_1784214411//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2821409112",
+    "scheduledStartTime": "2026-07-16T15:06:56Z",
+    "startTime": "2026-07-16T15:06:56Z",
+    "platform": "twitch",
+    "ttl": "2026-07-23T15:06:56.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "316175894001",

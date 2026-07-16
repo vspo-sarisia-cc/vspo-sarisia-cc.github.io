@@ -61,17 +61,5 @@
     "platform": "twitch",
     "ttl": "2026-07-16T19:41:46.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "320205333849",
-    "channelId": "aryakuroha",
-    "title": "✦ EWC DAY 3 - WATCHPARTY !",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/b5791a8a08d5b3d3d6b8_aryakuroha_320205333849_1783609227//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2815832113",
-    "scheduledStartTime": "2026-07-09T15:00:36Z",
-    "startTime": "2026-07-09T15:00:36Z",
-    "platform": "twitch",
-    "ttl": "2026-07-16T15:00:36.000Z",
-    "streamerId": "arya_kuroha"
   }
 ]
