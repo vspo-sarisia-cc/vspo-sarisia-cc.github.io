@@ -1,5 +1,27 @@
 [
   {
+    "id": "XEQccLXB3WE",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【Minecraft】告知後→20時から夏祭り闘技場作り【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/XEQccLXB3WE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=XEQccLXB3WE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-17T10:45:00Z",
+    "ttl": "2026-07-24T10:45:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "WzUw-DKC0eg",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【崩壊:スターレイル】#15 ピノコニーとももうお別れかもしれない【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/WzUw-DKC0eg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=WzUw-DKC0eg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-17T12:00:00Z",
+    "ttl": "2026-07-24T12:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "PwCdDEQ5tF0",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 #VCTWatchParty 〗DFM応援ちゃんねるの皆さん、集合をお願いします。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
@@ -7,6 +29,7 @@
     "url": "https://www.youtube.com/watch?v=PwCdDEQ5tF0",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-17T10:00:00Z",
+    "startTime": "2026-07-17T10:09:46Z",
     "ttl": "2026-07-24T10:00:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -119,12 +142,12 @@
     "id": "316180675569",
     "channelId": "choyahanabi",
     "title": "【スト６】地上きたぞ！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_choyahanabi-320x180.jpg",
-    "url": "https://www.twitch.tv/choyahanabi",
-    "scheduledStartTime": "2026-07-17T08:31:28Z",
-    "startTime": "2026-07-17T08:31:28Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/93574f26b8dd8043797e_choyahanabi_316180675569_1784277088//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2822044485",
+    "scheduledStartTime": "2026-07-17T08:31:33Z",
+    "startTime": "2026-07-17T08:31:33Z",
     "platform": "twitch",
-    "ttl": "2026-07-24T08:31:28.000Z",
+    "ttl": "2026-07-24T08:31:33.000Z",
     "streamerId": "choya_hanabi"
   }
 ]
