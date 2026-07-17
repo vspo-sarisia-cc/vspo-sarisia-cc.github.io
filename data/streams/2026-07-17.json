@@ -13,14 +13,27 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "GVgmRxmKoz8",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "【アークナイツ：エンドフィールド】深夜のチル工業 オクギさん…推し登場【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/GVgmRxmKoz8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=GVgmRxmKoz8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-17T16:45:00Z",
+    "startTime": "2026-07-17T15:48:29Z",
+    "ttl": "2026-07-24T16:45:00.000Z",
+    "streamerId": "asumi_sena"
+  },
+  {
     "id": "EtmdAbMuq18",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Minecraft 】トライアルチャンバー行ってなんかやる 【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/EtmdAbMuq18/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/EtmdAbMuq18/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=EtmdAbMuq18",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-17T11:00:00Z",
     "startTime": "2026-07-17T11:04:11Z",
+    "endTime": "2026-07-17T15:14:25Z",
     "ttl": "2026-07-24T11:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -28,11 +41,12 @@
     "id": "XEQccLXB3WE",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【Minecraft】告知後→20時から夏祭り闘技場作り【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/XEQccLXB3WE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/XEQccLXB3WE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=XEQccLXB3WE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-17T10:45:00Z",
     "startTime": "2026-07-17T10:47:08Z",
+    "endTime": "2026-07-17T15:38:30Z",
     "ttl": "2026-07-24T10:45:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -40,12 +54,24 @@
     "id": "WzUw-DKC0eg",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【崩壊:スターレイル】#15 ピノコニーとももうお別れかもしれない→PV鑑賞【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/WzUw-DKC0eg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/WzUw-DKC0eg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=WzUw-DKC0eg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-17T12:00:00Z",
     "startTime": "2026-07-17T12:04:57Z",
+    "endTime": "2026-07-17T15:27:26Z",
     "ttl": "2026-07-24T12:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "gwFlbvii7u0",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "ネザライトを取りに皆でネザーへ！そして大忙しのひなのママ【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/gwFlbvii7u0/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=gwFlbvii7u0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-17T22:00:00Z",
+    "ttl": "2026-07-24T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -60,6 +86,18 @@
     "endTime": "2026-07-17T13:44:54Z",
     "ttl": "2026-07-24T10:00:00.000Z",
     "streamerId": "yano_kuromu"
+  },
+  {
+    "id": "JPpVDg4Rgkk",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】ソロコンペ！早くイモータル帰るぞ２【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/JPpVDg4Rgkk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=JPpVDg4Rgkk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-17T15:15:00Z",
+    "startTime": "2026-07-17T15:27:43Z",
+    "ttl": "2026-07-24T15:15:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "HMH4S3z3cRQ",
@@ -185,18 +223,6 @@
     "streamerId": "yumeno_akari"
   },
   {
-    "id": "316181230577",
-    "channelId": "ramuneshiranami",
-    "title": "【マイクラ】夏祭り準備",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-17T11:09:56Z",
-    "startTime": "2026-07-17T11:09:56Z",
-    "platform": "twitch",
-    "ttl": "2026-07-24T11:09:56.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316180254065",
     "channelId": "ren_kisaragi__",
     "title": "鬼の作業雑談",
@@ -207,6 +233,18 @@
     "platform": "twitch",
     "ttl": "2026-07-24T06:09:24.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316181230577",
+    "channelId": "ramuneshiranami",
+    "title": "【マイクラ】夏祭り準備",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/9f838ed229db7699378e_ramuneshiranami_316181230577_1784286596//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2822095762",
+    "scheduledStartTime": "2026-07-17T11:10:01Z",
+    "startTime": "2026-07-17T11:10:01Z",
+    "platform": "twitch",
+    "ttl": "2026-07-24T11:10:01.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316180675569",
