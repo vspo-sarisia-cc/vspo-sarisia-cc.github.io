@@ -198,11 +198,12 @@
     "id": "AuXwhmyzlOU",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【APEX LEGENDS】getting cyberpunked with axel & dashu !!【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/AuXwhmyzlOU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/AuXwhmyzlOU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=AuXwhmyzlOU",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-16T22:00:00Z",
     "startTime": "2026-07-16T22:06:27Z",
+    "endTime": "2026-07-17T00:55:27Z",
     "ttl": "2026-07-23T22:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -231,18 +232,6 @@
     "endTime": "2026-07-16T05:09:11Z",
     "ttl": "2026-07-23T03:00:00.000Z",
     "streamerId": "narin_mikure"
-  },
-  {
-    "id": "320337527257",
-    "channelId": "aryakuroha",
-    "title": "✦ playing wit da homies !!",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-07-16T22:06:16Z",
-    "startTime": "2026-07-16T22:06:16Z",
-    "platform": "twitch",
-    "ttl": "2026-07-23T22:06:16.000Z",
-    "streamerId": "arya_kuroha"
   },
   {
     "id": "316240085107",
@@ -327,5 +316,17 @@
     "platform": "twitch",
     "ttl": "2026-07-23T05:09:26.000Z",
     "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "320337527257",
+    "channelId": "aryakuroha",
+    "title": "✦ playing wit da homies !!",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/05fc3f55b3a2ebaec9c0_aryakuroha_320337527257_1784239576//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2821694570",
+    "scheduledStartTime": "2026-07-16T22:06:26Z",
+    "startTime": "2026-07-16T22:06:26Z",
+    "platform": "twitch",
+    "ttl": "2026-07-23T22:06:26.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
