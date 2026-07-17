@@ -11,17 +11,5 @@
     "endTime": "2026-07-10T22:19:03Z",
     "ttl": "2026-07-17T22:00:00.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "316215498995",
-    "channelId": "akarindao",
-    "title": "W杯スペイン vs ベルギーみるよ！DAZNで同時視聴中",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/bd26c8189418562c3166_akarindao_316215498995_1783709622//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2816806677",
-    "scheduledStartTime": "2026-07-10T18:53:47Z",
-    "startTime": "2026-07-10T18:53:47Z",
-    "platform": "twitch",
-    "ttl": "2026-07-17T18:53:47.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]

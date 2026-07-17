@@ -21,6 +21,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-17T16:45:00Z",
     "startTime": "2026-07-17T15:48:29Z",
+    "endTime": "2026-07-17T19:40:02Z",
     "ttl": "2026-07-24T16:45:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -91,11 +92,12 @@
     "id": "JPpVDg4Rgkk",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VALORANT】ソロコンペ！早くイモータル帰るぞ２【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/JPpVDg4Rgkk/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/JPpVDg4Rgkk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=JPpVDg4Rgkk",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-17T15:15:00Z",
     "startTime": "2026-07-17T15:27:43Z",
+    "endTime": "2026-07-17T18:54:13Z",
     "ttl": "2026-07-24T15:15:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -147,6 +149,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-17T12:30:00Z",
     "startTime": "2026-07-17T13:19:26Z",
+    "endTime": "2026-07-17T19:38:18Z",
     "ttl": "2026-07-24T12:30:00.000Z",
     "streamerId": "ginjo_saine"
   },
