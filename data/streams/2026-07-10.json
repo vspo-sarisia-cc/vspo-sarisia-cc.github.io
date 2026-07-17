@@ -26,19 +26,6 @@
     "streamerId": "asumi_sena"
   },
   {
-    "id": "e7SOg471FFs",
-    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
-    "title": "アネモネ / 神成きゅぴ",
-    "thumbnail": "https://i.ytimg.com/vi/e7SOg471FFs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=e7SOg471FFs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-10T12:00:00Z",
-    "startTime": "2026-07-10T12:00:06Z",
-    "endTime": "2026-07-10T12:04:16Z",
-    "ttl": "2026-07-17T12:00:00.000Z",
-    "streamerId": "kaminari_qpi"
-  },
-  {
     "id": "IKh1nGRaqdE",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "橘ひなのに見守られながらクリーキングと戦う藍沢エマ【ぶいすぽっ！/ 藍沢エマ/花芽なずな/小雀とと/橘ひなの/マイクラ】",
@@ -50,19 +37,6 @@
     "endTime": "2026-07-10T22:19:03Z",
     "ttl": "2026-07-17T22:00:00.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "Zdc0OjHVD98",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【VALORANT】ソロランクへ２【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/Zdc0OjHVD98/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Zdc0OjHVD98",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-10T12:30:00Z",
-    "startTime": "2026-07-10T12:19:32Z",
-    "endTime": "2026-07-10T18:48:35Z",
-    "ttl": "2026-07-17T12:30:00.000Z",
-    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "RVe7HdS_02c",

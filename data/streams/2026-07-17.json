@@ -43,6 +43,7 @@
     "url": "https://www.youtube.com/watch?v=WzUw-DKC0eg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-17T12:00:00Z",
+    "startTime": "2026-07-17T12:04:57Z",
     "ttl": "2026-07-24T12:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -103,6 +104,7 @@
     "url": "https://www.youtube.com/watch?v=CHmZRB0OxjY",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-17T12:30:00Z",
+    "startTime": "2026-07-17T13:19:26Z",
     "ttl": "2026-07-24T12:30:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -126,6 +128,7 @@
     "url": "https://www.youtube.com/watch?v=hjv5-p0jiLo",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-17T12:00:00Z",
+    "startTime": "2026-07-17T11:59:24Z",
     "ttl": "2026-07-24T12:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
