@@ -16,7 +16,7 @@
     "id": "GVgmRxmKoz8",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【アークナイツ：エンドフィールド】深夜のチル工業 オクギさん…推し登場【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/GVgmRxmKoz8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/GVgmRxmKoz8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=GVgmRxmKoz8",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-17T16:45:00Z",
@@ -144,7 +144,7 @@
     "id": "CHmZRB0OxjY",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【Minecraft】夏祭り会場に競馬場を作るのです🐴【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/CHmZRB0OxjY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/CHmZRB0OxjY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=CHmZRB0OxjY",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-17T12:30:00Z",
@@ -202,6 +202,19 @@
     "endTime": "2026-07-17T05:23:03Z",
     "ttl": "2026-07-24T03:00:00.000Z",
     "streamerId": "jira_jisaki"
+  },
+  {
+    "id": "ET0zK2NpvE4",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Wuthering Waves 2.2◢ NEW WIVES? w/ EYE TRACKER (part. 1) | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/ET0zK2NpvE4/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=ET0zK2NpvE4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-17T14:00:00Z",
+    "startTime": "2026-07-17T14:00:31Z",
+    "endTime": "2026-07-17T18:31:47Z",
+    "ttl": "2026-07-24T14:00:00.000Z",
+    "streamerId": "juno_umezono"
   },
   {
     "id": "316180254065",
