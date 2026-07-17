@@ -65,19 +65,6 @@
     "streamerId": "tachibana_hinano"
   },
   {
-    "id": "y8cTJOToIeg",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 Minecraft 】サギョ～するぞ～【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/y8cTJOToIeg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=y8cTJOToIeg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-10T07:45:00Z",
-    "startTime": "2026-07-10T07:48:18Z",
-    "endTime": "2026-07-10T10:08:49Z",
-    "ttl": "2026-07-17T07:45:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
     "id": "e7SOg471FFs",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "アネモネ / 神成きゅぴ",
@@ -141,32 +128,6 @@
     "endTime": "2026-07-10T18:48:35Z",
     "ttl": "2026-07-17T12:30:00.000Z",
     "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "rdfaoS0XT0U",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【VALORANT】ソロコンペへ１【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/rdfaoS0XT0U/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=rdfaoS0XT0U",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-10T08:51:00Z",
-    "startTime": "2026-07-10T08:52:26Z",
-    "endTime": "2026-07-10T10:19:56Z",
-    "ttl": "2026-07-17T08:51:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "Eh2uM6KtMd8",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【MSI2026】LYON vs G2 | Mid-Season Invitational 2026 Bracket Stage Day 7 同時視聴！",
-    "thumbnail": "https://i.ytimg.com/vi/Eh2uM6KtMd8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Eh2uM6KtMd8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-10T08:00:00Z",
-    "startTime": "2026-07-10T08:00:23Z",
-    "endTime": "2026-07-10T10:46:19Z",
-    "ttl": "2026-07-17T08:00:00.000Z",
-    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "4D86PJVXCb8",

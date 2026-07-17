@@ -11,6 +11,17 @@
     "streamerId": "yano_kuromu"
   },
   {
+    "id": "HMH4S3z3cRQ",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【Minecraft】トライアルチャンバーとやらに、行ってみます【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/HMH4S3z3cRQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=HMH4S3z3cRQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-17T11:00:00Z",
+    "ttl": "2026-07-24T11:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
     "id": "1V5tk1bN6xM",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 APEX 】　Dozで出会った方たちとフルパ！！！！！w/ぎぞく、さかいさんだー【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -81,6 +92,18 @@
     "streamerId": "juno_umezono"
   },
   {
+    "id": "316244391155",
+    "channelId": "akarindao",
+    "title": "ぶいすぽ夏祭りに向けて、BIGちーたま編→闘技場",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-17T07:16:21Z",
+    "startTime": "2026-07-17T07:16:21Z",
+    "platform": "twitch",
+    "ttl": "2026-07-24T07:16:21.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
     "id": "316180254065",
     "channelId": "ren_kisaragi__",
     "title": "鬼の作業雑談",
@@ -91,5 +114,17 @@
     "platform": "twitch",
     "ttl": "2026-07-24T06:09:19.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316180675569",
+    "channelId": "choyahanabi",
+    "title": "【スト６】地上きたぞ！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_choyahanabi-320x180.jpg",
+    "url": "https://www.twitch.tv/choyahanabi",
+    "scheduledStartTime": "2026-07-17T08:31:28Z",
+    "startTime": "2026-07-17T08:31:28Z",
+    "platform": "twitch",
+    "ttl": "2026-07-24T08:31:28.000Z",
+    "streamerId": "choya_hanabi"
   }
 ]
