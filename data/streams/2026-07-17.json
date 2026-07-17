@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=Hqu6Jj3iCco",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-17T01:30:00Z",
+    "startTime": "2026-07-17T01:29:37Z",
     "ttl": "2026-07-24T01:30:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -40,19 +41,9 @@
     "url": "https://www.youtube.com/watch?v=kY5qM0KFWZo",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-17T03:00:00Z",
+    "startTime": "2026-07-17T03:07:14Z",
     "ttl": "2026-07-24T03:00:00.000Z",
     "streamerId": "jira_jisaki"
-  },
-  {
-    "id": "VpDL7uvh5Uo",
-    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
-    "title": "【VALORANT】 placement games wahoo 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/VpDL7uvh5Uo/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=VpDL7uvh5Uo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-17T03:00:00Z",
-    "ttl": "2026-07-24T03:00:00.000Z",
-    "streamerId": "narin_mikure"
   },
   {
     "id": "ET0zK2NpvE4",
