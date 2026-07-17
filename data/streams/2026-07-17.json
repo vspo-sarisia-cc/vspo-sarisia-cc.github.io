@@ -52,6 +52,19 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "gwFlbvii7u0",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "ネザライトを取りに皆でネザーへ！そして大忙しのひなのママ【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/gwFlbvii7u0/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=gwFlbvii7u0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-17T22:00:00Z",
+    "startTime": "2026-07-17T22:00:06Z",
+    "endTime": "2026-07-17T22:19:46Z",
+    "ttl": "2026-07-24T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "WzUw-DKC0eg",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【崩壊:スターレイル】#15 ピノコニーとももうお別れかもしれない→PV鑑賞【ぶいすぽっ！/ 藍沢エマ】",
@@ -65,15 +78,16 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "gwFlbvii7u0",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "ネザライトを取りに皆でネザーへ！そして大忙しのひなのママ【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/gwFlbvii7u0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=gwFlbvii7u0",
+    "id": "qulmwBjjLCc",
+    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
+    "title": "【 APEX 】おはようございます【 ぶいすぽっ！ / 小森めと 】",
+    "thumbnail": "https://i.ytimg.com/vi/qulmwBjjLCc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=qulmwBjjLCc",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-17T22:00:00Z",
-    "ttl": "2026-07-24T22:00:00.000Z",
-    "streamerId": "aizawa_ema"
+    "scheduledStartTime": "2026-07-17T22:10:00Z",
+    "startTime": "2026-07-17T22:25:42Z",
+    "ttl": "2026-07-24T22:10:00.000Z",
+    "streamerId": "komori_met"
   },
   {
     "id": "PwCdDEQ5tF0",
