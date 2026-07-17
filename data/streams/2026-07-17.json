@@ -1,5 +1,29 @@
 [
   {
+    "id": "-_kEiz62F2g",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】フルパ！/ハセ、こはくちゃん【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/-_kEiz62F2g/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=-_kEiz62F2g",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-17T11:15:00Z",
+    "startTime": "2026-07-17T11:20:17Z",
+    "ttl": "2026-07-24T11:15:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "EtmdAbMuq18",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 Minecraft 】トライアルチャンバー行ってなんかやる 【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/EtmdAbMuq18/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=EtmdAbMuq18",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-17T11:00:00Z",
+    "startTime": "2026-07-17T11:04:11Z",
+    "ttl": "2026-07-24T11:00:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "XEQccLXB3WE",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【Minecraft】告知後→20時から夏祭り闘技場作り【ぶいすぽ/八雲べに】",
@@ -7,6 +31,7 @@
     "url": "https://www.youtube.com/watch?v=XEQccLXB3WE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-17T10:45:00Z",
+    "startTime": "2026-07-17T10:47:08Z",
     "ttl": "2026-07-24T10:45:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -41,6 +66,7 @@
     "url": "https://www.youtube.com/watch?v=HMH4S3z3cRQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-17T11:00:00Z",
+    "startTime": "2026-07-17T11:04:11Z",
     "ttl": "2026-07-24T11:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -52,6 +78,7 @@
     "url": "https://www.youtube.com/watch?v=1V5tk1bN6xM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-17T11:00:00Z",
+    "startTime": "2026-07-17T11:00:23Z",
     "ttl": "2026-07-24T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -67,6 +94,29 @@
     "endTime": "2026-07-17T05:13:46Z",
     "ttl": "2026-07-24T01:30:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "CHmZRB0OxjY",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【Minecraft】夏祭り会場に競馬場を作るのです🐴【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/CHmZRB0OxjY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=CHmZRB0OxjY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-17T12:30:00Z",
+    "ttl": "2026-07-24T12:30:00.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "MUKfJQRxNks",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  Minecraft  ◢　ダンジョン攻略→夏祭り準備します！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/MUKfJQRxNks/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=MUKfJQRxNks",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-17T11:00:00Z",
+    "startTime": "2026-07-17T11:04:57Z",
+    "ttl": "2026-07-24T11:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "hjv5-p0jiLo",
@@ -127,15 +177,27 @@
     "streamerId": "yumeno_akari"
   },
   {
+    "id": "316181230577",
+    "channelId": "ramuneshiranami",
+    "title": "【マイクラ】夏祭り準備",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-07-17T11:09:56Z",
+    "startTime": "2026-07-17T11:09:56Z",
+    "platform": "twitch",
+    "ttl": "2026-07-24T11:09:56.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
     "id": "316180254065",
     "channelId": "ren_kisaragi__",
     "title": "鬼の作業雑談",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-07-17T06:09:19Z",
-    "startTime": "2026-07-17T06:09:19Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/20b9b3a5805daa01d1bf_ren_kisaragi___316180254065_1784268559//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2821999546",
+    "scheduledStartTime": "2026-07-17T06:09:24Z",
+    "startTime": "2026-07-17T06:09:24Z",
     "platform": "twitch",
-    "ttl": "2026-07-24T06:09:19.000Z",
+    "ttl": "2026-07-24T06:09:24.000Z",
     "streamerId": "kisaragi_ren"
   },
   {
