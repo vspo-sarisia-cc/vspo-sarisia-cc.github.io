@@ -103,11 +103,12 @@
     "id": "HMH4S3z3cRQ",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【Minecraft】トライアルチャンバーとやらに、行ってみます【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/HMH4S3z3cRQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/HMH4S3z3cRQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=HMH4S3z3cRQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-17T11:00:00Z",
     "startTime": "2026-07-17T11:04:11Z",
+    "endTime": "2026-07-17T16:24:44Z",
     "ttl": "2026-07-24T11:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -211,18 +212,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316244391155",
-    "channelId": "akarindao",
-    "title": "ぶいすぽ夏祭りに向けて、BIGちーたま編→闘技場",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-17T07:16:21Z",
-    "startTime": "2026-07-17T07:16:21Z",
-    "platform": "twitch",
-    "ttl": "2026-07-24T07:16:21.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316180254065",
     "channelId": "ren_kisaragi__",
     "title": "鬼の作業雑談",
@@ -245,6 +234,18 @@
     "platform": "twitch",
     "ttl": "2026-07-24T11:10:01.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316244391155",
+    "channelId": "akarindao",
+    "title": "ぶいすぽ夏祭りに向けて、BIGちーたま編→闘技場",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/a4d15317d19ba763d2fe_akarindao_316244391155_1784272581//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2822021627",
+    "scheduledStartTime": "2026-07-17T07:16:26Z",
+    "startTime": "2026-07-17T07:16:26Z",
+    "platform": "twitch",
+    "ttl": "2026-07-24T07:16:26.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316180675569",
