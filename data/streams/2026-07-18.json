@@ -81,7 +81,7 @@
     "id": "8ptQtMObFdE",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【VCR RUST3】のぞき見する…【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/8ptQtMObFdE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/8ptQtMObFdE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=8ptQtMObFdE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-18T12:10:00Z",
@@ -227,6 +227,29 @@
     "scheduledStartTime": "2026-07-18T12:00:00Z",
     "ttl": "2026-07-25T12:00:00.000Z",
     "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "44nt8fb_eVU",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【WORLD CUP WATCHALONG】FRANCE VS ENGLAND - 3RD PLACE MATCH【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/44nt8fb_eVU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=44nt8fb_eVU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-18T21:30:00Z",
+    "ttl": "2026-07-25T21:30:00.000Z",
+    "streamerId": "riko_solari"
+  },
+  {
+    "id": "316252017651",
+    "channelId": "akarindao",
+    "title": "フランス vs イングランド みるよ！",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-18T20:56:54Z",
+    "startTime": "2026-07-18T20:56:54Z",
+    "platform": "twitch",
+    "ttl": "2026-07-25T20:56:54.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316185561201",
