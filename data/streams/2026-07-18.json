@@ -153,18 +153,6 @@
     "streamerId": "komori_met"
   },
   {
-    "id": "uY5fvich4EA",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【VCR Rust3】海賊？レッツゴー！！2【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/uY5fvich4EA/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=uY5fvich4EA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-18T15:20:00Z",
-    "startTime": "2026-07-18T15:20:06Z",
-    "ttl": "2026-07-25T15:20:00.000Z",
-    "streamerId": "sendo_yuuhi"
-  },
-  {
     "id": "tkDKw4iglzM",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【VCR Rust3】海賊？レッツゴー！！【 ぶいすぽっ！ / 千燈ゆうひ 】",
@@ -175,6 +163,18 @@
     "startTime": "2026-07-18T15:00:42Z",
     "endTime": "2026-07-18T15:18:47Z",
     "ttl": "2026-07-25T15:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "uY5fvich4EA",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【VCR Rust3】海賊？レッツゴー！！2【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/uY5fvich4EA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=uY5fvich4EA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-18T15:20:00Z",
+    "startTime": "2026-07-18T15:20:06Z",
+    "ttl": "2026-07-25T15:20:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
   {
@@ -217,18 +217,6 @@
     "streamerId": "tatsumaki_chise"
   },
   {
-    "id": "OZ5TsNwqr8o",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "Unarchived Karaoke | 2nd Anniversary After Party! 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/OZ5TsNwqr8o/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=OZ5TsNwqr8o",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-18T16:00:00Z",
-    "startTime": "2026-07-18T16:01:33Z",
-    "ttl": "2026-07-25T16:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
     "id": "jTo9ygCrvg8",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【ESCAPE THE BACKROOMS】i dont think we're going to make it past lvl 2 【#VSPOEN #AryaKuroha】",
@@ -238,17 +226,6 @@
     "scheduledStartTime": "2026-07-18T12:00:00Z",
     "ttl": "2026-07-25T12:00:00.000Z",
     "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "E5BymxS-wxM",
-    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
-    "title": "【NO POV】귀여운 노예들 구합니당 w. 헤비 이샤 하네 나츠키【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/E5BymxS-wxM/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=E5BymxS-wxM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-18T06:00:00Z",
-    "ttl": "2026-07-25T06:00:00.000Z",
-    "streamerId": "jira_jisaki"
   },
   {
     "id": "316185561201",
