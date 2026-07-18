@@ -71,6 +71,7 @@
     "url": "https://www.youtube.com/watch?v=Tmhac53H_sA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-18T14:30:00Z",
+    "startTime": "2026-07-18T14:32:14Z",
     "ttl": "2026-07-25T14:30:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -148,6 +149,18 @@
     "scheduledStartTime": "2026-07-18T23:00:00Z",
     "ttl": "2026-07-25T23:00:00.000Z",
     "streamerId": "komori_met"
+  },
+  {
+    "id": "tkDKw4iglzM",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【VCR Rust3】海賊？レッツゴー！！【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/tkDKw4iglzM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=tkDKw4iglzM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-18T15:00:00Z",
+    "startTime": "2026-07-18T15:00:42Z",
+    "ttl": "2026-07-25T15:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "mUg0bCHztuM",
