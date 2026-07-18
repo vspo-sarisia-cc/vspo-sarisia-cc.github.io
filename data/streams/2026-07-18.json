@@ -26,6 +26,18 @@
     "streamerId": "ichinose_uruha"
   },
   {
+    "id": "Ip8vmDmkTh0",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 夜ふかし雑談 】#83 お久しぶりです！覚えてますか？【ぶいすぽっ！胡桃のあ】",
+    "thumbnail": "https://i.ytimg.com/vi/Ip8vmDmkTh0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Ip8vmDmkTh0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-18T14:00:00Z",
+    "startTime": "2026-07-18T14:04:19Z",
+    "ttl": "2026-07-25T14:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "Pr9r3VHrIY0",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 めっちゃカメレオン 】なんか色々アプデ来てるってことは知ってる！/つな、あかりん、ミミちゃん、もかちゃん、うひ、たま、ととち【 ぶいすぽっ！胡桃のあ 】",
@@ -50,6 +62,17 @@
     "endTime": "2026-07-18T12:19:00Z",
     "ttl": "2026-07-25T10:00:00.000Z",
     "streamerId": "tosaki_mimi"
+  },
+  {
+    "id": "Tmhac53H_sA",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "【深夜雑談】明日6周年3Dライブあるらしい【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/Tmhac53H_sA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Tmhac53H_sA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-18T14:30:00Z",
+    "ttl": "2026-07-25T14:30:00.000Z",
+    "streamerId": "asumi_sena"
   },
   {
     "id": "8ptQtMObFdE",
@@ -143,7 +166,7 @@
     "id": "hoDViBh1ct4",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤ めっちゃカメレオン ◢　今日も擬態して目を凝らしていきます！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/hoDViBh1ct4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/hoDViBh1ct4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=hoDViBh1ct4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-18T10:00:00Z",

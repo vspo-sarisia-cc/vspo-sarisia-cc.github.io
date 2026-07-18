@@ -13,57 +13,6 @@
     "streamerId": "kaga_sumire"
   },
   {
-    "id": "OWs9NRgijik",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【League of Legends】ほぼ湯けむり5v5ランクいくぞー！！w/酒寄颯馬,スタンミじゃぱん,焼きパン,たかやスペシャル【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/OWs9NRgijik/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=OWs9NRgijik",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-11T13:30:00Z",
-    "startTime": "2026-07-11T13:27:22Z",
-    "endTime": "2026-07-11T18:25:37Z",
-    "ttl": "2026-07-18T13:30:00.000Z",
-    "streamerId": "sendo_yuuhi"
-  },
-  {
-    "id": "PskePb5JuNI",
-    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-    "title": "【APEX LEGENDS】EWC FINALS - WATCHPARTY !【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/PskePb5JuNI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=PskePb5JuNI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-11T14:00:00Z",
-    "startTime": "2026-07-11T13:38:07Z",
-    "endTime": "2026-07-11T19:35:47Z",
-    "ttl": "2026-07-18T14:00:00.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "ZIx6_5MkmmE",
-    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
-    "title": "【APEX LEGENDS】DAY 5 EWC FINALS WATCHPARTY!!!!!!【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/ZIx6_5MkmmE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ZIx6_5MkmmE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-11T13:45:00Z",
-    "startTime": "2026-07-11T13:46:25Z",
-    "endTime": "2026-07-11T19:38:58Z",
-    "ttl": "2026-07-18T13:45:00.000Z",
-    "streamerId": "riko_solari"
-  },
-  {
-    "id": "316155584241",
-    "channelId": "ramuneshiranami",
-    "title": "【Echoes of Aincrad】デスゲームの続き",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/ae3c01e860c9c9e5879c_ramuneshiranami_316155584241_1783776991//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2817438874",
-    "scheduledStartTime": "2026-07-11T13:36:36Z",
-    "startTime": "2026-07-11T13:36:36Z",
-    "platform": "twitch",
-    "ttl": "2026-07-18T13:36:36.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316165837810",
     "channelId": "akarindao",
     "title": "W杯ノルウェー vs イングランド DAZNで同時視聴",
@@ -74,17 +23,5 @@
     "platform": "twitch",
     "ttl": "2026-07-18T20:52:00.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "320412316123",
-    "channelId": "aryakuroha",
-    "title": "✦ EWC FINALS - WATCHPARTY !",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/a8cb36d9ac58be0cf0f2_aryakuroha_320412316123_1783776985//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2817438863",
-    "scheduledStartTime": "2026-07-11T13:36:35Z",
-    "startTime": "2026-07-11T13:36:35Z",
-    "platform": "twitch",
-    "ttl": "2026-07-18T13:36:35.000Z",
-    "streamerId": "arya_kuroha"
   }
 ]
