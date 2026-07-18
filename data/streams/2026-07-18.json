@@ -8,6 +8,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-18T04:30:00Z",
     "startTime": "2026-07-18T04:23:35Z",
+    "endTime": "2026-07-18T07:41:07Z",
     "ttl": "2026-07-25T04:30:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -19,6 +20,7 @@
     "url": "https://www.youtube.com/watch?v=Zc88ZUaFrus",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-18T06:30:00Z",
+    "startTime": "2026-07-18T06:32:40Z",
     "ttl": "2026-07-25T06:30:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -70,6 +72,17 @@
     "streamerId": "arya_kuroha"
   },
   {
+    "id": "E5BymxS-wxM",
+    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+    "title": "【NO POV】귀여운 노예들 구합니당 w. 헤비 이샤 하네 나츠키【#VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/E5BymxS-wxM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=E5BymxS-wxM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-18T06:00:00Z",
+    "ttl": "2026-07-25T06:00:00.000Z",
+    "streamerId": "jira_jisaki"
+  },
+  {
     "id": "SEJQKKcM_U8",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Escape The Backrooms◢ apex players try to escape the backrooms  | #JunoUmezono #VSPOEN",
@@ -79,5 +92,17 @@
     "scheduledStartTime": "2026-07-18T11:50:00Z",
     "ttl": "2026-07-25T11:50:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316184911729",
+    "channelId": "sendo_yuuhi",
+    "title": "なんでvalo？ w/zerost,ceros,てぃんとん3,アルファ君",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sendo_yuuhi-320x180.jpg",
+    "url": "https://www.twitch.tv/sendo_yuuhi",
+    "scheduledStartTime": "2026-07-18T06:32:08Z",
+    "startTime": "2026-07-18T06:32:08Z",
+    "platform": "twitch",
+    "ttl": "2026-07-25T06:32:08.000Z",
+    "streamerId": "sendo_yuuhi"
   }
 ]
