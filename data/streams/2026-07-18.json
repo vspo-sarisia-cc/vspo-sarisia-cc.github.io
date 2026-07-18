@@ -17,8 +17,9 @@
     "thumbnail": "https://i.ytimg.com/vi/yJBOgg2ASGE/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=yJBOgg2ASGE",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-18T03:00:00Z",
-    "ttl": "2026-07-25T03:00:00.000Z",
+    "scheduledStartTime": "2026-07-18T00:30:00Z",
+    "startTime": "2026-07-18T00:03:43Z",
+    "ttl": "2026-07-25T00:30:00.000Z",
     "streamerId": "arya_kuroha"
   },
   {
