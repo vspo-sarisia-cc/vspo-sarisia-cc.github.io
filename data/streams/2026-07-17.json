@@ -81,11 +81,12 @@
     "id": "qulmwBjjLCc",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 APEX 】おはようございます【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/qulmwBjjLCc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/qulmwBjjLCc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=qulmwBjjLCc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-17T22:10:00Z",
     "startTime": "2026-07-17T22:25:42Z",
+    "endTime": "2026-07-18T01:20:51Z",
     "ttl": "2026-07-24T22:10:00.000Z",
     "streamerId": "komori_met"
   },
