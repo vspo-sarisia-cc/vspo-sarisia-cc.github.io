@@ -154,6 +154,19 @@
     "streamerId": "komori_met"
   },
   {
+    "id": "uY5fvich4EA",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【VCR Rust3】海賊？レッツゴー！！2【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/uY5fvich4EA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=uY5fvich4EA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-18T15:20:00Z",
+    "startTime": "2026-07-18T15:20:06Z",
+    "endTime": "2026-07-18T21:06:00Z",
+    "ttl": "2026-07-25T15:20:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
     "id": "tkDKw4iglzM",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【VCR Rust3】海賊？レッツゴー！！【 ぶいすぽっ！ / 千燈ゆうひ 】",
@@ -164,18 +177,6 @@
     "startTime": "2026-07-18T15:00:42Z",
     "endTime": "2026-07-18T15:18:47Z",
     "ttl": "2026-07-25T15:00:00.000Z",
-    "streamerId": "sendo_yuuhi"
-  },
-  {
-    "id": "uY5fvich4EA",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【VCR Rust3】海賊？レッツゴー！！2【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/uY5fvich4EA/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=uY5fvich4EA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-18T15:20:00Z",
-    "startTime": "2026-07-18T15:20:06Z",
-    "ttl": "2026-07-25T15:20:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
   {
@@ -236,6 +237,7 @@
     "url": "https://www.youtube.com/watch?v=44nt8fb_eVU",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-18T21:30:00Z",
+    "startTime": "2026-07-18T21:19:53Z",
     "ttl": "2026-07-25T21:30:00.000Z",
     "streamerId": "riko_solari"
   },
