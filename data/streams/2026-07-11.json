@@ -91,19 +91,6 @@
     "streamerId": "tachibana_hinano"
   },
   {
-    "id": "AX1fhmVhMxk",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 Minecraft 】今日もコツコツ 【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/AX1fhmVhMxk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=AX1fhmVhMxk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-11T04:45:00Z",
-    "startTime": "2026-07-11T04:45:48Z",
-    "endTime": "2026-07-11T09:14:10Z",
-    "ttl": "2026-07-18T04:45:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
     "id": "9fEWh78FRpU",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【Rocket League】ぶいすぽW杯キターーーー⚽ #ぶいすぽGG【ぶいすぽ/八雲べに】",
@@ -115,19 +102,6 @@
     "endTime": "2026-07-11T13:23:12Z",
     "ttl": "2026-07-18T11:00:00.000Z",
     "streamerId": "yakumo_beni"
-  },
-  {
-    "id": "6oYoLdgVom0",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【APEX】たのむワールズエッジであってくれ【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/6oYoLdgVom0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=6oYoLdgVom0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-11T05:00:00Z",
-    "startTime": "2026-07-11T05:02:27Z",
-    "endTime": "2026-07-11T08:45:41Z",
-    "ttl": "2026-07-18T05:00:00.000Z",
-    "streamerId": "aizawa_ema"
   },
   {
     "id": "JnuvIehnppc",
@@ -195,19 +169,6 @@
     "streamerId": "amayui_moka"
   },
   {
-    "id": "Vk_JHtAb6s0",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【APEX LEGENDS】おひさしぶりですFPSさん ／ エマ先輩、ゆいさん【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/Vk_JHtAb6s0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Vk_JHtAb6s0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-11T05:00:00Z",
-    "startTime": "2026-07-11T05:00:29Z",
-    "endTime": "2026-07-11T08:46:50Z",
-    "ttl": "2026-07-18T05:00:00.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
     "id": "_b-1kFxXwK8",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  ロケットリーグ ◢　シュート決めにいくぞおおお   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
@@ -218,19 +179,6 @@
     "startTime": "2026-07-11T11:07:16Z",
     "endTime": "2026-07-11T13:36:47Z",
     "ttl": "2026-07-18T11:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
-    "id": "A0_4UMH_qdo",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  Echoes of Aincrad  ◢　ベリーハードのデスゲームやるぞー！！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/A0_4UMH_qdo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=A0_4UMH_qdo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-11T05:05:00Z",
-    "startTime": "2026-07-11T05:05:27Z",
-    "endTime": "2026-07-11T09:53:58Z",
-    "ttl": "2026-07-18T05:05:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
   {
@@ -345,18 +293,6 @@
     "startTime": "2026-07-11T07:48:13Z",
     "platform": "twitch",
     "ttl": "2026-07-18T07:48:13.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "316153582705",
-    "channelId": "ramuneshiranami",
-    "title": "【Echoes of Aincrad】デスゲームの続きする",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/595a987102eaec75b827_ramuneshiranami_316153582705_1783748323//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2817248937",
-    "scheduledStartTime": "2026-07-11T05:38:48Z",
-    "startTime": "2026-07-11T05:38:48Z",
-    "platform": "twitch",
-    "ttl": "2026-07-18T05:38:48.000Z",
     "streamerId": "shiranami_ramune"
   },
   {
