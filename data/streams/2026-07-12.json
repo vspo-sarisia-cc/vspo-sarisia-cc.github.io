@@ -1,31 +1,5 @@
 [
   {
-    "id": "d7AGARDCzZc",
-    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
-    "title": "【深夜雑談】チルしたっていい。【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/d7AGARDCzZc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=d7AGARDCzZc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T14:50:00Z",
-    "startTime": "2026-07-12T14:55:57Z",
-    "endTime": "2026-07-12T17:15:41Z",
-    "ttl": "2026-07-19T14:50:00.000Z",
-    "streamerId": "asumi_sena"
-  },
-  {
-    "id": "3bC8jc9x7rc",
-    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
-    "title": "【 Minecraft 】建てる【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/3bC8jc9x7rc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=3bC8jc9x7rc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T14:55:00Z",
-    "startTime": "2026-07-12T14:59:00Z",
-    "endTime": "2026-07-13T00:03:59Z",
-    "ttl": "2026-07-19T14:55:00.000Z",
-    "streamerId": "shinomiya_runa"
-  },
-  {
     "id": "4DQ9YF8Nn1U",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Minecraft 】　夏祭り素材あつめリベンジ！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -50,19 +24,6 @@
     "endTime": "2026-07-12T23:15:54Z",
     "ttl": "2026-07-19T21:30:00.000Z",
     "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "-i7eA1LO4jg",
-    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
-    "title": "【League of Legends】i STILL LOVE SONA【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/-i7eA1LO4jg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=-i7eA1LO4jg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T15:00:00Z",
-    "startTime": "2026-07-12T15:03:48Z",
-    "endTime": "2026-07-12T17:12:47Z",
-    "ttl": "2026-07-19T15:00:00.000Z",
-    "streamerId": "jira_jisaki"
   },
   {
     "id": "316225397875",
