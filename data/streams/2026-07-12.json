@@ -13,19 +13,6 @@
     "streamerId": "kaga_nazuna"
   },
   {
-    "id": "8XAJByOkYfg",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【シャドバWB】今日も！ドラ×エルフで対戦会するよ！w.リグゼコーチ【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/8XAJByOkYfg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=8XAJByOkYfg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T02:00:00Z",
-    "startTime": "2026-07-12T02:04:17Z",
-    "endTime": "2026-07-12T03:51:31Z",
-    "ttl": "2026-07-19T02:00:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "cQ7kn4CrIBU",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "#07【LOST JUDGMENT:裁かれざる記憶】完全初見！この世の悪を正す【ぶいすぽ/一ノ瀬うるは】※ネタバレあり",
@@ -88,19 +75,6 @@
     "startTime": "2026-07-12T09:59:55Z",
     "endTime": "2026-07-12T15:49:03Z",
     "ttl": "2026-07-19T10:00:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
-    "id": "PO-Rw5Z8RtY",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【ワールドカップ同時視聴】DAZNで！準々決勝アルゼンチン全力応援⚽【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/PO-Rw5Z8RtY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=PO-Rw5Z8RtY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T01:00:00Z",
-    "startTime": "2026-07-12T00:57:56Z",
-    "endTime": "2026-07-12T03:53:25Z",
-    "ttl": "2026-07-19T01:00:00.000Z",
     "streamerId": "yakumo_beni"
   },
   {
@@ -260,19 +234,6 @@
     "streamerId": "ginjo_saine"
   },
   {
-    "id": "jTKgmsEHkTY",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【スト6】🔰初心者なので皆様【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/jTKgmsEHkTY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=jTKgmsEHkTY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T02:30:00Z",
-    "startTime": "2026-07-12T02:32:04Z",
-    "endTime": "2026-07-12T06:36:34Z",
-    "ttl": "2026-07-19T02:30:00.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
     "id": "-i7eA1LO4jg",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【League of Legends】i STILL LOVE SONA【#VSPOEN #JiraJisaki】",
@@ -347,17 +308,5 @@
     "platform": "twitch",
     "ttl": "2026-07-19T22:21:35.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316157655409",
-    "channelId": "choyahanabi",
-    "title": "【スト６】帰宅後初焔！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/2aca5eaf69f46a8b0abd_choyahanabi_316157655409_1783822369//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2817931710",
-    "scheduledStartTime": "2026-07-12T02:12:55Z",
-    "startTime": "2026-07-12T02:12:55Z",
-    "platform": "twitch",
-    "ttl": "2026-07-19T02:12:55.000Z",
-    "streamerId": "choya_hanabi"
   }
 ]

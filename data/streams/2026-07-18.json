@@ -146,11 +146,12 @@
     "id": "-S2GultNBc4",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 ニチアサ 】しゃ、しゃべれんの？【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/-S2GultNBc4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/-S2GultNBc4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=-S2GultNBc4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-18T23:00:00Z",
     "startTime": "2026-07-18T23:00:15Z",
+    "endTime": "2026-07-19T01:21:16Z",
     "ttl": "2026-07-25T23:00:00.000Z",
     "streamerId": "komori_met"
   },
@@ -218,17 +219,6 @@
     "endTime": "2026-07-18T08:55:11Z",
     "ttl": "2026-07-25T05:20:00.000Z",
     "streamerId": "tatsumaki_chise"
-  },
-  {
-    "id": "jTo9ygCrvg8",
-    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-    "title": "【ESCAPE THE BACKROOMS】i dont think we're going to make it past lvl 2 【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/jTo9ygCrvg8/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=jTo9ygCrvg8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-18T12:00:00Z",
-    "ttl": "2026-07-25T12:00:00.000Z",
-    "streamerId": "arya_kuroha"
   },
   {
     "id": "44nt8fb_eVU",
