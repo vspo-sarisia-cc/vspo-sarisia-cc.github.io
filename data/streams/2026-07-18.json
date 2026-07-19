@@ -234,25 +234,14 @@
     "id": "44nt8fb_eVU",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【WORLD CUP WATCHALONG】FRANCE VS ENGLAND - 3RD PLACE MATCH【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/44nt8fb_eVU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/44nt8fb_eVU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=44nt8fb_eVU",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-18T21:30:00Z",
     "startTime": "2026-07-18T21:19:53Z",
+    "endTime": "2026-07-18T23:33:23Z",
     "ttl": "2026-07-25T21:30:00.000Z",
     "streamerId": "riko_solari"
-  },
-  {
-    "id": "316252017651",
-    "channelId": "akarindao",
-    "title": "フランス vs イングランド みるよ！",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-18T20:56:54Z",
-    "startTime": "2026-07-18T20:56:54Z",
-    "platform": "twitch",
-    "ttl": "2026-07-25T20:56:54.000Z",
-    "streamerId": "yumeno_akari"
   },
   {
     "id": "316185561201",
@@ -265,6 +254,18 @@
     "platform": "twitch",
     "ttl": "2026-07-25T09:53:18.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316252017651",
+    "channelId": "akarindao",
+    "title": "フランス vs イングランド みるよ！",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/30b8b4c803d5273ddc40_akarindao_316252017651_1784408214//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2823296157",
+    "scheduledStartTime": "2026-07-18T20:56:59Z",
+    "startTime": "2026-07-18T20:56:59Z",
+    "platform": "twitch",
+    "ttl": "2026-07-25T20:56:59.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316249570163",
