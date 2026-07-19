@@ -1,5 +1,18 @@
 [
   {
+    "id": "u5OjJU954OQ",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【歌枠】だいぶ待たせてしまったね【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/u5OjJU954OQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=u5OjJU954OQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T06:30:00Z",
+    "startTime": "2026-07-19T06:38:57Z",
+    "endTime": "2026-07-19T08:31:08Z",
+    "ttl": "2026-07-26T06:30:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "A049ltoMeXI",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 Arkheron 】アーケロンけんきカスタム参加します！！ w/らむねちゃん、サイネちゃん【 ぶいすぽ / 小雀とと 】",
@@ -47,14 +60,38 @@
     "streamerId": "kaminari_qpi"
   },
   {
+    "id": "-EQ_NxOEtWQ",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【ワールドカップ同時視聴】DAZNで！決勝アルゼンチンvsスペイン⚽【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/-EQ_NxOEtWQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=-EQ_NxOEtWQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T19:00:00Z",
+    "ttl": "2026-07-26T19:00:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "qFK5Y2awtJs",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】すこしだけ！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/qFK5Y2awtJs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=qFK5Y2awtJs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T07:26:30Z",
+    "startTime": "2026-07-19T07:28:41Z",
+    "ttl": "2026-07-26T07:26:30.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "09C4EIR9I5Q",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【APEX】大会もあるしメン限時間までやる【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/09C4EIR9I5Q/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/09C4EIR9I5Q/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=09C4EIR9I5Q",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T04:45:00Z",
     "startTime": "2026-07-19T04:49:20Z",
+    "endTime": "2026-07-19T06:37:40Z",
     "ttl": "2026-07-26T04:45:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -69,6 +106,29 @@
     "startTime": "2026-07-19T05:01:22Z",
     "ttl": "2026-07-26T05:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "uuDn1wRQd3k",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【アーケロン】けんきさんのカスタムにぶいすぽメンバーで参加させていただきます！！／ とと先輩、らむね先輩【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/uuDn1wRQd3k/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=uuDn1wRQd3k",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T09:00:00Z",
+    "ttl": "2026-07-26T09:00:00.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "jZJ-y4b3NKI",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　お久ソロランクいきます！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/jZJ-y4b3NKI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=jZJ-y4b3NKI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T07:00:00Z",
+    "startTime": "2026-07-19T07:03:57Z",
+    "ttl": "2026-07-26T07:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "EFMgE6DnWIM",
