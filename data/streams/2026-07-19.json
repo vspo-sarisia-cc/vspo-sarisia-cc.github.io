@@ -55,7 +55,7 @@
     "id": "ADBU6n9uxSA",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【VCR RUST】こんにちは、お邪魔します❕【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/ADBU6n9uxSA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ADBU6n9uxSA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ADBU6n9uxSA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T12:30:00Z",
@@ -94,7 +94,7 @@
     "id": "GqTDj-2M3X4",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
     "title": "【VCR Rust】おじゃましまーす【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/GqTDj-2M3X4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/GqTDj-2M3X4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=GqTDj-2M3X4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T12:45:00Z",
@@ -155,19 +155,6 @@
     "streamerId": "kaminari_qpi"
   },
   {
-    "id": "eweij8nOhWI",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【 VCR RUST 】初心者です。おじゃまします🔰【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/eweij8nOhWI/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=eweij8nOhWI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-19T12:15:00Z",
-    "startTime": "2026-07-19T12:43:49Z",
-    "endTime": "2026-07-19T18:01:01Z",
-    "ttl": "2026-07-26T12:15:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
     "id": "-EQ_NxOEtWQ",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【ワールドカップ同時視聴】DAZNで！決勝アルゼンチンvsスペイン⚽【ぶいすぽ/八雲べに】",
@@ -175,7 +162,21 @@
     "url": "https://www.youtube.com/watch?v=-EQ_NxOEtWQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T19:00:00Z",
+    "startTime": "2026-07-19T18:54:15Z",
     "ttl": "2026-07-26T19:00:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "eweij8nOhWI",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【 VCR RUST 】初心者です。おじゃまします🔰【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/eweij8nOhWI/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=eweij8nOhWI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T12:15:00Z",
+    "startTime": "2026-07-19T12:43:49Z",
+    "endTime": "2026-07-19T18:01:01Z",
+    "ttl": "2026-07-26T12:15:00.000Z",
     "streamerId": "yakumo_beni"
   },
   {
@@ -231,10 +232,22 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "St3TU80AHOw",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【APEX】ズズと明日の21時までにゴールドまで上げる1（ズズブロンズ４）【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/St3TU80AHOw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=St3TU80AHOw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T18:10:00Z",
+    "startTime": "2026-07-19T18:09:13Z",
+    "ttl": "2026-07-26T18:10:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "sJvc8KPLAFo",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VCR Rust3】初めてのRust！withぶいすぽメンバー？【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/sJvc8KPLAFo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/sJvc8KPLAFo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=sJvc8KPLAFo",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T16:30:00Z",
@@ -254,17 +267,6 @@
     "startTime": "2026-07-19T13:52:10Z",
     "endTime": "2026-07-19T16:31:33Z",
     "ttl": "2026-07-26T13:50:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "St3TU80AHOw",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【APEX】ズズと明日の21時までにゴールドまで上げる1（ズズブロンズ４）【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/St3TU80AHOw/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=St3TU80AHOw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-19T18:10:00Z",
-    "ttl": "2026-07-26T18:10:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
   {
@@ -296,11 +298,12 @@
     "id": "VeRFLmG21GM",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 VCR RUST3 】　はじめてのRUSTいくぞおおおお🏴‍☠️！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/VeRFLmG21GM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/VeRFLmG21GM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=VeRFLmG21GM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T12:30:00Z",
     "startTime": "2026-07-19T12:43:46Z",
+    "endTime": "2026-07-19T18:08:45Z",
     "ttl": "2026-07-26T12:30:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -321,11 +324,12 @@
     "id": "tqEE8TfBoQ4",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【雑談】うどんを食べてなにかをする【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/tqEE8TfBoQ4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/tqEE8TfBoQ4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=tqEE8TfBoQ4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T15:30:00Z",
     "startTime": "2026-07-19T15:30:48Z",
+    "endTime": "2026-07-19T18:14:46Z",
     "ttl": "2026-07-26T15:30:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -372,18 +376,19 @@
     "id": "rOSb_m2q1qA",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【APEX LEGENDS】I WANNA GAME【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/rOSb_m2q1qA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/rOSb_m2q1qA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=rOSb_m2q1qA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T16:30:00Z",
     "startTime": "2026-07-19T16:31:45Z",
+    "endTime": "2026-07-19T18:45:33Z",
     "ttl": "2026-07-26T16:30:00.000Z",
     "streamerId": "riko_solari"
   },
   {
     "id": "C6vyOk1Mmo8",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤DOTA 2◢ \"BKB IS USELESS\" -SEA | #JunoUmezono #VSPOEN",
+    "title": "◤DOTA 2◢ \"BKB IS USELESS\" -SEA / FIFA FINALS WATCH ALONG | #JunoUmezono #VSPOEN",
     "thumbnail": "https://i.ytimg.com/vi/C6vyOk1Mmo8/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=C6vyOk1Mmo8",
     "platform": "youtube",
@@ -391,6 +396,30 @@
     "startTime": "2026-07-19T14:02:04Z",
     "ttl": "2026-07-26T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316192325105",
+    "channelId": "akarindao",
+    "title": "W杯スペイン vs アルゼンチン  ワクワクする！！！",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-19T18:55:54Z",
+    "startTime": "2026-07-19T18:55:54Z",
+    "platform": "twitch",
+    "ttl": "2026-07-26T18:55:54.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316192299121",
+    "channelId": "ren_kisaragi__",
+    "title": "延長時間に初ログインを試みる",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-07-19T18:43:08Z",
+    "startTime": "2026-07-19T18:43:08Z",
+    "platform": "twitch",
+    "ttl": "2026-07-26T18:43:08.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316255202035",
