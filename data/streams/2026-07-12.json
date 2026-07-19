@@ -1,31 +1,5 @@
 [
   {
-    "id": "cQ7kn4CrIBU",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "#07【LOST JUDGMENT:裁かれざる記憶】完全初見！この世の悪を正す【ぶいすぽ/一ノ瀬うるは】※ネタバレあり",
-    "thumbnail": "https://i.ytimg.com/vi/cQ7kn4CrIBU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=cQ7kn4CrIBU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T10:15:00Z",
-    "startTime": "2026-07-12T10:17:13Z",
-    "endTime": "2026-07-12T15:44:46Z",
-    "ttl": "2026-07-19T10:15:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
-    "id": "MkgWvXukhQg",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】またEディスに囚われている【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/MkgWvXukhQg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=MkgWvXukhQg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T10:25:00Z",
-    "startTime": "2026-07-12T10:34:23Z",
-    "endTime": "2026-07-12T12:38:50Z",
-    "ttl": "2026-07-19T10:25:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "d7AGARDCzZc",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【深夜雑談】チルしたっていい。【空澄セナ/ぶいすぽっ！】",
@@ -62,19 +36,6 @@
     "startTime": "2026-07-12T14:07:29Z",
     "endTime": "2026-07-12T18:05:39Z",
     "ttl": "2026-07-19T14:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "sEYozDWAnW8",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】はいよ～【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/sEYozDWAnW8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=sEYozDWAnW8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T10:45:00Z",
-    "startTime": "2026-07-12T10:41:17Z",
-    "endTime": "2026-07-12T13:27:03Z",
-    "ttl": "2026-07-19T10:45:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -167,32 +128,6 @@
     "endTime": "2026-07-12T17:12:47Z",
     "ttl": "2026-07-19T15:00:00.000Z",
     "streamerId": "jira_jisaki"
-  },
-  {
-    "id": "tvM-fZT2lQY",
-    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
-    "title": "【The Fears to Fathom: Scratch Creek】 lawl 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/tvM-fZT2lQY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=tvM-fZT2lQY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T11:00:00Z",
-    "startTime": "2026-07-12T11:02:07Z",
-    "endTime": "2026-07-12T13:52:52Z",
-    "ttl": "2026-07-19T11:00:00.000Z",
-    "streamerId": "narin_mikure"
-  },
-  {
-    "id": "C4lB9uQbX1Y",
-    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
-    "title": "【FEARS TO FATHOM - SCRATCH CREEK】horror game with nawin :3【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/C4lB9uQbX1Y/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=C4lB9uQbX1Y",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T11:00:00Z",
-    "startTime": "2026-07-12T11:00:31Z",
-    "endTime": "2026-07-12T13:52:21Z",
-    "ttl": "2026-07-19T11:00:00.000Z",
-    "streamerId": "riko_solari"
   },
   {
     "id": "_cMf3dapJDw",

@@ -38,18 +38,6 @@
     "streamerId": "ichinose_uruha"
   },
   {
-    "id": "JTfvjUHTSAo",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 歌枠🎵 】アーカイブはメン限～！【ぶいすぽっ！胡桃のあ】",
-    "thumbnail": "https://i.ytimg.com/vi/JTfvjUHTSAo/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=JTfvjUHTSAo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-19T09:50:00Z",
-    "startTime": "2026-07-19T10:02:00Z",
-    "ttl": "2026-07-26T09:50:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "UTSyc7RkHp8",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【#空澄セナ6周年記念LIVE】〜泡沫のクロニクル〜【空澄セナ/ぶいすぽっ！】",
@@ -57,6 +45,7 @@
     "url": "https://www.youtube.com/watch?v=UTSyc7RkHp8",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T11:00:00Z",
+    "startTime": "2026-07-19T10:58:12Z",
     "ttl": "2026-07-26T11:00:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -88,11 +77,12 @@
     "id": "Wi0TtniO74I",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【VCR RUST3】ファームして装備整えよう【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/Wi0TtniO74I/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Wi0TtniO74I/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Wi0TtniO74I",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T09:15:00Z",
     "startTime": "2026-07-19T09:28:34Z",
+    "endTime": "2026-07-19T10:49:39Z",
     "ttl": "2026-07-26T09:15:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -100,7 +90,7 @@
     "id": "qFK5Y2awtJs",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】すこしだけ！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/qFK5Y2awtJs/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/qFK5Y2awtJs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=qFK5Y2awtJs",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T07:26:30Z",
@@ -129,8 +119,8 @@
     "thumbnail": "https://i.ytimg.com/vi/2TcGO6_EgtA/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=2TcGO6_EgtA",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-19T11:00:00Z",
-    "ttl": "2026-07-26T11:00:00.000Z",
+    "scheduledStartTime": "2026-07-19T12:00:00Z",
+    "ttl": "2026-07-26T12:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
   {
@@ -162,11 +152,12 @@
     "id": "jZJ-y4b3NKI",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  League of Legends  ◢　お久ソロランクいきます！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/jZJ-y4b3NKI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/jZJ-y4b3NKI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=jZJ-y4b3NKI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T07:00:00Z",
     "startTime": "2026-07-19T07:03:57Z",
+    "endTime": "2026-07-19T10:34:04Z",
     "ttl": "2026-07-26T07:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
