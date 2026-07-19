@@ -3,7 +3,7 @@
     "id": "u5OjJU954OQ",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【歌枠】だいぶ待たせてしまったね【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/u5OjJU954OQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/u5OjJU954OQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=u5OjJU954OQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T06:30:00Z",
@@ -20,6 +20,7 @@
     "url": "https://www.youtube.com/watch?v=A049ltoMeXI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T09:00:00Z",
+    "startTime": "2026-07-19T09:02:01Z",
     "ttl": "2026-07-26T09:00:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -27,13 +28,26 @@
     "id": "t9mH9Q9oLdg",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【Minecraft】ネザライト取りに行く❕【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/t9mH9Q9oLdg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/t9mH9Q9oLdg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=t9mH9Q9oLdg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T05:00:00Z",
     "startTime": "2026-07-19T05:01:52Z",
+    "endTime": "2026-07-19T09:17:04Z",
     "ttl": "2026-07-26T05:00:00.000Z",
     "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "JTfvjUHTSAo",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 歌枠🎵 】アーカイブはメン限～！【ぶいすぽっ！胡桃のあ】",
+    "thumbnail": "https://i.ytimg.com/vi/JTfvjUHTSAo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=JTfvjUHTSAo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T09:50:00Z",
+    "startTime": "2026-07-19T10:02:00Z",
+    "ttl": "2026-07-26T09:50:00.000Z",
+    "streamerId": "kurumi_noah"
   },
   {
     "id": "UTSyc7RkHp8",
@@ -71,6 +85,18 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "Wi0TtniO74I",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【VCR RUST3】ファームして装備整えよう【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/Wi0TtniO74I/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Wi0TtniO74I",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T09:15:00Z",
+    "startTime": "2026-07-19T09:28:34Z",
+    "ttl": "2026-07-26T09:15:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "qFK5Y2awtJs",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】すこしだけ！【ぶいすぽっ！/ 藍沢エマ】",
@@ -79,6 +105,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T07:26:30Z",
     "startTime": "2026-07-19T07:28:41Z",
+    "endTime": "2026-07-19T09:15:40Z",
     "ttl": "2026-07-26T07:26:30.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -96,14 +123,26 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "2TcGO6_EgtA",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【League of Legends】RRc5v5ランクどわあああああ w/なぎにゃん,焼きパン,殿,KHさん【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/2TcGO6_EgtA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=2TcGO6_EgtA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T11:00:00Z",
+    "ttl": "2026-07-26T11:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
     "id": "C8I-D84o1rc",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Minecraft 】　ネザライトちゅうもんをとりにゆかせていただく！！！！！！！！w/うるは先輩、あかさん　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/C8I-D84o1rc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/C8I-D84o1rc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=C8I-D84o1rc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T05:00:00Z",
     "startTime": "2026-07-19T05:01:22Z",
+    "endTime": "2026-07-19T09:19:46Z",
     "ttl": "2026-07-26T05:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -115,6 +154,7 @@
     "url": "https://www.youtube.com/watch?v=uuDn1wRQd3k",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T09:00:00Z",
+    "startTime": "2026-07-19T09:02:19Z",
     "ttl": "2026-07-26T09:00:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -155,15 +195,27 @@
     "streamerId": "juno_umezono"
   },
   {
+    "id": "316190103665",
+    "channelId": "ramuneshiranami",
+    "title": "【Arkheron】アーケロンけんきカスタム w/ととさん サイネちゃん #PR",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-07-19T09:04:16Z",
+    "startTime": "2026-07-19T09:04:16Z",
+    "platform": "twitch",
+    "ttl": "2026-07-26T09:04:16.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
     "id": "316198146930",
     "channelId": "akarindao",
     "title": "はなびちゃんとうるはさんでネザーライト取りに行く、ぶいすぽ夏祭り準備",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-19T05:08:03Z",
-    "startTime": "2026-07-19T05:08:03Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d43a27915efdf1897d9e_akarindao_316198146930_1784437683//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2823610953",
+    "scheduledStartTime": "2026-07-19T05:08:08Z",
+    "startTime": "2026-07-19T05:08:08Z",
     "platform": "twitch",
-    "ttl": "2026-07-26T05:08:03.000Z",
+    "ttl": "2026-07-26T05:08:08.000Z",
     "streamerId": "yumeno_akari"
   },
   {
