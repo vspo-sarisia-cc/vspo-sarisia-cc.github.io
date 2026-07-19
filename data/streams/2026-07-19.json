@@ -11,6 +11,18 @@
     "streamerId": "kogara_toto"
   },
   {
+    "id": "t9mH9Q9oLdg",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【Minecraft】ネザライト取りに行く❕【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/t9mH9Q9oLdg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=t9mH9Q9oLdg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T05:00:00Z",
+    "startTime": "2026-07-19T05:01:52Z",
+    "ttl": "2026-07-26T05:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "UTSyc7RkHp8",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【#空澄セナ6周年記念LIVE】〜泡沫のクロニクル〜【空澄セナ/ぶいすぽっ！】",
@@ -25,22 +37,36 @@
     "id": "fUuooyHmxoo",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【STREET FIGHTER 6】いやあまりにも夏、【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/fUuooyHmxoo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/fUuooyHmxoo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=fUuooyHmxoo",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T02:45:00Z",
     "startTime": "2026-07-19T02:45:59Z",
+    "endTime": "2026-07-19T05:59:08Z",
     "ttl": "2026-07-26T02:45:00.000Z",
     "streamerId": "kaminari_qpi"
   },
   {
+    "id": "09C4EIR9I5Q",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【APEX】大会もあるしメン限時間までやる【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/09C4EIR9I5Q/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=09C4EIR9I5Q",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T04:45:00Z",
+    "startTime": "2026-07-19T04:49:20Z",
+    "ttl": "2026-07-26T04:45:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
     "id": "C8I-D84o1rc",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【 Minecraft 】　うるは先輩と、ネザライトちゅうもんをとりにつく！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "title": "【 Minecraft 】　ネザライトちゅうもんをとりにゆかせていただく！！！！！！！！w/うるは先輩、あかさん　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
     "thumbnail": "https://i.ytimg.com/vi/C8I-D84o1rc/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=C8I-D84o1rc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T05:00:00Z",
+    "startTime": "2026-07-19T05:01:22Z",
     "ttl": "2026-07-26T05:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -48,11 +74,12 @@
     "id": "EFMgE6DnWIM",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【Meccha Chameleon】WITH JIKAMA 【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/EFMgE6DnWIM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/EFMgE6DnWIM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=EFMgE6DnWIM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T02:00:00Z",
     "startTime": "2026-07-19T02:21:21Z",
+    "endTime": "2026-07-19T04:53:20Z",
     "ttl": "2026-07-26T02:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -66,6 +93,18 @@
     "scheduledStartTime": "2026-07-19T14:00:00Z",
     "ttl": "2026-07-26T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316198146930",
+    "channelId": "akarindao",
+    "title": "はなびちゃんとうるはさんでネザーライト取りに行く、ぶいすぽ夏祭り準備",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-19T05:08:03Z",
+    "startTime": "2026-07-19T05:08:03Z",
+    "platform": "twitch",
+    "ttl": "2026-07-26T05:08:03.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316197480178",

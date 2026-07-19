@@ -130,19 +130,6 @@
     "streamerId": "nekota_tsuna"
   },
   {
-    "id": "40JnyNSG-08",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【Echoes of Aincrad】死んだら即終了のベリハードモードのデスゲームに挑戦　【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/40JnyNSG-08/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=40JnyNSG-08",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T04:00:00Z",
-    "startTime": "2026-07-12T04:00:59Z",
-    "endTime": "2026-07-12T06:40:08Z",
-    "ttl": "2026-07-19T04:00:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
     "id": "SA1CEkOM-Fk",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 Minecraft 〗のんびりぶいすぽ鯖。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
@@ -169,19 +156,6 @@
     "streamerId": "sendo_yuuhi"
   },
   {
-    "id": "dJSrpCYpPoE",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【MSI2026】HLE vs BLG | Mid-Season Invitational 2026 Grand Final 同時視聴！　たまもいます",
-    "thumbnail": "https://i.ytimg.com/vi/dJSrpCYpPoE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=dJSrpCYpPoE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T06:00:00Z",
-    "startTime": "2026-07-12T05:59:41Z",
-    "endTime": "2026-07-12T12:18:37Z",
-    "ttl": "2026-07-19T06:00:00.000Z",
-    "streamerId": "sendo_yuuhi"
-  },
-  {
     "id": "4DQ9YF8Nn1U",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Minecraft 】　夏祭り素材あつめリベンジ！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -192,19 +166,6 @@
     "startTime": "2026-07-12T21:00:24Z",
     "endTime": "2026-07-12T23:59:31Z",
     "ttl": "2026-07-19T21:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "jCUjEWn5gJA",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【 Minecraft 】　夏祭りにむけて素材あつめたり！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/jCUjEWn5gJA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=jCUjEWn5gJA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T04:00:00Z",
-    "startTime": "2026-07-12T04:00:08Z",
-    "endTime": "2026-07-12T05:19:19Z",
-    "ttl": "2026-07-19T04:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -284,18 +245,6 @@
     "endTime": "2026-07-12T16:26:59Z",
     "ttl": "2026-07-19T14:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316222032755",
-    "channelId": "ramuneshiranami",
-    "title": "【Echoes of Aincrad】正式サービスから",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/f2fb97276e042b262bb7_ramuneshiranami_316222032755_1783835615//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2818047972",
-    "scheduledStartTime": "2026-07-12T05:53:40Z",
-    "startTime": "2026-07-12T05:53:40Z",
-    "platform": "twitch",
-    "ttl": "2026-07-19T05:53:40.000Z",
-    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316225397875",
