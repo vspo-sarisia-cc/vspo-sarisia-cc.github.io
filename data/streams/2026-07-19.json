@@ -236,11 +236,12 @@
     "id": "St3TU80AHOw",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【APEX】ズズと明日の21時までにゴールドまで上げる1（ズズブロンズ４）【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/St3TU80AHOw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/St3TU80AHOw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=St3TU80AHOw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T18:10:00Z",
     "startTime": "2026-07-19T18:09:13Z",
+    "endTime": "2026-07-19T20:40:27Z",
     "ttl": "2026-07-26T18:10:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -386,18 +387,6 @@
     "endTime": "2026-07-19T18:45:33Z",
     "ttl": "2026-07-26T16:30:00.000Z",
     "streamerId": "riko_solari"
-  },
-  {
-    "id": "C6vyOk1Mmo8",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤DOTA 2◢ \"BKB IS USELESS\" -SEA / FIFA FINALS WATCH ALONG | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/C6vyOk1Mmo8/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=C6vyOk1Mmo8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-19T14:00:00Z",
-    "startTime": "2026-07-19T14:02:04Z",
-    "ttl": "2026-07-26T14:00:00.000Z",
-    "streamerId": "juno_umezono"
   },
   {
     "id": "316192325105",
