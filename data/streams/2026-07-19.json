@@ -253,8 +253,8 @@
     "thumbnail": "https://i.ytimg.com/vi/sJvc8KPLAFo/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=sJvc8KPLAFo",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-19T16:00:00Z",
-    "ttl": "2026-07-26T16:00:00.000Z",
+    "scheduledStartTime": "2026-07-19T16:30:00Z",
+    "ttl": "2026-07-26T16:30:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
   {
@@ -295,6 +295,18 @@
     "streamerId": "choya_hanabi"
   },
   {
+    "id": "tqEE8TfBoQ4",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【雑談】うどんを食べてなにかをする【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/tqEE8TfBoQ4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=tqEE8TfBoQ4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T15:30:00Z",
+    "startTime": "2026-07-19T15:30:48Z",
+    "ttl": "2026-07-26T15:30:00.000Z",
+    "streamerId": "amayui_moka"
+  },
+  {
     "id": "uuDn1wRQd3k",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【アーケロン】けんきさんのカスタムにぶいすぽメンバーで参加させていただきます！！／ とと先輩、らむね先輩【ぶいすぽっ！ #銀城サイネ 】",
@@ -332,6 +344,17 @@
     "endTime": "2026-07-19T04:53:20Z",
     "ttl": "2026-07-26T02:00:00.000Z",
     "streamerId": "jira_jisaki"
+  },
+  {
+    "id": "rOSb_m2q1qA",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【APEX LEGENDS】I WANNA GAME【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/rOSb_m2q1qA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=rOSb_m2q1qA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T16:30:00Z",
+    "ttl": "2026-07-26T16:30:00.000Z",
+    "streamerId": "riko_solari"
   },
   {
     "id": "C6vyOk1Mmo8",
