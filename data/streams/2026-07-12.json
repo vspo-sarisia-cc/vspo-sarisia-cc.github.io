@@ -13,19 +13,6 @@
     "streamerId": "asumi_sena"
   },
   {
-    "id": "8h2aTYQRGN8",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【Minecraft】全ロスを経て【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/8h2aTYQRGN8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=8h2aTYQRGN8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T14:00:00Z",
-    "startTime": "2026-07-12T14:07:29Z",
-    "endTime": "2026-07-12T18:05:39Z",
-    "ttl": "2026-07-19T14:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
     "id": "3bC8jc9x7rc",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 Minecraft 】建てる【 ぶいすぽっ！/紫宮るな 】",
@@ -37,19 +24,6 @@
     "endTime": "2026-07-13T00:03:59Z",
     "ttl": "2026-07-19T14:55:00.000Z",
     "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "SA1CEkOM-Fk",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 Minecraft 〗のんびりぶいすぽ鯖。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/SA1CEkOM-Fk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=SA1CEkOM-Fk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T13:00:00Z",
-    "startTime": "2026-07-12T12:50:56Z",
-    "endTime": "2026-07-12T16:21:47Z",
-    "ttl": "2026-07-19T13:00:00.000Z",
-    "streamerId": "yano_kuromu"
   },
   {
     "id": "4DQ9YF8Nn1U",
@@ -89,19 +63,6 @@
     "endTime": "2026-07-12T17:12:47Z",
     "ttl": "2026-07-19T15:00:00.000Z",
     "streamerId": "jira_jisaki"
-  },
-  {
-    "id": "_cMf3dapJDw",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤ART◢ Drawing VSPO! EN senpais from MEMORY?! (i have terrible memory) | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/_cMf3dapJDw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=_cMf3dapJDw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-12T14:00:00Z",
-    "startTime": "2026-07-12T14:01:57Z",
-    "endTime": "2026-07-12T16:26:59Z",
-    "ttl": "2026-07-19T14:00:00.000Z",
-    "streamerId": "juno_umezono"
   },
   {
     "id": "316225397875",

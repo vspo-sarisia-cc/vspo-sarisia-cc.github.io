@@ -7,8 +7,21 @@
     "url": "https://www.youtube.com/watch?v=1fT0aVeQmCw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T12:15:00Z",
+    "startTime": "2026-07-19T12:43:44Z",
     "ttl": "2026-07-26T12:15:00.000Z",
     "streamerId": "kaga_sumire"
+  },
+  {
+    "id": "f-sEkO0Erss",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【VCR:Rust】農業ができればそれでいいのである【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/f-sEkO0Erss/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=f-sEkO0Erss",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T12:15:00Z",
+    "startTime": "2026-07-19T12:43:33Z",
+    "ttl": "2026-07-26T12:15:00.000Z",
+    "streamerId": "kaga_nazuna"
   },
   {
     "id": "u5OjJU954OQ",
@@ -27,11 +40,12 @@
     "id": "A049ltoMeXI",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 Arkheron 】アーケロンけんきカスタム参加します！！ w/らむねちゃん、サイネちゃん【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/A049ltoMeXI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/A049ltoMeXI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=A049ltoMeXI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T09:00:00Z",
     "startTime": "2026-07-19T09:02:01Z",
+    "endTime": "2026-07-19T12:58:33Z",
     "ttl": "2026-07-26T09:00:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -43,6 +57,7 @@
     "url": "https://www.youtube.com/watch?v=ADBU6n9uxSA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T12:30:00Z",
+    "startTime": "2026-07-19T12:43:59Z",
     "ttl": "2026-07-26T12:30:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -60,6 +75,18 @@
     "streamerId": "ichinose_uruha"
   },
   {
+    "id": "vceCJOQJZcg",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 VCR Rust3 】人見知りでもがんばってお話する！【ぶいすぽっ！胡桃のあ】",
+    "thumbnail": "https://i.ytimg.com/vi/vceCJOQJZcg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=vceCJOQJZcg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T12:35:00Z",
+    "startTime": "2026-07-19T12:43:46Z",
+    "ttl": "2026-07-26T12:35:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "GqTDj-2M3X4",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
     "title": "【VCR Rust】おじゃましまーす【ぶいすぽ/兎咲ミミ】",
@@ -67,6 +94,7 @@
     "url": "https://www.youtube.com/watch?v=GqTDj-2M3X4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T12:45:00Z",
+    "startTime": "2026-07-19T12:43:37Z",
     "ttl": "2026-07-26T12:45:00.000Z",
     "streamerId": "tosaki_mimi"
   },
@@ -104,6 +132,7 @@
     "url": "https://www.youtube.com/watch?v=ftlf-rNNtx4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T12:10:00Z",
+    "startTime": "2026-07-19T12:43:34Z",
     "ttl": "2026-07-26T12:10:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -128,6 +157,7 @@
     "url": "https://www.youtube.com/watch?v=eweij8nOhWI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T12:15:00Z",
+    "startTime": "2026-07-19T12:43:49Z",
     "ttl": "2026-07-26T12:15:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -141,6 +171,18 @@
     "scheduledStartTime": "2026-07-19T19:00:00Z",
     "ttl": "2026-07-26T19:00:00.000Z",
     "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "cy73BbGuHoE",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【VCR RUST3】びりーいけました【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/cy73BbGuHoE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=cy73BbGuHoE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T12:45:00Z",
+    "startTime": "2026-07-19T12:45:20Z",
+    "ttl": "2026-07-26T12:45:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "Wi0TtniO74I",
@@ -182,6 +224,40 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "Zg_PLC3w_bk",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】ソロコンペ！早くイモータル帰るぞ３【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/Zg_PLC3w_bk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Zg_PLC3w_bk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T13:50:00Z",
+    "startTime": "2026-07-19T13:52:10Z",
+    "ttl": "2026-07-26T13:50:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "St3TU80AHOw",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【APEX】ズズと明日の21時までにゴールドまで上げる1（ズズブロンズ４）【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/St3TU80AHOw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=St3TU80AHOw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T18:10:00Z",
+    "ttl": "2026-07-26T18:10:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "sJvc8KPLAFo",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VCR Rust3】初めてのRust！withぶいすぽメンバー？【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/sJvc8KPLAFo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=sJvc8KPLAFo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T16:00:00Z",
+    "ttl": "2026-07-26T16:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "2TcGO6_EgtA",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【League of Legends】RRc5v5ランクどわあああああ w/なぎにゃん,焼きパン,殿,KHさん【 ぶいすぽっ！ / 千燈ゆうひ 】",
@@ -201,6 +277,7 @@
     "url": "https://www.youtube.com/watch?v=VeRFLmG21GM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T12:30:00Z",
+    "startTime": "2026-07-19T12:43:46Z",
     "ttl": "2026-07-26T12:30:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -221,11 +298,12 @@
     "id": "uuDn1wRQd3k",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【アーケロン】けんきさんのカスタムにぶいすぽメンバーで参加させていただきます！！／ とと先輩、らむね先輩【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/uuDn1wRQd3k/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/uuDn1wRQd3k/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=uuDn1wRQd3k",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T09:00:00Z",
     "startTime": "2026-07-19T09:02:19Z",
+    "endTime": "2026-07-19T12:57:30Z",
     "ttl": "2026-07-26T09:00:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -263,19 +341,32 @@
     "url": "https://www.youtube.com/watch?v=C6vyOk1Mmo8",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T14:00:00Z",
+    "startTime": "2026-07-19T14:02:04Z",
     "ttl": "2026-07-26T14:00:00.000Z",
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316190103665",
+    "id": "316255202035",
     "channelId": "ramuneshiranami",
-    "title": "【Arkheron】アーケロンけんきカスタム w/ととさん サイネちゃん #PR",
+    "title": "【VCR RUST】久しぶりだー！！！",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
     "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-19T09:04:16Z",
-    "startTime": "2026-07-19T09:04:16Z",
+    "scheduledStartTime": "2026-07-19T13:10:51Z",
+    "startTime": "2026-07-19T13:10:51Z",
     "platform": "twitch",
-    "ttl": "2026-07-26T09:04:16.000Z",
+    "ttl": "2026-07-26T13:10:51.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316190103665",
+    "channelId": "ramuneshiranami",
+    "title": "【Arkheron】アーケロンけんきカスタム w/ととさん サイネちゃん",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/655175d72be61c81e47d_ramuneshiranami_316190103665_1784451856//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2823698813",
+    "scheduledStartTime": "2026-07-19T09:04:22Z",
+    "startTime": "2026-07-19T09:04:22Z",
+    "platform": "twitch",
+    "ttl": "2026-07-26T09:04:22.000Z",
     "streamerId": "shiranami_ramune"
   },
   {
