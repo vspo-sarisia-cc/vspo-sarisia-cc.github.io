@@ -78,11 +78,12 @@
     "id": "vceCJOQJZcg",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 VCR Rust3 】人見知りでもがんばってお話する！【ぶいすぽっ！胡桃のあ】",
-    "thumbnail": "https://i.ytimg.com/vi/vceCJOQJZcg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/vceCJOQJZcg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=vceCJOQJZcg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T12:35:00Z",
     "startTime": "2026-07-19T12:43:46Z",
+    "endTime": "2026-07-19T16:47:37Z",
     "ttl": "2026-07-26T12:35:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -224,14 +225,27 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "sJvc8KPLAFo",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VCR Rust3】初めてのRust！withぶいすぽメンバー？【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/sJvc8KPLAFo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=sJvc8KPLAFo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T16:30:00Z",
+    "startTime": "2026-07-19T16:43:31Z",
+    "ttl": "2026-07-26T16:30:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "Zg_PLC3w_bk",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VALORANT】ソロコンペ！早くイモータル帰るぞ３【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/Zg_PLC3w_bk/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Zg_PLC3w_bk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Zg_PLC3w_bk",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T13:50:00Z",
     "startTime": "2026-07-19T13:52:10Z",
+    "endTime": "2026-07-19T16:31:33Z",
     "ttl": "2026-07-26T13:50:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -247,25 +261,27 @@
     "streamerId": "tsumugi_kokage"
   },
   {
-    "id": "sJvc8KPLAFo",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【VCR Rust3】初めてのRust！withぶいすぽメンバー？【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/sJvc8KPLAFo/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=sJvc8KPLAFo",
+    "id": "_UBdc6YLARI",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【VCR Rust3】木こり女【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/_UBdc6YLARI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=_UBdc6YLARI",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-19T16:30:00Z",
-    "ttl": "2026-07-26T16:30:00.000Z",
-    "streamerId": "tsumugi_kokage"
+    "scheduledStartTime": "2026-07-19T16:00:00Z",
+    "startTime": "2026-07-19T16:38:15Z",
+    "ttl": "2026-07-26T16:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "2TcGO6_EgtA",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【League of Legends】RRc5v5ランクどわあああああ w/なぎにゃん,焼きパン,殿,KHさん【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/2TcGO6_EgtA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/2TcGO6_EgtA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=2TcGO6_EgtA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T12:00:00Z",
     "startTime": "2026-07-19T12:14:56Z",
+    "endTime": "2026-07-19T16:36:54Z",
     "ttl": "2026-07-26T12:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -353,6 +369,7 @@
     "url": "https://www.youtube.com/watch?v=rOSb_m2q1qA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T16:30:00Z",
+    "startTime": "2026-07-19T16:31:45Z",
     "ttl": "2026-07-26T16:30:00.000Z",
     "streamerId": "riko_solari"
   },
