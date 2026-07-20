@@ -13,14 +13,27 @@
     "streamerId": "kaga_sumire"
   },
   {
+    "id": "GmnhnugmI0c",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【VCR:Rust】スキルツリーを育てて農家になりたい【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/GmnhnugmI0c/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=GmnhnugmI0c",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-20T13:40:00Z",
+    "startTime": "2026-07-20T13:28:29Z",
+    "ttl": "2026-07-27T13:40:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "a-pSTDvluQM",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【漢義リーグ】第7節！先発なずぴーですw ..白雪レイド、本阿弥あずさ、ルイス・キャミー【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/a-pSTDvluQM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/a-pSTDvluQM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=a-pSTDvluQM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-20T09:00:00Z",
     "startTime": "2026-07-20T09:11:20Z",
+    "endTime": "2026-07-20T13:19:25Z",
     "ttl": "2026-07-27T09:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -127,6 +140,18 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "KSL1cMSaOss",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "〖 VCR RUST 〗初めてのらすと。教えてください！の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+    "thumbnail": "https://i.ytimg.com/vi/KSL1cMSaOss/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=KSL1cMSaOss",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-20T13:45:00Z",
+    "startTime": "2026-07-20T13:44:06Z",
+    "ttl": "2026-07-27T13:45:00.000Z",
+    "streamerId": "yano_kuromu"
+  },
+  {
     "id": "rOP9iElx-LM",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【APEX】ごめんありさんゴールドいけなかったよ・・・（ズズが）【ぶいすぽっ！ / 紡木こかげ】",
@@ -221,6 +246,7 @@
     "url": "https://www.youtube.com/watch?v=Gs1opE13Xpg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-20T14:00:00Z",
+    "startTime": "2026-07-20T14:02:13Z",
     "ttl": "2026-07-27T14:00:00.000Z",
     "streamerId": "juno_umezono"
   },
