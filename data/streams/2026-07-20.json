@@ -101,6 +101,17 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "Y9UajbCdnsI",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "大人数でめっちゃカメレオン中にリスペクトされるエマ画伯【ぶいすぽっ！/ 藍沢エマ/めっちゃカメレオン】",
+    "thumbnail": "https://i.ytimg.com/vi/Y9UajbCdnsI/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Y9UajbCdnsI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-20T22:00:00Z",
+    "ttl": "2026-07-27T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "YkR5dBN8JUY",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】Coca-Cola STAGE:0 eSPORTS High-School Championship 2026 セミファイナル Day4 ウォッチパ！【ぶいすぽっ！/ 藍沢エマ】",
@@ -155,11 +166,12 @@
     "id": "rOP9iElx-LM",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【APEX】ごめんありさんゴールドいけなかったよ・・・（ズズが）【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/rOP9iElx-LM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/rOP9iElx-LM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=rOP9iElx-LM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-20T12:00:00Z",
     "startTime": "2026-07-20T12:00:17Z",
+    "endTime": "2026-07-20T15:24:45Z",
     "ttl": "2026-07-27T12:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -235,6 +247,7 @@
     "url": "https://www.youtube.com/watch?v=8oVfJPtwbeg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-20T15:00:00Z",
+    "startTime": "2026-07-20T15:00:18Z",
     "ttl": "2026-07-27T15:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
