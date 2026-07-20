@@ -13,6 +13,19 @@
     "streamerId": "kaga_sumire"
   },
   {
+    "id": "GmnhnugmI0c",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【VCR:Rust】スキルツリーを育てて農家になりたい【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/GmnhnugmI0c/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=GmnhnugmI0c",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-20T13:40:00Z",
+    "startTime": "2026-07-20T13:28:29Z",
+    "endTime": "2026-07-20T19:06:13Z",
+    "ttl": "2026-07-27T13:40:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "a-pSTDvluQM",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【漢義リーグ】第7節！先発なずぴーですw ..白雪レイド、本阿弥あずさ、ルイス・キャミー【ぶいすぽ/花芽なずな】",
@@ -26,26 +39,15 @@
     "streamerId": "kaga_nazuna"
   },
   {
-    "id": "GmnhnugmI0c",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【VCR:Rust】スキルツリーを育てて農家になりたい【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/GmnhnugmI0c/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=GmnhnugmI0c",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-20T13:40:00Z",
-    "startTime": "2026-07-20T13:28:29Z",
-    "ttl": "2026-07-27T13:40:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "jxNVexozYtY",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【VCR RUST】せかせか働け【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/jxNVexozYtY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/jxNVexozYtY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=jxNVexozYtY",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-20T13:00:00Z",
     "startTime": "2026-07-20T13:03:54Z",
+    "endTime": "2026-07-20T19:21:14Z",
     "ttl": "2026-07-27T13:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -66,11 +68,12 @@
     "id": "9ienh3y9T8M",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 VCR RUST 】味見部2 【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/9ienh3y9T8M/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/9ienh3y9T8M/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=9ienh3y9T8M",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-20T10:00:00Z",
     "startTime": "2026-07-20T10:22:27Z",
+    "endTime": "2026-07-20T19:36:05Z",
     "ttl": "2026-07-27T10:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -198,6 +201,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-20T13:00:00Z",
     "startTime": "2026-07-20T13:01:08Z",
+    "endTime": "2026-07-20T19:44:51Z",
     "ttl": "2026-07-27T13:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -244,11 +248,12 @@
     "id": "8oVfJPtwbeg",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Season 5 Rating Today!!!  |  Premier  |  Counter-Strike 2 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/8oVfJPtwbeg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/8oVfJPtwbeg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=8oVfJPtwbeg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-20T15:00:00Z",
     "startTime": "2026-07-20T15:00:18Z",
+    "endTime": "2026-07-20T19:03:48Z",
     "ttl": "2026-07-27T15:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -260,6 +265,7 @@
     "url": "https://www.youtube.com/watch?v=UIfy-SBE8wk",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-20T19:00:00Z",
+    "startTime": "2026-07-20T19:00:14Z",
     "ttl": "2026-07-27T19:00:00.000Z",
     "streamerId": "riko_solari"
   },
@@ -277,27 +283,15 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316258690419",
-    "channelId": "ramuneshiranami",
-    "title": "【VCR RUST】#2 おいファームするぞ",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-20T09:26:51Z",
-    "startTime": "2026-07-20T09:26:51Z",
-    "platform": "twitch",
-    "ttl": "2026-07-27T09:26:51.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316203681522",
     "channelId": "ren_kisaragi__",
     "title": "らすとにゆく",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-07-20T10:21:59Z",
-    "startTime": "2026-07-20T10:21:59Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/aed2944b99d81d709a15_ren_kisaragi___316203681522_1784542919//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2824486884",
+    "scheduledStartTime": "2026-07-20T10:22:04Z",
+    "startTime": "2026-07-20T10:22:04Z",
     "platform": "twitch",
-    "ttl": "2026-07-27T10:21:59.000Z",
+    "ttl": "2026-07-27T10:22:04.000Z",
     "streamerId": "kisaragi_ren"
   },
   {
@@ -311,6 +305,18 @@
     "platform": "twitch",
     "ttl": "2026-07-27T05:00:28.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316258690419",
+    "channelId": "ramuneshiranami",
+    "title": "【VCR RUST】#2 おいファームするぞ",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/73221a69a1e0ac06c907_ramuneshiranami_316258690419_1784539611//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2824470133",
+    "scheduledStartTime": "2026-07-20T09:26:56Z",
+    "startTime": "2026-07-20T09:26:56Z",
+    "platform": "twitch",
+    "ttl": "2026-07-27T09:26:56.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316259364851",
