@@ -111,6 +111,8 @@
     "url": "https://www.youtube.com/watch?v=Y9UajbCdnsI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-20T22:00:00Z",
+    "startTime": "2026-07-20T22:00:06Z",
+    "endTime": "2026-07-20T22:18:07Z",
     "ttl": "2026-07-27T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
