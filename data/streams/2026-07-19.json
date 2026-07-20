@@ -119,7 +119,7 @@
   {
     "id": "pGwmi58UzW8",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
-    "title": "アイネクライネ・キャットムジーク/ 空澄セナ",
+    "title": "【MV】アイネクライネ・キャットムジーク／空澄セナ",
     "thumbnail": "https://i.ytimg.com/vi/pGwmi58UzW8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=pGwmi58UzW8",
     "platform": "youtube",
@@ -159,11 +159,12 @@
     "id": "-EQ_NxOEtWQ",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【ワールドカップ同時視聴】DAZNで！決勝アルゼンチンvsスペイン⚽【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/-EQ_NxOEtWQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/-EQ_NxOEtWQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=-EQ_NxOEtWQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-19T19:00:00Z",
     "startTime": "2026-07-19T18:54:15Z",
+    "endTime": "2026-07-19T23:06:27Z",
     "ttl": "2026-07-26T19:00:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -300,7 +301,7 @@
   {
     "id": "VeRFLmG21GM",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【 VCR RUST3 】　はじめてのRUSTいくぞおおおお🏴‍☠️！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "title": "＃１【 VCR RUST3 】　はじめてのRUSTいくぞおおおお🏴‍☠️！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
     "thumbnail": "https://i.ytimg.com/vi/VeRFLmG21GM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=VeRFLmG21GM",
     "platform": "youtube",
@@ -335,6 +336,19 @@
     "endTime": "2026-07-19T18:14:46Z",
     "ttl": "2026-07-26T15:30:00.000Z",
     "streamerId": "amayui_moka"
+  },
+  {
+    "id": "-CUayyoyNiA",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【雑談】海の日ざぶーん【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/-CUayyoyNiA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=-CUayyoyNiA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T23:15:00Z",
+    "startTime": "2026-07-19T23:16:25Z",
+    "endTime": "2026-07-20T01:08:06Z",
+    "ttl": "2026-07-26T23:15:00.000Z",
+    "streamerId": "ginjo_saine"
   },
   {
     "id": "uuDn1wRQd3k",
@@ -389,16 +403,17 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "316192325105",
-    "channelId": "akarindao",
-    "title": "W杯スペイン vs アルゼンチン  ワクワクする！！！",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-19T18:55:54Z",
-    "startTime": "2026-07-19T18:55:54Z",
-    "platform": "twitch",
-    "ttl": "2026-07-26T18:55:54.000Z",
-    "streamerId": "yumeno_akari"
+    "id": "C6vyOk1Mmo8",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤DOTA 2◢ \"BKB IS USELESS\" -SEA / FIFA FINALS WATCH ALONG | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/C6vyOk1Mmo8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=C6vyOk1Mmo8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-19T14:00:00Z",
+    "startTime": "2026-07-19T14:02:04Z",
+    "endTime": "2026-07-19T22:07:16Z",
+    "ttl": "2026-07-26T14:00:00.000Z",
+    "streamerId": "juno_umezono"
   },
   {
     "id": "316192299121",
@@ -435,6 +450,18 @@
     "platform": "twitch",
     "ttl": "2026-07-26T09:04:22.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316192325105",
+    "channelId": "akarindao",
+    "title": "W杯スペイン vs アルゼンチン  ワクワクする！！！",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/5a1dbf3824f91579b094_akarindao_316192325105_1784487354//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2824021746",
+    "scheduledStartTime": "2026-07-19T18:55:59Z",
+    "startTime": "2026-07-19T18:55:59Z",
+    "platform": "twitch",
+    "ttl": "2026-07-26T18:55:59.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316198146930",
