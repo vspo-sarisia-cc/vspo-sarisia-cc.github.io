@@ -103,7 +103,7 @@
     "id": "MZlP8UObtwQ",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】ねみゃすぎてほんの少しだけ【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/MZlP8UObtwQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/MZlP8UObtwQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=MZlP8UObtwQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-21T14:03:17Z",
@@ -268,13 +268,25 @@
     "id": "9zkB6ceykxc",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "23K grinding  |  Premier  |  Counter-Strike 2 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/9zkB6ceykxc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/9zkB6ceykxc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=9zkB6ceykxc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-21T12:00:00Z",
     "startTime": "2026-07-21T12:04:12Z",
+    "endTime": "2026-07-21T16:33:40Z",
     "ttl": "2026-07-28T12:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "zQJcOYY-X2U",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "packing while chatting to u guys【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/zQJcOYY-X2U/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=zQJcOYY-X2U",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-21T19:30:00Z",
+    "ttl": "2026-07-28T19:30:00.000Z",
+    "streamerId": "riko_solari"
   },
   {
     "id": "316199831537",
@@ -287,6 +299,18 @@
     "platform": "twitch",
     "ttl": "2026-07-28T12:51:01.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316264737651",
+    "channelId": "ren_kisaragi__",
+    "title": "釣りおもろ～～～～～～～",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-07-21T16:25:36Z",
+    "startTime": "2026-07-21T16:25:36Z",
+    "platform": "twitch",
+    "ttl": "2026-07-28T16:25:36.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316199230321",
