@@ -1,18 +1,5 @@
 [
   {
-    "id": "MW6hi3TJ7CA",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【ワールドカップ同時視聴】DAZNで！準決勝フランスvsスペイン⚽【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/MW6hi3TJ7CA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=MW6hi3TJ7CA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-14T19:00:00Z",
-    "startTime": "2026-07-14T19:00:49Z",
-    "endTime": "2026-07-14T21:07:03Z",
-    "ttl": "2026-07-21T19:00:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
     "id": "wvgYEJ2PzJg",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【朝活雑談】　最近あついねえ！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -50,18 +37,6 @@
     "endTime": "2026-07-15T00:21:04Z",
     "ttl": "2026-07-21T22:00:00.000Z",
     "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "316178974834",
-    "channelId": "akarindao",
-    "title": "W杯 フランス vs スペインDAZNで同時視聴",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/2c91162312efa6d4865b_akarindao_316178974834_1784055342//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2819991921",
-    "scheduledStartTime": "2026-07-14T18:55:47Z",
-    "startTime": "2026-07-14T18:55:47Z",
-    "platform": "twitch",
-    "ttl": "2026-07-21T18:55:47.000Z",
-    "streamerId": "yumeno_akari"
   },
   {
     "id": "320472464347",
