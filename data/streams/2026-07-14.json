@@ -1,18 +1,5 @@
 [
   {
-    "id": "bSO2lkLiA_A",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【マリオテニス フィーバー】戦いはVCC TENNISにて【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/bSO2lkLiA_A/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=bSO2lkLiA_A",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-14T10:00:00Z",
-    "startTime": "2026-07-14T10:07:52Z",
-    "endTime": "2026-07-14T15:33:53Z",
-    "ttl": "2026-07-21T10:00:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
     "id": "sejv5fXmEZg",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "# 3【Subnautica2】睡眠『サブノーティカ2』建築担当 w/白那しずく,とおこ【空澄セナ/ぶいすぽっ！】",
@@ -24,19 +11,6 @@
     "endTime": "2026-07-14T16:18:44Z",
     "ttl": "2026-07-21T13:15:00.000Z",
     "streamerId": "asumi_sena"
-  },
-  {
-    "id": "l1fMvL7-s-U",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 マリオテニス フィーバー 】 VCC TENNIS、熱血でいくぞおおおおおおお！ w/イブラヒム【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/l1fMvL7-s-U/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=l1fMvL7-s-U",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-14T10:35:00Z",
-    "startTime": "2026-07-14T10:37:12Z",
-    "endTime": "2026-07-14T15:37:09Z",
-    "ttl": "2026-07-21T10:35:00.000Z",
-    "streamerId": "tachibana_hinano"
   },
   {
     "id": "MW6hi3TJ7CA",
@@ -76,19 +50,6 @@
     "endTime": "2026-07-14T14:56:01Z",
     "ttl": "2026-07-21T12:30:00.000Z",
     "streamerId": "yano_kuromu"
-  },
-  {
-    "id": "mj3qVemDx80",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【パワフルプロ野球2026】３年モード２年目！【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/mj3qVemDx80/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=mj3qVemDx80",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-14T10:00:00Z",
-    "startTime": "2026-07-14T10:05:17Z",
-    "endTime": "2026-07-14T19:14:33Z",
-    "ttl": "2026-07-21T10:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "wvgYEJ2PzJg",
@@ -154,18 +115,6 @@
     "endTime": "2026-07-14T19:09:17Z",
     "ttl": "2026-07-21T14:15:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316231859059",
-    "channelId": "ren_kisaragi__",
-    "title": "VCCTENNIS w/ヘンディー",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/41ef1589f2d3158fcb35_ren_kisaragi___316231859059_1784026321//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2819719185",
-    "scheduledStartTime": "2026-07-14T10:52:07Z",
-    "startTime": "2026-07-14T10:52:07Z",
-    "platform": "twitch",
-    "ttl": "2026-07-21T10:52:07.000Z",
-    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316178974834",
