@@ -31,5 +31,16 @@
     "scheduledStartTime": "2026-07-22T14:00:00Z",
     "ttl": "2026-07-29T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "12GP00W9whI",
+    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+    "title": "【League of Legends】theyre nerfing my goat.. joat..【#VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/12GP00W9whI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=12GP00W9whI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-22T13:00:00Z",
+    "ttl": "2026-07-29T13:00:00.000Z",
+    "streamerId": "jira_jisaki"
   }
 ]
