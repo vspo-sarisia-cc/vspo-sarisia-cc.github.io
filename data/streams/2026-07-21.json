@@ -1,13 +1,27 @@
 [
   {
+    "id": "yQ7M5tNAfJs",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 #ぶいすぽ7周年大感謝祭 】秋葉原で探せ！ぶいすぽっ！ジャージ探索：前編【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/yQ7M5tNAfJs/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=yQ7M5tNAfJs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-21T09:00:00Z",
+    "startTime": "2026-07-21T09:00:57Z",
+    "endTime": "2026-07-21T09:23:06Z",
+    "ttl": "2026-07-28T09:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "17yYeKd9w7Y",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】ソロランク！もうすぐダイヤ２に行くぞー！【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/17yYeKd9w7Y/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/17yYeKd9w7Y/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=17yYeKd9w7Y",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-21T05:00:00Z",
     "startTime": "2026-07-21T05:03:55Z",
+    "endTime": "2026-07-21T08:54:05Z",
     "ttl": "2026-07-28T05:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -35,10 +49,35 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "wYrXOcD5r50",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【NEW】メン限スタンプ追加❕一緒に見ていって～～～【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/wYrXOcD5r50/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=wYrXOcD5r50",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-21T08:15:00Z",
+    "startTime": "2026-07-21T08:16:03Z",
+    "endTime": "2026-07-21T09:14:31Z",
+    "ttl": "2026-07-28T08:15:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "bTU8_kl1b64",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "＃３【 VCR RUST3 】　サイキョウのファーマーになる！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/bTU8_kl1b64/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=bTU8_kl1b64",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-21T09:00:00Z",
+    "startTime": "2026-07-21T09:00:33Z",
+    "ttl": "2026-07-28T09:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "r549a45LZyI",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【スト６】　そろそろハイマスいきたいんだ！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/r549a45LZyI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/r549a45LZyI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=r549a45LZyI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-21T05:00:00Z",
@@ -59,15 +98,15 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "bTU8_kl1b64",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "＃３【 VCR RUST3 】　サイキョウのファーマーになる！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/bTU8_kl1b64/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=bTU8_kl1b64",
+    "id": "hggbyLsxCAs",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends ◢　LEAGUE OF LEONいくぞおおおお  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/hggbyLsxCAs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=hggbyLsxCAs",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-21T09:00:00Z",
-    "ttl": "2026-07-28T09:00:00.000Z",
-    "streamerId": "choya_hanabi"
+    "scheduledStartTime": "2026-07-21T10:00:00Z",
+    "ttl": "2026-07-28T10:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "DHxsNRiidVI",
@@ -92,17 +131,6 @@
     "scheduledStartTime": "2026-07-21T12:00:00Z",
     "ttl": "2026-07-28T12:00:00.000Z",
     "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "vZQxNgTpdzw",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Wuthering Waves 2.3◢ IS CIACCONA POTENTIAL GIRL? | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/vZQxNgTpdzw/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=vZQxNgTpdzw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-21T14:00:00Z",
-    "ttl": "2026-07-28T14:00:00.000Z",
-    "streamerId": "juno_umezono"
   },
   {
     "id": "316206453490",
