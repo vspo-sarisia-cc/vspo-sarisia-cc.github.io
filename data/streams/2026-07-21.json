@@ -7,8 +7,21 @@
     "url": "https://www.youtube.com/watch?v=17yYeKd9w7Y",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-21T05:00:00Z",
+    "startTime": "2026-07-21T05:03:55Z",
     "ttl": "2026-07-28T05:00:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "Mljk4B6AwXc",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【アークナイツ：エンドフィールド】続き進めつつカミーユ装備整える！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/Mljk4B6AwXc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Mljk4B6AwXc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-21T06:30:34Z",
+    "startTime": "2026-07-21T06:40:44Z",
+    "ttl": "2026-07-28T06:30:34.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "-jwPjrmZ9I8",
@@ -29,6 +42,8 @@
     "url": "https://www.youtube.com/watch?v=r549a45LZyI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-21T05:00:00Z",
+    "startTime": "2026-07-21T04:59:30Z",
+    "endTime": "2026-07-21T07:06:56Z",
     "ttl": "2026-07-28T05:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -58,11 +73,12 @@
     "id": "DHxsNRiidVI",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  Echoes of Aincrad  ◢　ベリーハードデスゲーム！#5  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/DHxsNRiidVI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/DHxsNRiidVI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=DHxsNRiidVI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-21T03:10:00Z",
     "startTime": "2026-07-21T03:14:37Z",
+    "endTime": "2026-07-21T06:09:07Z",
     "ttl": "2026-07-28T03:10:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -92,12 +108,12 @@
     "id": "316206453490",
     "channelId": "akarindao",
     "title": "ぶいすぽ夏祭り準備",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-21T01:52:12Z",
-    "startTime": "2026-07-21T01:52:12Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/faf9551611acb00d1059_akarindao_316206453490_1784598732//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2825067407",
+    "scheduledStartTime": "2026-07-21T01:52:17Z",
+    "startTime": "2026-07-21T01:52:17Z",
     "platform": "twitch",
-    "ttl": "2026-07-28T01:52:12.000Z",
+    "ttl": "2026-07-28T01:52:17.000Z",
     "streamerId": "yumeno_akari"
   }
 ]
