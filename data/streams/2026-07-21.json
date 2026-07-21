@@ -150,6 +150,7 @@
     "url": "https://www.youtube.com/watch?v=mJgSb6n0ZyE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-21T21:40:00Z",
+    "startTime": "2026-07-21T21:45:32Z",
     "ttl": "2026-07-28T21:40:00.000Z",
     "streamerId": "komori_met"
   },
@@ -206,14 +207,27 @@
     "streamerId": "sendo_yuuhi"
   },
   {
+    "id": "qm2zp5MNJCs",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【朝活雑談】　朝だよおはよ！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/qm2zp5MNJCs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=qm2zp5MNJCs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-21T22:00:00Z",
+    "startTime": "2026-07-21T22:01:37Z",
+    "ttl": "2026-07-28T22:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "7dQ5t3WKNHU",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Minecraft 】　夏祭りにむけて素材集め！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/7dQ5t3WKNHU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/7dQ5t3WKNHU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=7dQ5t3WKNHU",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-21T19:45:00Z",
     "startTime": "2026-07-21T19:44:13Z",
+    "endTime": "2026-07-21T21:46:43Z",
     "ttl": "2026-07-28T19:45:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -241,17 +255,6 @@
     "startTime": "2026-07-21T04:59:30Z",
     "endTime": "2026-07-21T07:06:56Z",
     "ttl": "2026-07-28T05:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "qm2zp5MNJCs",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【朝活雑談】　朝だよおはよ！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/qm2zp5MNJCs/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=qm2zp5MNJCs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-21T22:00:00Z",
-    "ttl": "2026-07-28T22:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -310,11 +313,12 @@
     "id": "zQJcOYY-X2U",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "packing while chatting to u guys【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/zQJcOYY-X2U/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/zQJcOYY-X2U/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=zQJcOYY-X2U",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-21T20:00:00Z",
     "startTime": "2026-07-21T20:00:34Z",
+    "endTime": "2026-07-21T22:12:25Z",
     "ttl": "2026-07-28T20:00:00.000Z",
     "streamerId": "riko_solari"
   },
