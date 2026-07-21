@@ -81,6 +81,7 @@
     "url": "https://www.youtube.com/watch?v=Sk29e2qBxsw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-21T11:30:00Z",
+    "startTime": "2026-07-21T11:33:53Z",
     "ttl": "2026-07-28T11:30:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -106,6 +107,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-21T11:00:00Z",
     "startTime": "2026-07-21T11:00:06Z",
+    "endTime": "2026-07-21T11:30:11Z",
     "ttl": "2026-07-28T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -117,6 +119,7 @@
     "url": "https://www.youtube.com/watch?v=aKapZ50bpKo",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-21T12:00:00Z",
+    "startTime": "2026-07-21T11:45:49Z",
     "ttl": "2026-07-28T12:00:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -182,6 +185,17 @@
     "streamerId": "choya_hanabi"
   },
   {
+    "id": "ozgsqoG1bN4",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【スト6】サガットがんばるぞお練習するぞお！【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/ozgsqoG1bN4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ozgsqoG1bN4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-21T12:55:00Z",
+    "ttl": "2026-07-28T12:55:00.000Z",
+    "streamerId": "amayui_moka"
+  },
+  {
     "id": "hggbyLsxCAs",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  League of Legends ◢　LEAGUE OF LEONいくぞおおおお  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
@@ -214,6 +228,7 @@
     "url": "https://www.youtube.com/watch?v=9zkB6ceykxc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-21T12:00:00Z",
+    "startTime": "2026-07-21T12:04:12Z",
     "ttl": "2026-07-28T12:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -230,15 +245,27 @@
     "streamerId": "yumeno_akari"
   },
   {
+    "id": "316199831537",
+    "channelId": "ramuneshiranami",
+    "title": "【Rust】#3 ボス倒したいなーん",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-07-21T12:51:01Z",
+    "startTime": "2026-07-21T12:51:01Z",
+    "platform": "twitch",
+    "ttl": "2026-07-28T12:51:01.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
     "id": "316199230321",
     "channelId": "ramuneshiranami",
     "title": "【APEX】『エーペックスレジェンズ』 x 『サイバーパンク』w/ちーきーさん しす #PR",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-21T11:00:52Z",
-    "startTime": "2026-07-21T11:00:52Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/a89ba6a4c50db5976ae3_ramuneshiranami_316199230321_1784631652//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2825296376",
+    "scheduledStartTime": "2026-07-21T11:00:57Z",
+    "startTime": "2026-07-21T11:00:57Z",
     "platform": "twitch",
-    "ttl": "2026-07-28T11:00:52.000Z",
+    "ttl": "2026-07-28T11:00:57.000Z",
     "streamerId": "shiranami_ramune"
   },
   {
