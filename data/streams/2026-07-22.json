@@ -7,7 +7,20 @@
     "url": "https://www.youtube.com/watch?v=L-7YIQMAcEs",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-22T05:00:00Z",
+    "startTime": "2026-07-22T05:04:36Z",
+    "endTime": "2026-07-22T07:17:46Z",
     "ttl": "2026-07-29T05:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "it0NY5kXcl0",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】ランクフルパ女子会だ！/こんこんちゃん、てとち【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/it0NY5kXcl0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=it0NY5kXcl0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-22T11:00:00Z",
+    "ttl": "2026-07-29T11:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
   {
@@ -29,6 +42,7 @@
     "url": "https://www.youtube.com/watch?v=CtoFlOvUu0o",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-22T05:00:00Z",
+    "startTime": "2026-07-22T05:04:32Z",
     "ttl": "2026-07-29T05:00:00.000Z",
     "streamerId": "kaminari_qpi"
   },
@@ -51,6 +65,8 @@
     "url": "https://www.youtube.com/watch?v=rZ0q0Ll9tnE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-22T05:00:00Z",
+    "startTime": "2026-07-22T05:04:33Z",
+    "endTime": "2026-07-22T07:16:01Z",
     "ttl": "2026-07-29T05:00:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -64,6 +80,18 @@
     "scheduledStartTime": "2026-07-22T11:00:00Z",
     "ttl": "2026-07-29T11:00:00.000Z",
     "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "iQYjyNSlL0k",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　ソロランクする！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/iQYjyNSlL0k/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=iQYjyNSlL0k",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-22T07:00:00Z",
+    "startTime": "2026-07-22T07:05:33Z",
+    "ttl": "2026-07-29T07:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "fHiTMo4hBeA",
@@ -108,5 +136,17 @@
     "scheduledStartTime": "2026-07-22T14:00:00Z",
     "ttl": "2026-07-29T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316266627187",
+    "channelId": "choyahanabi",
+    "title": "【スト６】地上もどるぞ！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/ba21cc25c10b4d3d2f17_choyahanabi_316266627187_1784699794//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2826019249",
+    "scheduledStartTime": "2026-07-22T05:56:39Z",
+    "startTime": "2026-07-22T05:56:39Z",
+    "platform": "twitch",
+    "ttl": "2026-07-29T05:56:39.000Z",
+    "streamerId": "choya_hanabi"
   }
 ]
