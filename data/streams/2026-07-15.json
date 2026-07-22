@@ -1,18 +1,5 @@
 [
   {
-    "id": "YqIoO7LU12w",
-    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
-    "title": "【オフ】なずちゃんとなんかする【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/YqIoO7LU12w/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=YqIoO7LU12w",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-15T10:00:00Z",
-    "startTime": "2026-07-15T09:59:08Z",
-    "endTime": "2026-07-15T11:09:18Z",
-    "ttl": "2026-07-22T10:00:00.000Z",
-    "streamerId": "kaga_sumire"
-  },
-  {
     "id": "YkXwMR4cBnQ",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
     "title": "【めっちゃカメレオン】メンバーたちとかくれんぼ！【ぶいすぽ/兎咲ミミ】",
@@ -49,19 +36,6 @@
     "startTime": "2026-07-15T18:57:51Z",
     "endTime": "2026-07-15T21:35:31Z",
     "ttl": "2026-07-22T19:00:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
-    "id": "pKSY_YI689M",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【APEX】たのしいペクスきちゃ😃 w/しんじさん、かるび【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/pKSY_YI689M/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=pKSY_YI689M",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-15T11:00:00Z",
-    "startTime": "2026-07-15T11:09:51Z",
-    "endTime": "2026-07-15T13:57:26Z",
-    "ttl": "2026-07-22T11:00:00.000Z",
     "streamerId": "yakumo_beni"
   },
   {
@@ -228,18 +202,6 @@
     "startTime": "2026-07-15T12:05:22Z",
     "platform": "twitch",
     "ttl": "2026-07-22T12:05:22.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "316172374897",
-    "channelId": "choyahanabi",
-    "title": "【スト６】まじで一瞬やる！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/4c5d90757fec98da7d19_choyahanabi_316172374897_1784111654//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2820499256",
-    "scheduledStartTime": "2026-07-15T10:34:19Z",
-    "startTime": "2026-07-15T10:34:19Z",
-    "platform": "twitch",
-    "ttl": "2026-07-22T10:34:19.000Z",
     "streamerId": "choya_hanabi"
   },
   {

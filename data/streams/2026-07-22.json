@@ -1,5 +1,16 @@
 [
   {
+    "id": "_h5_K4tWKwA",
+    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
+    "title": "【VALORANT】hisabisaVALO  solo  rank 【ぶいすぽっ！/花芽すみれ】",
+    "thumbnail": "https://i.ytimg.com/vi/_h5_K4tWKwA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=_h5_K4tWKwA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-22T11:30:00Z",
+    "ttl": "2026-07-29T11:30:00.000Z",
+    "streamerId": "kaga_sumire"
+  },
+  {
     "id": "tcAi2PwnTUQ",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【APEX】えぺまつり顔合わせするーーーー【ぶいすぽ/花芽なずな】",
@@ -7,6 +18,7 @@
     "url": "https://www.youtube.com/watch?v=tcAi2PwnTUQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-22T11:00:00Z",
+    "startTime": "2026-07-22T10:58:08Z",
     "ttl": "2026-07-29T11:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -18,6 +30,7 @@
     "url": "https://www.youtube.com/watch?v=6JsrkF0xeuw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-22T10:00:00Z",
+    "startTime": "2026-07-22T10:00:35Z",
     "ttl": "2026-07-29T10:00:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -34,6 +47,18 @@
     "streamerId": "ichinose_uruha"
   },
   {
+    "id": "it0NY5kXcl0",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】ランクフルパ女子会だ！/こんこんちゃん、てとち【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/it0NY5kXcl0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=it0NY5kXcl0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-22T11:00:00Z",
+    "startTime": "2026-07-22T11:01:47Z",
+    "ttl": "2026-07-29T11:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "L-7YIQMAcEs",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】きゅぴちゃんとサイネちゃんとカジュアルであそぶ！【 ぶいすぽっ！胡桃のあ 】",
@@ -47,17 +72,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "it0NY5kXcl0",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】ランクフルパ女子会だ！/こんこんちゃん、てとち【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/it0NY5kXcl0/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=it0NY5kXcl0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-22T11:00:00Z",
-    "ttl": "2026-07-29T11:00:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "c6D-5QRdXLo",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【アークナイツ：エンドフィールド】オクギ：旧塵を辿る。ハーフアニバーサリー:アプデ情報多数【空澄セナ/ぶいすぽっ！】",
@@ -67,6 +81,18 @@
     "scheduledStartTime": "2026-07-22T13:30:00Z",
     "ttl": "2026-07-29T13:30:00.000Z",
     "streamerId": "asumi_sena"
+  },
+  {
+    "id": "ir3Pv_bTVeY",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 VCR RUST 】ボスにいきたいゾ！ 【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/ir3Pv_bTVeY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ir3Pv_bTVeY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-22T11:15:00Z",
+    "startTime": "2026-07-22T11:20:57Z",
+    "ttl": "2026-07-29T11:15:00.000Z",
+    "streamerId": "tachibana_hinano"
   },
   {
     "id": "CtoFlOvUu0o",
@@ -82,16 +108,78 @@
     "streamerId": "kaminari_qpi"
   },
   {
+    "id": "vVjajVfDsf0",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【 VCR RUST 】#3 ミッション進めて文明進化！！！【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/vVjajVfDsf0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=vVjajVfDsf0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-22T11:00:00Z",
+    "startTime": "2026-07-22T11:01:57Z",
+    "ttl": "2026-07-29T11:00:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "w-O1pwDrd9U",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【VALORANT】おじゃましますふるぱ【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/w-O1pwDrd9U/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=w-O1pwDrd9U",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-22T11:00:00Z",
+    "startTime": "2026-07-22T11:07:50Z",
+    "ttl": "2026-07-29T11:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "KBGXLSmwfAw",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 VALORANT 】ひさい w/kinako、ととみっくす、ありさか、藍沢エマ【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/KBGXLSmwfAw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=KBGXLSmwfAw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-22T11:00:00Z",
+    "startTime": "2026-07-22T11:05:38Z",
+    "ttl": "2026-07-29T11:00:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
     "id": "taT_444mA1Q",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 VCR Rust3 】なずな先輩に教えてもらう【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/taT_444mA1Q/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/taT_444mA1Q/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=taT_444mA1Q",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-22T09:00:00Z",
     "startTime": "2026-07-22T09:03:34Z",
+    "endTime": "2026-07-22T10:50:38Z",
     "ttl": "2026-07-29T09:00:00.000Z",
     "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "R-WDu7z1Q6U",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "〖 #ぶいすぽ7周年大感謝祭 〗秋葉原で探せ！ぶいすぽっ！ジャージ探索 後編。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+    "thumbnail": "https://i.ytimg.com/vi/R-WDu7z1Q6U/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=R-WDu7z1Q6U",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-22T11:00:00Z",
+    "startTime": "2026-07-22T11:00:19Z",
+    "endTime": "2026-07-22T11:20:28Z",
+    "ttl": "2026-07-29T11:00:00.000Z",
+    "streamerId": "yano_kuromu"
+  },
+  {
+    "id": "s42fjL-HHIw",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【Minecraft】木造の建物から脱出する謎解きゲーム / ズズ【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/s42fjL-HHIw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=s42fjL-HHIw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-22T11:15:00Z",
+    "startTime": "2026-07-22T11:24:29Z",
+    "ttl": "2026-07-29T11:15:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "aK2o2EJN150",
@@ -101,6 +189,7 @@
     "url": "https://www.youtube.com/watch?v=aK2o2EJN150",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-22T11:00:00Z",
+    "startTime": "2026-07-22T10:59:17Z",
     "ttl": "2026-07-29T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -112,8 +201,21 @@
     "url": "https://www.youtube.com/watch?v=KuFOcdXCdFY",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-22T10:00:00Z",
+    "startTime": "2026-07-22T10:00:43Z",
     "ttl": "2026-07-29T10:00:00.000Z",
     "streamerId": "amayui_moka"
+  },
+  {
+    "id": "HncyrMekhCI",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【＃ぐちゃガチャ】はじめましての方と突発対談！？ゲスト：〇〇〇様【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/HncyrMekhCI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=HncyrMekhCI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-22T11:00:00Z",
+    "startTime": "2026-07-22T10:57:22Z",
+    "ttl": "2026-07-29T11:00:00.000Z",
+    "streamerId": "ginjo_saine"
   },
   {
     "id": "rZ0q0Ll9tnE",
@@ -129,25 +231,15 @@
     "streamerId": "ginjo_saine"
   },
   {
-    "id": "HncyrMekhCI",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【＃ぐちゃガチャ】はじめましての方と突発対談！？ゲスト：〇〇〇様【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/HncyrMekhCI/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=HncyrMekhCI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-22T11:00:00Z",
-    "ttl": "2026-07-29T11:00:00.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
     "id": "iQYjyNSlL0k",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  League of Legends  ◢　ソロランクする！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/iQYjyNSlL0k/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/iQYjyNSlL0k/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=iQYjyNSlL0k",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-22T07:00:00Z",
     "startTime": "2026-07-22T07:05:33Z",
+    "endTime": "2026-07-22T09:57:36Z",
     "ttl": "2026-07-29T07:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
