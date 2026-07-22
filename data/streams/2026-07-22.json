@@ -1,9 +1,43 @@
 [
   {
+    "id": "tcAi2PwnTUQ",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【APEX】えぺまつり顔合わせするーーーー【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/tcAi2PwnTUQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=tcAi2PwnTUQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-22T11:00:00Z",
+    "ttl": "2026-07-29T11:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "6JsrkF0xeuw",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "【 Minecraft 】もかちゃんと夏祭り建築する！【 ぶいすぽ / 小雀とと 】",
+    "thumbnail": "https://i.ytimg.com/vi/6JsrkF0xeuw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=6JsrkF0xeuw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-22T10:00:00Z",
+    "ttl": "2026-07-29T10:00:00.000Z",
+    "streamerId": "kogara_toto"
+  },
+  {
+    "id": "HwNypKq5Jhc",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【VCR RUST】旨味を見いだす【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/HwNypKq5Jhc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=HwNypKq5Jhc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-22T09:30:00Z",
+    "startTime": "2026-07-22T09:32:04Z",
+    "ttl": "2026-07-29T09:30:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "L-7YIQMAcEs",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】きゅぴちゃんとサイネちゃんとカジュアルであそぶ！【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/L-7YIQMAcEs/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/L-7YIQMAcEs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=L-7YIQMAcEs",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-22T05:00:00Z",
@@ -38,13 +72,26 @@
     "id": "CtoFlOvUu0o",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【APEX】企画以外でやるの久々すぎ問題 wのあﾁｬﾝ,銀''上''ｻﾝ【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/CtoFlOvUu0o/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/CtoFlOvUu0o/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=CtoFlOvUu0o",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-22T05:00:00Z",
     "startTime": "2026-07-22T05:04:32Z",
+    "endTime": "2026-07-22T07:36:05Z",
     "ttl": "2026-07-29T05:00:00.000Z",
     "streamerId": "kaminari_qpi"
+  },
+  {
+    "id": "taT_444mA1Q",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 VCR Rust3 】なずな先輩に教えてもらう【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/taT_444mA1Q/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=taT_444mA1Q",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-22T09:00:00Z",
+    "startTime": "2026-07-22T09:03:34Z",
+    "ttl": "2026-07-29T09:00:00.000Z",
+    "streamerId": "shinomiya_runa"
   },
   {
     "id": "aK2o2EJN150",
@@ -58,10 +105,21 @@
     "streamerId": "choya_hanabi"
   },
   {
+    "id": "KuFOcdXCdFY",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【Minecraft】とと先輩と出し物作る✌【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/KuFOcdXCdFY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=KuFOcdXCdFY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-22T10:00:00Z",
+    "ttl": "2026-07-29T10:00:00.000Z",
+    "streamerId": "amayui_moka"
+  },
+  {
     "id": "rZ0q0Ll9tnE",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【APEX LEGENDS】ぶいすぽメンバーで参ります！！／ のあ先輩、きゅぴ先輩【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/rZ0q0Ll9tnE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/rZ0q0Ll9tnE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=rZ0q0Ll9tnE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-22T05:00:00Z",
@@ -136,6 +194,18 @@
     "scheduledStartTime": "2026-07-22T14:00:00Z",
     "ttl": "2026-07-29T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316211970802",
+    "channelId": "akarindao",
+    "title": "VCRまつたりと#2",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-22T09:14:10Z",
+    "startTime": "2026-07-22T09:14:10Z",
+    "platform": "twitch",
+    "ttl": "2026-07-29T09:14:10.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316266627187",
