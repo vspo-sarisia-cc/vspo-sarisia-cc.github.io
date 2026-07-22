@@ -20,5 +20,16 @@
     "scheduledStartTime": "2026-07-24T14:00:00Z",
     "ttl": "2026-07-31T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "M2qp36AzMnE",
+    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
+    "title": "【VALORANT】 pew pew 【#VSPOEN #NarinMikure】",
+    "thumbnail": "https://i.ytimg.com/vi/M2qp36AzMnE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=M2qp36AzMnE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-24T03:00:00Z",
+    "ttl": "2026-07-31T03:00:00.000Z",
+    "streamerId": "narin_mikure"
   }
 ]
