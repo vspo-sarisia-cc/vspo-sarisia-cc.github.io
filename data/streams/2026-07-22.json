@@ -242,6 +242,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-22T17:00:00Z",
     "startTime": "2026-07-22T17:04:30Z",
+    "endTime": "2026-07-22T20:30:24Z",
     "ttl": "2026-07-29T17:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -363,21 +364,9 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316204740337",
-    "channelId": "ren_kisaragi__",
-    "title": "釣",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-07-22T14:34:09Z",
-    "startTime": "2026-07-22T14:34:09Z",
-    "platform": "twitch",
-    "ttl": "2026-07-29T14:34:09.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "315374317424",
     "channelId": "erissuzukami",
-    "title": "i wantSLEEP so bad plzz @decaten @dashu",
+    "title": "valorant",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
     "url": "https://www.twitch.tv/erissuzukami",
     "scheduledStartTime": "2026-07-22T12:40:48Z",
@@ -385,6 +374,18 @@
     "platform": "twitch",
     "ttl": "2026-07-29T12:40:48.000Z",
     "streamerId": "eris_suzukami"
+  },
+  {
+    "id": "316204740337",
+    "channelId": "ren_kisaragi__",
+    "title": "釣",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/a4b13617a19e25c5dde0_ren_kisaragi___316204740337_1784730849//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2826220274",
+    "scheduledStartTime": "2026-07-22T14:34:14Z",
+    "startTime": "2026-07-22T14:34:14Z",
+    "platform": "twitch",
+    "ttl": "2026-07-29T14:34:14.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316212822130",
