@@ -92,7 +92,7 @@
     "id": "c6D-5QRdXLo",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【アークナイツ：エンドフィールド】オクギ：旧塵を辿る。ハーフアニバーサリー:アプデ情報多数【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/c6D-5QRdXLo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/c6D-5QRdXLo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=c6D-5QRdXLo",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-22T13:30:00Z",
@@ -218,7 +218,7 @@
     "id": "s42fjL-HHIw",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【Minecraft】木造の建物から脱出する謎解きゲーム / ズズ【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/s42fjL-HHIw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/s42fjL-HHIw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=s42fjL-HHIw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-22T11:15:00Z",
@@ -340,18 +340,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316211970802",
-    "channelId": "akarindao",
-    "title": "VCRまつたりと#2",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-22T09:14:10Z",
-    "startTime": "2026-07-22T09:14:10Z",
-    "platform": "twitch",
-    "ttl": "2026-07-29T09:14:10.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316212822130",
     "channelId": "ramuneshiranami",
     "title": "【Rust】#4 新しいボス？いきたい",
@@ -386,6 +374,18 @@
     "platform": "twitch",
     "ttl": "2026-07-29T12:40:48.000Z",
     "streamerId": "eris_suzukami"
+  },
+  {
+    "id": "316211970802",
+    "channelId": "akarindao",
+    "title": "VCRまつたりと#2",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/cc090571080e93a622a5_akarindao_316211970802_1784711649//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2826082411",
+    "scheduledStartTime": "2026-07-22T09:14:15Z",
+    "startTime": "2026-07-22T09:14:15Z",
+    "platform": "twitch",
+    "ttl": "2026-07-29T09:14:15.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316266627187",
