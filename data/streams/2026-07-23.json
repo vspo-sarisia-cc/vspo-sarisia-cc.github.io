@@ -1,5 +1,18 @@
 [
   {
+    "id": "o_9jYAE-MFA",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【VCR:Rust】農業依存症視点【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/o_9jYAE-MFA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=o_9jYAE-MFA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-23T13:45:00Z",
+    "startTime": "2026-07-23T13:41:08Z",
+    "endTime": "2026-07-23T19:01:19Z",
+    "ttl": "2026-07-30T13:45:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "0qOYZfCSCOY",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【APEX】えぺまつりきたーーー！　ハセシン、Bijuさん【ぶいすぽ/花芽なずな】",
@@ -13,26 +26,15 @@
     "streamerId": "kaga_nazuna"
   },
   {
-    "id": "o_9jYAE-MFA",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【VCR:Rust】農業依存症視点【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/o_9jYAE-MFA/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=o_9jYAE-MFA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-23T13:45:00Z",
-    "startTime": "2026-07-23T13:41:08Z",
-    "ttl": "2026-07-30T13:45:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "sbdpU44k_x8",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【VCR RUST】今日からPvPがくるらしい・・・・・・！！！【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/sbdpU44k_x8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/sbdpU44k_x8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=sbdpU44k_x8",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-23T09:00:00Z",
     "startTime": "2026-07-23T09:03:37Z",
+    "endTime": "2026-07-23T19:00:29Z",
     "ttl": "2026-07-30T09:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -50,6 +52,19 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "wSq_5LkBBnM",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 VCR RUST 】 おなかいっぱい【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/wSq_5LkBBnM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=wSq_5LkBBnM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-23T14:15:00Z",
+    "startTime": "2026-07-23T14:15:08Z",
+    "endTime": "2026-07-23T19:02:27Z",
+    "ttl": "2026-07-30T14:15:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "XJ3j-8sPWds",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Apex Legends 】えぺまつりがんばります🤩 【ぶいすぽっ！/橘ひなの】",
@@ -60,18 +75,6 @@
     "startTime": "2026-07-23T08:09:47Z",
     "endTime": "2026-07-23T14:04:17Z",
     "ttl": "2026-07-30T08:10:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "wSq_5LkBBnM",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 VCR RUST 】 おなかいっぱい【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/wSq_5LkBBnM/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=wSq_5LkBBnM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-23T14:15:00Z",
-    "startTime": "2026-07-23T14:15:08Z",
-    "ttl": "2026-07-30T14:15:00.000Z",
     "streamerId": "tachibana_hinano"
   },
   {
@@ -221,11 +224,12 @@
     "id": "Q3vcTros2QA",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【VCR RUST】はじめまして、お邪魔いたします【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/Q3vcTros2QA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Q3vcTros2QA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Q3vcTros2QA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-23T09:00:00Z",
     "startTime": "2026-07-23T08:59:21Z",
+    "endTime": "2026-07-23T19:01:05Z",
     "ttl": "2026-07-30T09:00:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -233,11 +237,12 @@
     "id": "r9ZQw9pl8n0",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  VCR RUST  ◢　初めてのRUST参加させていただきます！  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/r9ZQw9pl8n0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/r9ZQw9pl8n0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=r9ZQw9pl8n0",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-23T09:00:00Z",
     "startTime": "2026-07-23T09:00:52Z",
+    "endTime": "2026-07-23T19:07:42Z",
     "ttl": "2026-07-30T09:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -279,18 +284,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316273013107",
-    "channelId": "ramuneshiranami",
-    "title": "【Rust】#5 うちらの文明は追いつくのでしょうか",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-23T13:55:59Z",
-    "startTime": "2026-07-23T13:55:59Z",
-    "platform": "twitch",
-    "ttl": "2026-07-30T13:55:59.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316271951859",
     "channelId": "ren_kisaragi__",
     "title": "ちょっとだけ",
@@ -301,6 +294,18 @@
     "platform": "twitch",
     "ttl": "2026-07-30T10:38:59.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316273013107",
+    "channelId": "ramuneshiranami",
+    "title": "【Rust】#5 うちらの文明は追いつくのでしょうか",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/1e55d60ee69af005f071_ramuneshiranami_316273013107_1784814959//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2827021129",
+    "scheduledStartTime": "2026-07-23T13:56:04Z",
+    "startTime": "2026-07-23T13:56:04Z",
+    "platform": "twitch",
+    "ttl": "2026-07-30T13:56:04.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316207583601",
