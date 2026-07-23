@@ -56,6 +56,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-23T07:55:00Z",
     "startTime": "2026-07-23T07:55:56Z",
+    "endTime": "2026-07-23T09:52:43Z",
     "ttl": "2026-07-30T07:55:00.000Z",
     "streamerId": "kaminari_qpi"
   },
@@ -92,6 +93,7 @@
     "url": "https://www.youtube.com/watch?v=3YIDFkteqVs",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-23T10:00:00Z",
+    "startTime": "2026-07-23T09:59:03Z",
     "ttl": "2026-07-30T10:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -124,11 +126,12 @@
     "id": "5B-KjWO8-KE",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【ドラゴンクエストVII Reimagined】今日はきっと楽しいお話しだよね？ #2【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/5B-KjWO8-KE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/5B-KjWO8-KE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=5B-KjWO8-KE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-23T08:20:00Z",
     "startTime": "2026-07-23T08:20:30Z",
+    "endTime": "2026-07-23T10:16:06Z",
     "ttl": "2026-07-30T08:20:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -154,6 +157,17 @@
     "scheduledStartTime": "2026-07-23T12:00:00Z",
     "ttl": "2026-07-30T12:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "5328STbkdqM",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【Minecraft】同期となにか作る✌【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/5328STbkdqM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=5328STbkdqM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-23T12:00:00Z",
+    "ttl": "2026-07-30T12:00:00.000Z",
+    "streamerId": "amayui_moka"
   },
   {
     "id": "Q3vcTros2QA",
@@ -223,6 +237,18 @@
     "platform": "twitch",
     "ttl": "2026-07-30T09:06:45.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316271951859",
+    "channelId": "ren_kisaragi__",
+    "title": "ちょっとだけ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-07-23T10:38:54Z",
+    "startTime": "2026-07-23T10:38:54Z",
+    "platform": "twitch",
+    "ttl": "2026-07-30T10:38:54.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316207583601",
