@@ -50,18 +50,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "wSq_5LkBBnM",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 VCR RUST 】 おなかいっぱい【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/wSq_5LkBBnM/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=wSq_5LkBBnM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-23T14:15:00Z",
-    "startTime": "2026-07-23T14:15:08Z",
-    "ttl": "2026-07-30T14:15:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
     "id": "XJ3j-8sPWds",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Apex Legends 】えぺまつりがんばります🤩 【ぶいすぽっ！/橘ひなの】",
@@ -72,6 +60,18 @@
     "startTime": "2026-07-23T08:09:47Z",
     "endTime": "2026-07-23T14:04:17Z",
     "ttl": "2026-07-30T08:10:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "wSq_5LkBBnM",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 VCR RUST 】 おなかいっぱい【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/wSq_5LkBBnM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=wSq_5LkBBnM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-23T14:15:00Z",
+    "startTime": "2026-07-23T14:15:08Z",
+    "ttl": "2026-07-30T14:15:00.000Z",
     "streamerId": "tachibana_hinano"
   },
   {
@@ -256,11 +256,12 @@
     "id": "oRQs0-8yEV4",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【Scratch Creek】we are pro horror game players we are not scared we are brave an【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/oRQs0-8yEV4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/oRQs0-8yEV4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=oRQs0-8yEV4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-23T14:00:00Z",
     "startTime": "2026-07-23T14:02:11Z",
+    "endTime": "2026-07-23T17:14:22Z",
     "ttl": "2026-07-30T14:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -268,11 +269,12 @@
     "id": "owGIzor5Ccc",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Scratch Creek◢ playing with someone shorter than me @jirajisaki | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/owGIzor5Ccc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/owGIzor5Ccc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=owGIzor5Ccc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-23T14:00:00Z",
     "startTime": "2026-07-23T13:59:05Z",
+    "endTime": "2026-07-23T17:32:24Z",
     "ttl": "2026-07-30T14:00:00.000Z",
     "streamerId": "juno_umezono"
   },
@@ -287,18 +289,6 @@
     "platform": "twitch",
     "ttl": "2026-07-30T13:55:59.000Z",
     "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "317279215202",
-    "channelId": "remiaaotsuki",
-    "title": "today is a new day I Premier EU",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_remiaaotsuki-320x180.jpg",
-    "url": "https://www.twitch.tv/remiaaotsuki",
-    "scheduledStartTime": "2026-07-23T15:05:54Z",
-    "startTime": "2026-07-23T15:05:54Z",
-    "platform": "twitch",
-    "ttl": "2026-07-30T15:05:54.000Z",
-    "streamerId": "remia_aotsuki"
   },
   {
     "id": "316271951859",
@@ -335,5 +325,17 @@
     "platform": "twitch",
     "ttl": "2026-07-30T09:06:50.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "317279215202",
+    "channelId": "remiaaotsuki",
+    "title": "today is a new day I Premier EU",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/59590d806da89f844f47_remiaaotsuki_317279215202_1784819154//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2827060690",
+    "scheduledStartTime": "2026-07-23T15:06:01Z",
+    "startTime": "2026-07-23T15:06:01Z",
+    "platform": "twitch",
+    "ttl": "2026-07-30T15:06:01.000Z",
+    "streamerId": "remia_aotsuki"
   }
 ]
