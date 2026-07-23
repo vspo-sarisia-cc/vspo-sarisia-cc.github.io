@@ -1,13 +1,86 @@
 [
   {
+    "id": "0qOYZfCSCOY",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【APEX】えぺまつりきたーーー！　ハセシン、Bijuさん【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/0qOYZfCSCOY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=0qOYZfCSCOY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-23T09:00:00Z",
+    "startTime": "2026-07-23T09:02:45Z",
+    "ttl": "2026-07-30T09:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "sbdpU44k_x8",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【VCR RUST】今日からPvPがくるらしい・・・・・・！！！【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/sbdpU44k_x8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=sbdpU44k_x8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-23T09:00:00Z",
+    "startTime": "2026-07-23T09:03:37Z",
+    "ttl": "2026-07-30T09:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "BUhLasg6EF4",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】えぺまつり！Tonboさん、acoさんとがんばる！【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/BUhLasg6EF4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=BUhLasg6EF4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-23T09:00:00Z",
+    "startTime": "2026-07-23T09:05:19Z",
+    "ttl": "2026-07-30T09:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "XJ3j-8sPWds",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 Apex Legends 】えぺまつりがんばります🤩 【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/XJ3j-8sPWds/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=XJ3j-8sPWds",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-23T08:10:00Z",
+    "startTime": "2026-07-23T08:09:47Z",
+    "ttl": "2026-07-30T08:10:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "LRuFilnyPE8",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【STREET FIGHTER 6】祝脱禿✌【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/LRuFilnyPE8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=LRuFilnyPE8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-23T07:55:00Z",
+    "startTime": "2026-07-23T07:55:56Z",
+    "ttl": "2026-07-30T07:55:00.000Z",
+    "streamerId": "kaminari_qpi"
+  },
+  {
+    "id": "fld0LRjGzSs",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【APEX】えぺまつりきたーーーーーーー w/ボドカらむち【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/fld0LRjGzSs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=fld0LRjGzSs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-23T10:00:00Z",
+    "startTime": "2026-07-23T09:15:09Z",
+    "ttl": "2026-07-30T10:00:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
     "id": "fBGB7P8GNDU",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【アークナイツ：エンドフィールド】ファンちん…【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/fBGB7P8GNDU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/fBGB7P8GNDU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=fBGB7P8GNDU",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-23T06:15:00Z",
     "startTime": "2026-07-23T06:34:12Z",
+    "endTime": "2026-07-23T08:58:41Z",
     "ttl": "2026-07-30T06:15:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -26,11 +99,12 @@
     "id": "h4Es2Timmtc",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 ゼルダの伝説 ブレワイ 】#3 姫どころか世界ごと救うわ【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/h4Es2Timmtc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/h4Es2Timmtc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=h4Es2Timmtc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-23T00:45:00Z",
     "startTime": "2026-07-23T00:35:30Z",
+    "endTime": "2026-07-23T07:40:59Z",
     "ttl": "2026-07-30T00:45:00.000Z",
     "streamerId": "komori_met"
   },
@@ -42,8 +116,21 @@
     "url": "https://www.youtube.com/watch?v=BnyBHWPNXJk",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-23T10:00:00Z",
+    "startTime": "2026-07-23T09:23:21Z",
     "ttl": "2026-07-30T10:00:00.000Z",
     "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "5B-KjWO8-KE",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【ドラゴンクエストVII Reimagined】今日はきっと楽しいお話しだよね？ #2【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/5B-KjWO8-KE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=5B-KjWO8-KE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-23T08:20:00Z",
+    "startTime": "2026-07-23T08:20:30Z",
+    "ttl": "2026-07-30T08:20:00.000Z",
+    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "FPKau54qTsY",
@@ -53,6 +140,7 @@
     "url": "https://www.youtube.com/watch?v=FPKau54qTsY",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-23T09:00:00Z",
+    "startTime": "2026-07-23T09:02:04Z",
     "ttl": "2026-07-30T09:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -66,6 +154,30 @@
     "scheduledStartTime": "2026-07-23T12:00:00Z",
     "ttl": "2026-07-30T12:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "Q3vcTros2QA",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【VCR RUST】はじめまして、お邪魔いたします【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/Q3vcTros2QA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Q3vcTros2QA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-23T09:00:00Z",
+    "startTime": "2026-07-23T08:59:21Z",
+    "ttl": "2026-07-30T09:00:00.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "r9ZQw9pl8n0",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  VCR RUST  ◢　初めてのRUST参加させていただきます！  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/r9ZQw9pl8n0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=r9ZQw9pl8n0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-23T09:00:00Z",
+    "startTime": "2026-07-23T09:00:52Z",
+    "ttl": "2026-07-30T09:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "M_R-yqDTtws",
@@ -99,6 +211,30 @@
     "scheduledStartTime": "2026-07-23T14:00:00Z",
     "ttl": "2026-07-30T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316207555441",
+    "channelId": "akarindao",
+    "title": "VCRマイカーがほしい#3",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-23T09:06:45Z",
+    "startTime": "2026-07-23T09:06:45Z",
+    "platform": "twitch",
+    "ttl": "2026-07-30T09:06:45.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316207583601",
+    "channelId": "ramuneshiranami",
+    "title": "【APEX】えぺまつり w/ぼど べにさん",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-07-23T09:16:10Z",
+    "startTime": "2026-07-23T09:16:10Z",
+    "platform": "twitch",
+    "ttl": "2026-07-30T09:16:10.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMH0=",

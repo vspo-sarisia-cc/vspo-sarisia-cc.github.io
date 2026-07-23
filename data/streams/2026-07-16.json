@@ -91,19 +91,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "6Qe6PJSaREw",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】夏が来たんか【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/6Qe6PJSaREw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=6Qe6PJSaREw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-16T08:00:00Z",
-    "startTime": "2026-07-16T07:55:58Z",
-    "endTime": "2026-07-16T10:38:50Z",
-    "ttl": "2026-07-23T08:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
     "id": "GyVk-IgMXzs",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Minecraft 】　夏祭りに向けて、闘技場作るぞおおおおおおおお！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -128,18 +115,6 @@
     "endTime": "2026-07-17T00:55:27Z",
     "ttl": "2026-07-23T22:00:00.000Z",
     "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "316240085107",
-    "channelId": "ren_kisaragi__",
-    "title": "BBCFw/フェン様",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/b2e71edc2275cc3cbcad_ren_kisaragi___316240085107_1784188266//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2821231525",
-    "scheduledStartTime": "2026-07-16T07:51:11Z",
-    "startTime": "2026-07-16T07:51:11Z",
-    "platform": "twitch",
-    "ttl": "2026-07-23T07:51:11.000Z",
-    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316176784113",
