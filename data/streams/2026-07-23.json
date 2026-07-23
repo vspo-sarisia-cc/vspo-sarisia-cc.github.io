@@ -73,6 +73,17 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "oGHQIwQFmiM",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】めちゃすこし【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/oGHQIwQFmiM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=oGHQIwQFmiM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-23T13:15:00Z",
+    "ttl": "2026-07-30T13:15:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "fBGB7P8GNDU",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【アークナイツ：エンドフィールド】ファンちん…【ぶいすぽっ！/ 藍沢エマ】",
@@ -136,18 +147,6 @@
     "streamerId": "sendo_yuuhi"
   },
   {
-    "id": "FPKau54qTsY",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "#５【 VCR RUST3 】　まずは詫びから！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/FPKau54qTsY/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=FPKau54qTsY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-23T09:00:00Z",
-    "startTime": "2026-07-23T09:02:04Z",
-    "ttl": "2026-07-30T09:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
     "id": "5rIzN5HlFHA",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Minecraft 】　もかと夏祭りにむけて、出し物つくる！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -155,7 +154,21 @@
     "url": "https://www.youtube.com/watch?v=5rIzN5HlFHA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-23T12:00:00Z",
+    "startTime": "2026-07-23T12:03:56Z",
     "ttl": "2026-07-30T12:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "FPKau54qTsY",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "#５【 VCR RUST3 】　まずは詫びから！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/FPKau54qTsY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=FPKau54qTsY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-23T09:00:00Z",
+    "startTime": "2026-07-23T09:02:04Z",
+    "endTime": "2026-07-23T11:59:34Z",
+    "ttl": "2026-07-30T09:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -166,6 +179,7 @@
     "url": "https://www.youtube.com/watch?v=5328STbkdqM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-23T12:00:00Z",
+    "startTime": "2026-07-23T12:04:05Z",
     "ttl": "2026-07-30T12:00:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -239,18 +253,6 @@
     "streamerId": "yumeno_akari"
   },
   {
-    "id": "316271951859",
-    "channelId": "ren_kisaragi__",
-    "title": "ちょっとだけ",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-07-23T10:38:54Z",
-    "startTime": "2026-07-23T10:38:54Z",
-    "platform": "twitch",
-    "ttl": "2026-07-30T10:38:54.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "316207583601",
     "channelId": "ramuneshiranami",
     "title": "【APEX】えぺまつり w/ぼど べにさん",
@@ -261,6 +263,18 @@
     "platform": "twitch",
     "ttl": "2026-07-30T09:16:10.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316271951859",
+    "channelId": "ren_kisaragi__",
+    "title": "ちょっとだけ",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/f3c430611f97b961b96f_ren_kisaragi___316271951859_1784803134//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2826931880",
+    "scheduledStartTime": "2026-07-23T10:38:59Z",
+    "startTime": "2026-07-23T10:38:59Z",
+    "platform": "twitch",
+    "ttl": "2026-07-30T10:38:59.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMH0=",
