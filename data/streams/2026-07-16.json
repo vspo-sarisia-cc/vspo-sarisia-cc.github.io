@@ -13,18 +13,6 @@
     "streamerId": "arya_kuroha"
   },
   {
-    "id": "316177804529",
-    "channelId": "akarindao",
-    "title": "ぶいすぽ夏祭りに向けて、闘技場編",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/9a881e58c218c866b6fa_akarindao_316177804529_1784211319//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2821381395",
-    "scheduledStartTime": "2026-07-16T14:15:25Z",
-    "startTime": "2026-07-16T14:15:25Z",
-    "platform": "twitch",
-    "ttl": "2026-07-23T14:15:25.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316242013939",
     "channelId": "kokagetsumugi",
     "title": "エイム調整してちょいコンペ",
@@ -34,18 +22,6 @@
     "startTime": "2026-07-16T15:31:37Z",
     "platform": "twitch",
     "ttl": "2026-07-23T15:31:37.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "316241931251",
-    "channelId": "kokagetsumugi",
-    "title": "エイム調整してちょいコンペ",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/68a8b4f45d2d03c0ea2c_kokagetsumugi_316241931251_1784214411//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2821409112",
-    "scheduledStartTime": "2026-07-16T15:06:56Z",
-    "startTime": "2026-07-16T15:06:56Z",
-    "platform": "twitch",
-    "ttl": "2026-07-23T15:06:56.000Z",
     "streamerId": "tsumugi_kokage"
   },
   {
