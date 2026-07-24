@@ -16,11 +16,12 @@
     "id": "bi3Ie0R00W0",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【VCR:Rust】農業完成したのでなにをしよう【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/bi3Ie0R00W0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/bi3Ie0R00W0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=bi3Ie0R00W0",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-24T13:40:00Z",
     "startTime": "2026-07-24T13:38:13Z",
+    "endTime": "2026-07-24T19:01:47Z",
     "ttl": "2026-07-31T13:40:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -103,6 +104,19 @@
     "streamerId": "tosaki_mimi"
   },
   {
+    "id": "IjXZ8eRpuBY",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 VCR RUST 】 やりますか～【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/IjXZ8eRpuBY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=IjXZ8eRpuBY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-24T12:45:00Z",
+    "startTime": "2026-07-24T12:43:13Z",
+    "endTime": "2026-07-24T19:08:19Z",
+    "ttl": "2026-07-31T12:45:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "ZeweS_2nKD0",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Forza Horizon6 】 最速王におれはなる【ぶいすぽっ！/橘ひなの】",
@@ -113,18 +127,6 @@
     "startTime": "2026-07-24T10:04:50Z",
     "endTime": "2026-07-24T11:53:13Z",
     "ttl": "2026-07-31T10:00:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "IjXZ8eRpuBY",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 VCR RUST 】 やりますか～【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/IjXZ8eRpuBY/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=IjXZ8eRpuBY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-24T12:45:00Z",
-    "startTime": "2026-07-24T12:43:13Z",
-    "ttl": "2026-07-31T12:45:00.000Z",
     "streamerId": "tachibana_hinano"
   },
   {
@@ -207,11 +209,12 @@
     "id": "XqxvgPY4RSs",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【Minecraft】やぐらっぽいやつ作ろうかなって！！【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/XqxvgPY4RSs/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/XqxvgPY4RSs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=XqxvgPY4RSs",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-24T14:15:00Z",
     "startTime": "2026-07-24T14:28:35Z",
+    "endTime": "2026-07-24T18:01:25Z",
     "ttl": "2026-07-31T14:15:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -236,6 +239,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-24T09:00:00Z",
     "startTime": "2026-07-24T09:01:40Z",
+    "endTime": "2026-07-24T19:09:41Z",
     "ttl": "2026-07-31T09:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -261,6 +265,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-24T13:20:00Z",
     "startTime": "2026-07-24T13:21:40Z",
+    "endTime": "2026-07-24T19:16:50Z",
     "ttl": "2026-07-31T13:20:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -291,18 +296,6 @@
     "streamerId": "narin_mikure"
   },
   {
-    "id": "316212772337",
-    "channelId": "ramuneshiranami",
-    "title": "【Rust】#6 サブタスク終わってまう・・・",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-24T12:24:10Z",
-    "startTime": "2026-07-24T12:24:10Z",
-    "platform": "twitch",
-    "ttl": "2026-07-31T12:24:10.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316211987953",
     "channelId": "ren_kisaragi__",
     "title": "EWC 2026 – Street Fighter 6 – LCQ DAY1 ミラー配信",
@@ -313,6 +306,18 @@
     "platform": "twitch",
     "ttl": "2026-07-31T09:26:48.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316212772337",
+    "channelId": "ramuneshiranami",
+    "title": "【Rust】#6 サブタスク終わってまう・・・",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/cbae6088640e0a2af14e_ramuneshiranami_316212772337_1784895850//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2827799569",
+    "scheduledStartTime": "2026-07-24T12:24:16Z",
+    "startTime": "2026-07-24T12:24:16Z",
+    "platform": "twitch",
+    "ttl": "2026-07-31T12:24:16.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316220831602",
