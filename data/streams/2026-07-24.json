@@ -54,11 +54,12 @@
     "id": "ZYr1CKob0w0",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【VCR RUST】tier2見たいな～～～～～【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/ZYr1CKob0w0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ZYr1CKob0w0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ZYr1CKob0w0",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-24T13:15:00Z",
     "startTime": "2026-07-24T13:17:04Z",
+    "endTime": "2026-07-24T17:14:51Z",
     "ttl": "2026-07-31T13:15:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -102,18 +103,6 @@
     "streamerId": "tosaki_mimi"
   },
   {
-    "id": "IjXZ8eRpuBY",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 VCR RUST 】 やりますか～【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/IjXZ8eRpuBY/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=IjXZ8eRpuBY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-24T12:45:00Z",
-    "startTime": "2026-07-24T12:43:13Z",
-    "ttl": "2026-07-31T12:45:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
     "id": "ZeweS_2nKD0",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Forza Horizon6 】 最速王におれはなる【ぶいすぽっ！/橘ひなの】",
@@ -124,6 +113,18 @@
     "startTime": "2026-07-24T10:04:50Z",
     "endTime": "2026-07-24T11:53:13Z",
     "ttl": "2026-07-31T10:00:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "IjXZ8eRpuBY",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 VCR RUST 】 やりますか～【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/IjXZ8eRpuBY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=IjXZ8eRpuBY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-24T12:45:00Z",
+    "startTime": "2026-07-24T12:43:13Z",
+    "ttl": "2026-07-31T12:45:00.000Z",
     "streamerId": "tachibana_hinano"
   },
   {
@@ -140,6 +141,30 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "wW-sbbhx7-M",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】EWC 2026 – Street Fighter 6 – LCQ DAY1みるぞ～！！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/wW-sbbhx7-M/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=wW-sbbhx7-M",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-24T08:30:00Z",
+    "startTime": "2026-07-24T08:30:20Z",
+    "endTime": "2026-07-24T16:38:05Z",
+    "ttl": "2026-07-31T08:30:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "gHtqu9pduE8",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "エニー大丈夫？エニー大丈夫？【ぶいすぽっ！/ 藍沢エマ/橘ひなの/柊ﾂツルギ/APEX】",
+    "thumbnail": "https://i.ytimg.com/vi/gHtqu9pduE8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=gHtqu9pduE8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-24T22:00:00Z",
+    "ttl": "2026-07-31T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "AJ-wawrb3Hk",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "この絶妙な時間",
@@ -150,18 +175,6 @@
     "startTime": "2026-07-24T07:14:17Z",
     "endTime": "2026-07-24T08:26:49Z",
     "ttl": "2026-07-31T07:08:37.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "wW-sbbhx7-M",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】EWC 2026 – Street Fighter 6 – LCQ DAY1みるぞ～！！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/wW-sbbhx7-M/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=wW-sbbhx7-M",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-24T08:30:00Z",
-    "startTime": "2026-07-24T08:30:20Z",
-    "ttl": "2026-07-31T08:30:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -230,11 +243,12 @@
     "id": "MB6YDmxnkWM",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【VCR RUST】かけだしファーマーエンチャンター【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/MB6YDmxnkWM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/MB6YDmxnkWM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=MB6YDmxnkWM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-24T10:40:00Z",
     "startTime": "2026-07-24T10:40:57Z",
+    "endTime": "2026-07-24T17:14:46Z",
     "ttl": "2026-07-31T10:40:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -254,11 +268,12 @@
     "id": "IrA_4aO3Sx0",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Smash or Pass?  |  Quarantine Zone: The Last Check【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/IrA_4aO3Sx0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/IrA_4aO3Sx0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=IrA_4aO3Sx0",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-24T14:00:00Z",
     "startTime": "2026-07-24T14:00:51Z",
+    "endTime": "2026-07-24T17:05:50Z",
     "ttl": "2026-07-31T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -276,30 +291,6 @@
     "streamerId": "narin_mikure"
   },
   {
-    "id": "316211987953",
-    "channelId": "ren_kisaragi__",
-    "title": "EWC 2026 – Street Fighter 6 – LCQ DAY1 ミラー配信",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-07-24T09:26:43Z",
-    "startTime": "2026-07-24T09:26:43Z",
-    "platform": "twitch",
-    "ttl": "2026-07-31T09:26:43.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316276757491",
-    "channelId": "akarindao",
-    "title": "マイカーほしいなあ＃4",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-24T12:01:00Z",
-    "startTime": "2026-07-24T12:01:00Z",
-    "platform": "twitch",
-    "ttl": "2026-07-31T12:01:00.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316212772337",
     "channelId": "ramuneshiranami",
     "title": "【Rust】#6 サブタスク終わってまう・・・",
@@ -312,6 +303,18 @@
     "streamerId": "shiranami_ramune"
   },
   {
+    "id": "316211987953",
+    "channelId": "ren_kisaragi__",
+    "title": "EWC 2026 – Street Fighter 6 – LCQ DAY1 ミラー配信",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/da4c284a71326d907f92_ren_kisaragi___316211987953_1784885203//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2827730386",
+    "scheduledStartTime": "2026-07-24T09:26:48Z",
+    "startTime": "2026-07-24T09:26:48Z",
+    "platform": "twitch",
+    "ttl": "2026-07-31T09:26:48.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
     "id": "316220831602",
     "channelId": "ramuneshiranami",
     "title": "【Forza Horizon 6】Presented by GALLERIA ぶいすぽっ！GP 2026 summer",
@@ -322,6 +325,18 @@
     "platform": "twitch",
     "ttl": "2026-07-31T10:05:27.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316276757491",
+    "channelId": "akarindao",
+    "title": "マイカーほしいなあ＃4",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d5ef8526137b7b25def0_akarindao_316276757491_1784894460//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2827788883",
+    "scheduledStartTime": "2026-07-24T12:01:06Z",
+    "startTime": "2026-07-24T12:01:06Z",
+    "platform": "twitch",
+    "ttl": "2026-07-31T12:01:06.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316276240755",
