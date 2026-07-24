@@ -33,6 +33,18 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "Jz6V5PffdQ4",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 スプラトゥーン レイダース 】メカニックはん ネタバレ注意【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/Jz6V5PffdQ4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Jz6V5PffdQ4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-24T03:00:00Z",
+    "startTime": "2026-07-24T03:10:40Z",
+    "ttl": "2026-07-31T03:00:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
     "id": "IrA_4aO3Sx0",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Smash or Pass?  |  Quarantine Zone: The Last Check【#VSPOEN #RemiaAotsuki】",
@@ -51,6 +63,7 @@
     "url": "https://www.youtube.com/watch?v=M2qp36AzMnE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-24T03:00:00Z",
+    "startTime": "2026-07-24T03:01:00Z",
     "ttl": "2026-07-31T03:00:00.000Z",
     "streamerId": "narin_mikure"
   }
