@@ -218,29 +218,5 @@
     "platform": "twitch",
     "ttl": "2026-07-24T11:10:01.000Z",
     "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "316244391155",
-    "channelId": "akarindao",
-    "title": "ぶいすぽ夏祭りに向けて、BIGちーたま編→闘技場",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/a4d15317d19ba763d2fe_akarindao_316244391155_1784272581//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2822021627",
-    "scheduledStartTime": "2026-07-17T07:16:26Z",
-    "startTime": "2026-07-17T07:16:26Z",
-    "platform": "twitch",
-    "ttl": "2026-07-24T07:16:26.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316180675569",
-    "channelId": "choyahanabi",
-    "title": "【スト６】地上きたぞ！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/93574f26b8dd8043797e_choyahanabi_316180675569_1784277088//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2822044485",
-    "scheduledStartTime": "2026-07-17T08:31:33Z",
-    "startTime": "2026-07-17T08:31:33Z",
-    "platform": "twitch",
-    "ttl": "2026-07-24T08:31:33.000Z",
-    "streamerId": "choya_hanabi"
   }
 ]
