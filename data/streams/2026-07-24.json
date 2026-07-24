@@ -11,6 +11,29 @@
     "streamerId": "vspo_official"
   },
   {
+    "id": "rHKT3srM8uM",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【シャドバWB】魔手を教えてもらうのです！w.リグゼコーチ、ぱらちゃんコーチ【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/rHKT3srM8uM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=rHKT3srM8uM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-24T05:00:00Z",
+    "startTime": "2026-07-24T05:05:46Z",
+    "ttl": "2026-07-31T05:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "K_bNKL3iA_Q",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【Forza Horizon 6】右も左もわからねえ、前しか見えねえ！！！！！🚙【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/K_bNKL3iA_Q/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=K_bNKL3iA_Q",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-24T10:00:00Z",
+    "ttl": "2026-07-31T10:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "PZ-l2hC5nyo",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【Vlog】ぶいすぽメンバーと埼玉の秩父に行ってきた！【ぶいすぽっ！八雲べに】",
@@ -20,6 +43,17 @@
     "scheduledStartTime": "2026-07-24T10:00:00Z",
     "ttl": "2026-07-31T10:00:00.000Z",
     "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "AJ-wawrb3Hk",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "この絶妙な時間",
+    "thumbnail": "https://i.ytimg.com/vi/AJ-wawrb3Hk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=AJ-wawrb3Hk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-24T07:08:37Z",
+    "ttl": "2026-07-31T07:08:37.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "wW-sbbhx7-M",
@@ -36,13 +70,37 @@
     "id": "Jz6V5PffdQ4",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 スプラトゥーン レイダース 】メカニックはん ネタバレ注意【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/Jz6V5PffdQ4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Jz6V5PffdQ4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Jz6V5PffdQ4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-24T03:00:00Z",
     "startTime": "2026-07-24T03:10:40Z",
+    "endTime": "2026-07-24T05:05:32Z",
     "ttl": "2026-07-31T03:00:00.000Z",
     "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "oxkqk2F7frM",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【APEX】サイバーパンクの好きなキャラはファルコです【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/oxkqk2F7frM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=oxkqk2F7frM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-24T06:45:00Z",
+    "startTime": "2026-07-24T06:48:59Z",
+    "ttl": "2026-07-31T06:45:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "99zkiEcD2b4",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "#6【 VCR RUST3 】　気合いれてくぞおおおおおおお！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/99zkiEcD2b4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=99zkiEcD2b4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-24T09:00:00Z",
+    "ttl": "2026-07-31T09:00:00.000Z",
+    "streamerId": "choya_hanabi"
   },
   {
     "id": "IrA_4aO3Sx0",
@@ -59,11 +117,12 @@
     "id": "M2qp36AzMnE",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
     "title": "【VALORANT】 pew pew 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/M2qp36AzMnE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/M2qp36AzMnE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=M2qp36AzMnE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-24T03:00:00Z",
     "startTime": "2026-07-24T03:01:00Z",
+    "endTime": "2026-07-24T05:36:04Z",
     "ttl": "2026-07-31T03:00:00.000Z",
     "streamerId": "narin_mikure"
   }
