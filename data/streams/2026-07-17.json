@@ -1,18 +1,5 @@
 [
   {
-    "id": "-_kEiz62F2g",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】フルパ！/ハセ、こはくちゃん【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/-_kEiz62F2g/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=-_kEiz62F2g",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-17T11:15:00Z",
-    "startTime": "2026-07-17T11:20:17Z",
-    "endTime": "2026-07-17T13:59:31Z",
-    "ttl": "2026-07-24T11:15:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "GVgmRxmKoz8",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【アークナイツ：エンドフィールド】深夜のチル工業 オクギさん…推し登場【空澄セナ/ぶいすぽっ！】",
@@ -26,32 +13,6 @@
     "streamerId": "asumi_sena"
   },
   {
-    "id": "EtmdAbMuq18",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 Minecraft 】トライアルチャンバー行ってなんかやる 【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/EtmdAbMuq18/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=EtmdAbMuq18",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-17T11:00:00Z",
-    "startTime": "2026-07-17T11:04:11Z",
-    "endTime": "2026-07-17T15:14:25Z",
-    "ttl": "2026-07-24T11:00:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "XEQccLXB3WE",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【Minecraft】告知後→20時から夏祭り闘技場作り【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/XEQccLXB3WE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=XEQccLXB3WE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-17T10:45:00Z",
-    "startTime": "2026-07-17T10:47:08Z",
-    "endTime": "2026-07-17T15:38:30Z",
-    "ttl": "2026-07-24T10:45:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
     "id": "gwFlbvii7u0",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "ネザライトを取りに皆でネザーへ！そして大忙しのひなのママ【ぶいすぽっ！/ 藍沢エマ】",
@@ -62,19 +23,6 @@
     "startTime": "2026-07-17T22:00:06Z",
     "endTime": "2026-07-17T22:19:46Z",
     "ttl": "2026-07-24T22:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "WzUw-DKC0eg",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【崩壊:スターレイル】#15 ピノコニーとももうお別れかもしれない→PV鑑賞【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/WzUw-DKC0eg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=WzUw-DKC0eg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-17T12:00:00Z",
-    "startTime": "2026-07-17T12:04:57Z",
-    "endTime": "2026-07-17T15:27:26Z",
-    "ttl": "2026-07-24T12:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -91,19 +39,6 @@
     "streamerId": "komori_met"
   },
   {
-    "id": "PwCdDEQ5tF0",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 #VCTWatchParty 〗DFM応援ちゃんねるの皆さん、集合をお願いします。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/PwCdDEQ5tF0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=PwCdDEQ5tF0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-17T10:00:00Z",
-    "startTime": "2026-07-17T10:09:46Z",
-    "endTime": "2026-07-17T13:44:54Z",
-    "ttl": "2026-07-24T10:00:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
     "id": "JPpVDg4Rgkk",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VALORANT】ソロコンペ！早くイモータル帰るぞ２【ぶいすぽっ！ / 紡木こかげ】",
@@ -115,19 +50,6 @@
     "endTime": "2026-07-17T18:54:13Z",
     "ttl": "2026-07-24T15:15:00.000Z",
     "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "HMH4S3z3cRQ",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【Minecraft】トライアルチャンバーとやらに、行ってみます【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/HMH4S3z3cRQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=HMH4S3z3cRQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-17T11:00:00Z",
-    "startTime": "2026-07-17T11:04:11Z",
-    "endTime": "2026-07-17T16:24:44Z",
-    "ttl": "2026-07-24T11:00:00.000Z",
-    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "b_RbxOE2RPw",
@@ -143,58 +65,6 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "1V5tk1bN6xM",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【 APEX 】　Dozで出会った方たちとフルパ！！！！！w/ぎぞく、さかいさんだー【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/1V5tk1bN6xM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=1V5tk1bN6xM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-17T11:00:00Z",
-    "startTime": "2026-07-17T11:00:23Z",
-    "endTime": "2026-07-17T13:55:55Z",
-    "ttl": "2026-07-24T11:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "CHmZRB0OxjY",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【Minecraft】夏祭り会場に競馬場を作るのです🐴【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/CHmZRB0OxjY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=CHmZRB0OxjY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-17T12:30:00Z",
-    "startTime": "2026-07-17T13:19:26Z",
-    "endTime": "2026-07-17T19:38:18Z",
-    "ttl": "2026-07-24T12:30:00.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "MUKfJQRxNks",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  Minecraft  ◢　ダンジョン攻略→夏祭り準備します！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/MUKfJQRxNks/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=MUKfJQRxNks",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-17T11:00:00Z",
-    "startTime": "2026-07-17T11:04:57Z",
-    "endTime": "2026-07-17T17:49:30Z",
-    "ttl": "2026-07-24T11:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
-    "id": "hjv5-p0jiLo",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "Trying to get the rating 5/10  |  Premier  |  Counter-Strike 2 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/hjv5-p0jiLo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=hjv5-p0jiLo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-17T12:00:00Z",
-    "startTime": "2026-07-17T11:59:24Z",
-    "endTime": "2026-07-17T14:39:45Z",
-    "ttl": "2026-07-24T12:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
     "id": "ET0zK2NpvE4",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves 2.2◢ NEW WIVES? w/ EYE TRACKER (part. 1) | #JunoUmezono #VSPOEN",
@@ -206,17 +76,5 @@
     "endTime": "2026-07-17T18:31:47Z",
     "ttl": "2026-07-24T14:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316181230577",
-    "channelId": "ramuneshiranami",
-    "title": "【マイクラ】夏祭り準備",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/9f838ed229db7699378e_ramuneshiranami_316181230577_1784286596//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2822095762",
-    "scheduledStartTime": "2026-07-17T11:10:01Z",
-    "startTime": "2026-07-17T11:10:01Z",
-    "platform": "twitch",
-    "ttl": "2026-07-24T11:10:01.000Z",
-    "streamerId": "shiranami_ramune"
   }
 ]
