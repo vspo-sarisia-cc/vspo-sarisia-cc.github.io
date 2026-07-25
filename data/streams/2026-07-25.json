@@ -1,5 +1,17 @@
 [
   {
+    "id": "EK_Q5WWrF3k",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【シャドバWB】練習するお～w.リグゼコーチ、ぱらちゃんコーチ、めあたむ【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/EK_Q5WWrF3k/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=EK_Q5WWrF3k",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-25T05:10:00Z",
+    "startTime": "2026-07-25T05:13:33Z",
+    "ttl": "2026-08-01T05:10:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "fYaLqvnGm2I",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 #胡桃のあ新衣装 】１年ぶりの新衣装🎶【 ぶいすぽっ！胡桃のあ 】",
@@ -20,6 +32,31 @@
     "scheduledStartTime": "2026-07-25T11:00:00Z",
     "ttl": "2026-08-01T11:00:00.000Z",
     "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "5ZRSGYNuR1k",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【Minecraft】環境整備ギャルいきます【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/5ZRSGYNuR1k/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=5ZRSGYNuR1k",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-25T04:30:00Z",
+    "startTime": "2026-07-25T04:33:42Z",
+    "ttl": "2026-08-01T04:30:00.000Z",
+    "streamerId": "kaminari_qpi"
+  },
+  {
+    "id": "-OMt-auxKtw",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 スプラトゥーン レイダース 】マンタソロパート頼む ネタバレ注意【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/-OMt-auxKtw/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=-OMt-auxKtw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-25T03:00:00Z",
+    "startTime": "2026-07-25T03:04:53Z",
+    "endTime": "2026-07-25T05:03:48Z",
+    "ttl": "2026-08-01T03:00:00.000Z",
+    "streamerId": "shinomiya_runa"
   },
   {
     "id": "rqWPHhqMYzA",
@@ -44,24 +81,15 @@
     "streamerId": "tsumugi_kokage"
   },
   {
-    "id": "zUAeSQ_s30U",
-    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
-    "title": "【TWITCH】league on twitch :3【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/zUAeSQ_s30U/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=zUAeSQ_s30U",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-25T03:00:00Z",
-    "ttl": "2026-08-01T03:00:00.000Z",
-    "streamerId": "jira_jisaki"
-  },
-  {
     "id": "PvG0npNhXr4",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
     "title": "【Road to Empress】 it's happening. 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/PvG0npNhXr4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/PvG0npNhXr4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=PvG0npNhXr4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-25T03:00:00Z",
+    "startTime": "2026-07-25T03:07:03Z",
+    "endTime": "2026-07-25T05:07:23Z",
     "ttl": "2026-08-01T03:00:00.000Z",
     "streamerId": "narin_mikure"
   },

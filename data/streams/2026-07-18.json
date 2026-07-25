@@ -13,19 +13,6 @@
     "streamerId": "kogara_toto"
   },
   {
-    "id": "FIpXyY0eUTg",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "ohayo🌞",
-    "thumbnail": "https://i.ytimg.com/vi/FIpXyY0eUTg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=FIpXyY0eUTg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-18T04:30:00Z",
-    "startTime": "2026-07-18T04:23:35Z",
-    "endTime": "2026-07-18T07:41:07Z",
-    "ttl": "2026-07-25T04:30:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
     "id": "Ip8vmDmkTh0",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 夜ふかし雑談 】#83 お久しぶりです！覚えてますか？【ぶいすぽっ！胡桃のあ】",
@@ -192,19 +179,6 @@
     "startTime": "2026-07-18T10:02:43Z",
     "endTime": "2026-07-18T12:28:58Z",
     "ttl": "2026-07-25T10:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
-    "id": "38_Py6-okUk",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  Echoes of Aincrad  ◢　ベリーハードデスゲーム！#4  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/38_Py6-okUk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=38_Py6-okUk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-18T05:20:00Z",
-    "startTime": "2026-07-18T05:23:34Z",
-    "endTime": "2026-07-18T08:55:11Z",
-    "ttl": "2026-07-25T05:20:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
   {
