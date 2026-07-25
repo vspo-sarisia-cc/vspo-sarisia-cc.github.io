@@ -53,11 +53,12 @@
     "id": "FJwHxOET8DI",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 夜ふかし雑談 】#84 新衣装だしたよ～【ぶいすぽっ！胡桃のあ】",
-    "thumbnail": "https://i.ytimg.com/vi/FJwHxOET8DI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/FJwHxOET8DI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=FJwHxOET8DI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-25T14:05:00Z",
     "startTime": "2026-07-25T14:05:55Z",
+    "endTime": "2026-07-25T16:08:23Z",
     "ttl": "2026-08-01T14:05:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -129,11 +130,12 @@
     "id": "d-5ffpk6eFE",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】EWC 2026 – Street Fighter 6 – LCQ DAY2応援！！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/d-5ffpk6eFE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/d-5ffpk6eFE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=d-5ffpk6eFE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-25T12:00:00Z",
     "startTime": "2026-07-25T11:55:45Z",
+    "endTime": "2026-07-25T16:08:08Z",
     "ttl": "2026-08-01T12:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -201,6 +203,19 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "DVNijavil9A",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【League of Legends】ほんわかメンバー5v5ランク w/酒寄颯馬,Day1,ごんかね,レグルシュ・ライオンハート【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/DVNijavil9A/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=DVNijavil9A",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-25T11:00:00Z",
+    "startTime": "2026-07-25T11:01:53Z",
+    "endTime": "2026-07-25T16:22:06Z",
+    "ttl": "2026-08-01T11:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
     "id": "WkCon3TNF0o",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【#WatchPartyLCP】GZ vs MVK | SHG vs TSW | LCP 2026 Split 3 Swiss Stage Week 1 Day 1【ぶいすぽっ！/千燈ゆうひ】",
@@ -211,18 +226,6 @@
     "startTime": "2026-07-25T09:04:19Z",
     "endTime": "2026-07-25T10:58:53Z",
     "ttl": "2026-08-01T09:00:00.000Z",
-    "streamerId": "sendo_yuuhi"
-  },
-  {
-    "id": "DVNijavil9A",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【League of Legends】ほんわかメンバー5v5ランク w/酒寄颯馬,Day1,ごんかね,レグルシュ・ライオンハート【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/DVNijavil9A/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=DVNijavil9A",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-25T11:00:00Z",
-    "startTime": "2026-07-25T11:01:53Z",
-    "ttl": "2026-08-01T11:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
   {
@@ -254,11 +257,12 @@
     "id": "0ZQ67b1MLGM",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】EWC 2026 –  Street Fighter 6 –LCQ Top64、32、16 Watch Party! 応援応援応援【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/0ZQ67b1MLGM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/0ZQ67b1MLGM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=0ZQ67b1MLGM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-25T12:00:00Z",
     "startTime": "2026-07-25T11:54:29Z",
+    "endTime": "2026-07-25T16:05:08Z",
     "ttl": "2026-08-01T12:00:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -300,18 +304,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316225918450",
-    "channelId": "ren_kisaragi__",
-    "title": "EWC 2026 – Street Fighter 6 – LCQ DAY2 ミラー配信",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-07-25T11:49:52Z",
-    "startTime": "2026-07-25T11:49:52Z",
-    "platform": "twitch",
-    "ttl": "2026-08-01T11:49:52.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "316225730674",
     "channelId": "ramuneshiranami",
     "title": "【APEX】少しやって→【Rust】いく",
@@ -322,6 +314,18 @@
     "platform": "twitch",
     "ttl": "2026-08-01T11:06:21.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316225918450",
+    "channelId": "ren_kisaragi__",
+    "title": "EWC 2026 – Street Fighter 6 – LCQ DAY2 ミラー配信",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/6cae0cc2c007a84a555d_ren_kisaragi___316225918450_1784980192//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2828624014",
+    "scheduledStartTime": "2026-07-25T11:49:57Z",
+    "startTime": "2026-07-25T11:49:57Z",
+    "platform": "twitch",
+    "ttl": "2026-08-01T11:49:57.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316216449905",
