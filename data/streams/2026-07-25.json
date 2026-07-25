@@ -81,6 +81,7 @@
     "url": "https://www.youtube.com/watch?v=xEjznz6iZwA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-25T11:00:00Z",
+    "startTime": "2026-07-25T11:02:14Z",
     "ttl": "2026-08-01T11:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -105,6 +106,7 @@
     "url": "https://www.youtube.com/watch?v=d-5ffpk6eFE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-25T12:00:00Z",
+    "startTime": "2026-07-25T11:55:45Z",
     "ttl": "2026-08-01T12:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -141,6 +143,7 @@
     "url": "https://www.youtube.com/watch?v=rqWPHhqMYzA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-25T11:00:00Z",
+    "startTime": "2026-07-25T11:03:56Z",
     "ttl": "2026-08-01T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -152,8 +155,21 @@
     "url": "https://www.youtube.com/watch?v=XQlpu1FMrww",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-25T11:00:00Z",
+    "startTime": "2026-07-25T11:04:21Z",
     "ttl": "2026-08-01T11:00:00.000Z",
     "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "DVNijavil9A",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【League of Legends】ほんわかメンバー5v5ランク w/酒寄颯馬,Day1,ごんかね,レグルシュ・ライオンハート【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/DVNijavil9A/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=DVNijavil9A",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-25T11:00:00Z",
+    "startTime": "2026-07-25T11:01:53Z",
+    "ttl": "2026-08-01T11:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "WkCon3TNF0o",
@@ -164,18 +180,8 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-25T09:00:00Z",
     "startTime": "2026-07-25T09:04:19Z",
+    "endTime": "2026-07-25T10:58:53Z",
     "ttl": "2026-08-01T09:00:00.000Z",
-    "streamerId": "sendo_yuuhi"
-  },
-  {
-    "id": "DVNijavil9A",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【League of Legends】ほんわかメンバー5v5ランク w/酒寄颯馬,Day1,ごんかね,レグルシュ・ライオンハート【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/DVNijavil9A/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=DVNijavil9A",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-25T11:00:00Z",
-    "ttl": "2026-08-01T11:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
   {
@@ -198,6 +204,7 @@
     "url": "https://www.youtube.com/watch?v=0ZQ67b1MLGM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-25T12:00:00Z",
+    "startTime": "2026-07-25T11:54:29Z",
     "ttl": "2026-08-01T12:00:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -224,6 +231,30 @@
     "scheduledStartTime": "2026-07-25T14:00:00Z",
     "ttl": "2026-08-01T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316225918450",
+    "channelId": "ren_kisaragi__",
+    "title": "EWC 2026 – Street Fighter 6 – LCQ DAY2 ミラー配信",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-07-25T11:49:52Z",
+    "startTime": "2026-07-25T11:49:52Z",
+    "platform": "twitch",
+    "ttl": "2026-08-01T11:49:52.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316225730674",
+    "channelId": "ramuneshiranami",
+    "title": "【APEX】少しやって→【Rust】いく",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-07-25T11:06:21Z",
+    "startTime": "2026-07-25T11:06:21Z",
+    "platform": "twitch",
+    "ttl": "2026-08-01T11:06:21.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316216449905",
