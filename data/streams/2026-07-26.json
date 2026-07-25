@@ -20,5 +20,16 @@
     "scheduledStartTime": "2026-07-26T11:00:00Z",
     "ttl": "2026-08-02T11:00:00.000Z",
     "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "Y_6sqAGzdpE",
+    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+    "title": "【League of Legends】the grind continues【#VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/Y_6sqAGzdpE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Y_6sqAGzdpE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-26T03:00:00Z",
+    "ttl": "2026-08-02T03:00:00.000Z",
+    "streamerId": "jira_jisaki"
   }
 ]
