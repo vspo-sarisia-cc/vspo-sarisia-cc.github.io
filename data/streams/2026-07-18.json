@@ -104,19 +104,6 @@
     "streamerId": "nekota_tsuna"
   },
   {
-    "id": "Zc88ZUaFrus",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【Echoes of Aincrad】死んだらこのゲーム引退します　【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/Zc88ZUaFrus/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Zc88ZUaFrus",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-18T06:30:00Z",
-    "startTime": "2026-07-18T06:32:40Z",
-    "endTime": "2026-07-18T09:15:14Z",
-    "ttl": "2026-07-25T06:30:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
     "id": "-S2GultNBc4",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 ニチアサ 】しゃ、しゃべれんの？【 ぶいすぽっ！ / 小森めと 】",
@@ -240,18 +227,6 @@
     "startTime": "2026-07-18T10:02:08Z",
     "platform": "twitch",
     "ttl": "2026-07-25T10:02:08.000Z",
-    "streamerId": "sendo_yuuhi"
-  },
-  {
-    "id": "316184911729",
-    "channelId": "sendo_yuuhi",
-    "title": "なんでvalo？ w/zerost,ceros,てぃんとん3,アルファ君",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/fab6557f449b263c088a_sendo_yuuhi_316184911729_1784356328//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2822827799",
-    "scheduledStartTime": "2026-07-18T06:32:13Z",
-    "startTime": "2026-07-18T06:32:13Z",
-    "platform": "twitch",
-    "ttl": "2026-07-25T06:32:13.000Z",
     "streamerId": "sendo_yuuhi"
   }
 ]

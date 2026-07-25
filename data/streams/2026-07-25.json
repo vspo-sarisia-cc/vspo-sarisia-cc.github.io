@@ -23,6 +23,18 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "xuC6EPaqcAs",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "【LoL】ランク追い込み。アカリOTPとして＿＿＿【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/xuC6EPaqcAs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=xuC6EPaqcAs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-25T07:10:00Z",
+    "startTime": "2026-07-25T07:15:15Z",
+    "ttl": "2026-08-01T07:10:00.000Z",
+    "streamerId": "asumi_sena"
+  },
+  {
     "id": "xEjznz6iZwA",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Apex Legends 】つむつなとサイバーパンクイベントであそぶ！【ぶいすぽっ！/橘ひなの】",
@@ -37,13 +49,25 @@
     "id": "5ZRSGYNuR1k",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【Minecraft】環境整備ギャルいきます【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/5ZRSGYNuR1k/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/5ZRSGYNuR1k/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=5ZRSGYNuR1k",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-25T04:30:00Z",
     "startTime": "2026-07-25T04:33:42Z",
+    "endTime": "2026-07-25T06:50:37Z",
     "ttl": "2026-08-01T04:30:00.000Z",
     "streamerId": "kaminari_qpi"
+  },
+  {
+    "id": "d-5ffpk6eFE",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】EWC 2026 – Street Fighter 6 – LCQ DAY2応援！！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/d-5ffpk6eFE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=d-5ffpk6eFE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-25T12:00:00Z",
+    "ttl": "2026-08-01T12:00:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "-OMt-auxKtw",
@@ -81,6 +105,50 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "DVNijavil9A",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【League of Legends】ほんわかメンバー5v5ランク w/酒寄颯馬,Day1,ごんかね,レグルシュ・ライオンハート【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/DVNijavil9A/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=DVNijavil9A",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-25T11:00:00Z",
+    "ttl": "2026-08-01T11:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "WkCon3TNF0o",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【#WatchPartyLCP】GZ vs MVK | SHG vs TSW | LCP 2026 Split 3 Swiss Stage Week 1 Day 1【ぶいすぽっ！/千燈ゆうひ】",
+    "thumbnail": "https://i.ytimg.com/vi/WkCon3TNF0o/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=WkCon3TNF0o",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-25T09:00:00Z",
+    "ttl": "2026-08-01T09:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "npI3bRkp8DE",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "#7【 VCR RUST3 】　まずは硫黄なんよ！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/npI3bRkp8DE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=npI3bRkp8DE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-25T09:00:00Z",
+    "ttl": "2026-08-01T09:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "0ZQ67b1MLGM",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【スト6】EWC 2026 –  Street Fighter 6 –LCQ Top64、32、16 Watch Party! 応援応援応援【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/0ZQ67b1MLGM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=0ZQ67b1MLGM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-25T12:00:00Z",
+    "ttl": "2026-08-01T12:00:00.000Z",
+    "streamerId": "amayui_moka"
+  },
+  {
     "id": "PvG0npNhXr4",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
     "title": "【Road to Empress】 it's happening. 【#VSPOEN #NarinMikure】",
@@ -103,5 +171,17 @@
     "scheduledStartTime": "2026-07-25T14:00:00Z",
     "ttl": "2026-08-01T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316216190577",
+    "channelId": "choyahanabi",
+    "title": "【スト６】やるぞ！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_choyahanabi-320x180.jpg",
+    "url": "https://www.twitch.tv/choyahanabi",
+    "scheduledStartTime": "2026-07-25T07:04:11Z",
+    "startTime": "2026-07-25T07:04:11Z",
+    "platform": "twitch",
+    "ttl": "2026-08-01T07:04:11.000Z",
+    "streamerId": "choya_hanabi"
   }
 ]
