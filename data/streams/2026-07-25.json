@@ -1,12 +1,26 @@
 [
   {
+    "id": "dxlw5ccCKV8",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【VCR:Rust】ティア２ボス倒しまくりたい！！！！！農業も【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/dxlw5ccCKV8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=dxlw5ccCKV8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-25T10:30:00Z",
+    "startTime": "2026-07-25T10:30:41Z",
+    "ttl": "2026-08-01T10:30:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "z9x6OjUMFm0",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【緊急】ぶいすぽタイピングゲームの様子がおかしいらしい…【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/z9x6OjUMFm0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/z9x6OjUMFm0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=z9x6OjUMFm0",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-25T09:30:00Z",
+    "startTime": "2026-07-25T09:38:21Z",
+    "endTime": "2026-07-25T10:19:58Z",
     "ttl": "2026-08-01T09:30:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -31,6 +45,7 @@
     "url": "https://www.youtube.com/watch?v=Lcve4heWGkg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-25T09:30:00Z",
+    "startTime": "2026-07-25T09:22:32Z",
     "ttl": "2026-08-01T09:30:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -49,11 +64,12 @@
     "id": "xuC6EPaqcAs",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【LoL】ランク追い込み。アカリOTPとして＿＿＿【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/xuC6EPaqcAs/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/xuC6EPaqcAs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=xuC6EPaqcAs",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-25T07:10:00Z",
     "startTime": "2026-07-25T07:15:15Z",
+    "endTime": "2026-07-25T09:48:04Z",
     "ttl": "2026-08-01T07:10:00.000Z",
     "streamerId": "asumi_sena"
   },
