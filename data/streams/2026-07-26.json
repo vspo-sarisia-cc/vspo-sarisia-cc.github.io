@@ -12,6 +12,17 @@
     "streamerId": "kaga_nazuna"
   },
   {
+    "id": "GgD5V9BodZc",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "【 Apex 】#ぶいすぽGG 顔合わせ～！ w/メイカさん、ゴリラさん【 ぶいすぽ / 小雀とと 】",
+    "thumbnail": "https://i.ytimg.com/vi/GgD5V9BodZc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=GgD5V9BodZc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-26T12:00:00Z",
+    "ttl": "2026-08-02T12:00:00.000Z",
+    "streamerId": "kogara_toto"
+  },
+  {
     "id": "u7j82gF5ghE",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【VCR RUST】さーーーて今日のうるはさんは【ぶいすぽ/一ノ瀬うるは】",
@@ -49,6 +60,30 @@
     "streamerId": "tachibana_hinano"
   },
   {
+    "id": "CoFsnRD08MQ",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【 VCR RUST 】#4 はたらきます ！！！！！【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/CoFsnRD08MQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=CoFsnRD08MQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-26T11:00:00Z",
+    "startTime": "2026-07-26T10:50:01Z",
+    "ttl": "2026-08-02T11:00:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "3DdqBpQPDLc",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【アークナイツ：エンドフィールド】ハーフアニバーサリーコアバージョン武陵決戦編「向淵行」を調査！ストーリーも読むぞ！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/3DdqBpQPDLc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=3DdqBpQPDLc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-26T11:00:00Z",
+    "startTime": "2026-07-26T11:00:57Z",
+    "ttl": "2026-08-02T11:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "Mh5K2_yM0bE",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【Minecraft】回路ためす【ぶいすぽっ！/ 藍沢エマ】",
@@ -59,17 +94,6 @@
     "startTime": "2026-07-26T06:02:02Z",
     "endTime": "2026-07-26T09:26:50Z",
     "ttl": "2026-08-02T06:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "3DdqBpQPDLc",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【アークナイツ：エンドフィールド】ハーフアニバーサリーコアバージョン武陵決戦編「向淵行」を調査！ストーリーも読むぞ！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/3DdqBpQPDLc/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=3DdqBpQPDLc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-26T11:00:00Z",
-    "ttl": "2026-08-02T11:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -109,6 +133,17 @@
     "startTime": "2026-07-26T09:01:24Z",
     "ttl": "2026-08-02T09:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "DiGEPovk55s",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【スト6】EWC 2026 –  Street Fighter 6 –LCQ Top8 Watch Party! 【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/DiGEPovk55s/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=DiGEPovk55s",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-26T12:00:00Z",
+    "ttl": "2026-08-02T12:00:00.000Z",
+    "streamerId": "amayui_moka"
   },
   {
     "id": "duNu6UEnCc8",
