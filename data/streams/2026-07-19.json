@@ -143,19 +143,6 @@
     "streamerId": "tachibana_hinano"
   },
   {
-    "id": "fUuooyHmxoo",
-    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
-    "title": "【STREET FIGHTER 6】いやあまりにも夏、【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/fUuooyHmxoo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=fUuooyHmxoo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-19T02:45:00Z",
-    "startTime": "2026-07-19T02:45:59Z",
-    "endTime": "2026-07-19T05:59:08Z",
-    "ttl": "2026-07-26T02:45:00.000Z",
-    "streamerId": "kaminari_qpi"
-  },
-  {
     "id": "-EQ_NxOEtWQ",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【ワールドカップ同時視聴】DAZNで！決勝アルゼンチンvsスペイン⚽【ぶいすぽ/八雲べに】",
@@ -377,19 +364,6 @@
     "streamerId": "tatsumaki_chise"
   },
   {
-    "id": "EFMgE6DnWIM",
-    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
-    "title": "【Meccha Chameleon】WITH JIKAMA 【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/EFMgE6DnWIM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=EFMgE6DnWIM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-19T02:00:00Z",
-    "startTime": "2026-07-19T02:21:21Z",
-    "endTime": "2026-07-19T04:53:20Z",
-    "ttl": "2026-07-26T02:00:00.000Z",
-    "streamerId": "jira_jisaki"
-  },
-  {
     "id": "rOSb_m2q1qA",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【APEX LEGENDS】I WANNA GAME【#VSPOEN #RikoSolari】",
@@ -473,18 +447,6 @@
     "startTime": "2026-07-19T05:08:08Z",
     "platform": "twitch",
     "ttl": "2026-07-26T05:08:08.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316197480178",
-    "channelId": "akarindao",
-    "title": "寝れないにゃあ～ぶいすぽ夏祭り準備",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/125f4a847d820c7399ac_akarindao_316197480178_1784424120//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2823474339",
-    "scheduledStartTime": "2026-07-19T01:22:05Z",
-    "startTime": "2026-07-19T01:22:05Z",
-    "platform": "twitch",
-    "ttl": "2026-07-26T01:22:05.000Z",
     "streamerId": "yumeno_akari"
   }
 ]

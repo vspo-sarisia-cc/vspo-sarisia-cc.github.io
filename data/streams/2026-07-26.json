@@ -22,6 +22,17 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "hZqvlAbYWwM",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【スーパーマリオサンシャイン】人生初３Ｄマリオやってみる！！【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/hZqvlAbYWwM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=hZqvlAbYWwM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-26T04:00:00Z",
+    "ttl": "2026-08-02T04:00:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
     "id": "HBbn7NzkfL8",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【PRAGMATA】anything for diana !! (contains spoilers)【#VSPOEN #AryaKuroha】",
@@ -41,6 +52,7 @@
     "url": "https://www.youtube.com/watch?v=Y_6sqAGzdpE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T03:00:00Z",
+    "startTime": "2026-07-26T03:02:01Z",
     "ttl": "2026-08-02T03:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -54,6 +66,18 @@
     "scheduledStartTime": "2026-07-26T14:00:00Z",
     "ttl": "2026-08-02T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316220003697",
+    "channelId": "akarindao",
+    "title": "おうたのれんしゆう、夏夏夏",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-26T02:35:26Z",
+    "startTime": "2026-07-26T02:35:26Z",
+    "platform": "twitch",
+    "ttl": "2026-08-02T02:35:26.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "320512636505",
