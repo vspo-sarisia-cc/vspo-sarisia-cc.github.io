@@ -1,31 +1,5 @@
 [
   {
-    "id": "-EQ_NxOEtWQ",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【ワールドカップ同時視聴】DAZNで！決勝アルゼンチンvsスペイン⚽【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/-EQ_NxOEtWQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=-EQ_NxOEtWQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-19T19:00:00Z",
-    "startTime": "2026-07-19T18:54:15Z",
-    "endTime": "2026-07-19T23:06:27Z",
-    "ttl": "2026-07-26T19:00:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
-    "id": "St3TU80AHOw",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【APEX】ズズと明日の21時までにゴールドまで上げる1（ズズブロンズ４）【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/St3TU80AHOw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=St3TU80AHOw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-19T18:10:00Z",
-    "startTime": "2026-07-19T18:09:13Z",
-    "endTime": "2026-07-19T20:40:27Z",
-    "ttl": "2026-07-26T18:10:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
     "id": "-CUayyoyNiA",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【雑談】海の日ざぶーん【ぶいすぽっ！ #銀城サイネ 】",
@@ -37,29 +11,5 @@
     "endTime": "2026-07-20T01:08:06Z",
     "ttl": "2026-07-26T23:15:00.000Z",
     "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "316192299121",
-    "channelId": "ren_kisaragi__",
-    "title": "延長時間に初ログインを試みる",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/9ba5804b222ce2480505_ren_kisaragi___316192299121_1784486588//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2824012592",
-    "scheduledStartTime": "2026-07-19T18:43:13Z",
-    "startTime": "2026-07-19T18:43:13Z",
-    "platform": "twitch",
-    "ttl": "2026-07-26T18:43:13.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316192325105",
-    "channelId": "akarindao",
-    "title": "W杯スペイン vs アルゼンチン  ワクワクする！！！",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/5a1dbf3824f91579b094_akarindao_316192325105_1784487354//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2824021746",
-    "scheduledStartTime": "2026-07-19T18:55:59Z",
-    "startTime": "2026-07-19T18:55:59Z",
-    "platform": "twitch",
-    "ttl": "2026-07-26T18:55:59.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]

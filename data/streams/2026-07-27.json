@@ -1,5 +1,16 @@
 [
   {
+    "id": "BPZdRsFNan8",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【APEX】ぶいすぽGG スクリムDAY1【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/BPZdRsFNan8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=BPZdRsFNan8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-27T10:00:00Z",
+    "ttl": "2026-08-03T10:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "_0H0CtI1S5I",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Let's get out of 23K  |  Premier  |  Counter-Strike 2 【#VSPOEN #RemiaAotsuki】",
@@ -9,5 +20,16 @@
     "scheduledStartTime": "2026-07-27T12:00:00Z",
     "ttl": "2026-08-03T12:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "xRyxPJPKz1E",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Apex Legends◢ Day 1 scrims for VSPO!GG #ぶいすぽGG | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/xRyxPJPKz1E/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=xRyxPJPKz1E",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-27T09:30:00Z",
+    "ttl": "2026-08-03T09:30:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
