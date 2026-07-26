@@ -26,32 +26,6 @@
     "streamerId": "tsumugi_kokage"
   },
   {
-    "id": "sJvc8KPLAFo",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【VCR Rust3】初めてのRust！withぶいすぽメンバー？【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/sJvc8KPLAFo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=sJvc8KPLAFo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-19T16:30:00Z",
-    "startTime": "2026-07-19T16:43:31Z",
-    "endTime": "2026-07-19T18:03:23Z",
-    "ttl": "2026-07-26T16:30:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "_UBdc6YLARI",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【VCR Rust3】木こり女【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/_UBdc6YLARI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=_UBdc6YLARI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-19T16:00:00Z",
-    "startTime": "2026-07-19T16:38:15Z",
-    "endTime": "2026-07-19T19:34:22Z",
-    "ttl": "2026-07-26T16:00:00.000Z",
-    "streamerId": "sendo_yuuhi"
-  },
-  {
     "id": "-CUayyoyNiA",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【雑談】海の日ざぶーん【ぶいすぽっ！ #銀城サイネ 】",
@@ -63,19 +37,6 @@
     "endTime": "2026-07-20T01:08:06Z",
     "ttl": "2026-07-26T23:15:00.000Z",
     "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "rOSb_m2q1qA",
-    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
-    "title": "【APEX LEGENDS】I WANNA GAME【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/rOSb_m2q1qA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=rOSb_m2q1qA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-19T16:30:00Z",
-    "startTime": "2026-07-19T16:31:45Z",
-    "endTime": "2026-07-19T18:45:33Z",
-    "ttl": "2026-07-26T16:30:00.000Z",
-    "streamerId": "riko_solari"
   },
   {
     "id": "316192299121",
