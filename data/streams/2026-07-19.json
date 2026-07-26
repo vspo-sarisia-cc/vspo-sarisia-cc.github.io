@@ -65,19 +65,6 @@
     "streamerId": "ichinose_uruha"
   },
   {
-    "id": "t9mH9Q9oLdg",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【Minecraft】ネザライト取りに行く❕【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/t9mH9Q9oLdg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=t9mH9Q9oLdg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-19T05:00:00Z",
-    "startTime": "2026-07-19T05:01:52Z",
-    "endTime": "2026-07-19T09:17:04Z",
-    "ttl": "2026-07-26T05:00:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
     "id": "vceCJOQJZcg",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 VCR Rust3 】人見知りでもがんばってお話する！【ぶいすぽっ！胡桃のあ】",
@@ -208,19 +195,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "09C4EIR9I5Q",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【APEX】大会もあるしメン限時間までやる【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/09C4EIR9I5Q/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=09C4EIR9I5Q",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-19T04:45:00Z",
-    "startTime": "2026-07-19T04:49:20Z",
-    "endTime": "2026-07-19T06:37:40Z",
-    "ttl": "2026-07-26T04:45:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
     "id": "St3TU80AHOw",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【APEX】ズズと明日の21時までにゴールドまで上げる1（ズズブロンズ４）【ぶいすぽっ！ / 紡木こかげ】",
@@ -296,19 +270,6 @@
     "startTime": "2026-07-19T12:43:46Z",
     "endTime": "2026-07-19T18:08:45Z",
     "ttl": "2026-07-26T12:30:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "C8I-D84o1rc",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【 Minecraft 】　ネザライトちゅうもんをとりにゆかせていただく！！！！！！！！w/うるは先輩、あかさん　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/C8I-D84o1rc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=C8I-D84o1rc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-19T05:00:00Z",
-    "startTime": "2026-07-19T05:01:22Z",
-    "endTime": "2026-07-19T09:19:46Z",
-    "ttl": "2026-07-26T05:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -435,18 +396,6 @@
     "startTime": "2026-07-19T18:55:59Z",
     "platform": "twitch",
     "ttl": "2026-07-26T18:55:59.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316198146930",
-    "channelId": "akarindao",
-    "title": "はなびちゃんとうるはさんでネザーライト取りに行く、ぶいすぽ夏祭り準備",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d43a27915efdf1897d9e_akarindao_316198146930_1784437683//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2823610953",
-    "scheduledStartTime": "2026-07-19T05:08:08Z",
-    "startTime": "2026-07-19T05:08:08Z",
-    "platform": "twitch",
-    "ttl": "2026-07-26T05:08:08.000Z",
     "streamerId": "yumeno_akari"
   }
 ]
