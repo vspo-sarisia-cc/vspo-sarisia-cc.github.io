@@ -1,5 +1,18 @@
 [
   {
+    "id": "6rzyR-zOF7E",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【VCR:Rust】体は疲れていますが農業をしたい【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/6rzyR-zOF7E/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=6rzyR-zOF7E",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-26T14:40:00Z",
+    "startTime": "2026-07-26T14:48:17Z",
+    "endTime": "2026-07-26T19:02:43Z",
+    "ttl": "2026-08-02T14:40:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "24fyrK0ifg4",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【CR Streamer League Shadowverse】第二節も頑張るw.リグゼコーチ、ぱらちゃん【ぶいすぽ/花芽なずな】",
@@ -10,18 +23,6 @@
     "startTime": "2026-07-26T07:05:50Z",
     "endTime": "2026-07-26T14:41:14Z",
     "ttl": "2026-08-02T07:00:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
-    "id": "6rzyR-zOF7E",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【VCR:Rust】体は疲れていますが農業をしたい【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/6rzyR-zOF7E/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=6rzyR-zOF7E",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-26T14:40:00Z",
-    "startTime": "2026-07-26T14:48:17Z",
-    "ttl": "2026-08-02T14:40:00.000Z",
     "streamerId": "kaga_nazuna"
   },
   {
@@ -41,7 +42,7 @@
     "id": "u7j82gF5ghE",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【VCR RUST】さーーーて今日のうるはさんは【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/u7j82gF5ghE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/u7j82gF5ghE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=u7j82gF5ghE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T09:15:00Z",
@@ -67,7 +68,7 @@
     "id": "I4jg2MrMP5I",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
     "title": "【Minecraft】 花火の回路をどうするか【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/I4jg2MrMP5I/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/I4jg2MrMP5I/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=I4jg2MrMP5I",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T12:30:00Z",
@@ -93,11 +94,12 @@
     "id": "0aET9-tCiQw",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 VCR RUST 】 今日はフルタイムでいくぞ【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/0aET9-tCiQw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/0aET9-tCiQw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=0aET9-tCiQw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T09:00:00Z",
     "startTime": "2026-07-26T09:08:03Z",
+    "endTime": "2026-07-26T19:07:56Z",
     "ttl": "2026-08-02T09:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -183,11 +185,12 @@
     "id": "Hc81Z3bLlXc",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "#8【 VCR RUST3 】　硫黄だけはぜっっっっっっっったいにだ！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/Hc81Z3bLlXc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Hc81Z3bLlXc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Hc81Z3bLlXc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T09:00:00Z",
     "startTime": "2026-07-26T09:01:24Z",
+    "endTime": "2026-07-26T19:07:03Z",
     "ttl": "2026-08-02T09:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
