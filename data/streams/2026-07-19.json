@@ -39,19 +39,6 @@
     "streamerId": "tsumugi_kokage"
   },
   {
-    "id": "Zg_PLC3w_bk",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【VALORANT】ソロコンペ！早くイモータル帰るぞ３【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/Zg_PLC3w_bk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Zg_PLC3w_bk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-19T13:50:00Z",
-    "startTime": "2026-07-19T13:52:10Z",
-    "endTime": "2026-07-19T16:31:33Z",
-    "ttl": "2026-07-26T13:50:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
     "id": "_UBdc6YLARI",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【VCR Rust3】木こり女【 ぶいすぽっ！ / 千燈ゆうひ 】",
@@ -104,19 +91,6 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "C6vyOk1Mmo8",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤DOTA 2◢ \"BKB IS USELESS\" -SEA | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/C6vyOk1Mmo8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=C6vyOk1Mmo8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-19T14:00:00Z",
-    "startTime": "2026-07-19T14:02:04Z",
-    "endTime": "2026-07-19T22:07:16Z",
-    "ttl": "2026-07-26T14:00:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
     "id": "316192299121",
     "channelId": "ren_kisaragi__",
     "title": "延長時間に初ログインを試みる",
@@ -127,18 +101,6 @@
     "platform": "twitch",
     "ttl": "2026-07-26T18:43:13.000Z",
     "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316255202035",
-    "channelId": "ramuneshiranami",
-    "title": "【VCR RUST】久しぶりだー！！！",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/8f3bce2a70d70f72dfaf_ramuneshiranami_316255202035_1784466651//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2823801997",
-    "scheduledStartTime": "2026-07-19T13:10:56Z",
-    "startTime": "2026-07-19T13:10:56Z",
-    "platform": "twitch",
-    "ttl": "2026-07-26T13:10:56.000Z",
-    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316192325105",

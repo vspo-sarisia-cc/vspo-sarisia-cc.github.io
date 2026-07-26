@@ -1,5 +1,16 @@
 [
   {
+    "id": "6rzyR-zOF7E",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【VCR:Rust】体は疲れていますが農業をしたい【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/6rzyR-zOF7E/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=6rzyR-zOF7E",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-26T14:40:00Z",
+    "ttl": "2026-08-02T14:40:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "24fyrK0ifg4",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【CR Streamer League Shadowverse】第二節も頑張るw.リグゼコーチ、ぱらちゃん【ぶいすぽ/花芽なずな】",
@@ -8,6 +19,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T07:00:00Z",
     "startTime": "2026-07-26T07:05:50Z",
+    "endTime": "2026-07-26T14:41:14Z",
     "ttl": "2026-08-02T07:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -97,10 +109,23 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "yooH7rg7sFs",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】EWC 2026 – Street Fighter 6 – LCQ DAY3応援！！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/yooH7rg7sFs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=yooH7rg7sFs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-26T13:05:00Z",
+    "startTime": "2026-07-26T13:09:00Z",
+    "endTime": "2026-07-26T14:38:41Z",
+    "ttl": "2026-08-02T13:05:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "3DdqBpQPDLc",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【アークナイツ：エンドフィールド】ハーフアニバーサリーコアバージョン武陵決戦編「向淵行」を調査！ストーリーも読むぞ！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/3DdqBpQPDLc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/3DdqBpQPDLc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=3DdqBpQPDLc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T11:00:00Z",
@@ -169,6 +194,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T12:00:00Z",
     "startTime": "2026-07-26T11:53:47Z",
+    "endTime": "2026-07-26T14:40:14Z",
     "ttl": "2026-08-02T12:00:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -193,6 +219,7 @@
     "url": "https://www.youtube.com/watch?v=T9uTdCItc3U",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T13:00:00Z",
+    "startTime": "2026-07-26T13:01:59Z",
     "ttl": "2026-08-02T13:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -238,25 +265,14 @@
   {
     "id": "e1VAaMndHBM",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Apex Legends◢ CULTIVATING for VSPO!GG | #JunoUmezono #VSPOEN",
+    "title": "◤Apex Legends◢ CULTIVATING for VSPO!GG #ぶいすぽGG | #JunoUmezono #VSPOEN",
     "thumbnail": "https://i.ytimg.com/vi/e1VAaMndHBM/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=e1VAaMndHBM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T14:00:00Z",
+    "startTime": "2026-07-26T14:08:26Z",
     "ttl": "2026-08-02T14:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316286329971",
-    "channelId": "ren_kisaragi__",
-    "title": "EWC 2026 – Street Fighter 6 – LCQ Day 3 ミラー配信",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-07-26T11:52:38Z",
-    "startTime": "2026-07-26T11:52:38Z",
-    "platform": "twitch",
-    "ttl": "2026-08-02T11:52:38.000Z",
-    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316230920434",
@@ -281,6 +297,18 @@
     "platform": "twitch",
     "ttl": "2026-08-02T09:00:21.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316286329971",
+    "channelId": "ren_kisaragi__",
+    "title": "EWC 2026 – Street Fighter 6 – LCQ Day 3 ミラー配信",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/61fd75ce2db576107788_ren_kisaragi___316286329971_1785066758//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2829448513",
+    "scheduledStartTime": "2026-07-26T11:52:44Z",
+    "startTime": "2026-07-26T11:52:44Z",
+    "platform": "twitch",
+    "ttl": "2026-08-02T11:52:44.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316220003697",
