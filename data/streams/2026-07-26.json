@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=6rzyR-zOF7E",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T14:40:00Z",
+    "startTime": "2026-07-26T14:48:17Z",
     "ttl": "2026-08-02T14:40:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -14,7 +15,7 @@
     "id": "24fyrK0ifg4",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【CR Streamer League Shadowverse】第二節も頑張るw.リグゼコーチ、ぱらちゃん【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/24fyrK0ifg4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/24fyrK0ifg4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=24fyrK0ifg4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T07:00:00Z",
@@ -112,7 +113,7 @@
     "id": "yooH7rg7sFs",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】EWC 2026 – Street Fighter 6 – LCQ DAY3応援！！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/yooH7rg7sFs/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/yooH7rg7sFs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=yooH7rg7sFs",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T13:05:00Z",
@@ -189,7 +190,7 @@
     "id": "DiGEPovk55s",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】EWC 2026 –  Street Fighter 6 –LCQ Top8 Watch Party! 【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/DiGEPovk55s/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/DiGEPovk55s/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=DiGEPovk55s",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T12:00:00Z",
@@ -287,18 +288,6 @@
     "streamerId": "shiranami_ramune"
   },
   {
-    "id": "316221358449",
-    "channelId": "akarindao",
-    "title": "マイカーいつ買える？VCR#5",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-26T09:00:21Z",
-    "startTime": "2026-07-26T09:00:21Z",
-    "platform": "twitch",
-    "ttl": "2026-08-02T09:00:21.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316286329971",
     "channelId": "ren_kisaragi__",
     "title": "EWC 2026 – Street Fighter 6 – LCQ Day 3 ミラー配信",
@@ -309,6 +298,18 @@
     "platform": "twitch",
     "ttl": "2026-08-02T11:52:44.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316221358449",
+    "channelId": "akarindao",
+    "title": "マイカーいつ買える？VCR#5",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/40c4feb70e787e152e75_akarindao_316221358449_1785056421//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2829384208",
+    "scheduledStartTime": "2026-07-26T09:00:26Z",
+    "startTime": "2026-07-26T09:00:26Z",
+    "platform": "twitch",
+    "ttl": "2026-08-02T09:00:26.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316220003697",
