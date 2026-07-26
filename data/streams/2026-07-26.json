@@ -28,8 +28,9 @@
     "thumbnail": "https://i.ytimg.com/vi/HBbn7NzkfL8/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=HBbn7NzkfL8",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-26T01:00:00Z",
-    "ttl": "2026-08-02T01:00:00.000Z",
+    "scheduledStartTime": "2026-07-26T00:00:00Z",
+    "startTime": "2026-07-26T00:00:29Z",
+    "ttl": "2026-08-02T00:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
   {
@@ -42,5 +43,28 @@
     "scheduledStartTime": "2026-07-26T03:00:00Z",
     "ttl": "2026-08-02T03:00:00.000Z",
     "streamerId": "jira_jisaki"
+  },
+  {
+    "id": "e1VAaMndHBM",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Apex Legends◢ CULTIVATING | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/e1VAaMndHBM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=e1VAaMndHBM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-26T14:00:00Z",
+    "ttl": "2026-08-02T14:00:00.000Z",
+    "streamerId": "juno_umezono"
+  },
+  {
+    "id": "320512636505",
+    "channelId": "aryakuroha",
+    "title": "✦ continuing our playthrough !!",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-07-26T00:02:36Z",
+    "startTime": "2026-07-26T00:02:36Z",
+    "platform": "twitch",
+    "ttl": "2026-08-02T00:02:36.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
