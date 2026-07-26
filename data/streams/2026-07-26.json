@@ -1,17 +1,5 @@
 [
   {
-    "id": "6rzyR-zOF7E",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【VCR:Rust】体は疲れていますが農業をしたい【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/6rzyR-zOF7E/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=6rzyR-zOF7E",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-26T14:40:00Z",
-    "startTime": "2026-07-26T14:48:17Z",
-    "ttl": "2026-08-02T14:40:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "24fyrK0ifg4",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【CR Streamer League Shadowverse】第二節も頑張るw.リグゼコーチ、ぱらちゃん【ぶいすぽ/花芽なずな】",
@@ -25,6 +13,18 @@
     "streamerId": "kaga_nazuna"
   },
   {
+    "id": "6rzyR-zOF7E",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【VCR:Rust】体は疲れていますが農業をしたい【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/6rzyR-zOF7E/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=6rzyR-zOF7E",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-26T14:40:00Z",
+    "startTime": "2026-07-26T14:48:17Z",
+    "ttl": "2026-08-02T14:40:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "GgD5V9BodZc",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 Apex 】#ぶいすぽGG 顔合わせ～！ w/メイカさん、ゴリラさん【 ぶいすぽ / 小雀とと 】",
@@ -33,6 +33,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T12:00:00Z",
     "startTime": "2026-07-26T12:02:53Z",
+    "endTime": "2026-07-26T17:14:25Z",
     "ttl": "2026-08-02T12:00:00.000Z",
     "streamerId": "kogara_toto"
   },
