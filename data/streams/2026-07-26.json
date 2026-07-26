@@ -19,6 +19,7 @@
     "url": "https://www.youtube.com/watch?v=u7j82gF5ghE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T09:15:00Z",
+    "startTime": "2026-07-26T10:08:29Z",
     "ttl": "2026-08-02T09:15:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -43,6 +44,7 @@
     "url": "https://www.youtube.com/watch?v=0aET9-tCiQw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T09:00:00Z",
+    "startTime": "2026-07-26T09:08:03Z",
     "ttl": "2026-08-02T09:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -50,11 +52,12 @@
     "id": "Mh5K2_yM0bE",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【Minecraft】回路ためす【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/Mh5K2_yM0bE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Mh5K2_yM0bE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Mh5K2_yM0bE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T06:00:00Z",
     "startTime": "2026-07-26T06:02:02Z",
+    "endTime": "2026-07-26T09:26:50Z",
     "ttl": "2026-08-02T06:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -86,11 +89,12 @@
     "id": "hZqvlAbYWwM",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【スーパーマリオサンシャイン】人生初３Ｄマリオやってみる！！【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/hZqvlAbYWwM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/hZqvlAbYWwM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=hZqvlAbYWwM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T04:00:00Z",
     "startTime": "2026-07-26T04:02:05Z",
+    "endTime": "2026-07-26T09:41:59Z",
     "ttl": "2026-08-02T04:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -102,6 +106,7 @@
     "url": "https://www.youtube.com/watch?v=Hc81Z3bLlXc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T09:00:00Z",
+    "startTime": "2026-07-26T09:01:24Z",
     "ttl": "2026-08-02T09:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -122,7 +127,7 @@
     "id": "v-yXlu2HFqM",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  APEX LEGENDS  ◢　顔合わせ練習するぞー！  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/v-yXlu2HFqM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/v-yXlu2HFqM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=v-yXlu2HFqM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-26T06:00:00Z",
@@ -167,6 +172,18 @@
     "scheduledStartTime": "2026-07-26T14:00:00Z",
     "ttl": "2026-08-02T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316221358449",
+    "channelId": "akarindao",
+    "title": "マイカーいつ買える？VCR#5",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-26T09:00:21Z",
+    "startTime": "2026-07-26T09:00:21Z",
+    "platform": "twitch",
+    "ttl": "2026-08-02T09:00:21.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316220003697",
