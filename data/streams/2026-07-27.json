@@ -1,15 +1,87 @@
 [
   {
+    "id": "8J9L69EGtks",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【APEX】ぶいすぽGG APEXカスタム！！　ちゅな、うるかさん【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/8J9L69EGtks/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=8J9L69EGtks",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-27T10:00:00Z",
+    "startTime": "2026-07-27T10:02:07Z",
+    "ttl": "2026-08-03T10:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "WnRI7d8xyQs",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "【 Apex 】#ぶいすぽGG スクリム1日目！ w/メイカさん、ゴリラさん【 ぶいすぽ / 小雀とと 】",
+    "thumbnail": "https://i.ytimg.com/vi/WnRI7d8xyQs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=WnRI7d8xyQs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-27T10:00:00Z",
+    "startTime": "2026-07-27T10:02:29Z",
+    "ttl": "2026-08-03T10:00:00.000Z",
+    "streamerId": "kogara_toto"
+  },
+  {
+    "id": "f3zNTrMGDsU",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【APEX】ぶいすぽGGかすたむ！！【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/f3zNTrMGDsU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=f3zNTrMGDsU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-27T10:00:00Z",
+    "startTime": "2026-07-27T10:02:49Z",
+    "ttl": "2026-08-03T10:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "QfYiH2LuQ7k",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】ぶいすぽGGかすたむ🎶めとちゃ、サイネちゃん【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/QfYiH2LuQ7k/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=QfYiH2LuQ7k",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-27T10:00:00Z",
+    "startTime": "2026-07-27T10:02:54Z",
+    "ttl": "2026-08-03T10:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "cyIyPKossWo",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】19時からはカスタムあるよ🎶【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/cyIyPKossWo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/cyIyPKossWo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=cyIyPKossWo",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-27T06:50:00Z",
     "startTime": "2026-07-27T06:53:52Z",
+    "endTime": "2026-07-27T09:11:15Z",
     "ttl": "2026-08-03T06:50:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "xOUg7iNd-n8",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 Apex Legends 】ぶいすぽGGカスタム 帰ってきた花鳥牛月🐮【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/xOUg7iNd-n8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=xOUg7iNd-n8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-27T10:00:00Z",
+    "startTime": "2026-07-27T10:07:36Z",
+    "ttl": "2026-08-03T10:00:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "bfkZK-R8N_o",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【Minecraft】闘技場の建築を終わらせるぞ！！！！！【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/bfkZK-R8N_o/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=bfkZK-R8N_o",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-27T11:00:00Z",
+    "ttl": "2026-08-03T11:00:00.000Z",
+    "streamerId": "yakumo_beni"
   },
   {
     "id": "BPZdRsFNan8",
@@ -19,8 +91,21 @@
     "url": "https://www.youtube.com/watch?v=BPZdRsFNan8",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-27T10:00:00Z",
+    "startTime": "2026-07-27T09:56:09Z",
     "ttl": "2026-08-03T10:00:00.000Z",
     "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "teIUczQGJJ8",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【APEX】ぶいすぽＧＧスクリム１日目！　ｗ/うるーか、なずぴ【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/teIUczQGJJ8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=teIUczQGJJ8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-27T10:00:00Z",
+    "startTime": "2026-07-27T10:02:18Z",
+    "ttl": "2026-08-03T10:00:00.000Z",
+    "streamerId": "nekota_tsuna"
   },
   {
     "id": "_8w46ODWy6A",
@@ -30,8 +115,45 @@
     "url": "https://www.youtube.com/watch?v=_8w46ODWy6A",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-27T10:00:00Z",
+    "startTime": "2026-07-27T10:01:47Z",
     "ttl": "2026-08-03T10:00:00.000Z",
     "streamerId": "komori_met"
+  },
+  {
+    "id": "Eu5QTTXwTWo",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【 APEX 】　ぶいすぽGG！スクリムDAY1 w/CPTさん、代打あじゃ選手【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/Eu5QTTXwTWo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Eu5QTTXwTWo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-27T10:00:00Z",
+    "startTime": "2026-07-27T10:01:41Z",
+    "ttl": "2026-08-03T10:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "kdi2AZTWYWU",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【APEX LEGENDS】個人練→スクリムさせていただきます！ ／ のあ先輩、めと先輩【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/kdi2AZTWYWU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=kdi2AZTWYWU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-27T09:00:00Z",
+    "startTime": "2026-07-27T09:00:40Z",
+    "ttl": "2026-08-03T09:00:00.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "Pv-tVEuVbDY",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  APEX LEGENDS  ◢　17:00~練習　19:00~スクリム練習するぞ！  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/Pv-tVEuVbDY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Pv-tVEuVbDY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-27T08:00:00Z",
+    "startTime": "2026-07-27T08:07:25Z",
+    "ttl": "2026-08-03T08:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "_0H0CtI1S5I",
@@ -52,6 +174,7 @@
     "url": "https://www.youtube.com/watch?v=m817rKABk-4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-27T10:00:00Z",
+    "startTime": "2026-07-27T09:58:10Z",
     "ttl": "2026-08-03T10:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -63,7 +186,56 @@
     "url": "https://www.youtube.com/watch?v=xRyxPJPKz1E",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-27T09:45:00Z",
+    "startTime": "2026-07-27T09:47:27Z",
     "ttl": "2026-08-03T09:45:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316290154099",
+    "channelId": "akarindao",
+    "title": "【ぶいすぽGG】のあ主催APEXやるぞ～！チームうるはさん、セリーさん",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-27T10:02:47Z",
+    "startTime": "2026-07-27T10:02:47Z",
+    "platform": "twitch",
+    "ttl": "2026-08-03T10:02:47.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316290174067",
+    "channelId": "ramuneshiranami",
+    "title": "【APEX】#ぶいすぽGG スクリム1日目",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-07-27T10:08:19Z",
+    "startTime": "2026-07-27T10:08:19Z",
+    "platform": "twitch",
+    "ttl": "2026-08-03T10:08:19.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "320709063515",
+    "channelId": "aryakuroha",
+    "title": "✦ vspo!gg scrims !!",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-07-27T09:57:59Z",
+    "startTime": "2026-07-27T09:57:59Z",
+    "platform": "twitch",
+    "ttl": "2026-08-03T09:57:59.000Z",
+    "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "316289809267",
+    "channelId": "choyahanabi",
+    "title": "【スト６】地上をかけぬけたい！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/a21298658ee3cc75e374_choyahanabi_316289809267_1785139860//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2830173052",
+    "scheduledStartTime": "2026-07-27T08:11:05Z",
+    "startTime": "2026-07-27T08:11:05Z",
+    "platform": "twitch",
+    "ttl": "2026-08-03T08:11:05.000Z",
+    "streamerId": "choya_hanabi"
   }
 ]
