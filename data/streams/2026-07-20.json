@@ -1,18 +1,5 @@
 [
   {
-    "id": "_3t72SJBGug",
-    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
-    "title": "あっちぃ～ですね【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/_3t72SJBGug/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=_3t72SJBGug",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-20T00:00:00Z",
-    "startTime": "2026-07-20T00:03:32Z",
-    "endTime": "2026-07-20T03:19:51Z",
-    "ttl": "2026-07-27T00:00:00.000Z",
-    "streamerId": "kaga_sumire"
-  },
-  {
     "id": "GmnhnugmI0c",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【VCR:Rust】スキルツリーを育てて農家になりたい【ぶいすぽ/花芽なずな】",
@@ -140,19 +127,6 @@
     "startTime": "2026-07-20T00:32:21Z",
     "endTime": "2026-07-20T05:49:58Z",
     "ttl": "2026-07-27T00:30:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "zALdbVn-m1E",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【Echoes of Aincrad】死にたくないよ；；クリアしたいよぉ；；　【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/zALdbVn-m1E/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=zALdbVn-m1E",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-20T00:00:00Z",
-    "startTime": "2026-07-20T00:01:48Z",
-    "endTime": "2026-07-20T00:17:34Z",
-    "ttl": "2026-07-27T00:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
   {
