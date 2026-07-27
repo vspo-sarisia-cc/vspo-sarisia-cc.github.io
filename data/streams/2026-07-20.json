@@ -13,32 +13,6 @@
     "streamerId": "kaga_nazuna"
   },
   {
-    "id": "jxNVexozYtY",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【VCR RUST】せかせか働け【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/jxNVexozYtY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=jxNVexozYtY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-20T13:00:00Z",
-    "startTime": "2026-07-20T13:03:54Z",
-    "endTime": "2026-07-20T19:21:14Z",
-    "ttl": "2026-07-27T13:00:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
-    "id": "xMgVTq-Hw9E",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【#ぶいすぽスポーツテスト】第一回✨3Dスポーツテスト！【八雲べに/猫汰つな/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/xMgVTq-Hw9E/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=xMgVTq-Hw9E",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-20T11:00:00Z",
-    "startTime": "2026-07-20T10:59:12Z",
-    "endTime": "2026-07-20T12:14:01Z",
-    "ttl": "2026-07-27T11:00:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
     "id": "Y9UajbCdnsI",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "大人数でめっちゃカメレオン中にリスペクトされるエマ画伯【ぶいすぽっ！/ 藍沢エマ/めっちゃカメレオン】",
@@ -63,32 +37,6 @@
     "endTime": "2026-07-20T17:20:18Z",
     "ttl": "2026-07-27T13:45:00.000Z",
     "streamerId": "yano_kuromu"
-  },
-  {
-    "id": "rOP9iElx-LM",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【APEX】ごめんありさんゴールドいけなかったよ・・・（ズズが）【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/rOP9iElx-LM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=rOP9iElx-LM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-20T12:00:00Z",
-    "startTime": "2026-07-20T12:00:17Z",
-    "endTime": "2026-07-20T15:24:45Z",
-    "ttl": "2026-07-27T12:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "sG5opNMZULo",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "＃2.5【 VCR RUST3 】　ボスとかいけるか？？？！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/sG5opNMZULo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=sG5opNMZULo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-20T13:00:00Z",
-    "startTime": "2026-07-20T13:01:08Z",
-    "endTime": "2026-07-20T19:44:51Z",
-    "ttl": "2026-07-27T13:00:00.000Z",
-    "streamerId": "choya_hanabi"
   },
   {
     "id": "8oVfJPtwbeg",
@@ -128,17 +76,5 @@
     "endTime": "2026-07-20T17:24:08Z",
     "ttl": "2026-07-27T14:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316259364851",
-    "channelId": "akarindao",
-    "title": "VCR行ってみよう～！#1",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/6080da11988ed99996e4_akarindao_316259364851_1784549283//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2824526616",
-    "scheduledStartTime": "2026-07-20T12:08:08Z",
-    "startTime": "2026-07-20T12:08:08Z",
-    "platform": "twitch",
-    "ttl": "2026-07-27T12:08:08.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
