@@ -9,5 +9,16 @@
     "scheduledStartTime": "2026-07-29T14:00:00Z",
     "ttl": "2026-08-05T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "paynSC4h_X8",
+    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
+    "title": "【APEX LEGENDS】VSPO!GG Tournament ! #ぶいすぽGG【#VSPOEN #AryaKuroha】",
+    "thumbnail": "https://i.ytimg.com/vi/paynSC4h_X8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=paynSC4h_X8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-29T11:00:00Z",
+    "ttl": "2026-08-05T11:00:00.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]

@@ -11,6 +11,17 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "_8w46ODWy6A",
+    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
+    "title": "【 APEX 】ぶいすぽGG スクリムDay1 /w のあちゃん さっちゃん【 ぶいすぽっ！ / 小森めと 】",
+    "thumbnail": "https://i.ytimg.com/vi/_8w46ODWy6A/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=_8w46ODWy6A",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-27T10:00:00Z",
+    "ttl": "2026-08-03T10:00:00.000Z",
+    "streamerId": "komori_met"
+  },
+  {
     "id": "_0H0CtI1S5I",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Let's get out of 23K  |  Premier  |  Counter-Strike 2 【#VSPOEN #RemiaAotsuki】",
@@ -20,6 +31,17 @@
     "scheduledStartTime": "2026-07-27T12:00:00Z",
     "ttl": "2026-08-03T12:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "m817rKABk-4",
+    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
+    "title": "【APEX LEGENDS】VSPO!GG Scrims !! #ぶいすぽGG【#VSPOEN #AryaKuroha】",
+    "thumbnail": "https://i.ytimg.com/vi/m817rKABk-4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=m817rKABk-4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-27T10:00:00Z",
+    "ttl": "2026-08-03T10:00:00.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "xRyxPJPKz1E",
