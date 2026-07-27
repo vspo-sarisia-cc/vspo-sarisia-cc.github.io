@@ -20,5 +20,16 @@
     "scheduledStartTime": "2026-07-28T10:00:00Z",
     "ttl": "2026-08-04T10:00:00.000Z",
     "streamerId": "jira_jisaki"
+  },
+  {
+    "id": "6CH-JJp5Y_0",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Apex Legends◢ Day 2 scrims for VSPO!GG #ぶいすぽGG | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/6CH-JJp5Y_0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=6CH-JJp5Y_0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-28T09:30:00Z",
+    "ttl": "2026-08-04T09:30:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]

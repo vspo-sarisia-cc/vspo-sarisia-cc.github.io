@@ -104,6 +104,19 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "0zIzBiCLhoE",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【※オンライン雑談です】ちる部雑談配信で緊張して固まる夕刻ロベル【ぶいすぽっ！/ 藍沢エマ/緋月ゆい/夕刻ロベル/ちる部】",
+    "thumbnail": "https://i.ytimg.com/vi/0zIzBiCLhoE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=0zIzBiCLhoE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-27T22:00:00Z",
+    "startTime": "2026-07-27T22:00:06Z",
+    "endTime": "2026-07-27T22:20:08Z",
+    "ttl": "2026-08-03T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "BPZdRsFNan8",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【APEX】ぶいすぽGG スクリムDAY1【ぶいすぽっ！/ 藍沢エマ】",
@@ -114,17 +127,6 @@
     "startTime": "2026-07-27T09:56:09Z",
     "endTime": "2026-07-27T15:08:37Z",
     "ttl": "2026-08-03T10:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "0zIzBiCLhoE",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【※オンライン雑談です】ちる部雑談配信で緊張して固まる夕刻ロベル【ぶいすぽっ！/ 藍沢エマ/緋月ゆい/夕刻ロベル/ちる部】",
-    "thumbnail": "https://i.ytimg.com/vi/0zIzBiCLhoE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=0zIzBiCLhoE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-27T22:00:00Z",
-    "ttl": "2026-08-03T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
