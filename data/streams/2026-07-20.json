@@ -1,18 +1,5 @@
 [
   {
-    "id": "GmnhnugmI0c",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【VCR:Rust】スキルツリーを育てて農家になりたい【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/GmnhnugmI0c/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=GmnhnugmI0c",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-20T13:40:00Z",
-    "startTime": "2026-07-20T13:28:29Z",
-    "endTime": "2026-07-20T19:06:13Z",
-    "ttl": "2026-07-27T13:40:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "Y9UajbCdnsI",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "大人数でめっちゃカメレオン中にリスペクトされるエマ画伯【ぶいすぽっ！/ 藍沢エマ/めっちゃカメレオン】",
@@ -26,32 +13,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "KSL1cMSaOss",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 VCR RUST 〗初めてのらすと。教えてください！の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/KSL1cMSaOss/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=KSL1cMSaOss",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-20T13:45:00Z",
-    "startTime": "2026-07-20T13:44:06Z",
-    "endTime": "2026-07-20T17:20:18Z",
-    "ttl": "2026-07-27T13:45:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
-    "id": "8oVfJPtwbeg",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "Season 5 Rating Today!!!  |  Premier  |  Counter-Strike 2 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/8oVfJPtwbeg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=8oVfJPtwbeg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-20T15:00:00Z",
-    "startTime": "2026-07-20T15:00:18Z",
-    "endTime": "2026-07-20T19:03:48Z",
-    "ttl": "2026-07-27T15:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
     "id": "UIfy-SBE8wk",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【ROCKET LEAGUE】RIKOBAPPÉ IS BACK(?【#VSPOEN #RikoSolari】",
@@ -63,18 +24,5 @@
     "endTime": "2026-07-20T21:04:47Z",
     "ttl": "2026-07-27T19:00:00.000Z",
     "streamerId": "riko_solari"
-  },
-  {
-    "id": "Gs1opE13Xpg",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Apex Legends◢ ERIS CARRIES ME TO DIAMOND | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/Gs1opE13Xpg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Gs1opE13Xpg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-20T14:00:00Z",
-    "startTime": "2026-07-20T14:02:13Z",
-    "endTime": "2026-07-20T17:24:08Z",
-    "ttl": "2026-07-27T14:00:00.000Z",
-    "streamerId": "juno_umezono"
   }
 ]
