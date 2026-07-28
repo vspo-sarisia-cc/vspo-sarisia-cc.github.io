@@ -1,15 +1,15 @@
 [
   {
-    "id": "ZqWKxOEd2JY",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【VCR:Rust】ボスをたくさん倒さないとな。【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/ZqWKxOEd2JY/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=ZqWKxOEd2JY",
+    "id": "qI2IMvF_fXg",
+    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
+    "title": "夜中にいきなりさ【ぶいすぽっ！/花芽すみれ】",
+    "thumbnail": "https://i.ytimg.com/vi/qI2IMvF_fXg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=qI2IMvF_fXg",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-28T13:30:00Z",
-    "startTime": "2026-07-28T13:24:43Z",
-    "ttl": "2026-08-04T13:30:00.000Z",
-    "streamerId": "kaga_nazuna"
+    "scheduledStartTime": "2026-07-28T16:15:00Z",
+    "startTime": "2026-07-28T16:25:29Z",
+    "ttl": "2026-08-04T16:15:00.000Z",
+    "streamerId": "kaga_sumire"
   },
   {
     "id": "o0pUskTASsk",
@@ -22,6 +22,18 @@
     "startTime": "2026-07-28T10:08:35Z",
     "endTime": "2026-07-28T13:19:57Z",
     "ttl": "2026-08-04T10:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "ZqWKxOEd2JY",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【VCR:Rust】ボスをたくさん倒さないとな。【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/ZqWKxOEd2JY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ZqWKxOEd2JY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-28T13:30:00Z",
+    "startTime": "2026-07-28T13:24:43Z",
+    "ttl": "2026-08-04T13:30:00.000Z",
     "streamerId": "kaga_nazuna"
   },
   {
@@ -180,11 +192,12 @@
     "id": "vZyccqhMKtM",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 APEX 】ぶいすぽGG スクリムDay2 /w のあちゃん さっちゃん【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/vZyccqhMKtM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/vZyccqhMKtM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=vZyccqhMKtM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-28T10:00:00Z",
     "startTime": "2026-07-28T09:53:31Z",
+    "endTime": "2026-07-28T15:42:53Z",
     "ttl": "2026-08-04T10:00:00.000Z",
     "streamerId": "komori_met"
   },
@@ -253,7 +266,7 @@
     "id": "1DaBYN9CXH0",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  APEX LEGENDS  ◢　17:00~練習　19:00~スクリム練習します！いくぞおお  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/1DaBYN9CXH0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/1DaBYN9CXH0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=1DaBYN9CXH0",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-28T08:00:00Z",
@@ -301,18 +314,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316294547699",
-    "channelId": "akarindao",
-    "title": "マイカーほしい。VCR＃6",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-28T10:05:27Z",
-    "startTime": "2026-07-28T10:05:27Z",
-    "platform": "twitch",
-    "ttl": "2026-08-04T10:05:27.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316230164977",
     "channelId": "ramuneshiranami",
     "title": "【APEX】#ぶいすぽGG スクリム２日目",
@@ -335,6 +336,18 @@
     "platform": "twitch",
     "ttl": "2026-08-04T10:05:46.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316294547699",
+    "channelId": "akarindao",
+    "title": "リスナー接待カスタム めあたむとツルギ君",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/f7fbc6fe9611ea330b52_akarindao_316294547699_1785233127//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2831005213",
+    "scheduledStartTime": "2026-07-28T10:05:32Z",
+    "startTime": "2026-07-28T10:05:32Z",
+    "platform": "twitch",
+    "ttl": "2026-08-04T10:05:32.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316237877746",

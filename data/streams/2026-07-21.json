@@ -1,18 +1,5 @@
 [
   {
-    "id": "J6NMF1BZXvw",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 VCR RUST 】深夜のチルRUST 【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/J6NMF1BZXvw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=J6NMF1BZXvw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-21T16:10:00Z",
-    "startTime": "2026-07-21T16:09:28Z",
-    "endTime": "2026-07-21T19:32:26Z",
-    "ttl": "2026-07-28T16:10:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
     "id": "mJgSb6n0ZyE",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 APEX 】睡眠時間24時間越のモレ【 ぶいすぽっ！ / 小森めと 】",
@@ -50,17 +37,5 @@
     "endTime": "2026-07-21T22:12:25Z",
     "ttl": "2026-07-28T20:00:00.000Z",
     "streamerId": "riko_solari"
-  },
-  {
-    "id": "316264737651",
-    "channelId": "ren_kisaragi__",
-    "title": "釣りおもろ～～～～～～～",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/72c046d839bd728decb3_ren_kisaragi___316264737651_1784651136//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2825464092",
-    "scheduledStartTime": "2026-07-21T16:25:41Z",
-    "startTime": "2026-07-21T16:25:41Z",
-    "platform": "twitch",
-    "ttl": "2026-07-28T16:25:41.000Z",
-    "streamerId": "kisaragi_ren"
   }
 ]
