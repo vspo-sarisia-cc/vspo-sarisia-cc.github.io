@@ -345,17 +345,5 @@
     "platform": "twitch",
     "ttl": "2026-07-28T10:00:32.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316206453490",
-    "channelId": "akarindao",
-    "title": "ぶいすぽ夏祭り準備",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/faf9551611acb00d1059_akarindao_316206453490_1784598732//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2825067407",
-    "scheduledStartTime": "2026-07-21T01:52:17Z",
-    "startTime": "2026-07-21T01:52:17Z",
-    "platform": "twitch",
-    "ttl": "2026-07-28T01:52:17.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
