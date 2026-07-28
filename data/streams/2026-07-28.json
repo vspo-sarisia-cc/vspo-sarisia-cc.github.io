@@ -60,6 +60,18 @@
     "streamerId": "tachibana_hinano"
   },
   {
+    "id": "ePXMQuaDgTE",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【 VCR RUST 】#5 ミッション進めたいナ～🎶【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/ePXMQuaDgTE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ePXMQuaDgTE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-28T11:15:00Z",
+    "startTime": "2026-07-28T11:21:03Z",
+    "ttl": "2026-08-04T11:15:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
     "id": "TiJgKaJABxA",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【APEX】ぶいすぽGG スクリムDAY2【ぶいすぽっ！/ 藍沢エマ】",
@@ -125,11 +137,12 @@
     "id": "ARn-N_cBLmE",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VALORANT】ソロコンペ！早くイモータル帰るぞ５【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/ARn-N_cBLmE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ARn-N_cBLmE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ARn-N_cBLmE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-28T06:05:00Z",
     "startTime": "2026-07-28T06:11:56Z",
+    "endTime": "2026-07-28T11:44:57Z",
     "ttl": "2026-08-04T06:05:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -164,6 +177,7 @@
     "url": "https://www.youtube.com/watch?v=fkwkbhb5C_0",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-28T12:00:00Z",
+    "startTime": "2026-07-28T12:02:19Z",
     "ttl": "2026-08-04T12:00:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -187,6 +201,7 @@
     "url": "https://www.youtube.com/watch?v=dMU16_v-yEA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-28T12:00:00Z",
+    "startTime": "2026-07-28T12:15:26Z",
     "ttl": "2026-08-04T12:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -215,18 +230,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316294547699",
-    "channelId": "akarindao",
-    "title": "ぶいすぽGG 練習DAYうるはさん レイド君",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-28T10:05:27Z",
-    "startTime": "2026-07-28T10:05:27Z",
-    "platform": "twitch",
-    "ttl": "2026-08-04T10:05:27.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316230164977",
     "channelId": "ramuneshiranami",
     "title": "【APEX】#ぶいすぽGG スクリム２日目 w/かみーと へんでぃーの代打恭ちゃん",
@@ -237,6 +240,18 @@
     "platform": "twitch",
     "ttl": "2026-08-04T10:06:28.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316294547699",
+    "channelId": "akarindao",
+    "title": "ぶいすぽGG 練習DAYうるはさん レイド君",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-07-28T10:05:27Z",
+    "startTime": "2026-07-28T10:05:27Z",
+    "platform": "twitch",
+    "ttl": "2026-08-04T10:05:27.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316230163697",
