@@ -94,11 +94,12 @@
     "id": "5t9xaAnfkeg",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
     "title": "【Minecraft】 ロゴ完成させる～【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/5t9xaAnfkeg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/5t9xaAnfkeg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=5t9xaAnfkeg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-28T14:50:00Z",
     "startTime": "2026-07-28T14:47:22Z",
+    "endTime": "2026-07-28T21:35:54Z",
     "ttl": "2026-08-04T14:50:00.000Z",
     "streamerId": "tosaki_mimi"
   },
@@ -232,6 +233,18 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "O63kC1edM_0",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【朝活雑談】　もう真夏です！！もうすぐ３０万人！！！いきたいです！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/O63kC1edM_0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=O63kC1edM_0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-28T22:00:00Z",
+    "startTime": "2026-07-28T21:59:58Z",
+    "ttl": "2026-08-04T22:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "Gj9OtWUGMSg",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "#９【 VCR RUST3 】　ティア２ボスクリアしたいし硫黄もほしい！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -255,17 +268,6 @@
     "startTime": "2026-07-28T09:00:00Z",
     "endTime": "2026-07-28T14:13:38Z",
     "ttl": "2026-08-04T09:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "O63kC1edM_0",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【朝活雑談】　もう真夏です！！もうすぐ３０万人！！！いきたいです！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/O63kC1edM_0/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=O63kC1edM_0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-28T22:00:00Z",
-    "ttl": "2026-08-04T22:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
