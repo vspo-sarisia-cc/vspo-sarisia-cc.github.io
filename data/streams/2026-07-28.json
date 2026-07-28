@@ -163,6 +163,18 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "OA96KG2PGrM",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 スプラトゥーン レイダース 】本日の絶品回 ネタバレ注意【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/OA96KG2PGrM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=OA96KG2PGrM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-28T17:50:00Z",
+    "startTime": "2026-07-28T17:50:52Z",
+    "ttl": "2026-08-04T17:50:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
     "id": "p9sTS8hFrEg",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【APEX】ぶいすぽＧＧスクリム２日目！チャンピオン取りた～い　ｗ/うるーか、なずぴ【ぶいすぽ / 猫汰つな】",
@@ -215,18 +227,6 @@
     "streamerId": "tsumugi_kokage"
   },
   {
-    "id": "Gj9OtWUGMSg",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "#９【 VCR RUST3 】　ティア２ボスクリアしたいし硫黄もほしい！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/Gj9OtWUGMSg/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=Gj9OtWUGMSg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-28T14:00:00Z",
-    "startTime": "2026-07-28T14:22:18Z",
-    "ttl": "2026-08-04T14:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
     "id": "N5GKcWeFyPk",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 APEX 】　ソロ練→ぶいすぽGG！スクリムDAY２！今日はちゃんぽんとるぞ！！w/CPT、あじゃ選手【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -237,6 +237,18 @@
     "startTime": "2026-07-28T09:00:00Z",
     "endTime": "2026-07-28T14:13:38Z",
     "ttl": "2026-08-04T09:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "Gj9OtWUGMSg",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "#９【 VCR RUST3 】　ティア２ボスクリアしたいし硫黄もほしい！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/Gj9OtWUGMSg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Gj9OtWUGMSg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-28T14:00:00Z",
+    "startTime": "2026-07-28T14:22:18Z",
+    "ttl": "2026-08-04T14:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -254,11 +266,12 @@
     "id": "fkwkbhb5C_0",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【VCR RUST】本当に初心者です本日お邪魔します【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/fkwkbhb5C_0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/fkwkbhb5C_0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=fkwkbhb5C_0",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-28T12:00:00Z",
     "startTime": "2026-07-28T12:02:19Z",
+    "endTime": "2026-07-28T16:59:15Z",
     "ttl": "2026-08-04T12:00:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -284,6 +297,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-28T12:00:00Z",
     "startTime": "2026-07-28T12:15:26Z",
+    "endTime": "2026-07-28T17:51:25Z",
     "ttl": "2026-08-04T12:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
