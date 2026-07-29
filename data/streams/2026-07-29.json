@@ -63,11 +63,12 @@
     "id": "oGV_t3WCLzs",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
     "title": "【Minecraft】花火会場の装飾 【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/oGV_t3WCLzs/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/oGV_t3WCLzs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=oGV_t3WCLzs",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-29T07:45:00Z",
     "startTime": "2026-07-29T07:47:26Z",
+    "endTime": "2026-07-29T12:35:09Z",
     "ttl": "2026-08-05T07:45:00.000Z",
     "streamerId": "tosaki_mimi"
   },
@@ -102,8 +103,9 @@
     "thumbnail": "https://i.ytimg.com/vi/B0OgBu71USg/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=B0OgBu71USg",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-29T12:00:00Z",
-    "ttl": "2026-08-05T12:00:00.000Z",
+    "scheduledStartTime": "2026-07-29T12:15:00Z",
+    "startTime": "2026-07-29T12:17:27Z",
+    "ttl": "2026-08-05T12:15:00.000Z",
     "streamerId": "yakumo_beni"
   },
   {
@@ -164,6 +166,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-29T08:00:00Z",
     "startTime": "2026-07-29T08:01:18Z",
+    "endTime": "2026-07-29T13:08:21Z",
     "ttl": "2026-08-05T08:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
