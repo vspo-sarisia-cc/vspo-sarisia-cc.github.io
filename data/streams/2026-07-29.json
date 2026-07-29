@@ -380,18 +380,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316243139442",
-    "channelId": "ren_kisaragi__",
-    "title": "Street Fighter 6 at EWC 26 - Day 1 - Group Stageミラー配信",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-07-29T10:33:29Z",
-    "startTime": "2026-07-29T10:33:29Z",
-    "platform": "twitch",
-    "ttl": "2026-08-05T10:33:29.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "316242963954",
     "channelId": "ramuneshiranami",
     "title": "【APEX】#ぶいすぽGG 練習→本番 w/かみーと へんでぃー→【Rust】#8",
@@ -402,6 +390,18 @@
     "platform": "twitch",
     "ttl": "2026-08-05T09:47:40.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316243139442",
+    "channelId": "ren_kisaragi__",
+    "title": "Street Fighter 6 at EWC 26 - Day 1 - Group Stageミラー配信",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/aa362d3d9ae5962e4fd9_ren_kisaragi___316243139442_1785321209//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2831840666",
+    "scheduledStartTime": "2026-07-29T10:33:34Z",
+    "startTime": "2026-07-29T10:33:34Z",
+    "platform": "twitch",
+    "ttl": "2026-08-05T10:33:34.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316242439282",
