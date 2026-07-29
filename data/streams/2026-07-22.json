@@ -78,19 +78,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "L-7YIQMAcEs",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】きゅぴちゃんとサイネちゃんとカジュアルであそぶ！【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/L-7YIQMAcEs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=L-7YIQMAcEs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-22T05:00:00Z",
-    "startTime": "2026-07-22T05:04:36Z",
-    "endTime": "2026-07-22T07:17:46Z",
-    "ttl": "2026-07-29T05:00:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "c6D-5QRdXLo",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【アークナイツ：エンドフィールド】オクギ：旧塵を辿る。ハーフアニバーサリー:アプデ情報多数【空澄セナ/ぶいすぽっ！】",
@@ -115,19 +102,6 @@
     "endTime": "2026-07-22T19:13:55Z",
     "ttl": "2026-07-29T11:15:00.000Z",
     "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "CtoFlOvUu0o",
-    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
-    "title": "【APEX】企画以外でやるの久々すぎ問題 wのあﾁｬﾝ,銀''上''ｻﾝ【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/CtoFlOvUu0o/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=CtoFlOvUu0o",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-22T05:00:00Z",
-    "startTime": "2026-07-22T05:04:32Z",
-    "endTime": "2026-07-22T07:36:05Z",
-    "ttl": "2026-07-29T05:00:00.000Z",
-    "streamerId": "kaminari_qpi"
   },
   {
     "id": "vVjajVfDsf0",
@@ -286,19 +260,6 @@
     "streamerId": "ginjo_saine"
   },
   {
-    "id": "rZ0q0Ll9tnE",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【APEX LEGENDS】ぶいすぽメンバーで参ります！！／ のあ先輩、きゅぴ先輩【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/rZ0q0Ll9tnE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=rZ0q0Ll9tnE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-22T05:00:00Z",
-    "startTime": "2026-07-22T05:04:33Z",
-    "endTime": "2026-07-22T07:16:01Z",
-    "ttl": "2026-07-29T05:00:00.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
     "id": "iQYjyNSlL0k",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  League of Legends  ◢　ソロランクする！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
@@ -398,17 +359,5 @@
     "platform": "twitch",
     "ttl": "2026-07-29T09:14:15.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316266627187",
-    "channelId": "choyahanabi",
-    "title": "【スト６】地上もどるぞ！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/ba21cc25c10b4d3d2f17_choyahanabi_316266627187_1784699794//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2826019249",
-    "scheduledStartTime": "2026-07-22T05:56:39Z",
-    "startTime": "2026-07-22T05:56:39Z",
-    "platform": "twitch",
-    "ttl": "2026-07-29T05:56:39.000Z",
-    "streamerId": "choya_hanabi"
   }
 ]
