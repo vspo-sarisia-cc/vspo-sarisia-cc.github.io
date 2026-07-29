@@ -1,17 +1,5 @@
 [
   {
-    "id": "RHhmHHZ3muA",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【VCR:Rust】メテオ爆誕したい。【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/RHhmHHZ3muA/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=RHhmHHZ3muA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-29T13:45:00Z",
-    "startTime": "2026-07-29T13:44:47Z",
-    "ttl": "2026-08-05T13:45:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "CNn-dVyrovQ",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【APEX】ぶいすぽGG APEXカスタム本番☆　ちゅな、うるかさん【ぶいすぽ/花芽なずな】",
@@ -22,6 +10,18 @@
     "startTime": "2026-07-29T11:06:31Z",
     "endTime": "2026-07-29T13:40:26Z",
     "ttl": "2026-08-05T11:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "RHhmHHZ3muA",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【VCR:Rust】メテオ爆誕したい。【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/RHhmHHZ3muA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=RHhmHHZ3muA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-29T13:45:00Z",
+    "startTime": "2026-07-29T13:44:47Z",
+    "ttl": "2026-08-05T13:45:00.000Z",
     "streamerId": "kaga_nazuna"
   },
   {
@@ -229,6 +229,18 @@
     "streamerId": "yano_kuromu"
   },
   {
+    "id": "HQx0bOUOSH8",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【Minecraft】やぐらっぽいやつ作る！２【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/HQx0bOUOSH8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=HQx0bOUOSH8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-29T16:30:00Z",
+    "startTime": "2026-07-29T16:34:41Z",
+    "ttl": "2026-08-05T16:30:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "ozRbJVo2H9Q",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "LJL 2026 SUMMER CHAMPIONSHIP LOWER ROUND 2 公式ウォッチパーティー！【ぶいすぽっ！/千燈ゆうひ】",
@@ -267,18 +279,6 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "D0E_2cmtbmk",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【VCR RUST】お久しぶりに全力ファーム【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/D0E_2cmtbmk/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=D0E_2cmtbmk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-29T13:35:00Z",
-    "startTime": "2026-07-29T13:35:40Z",
-    "ttl": "2026-08-05T13:35:00.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
     "id": "t1dnK7CMmzI",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【APEX LEGENDS】本番よろしくお願いいたします！ ／ のあ先輩、めと先輩【ぶいすぽっ！ #銀城サイネ 】",
@@ -289,6 +289,18 @@
     "startTime": "2026-07-29T10:00:56Z",
     "endTime": "2026-07-29T13:29:10Z",
     "ttl": "2026-08-05T10:00:00.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "D0E_2cmtbmk",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【VCR RUST】お久しぶりに全力ファーム【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/D0E_2cmtbmk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=D0E_2cmtbmk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-29T13:35:00Z",
+    "startTime": "2026-07-29T13:35:40Z",
+    "ttl": "2026-08-05T13:35:00.000Z",
     "streamerId": "ginjo_saine"
   },
   {
@@ -358,7 +370,7 @@
     "id": "w-sPifTcAHk",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Apex Legends◢ TOURNAMENT DAY VSPO!GG #ぶいすぽGG | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/w-sPifTcAHk/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/w-sPifTcAHk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=w-sPifTcAHk",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-29T10:30:00Z",
@@ -392,18 +404,6 @@
     "streamerId": "shiranami_ramune"
   },
   {
-    "id": "316299143795",
-    "channelId": "akarindao",
-    "title": "なにしようか！VCR＃７",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-07-29T10:45:45Z",
-    "startTime": "2026-07-29T10:45:45Z",
-    "platform": "twitch",
-    "ttl": "2026-08-05T10:45:45.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316242439282",
     "channelId": "ren_kisaragi__",
     "title": "でも～？なんと～？",
@@ -414,6 +414,18 @@
     "platform": "twitch",
     "ttl": "2026-08-05T06:59:15.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316299143795",
+    "channelId": "akarindao",
+    "title": "ぶいすぽGG 本番!チャンピオン取るぞ! うるはさん、セリーさん",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/f042806bacfdfaed32e6_akarindao_316299143795_1785321945//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2831844687",
+    "scheduledStartTime": "2026-07-29T10:45:50Z",
+    "startTime": "2026-07-29T10:45:50Z",
+    "platform": "twitch",
+    "ttl": "2026-08-05T10:45:50.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "320577234905",
