@@ -169,19 +169,6 @@
     "streamerId": "shinomiya_runa"
   },
   {
-    "id": "taT_444mA1Q",
-    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
-    "title": "【 VCR Rust3 】なずな先輩に教えてもらう【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/taT_444mA1Q/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=taT_444mA1Q",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-22T09:00:00Z",
-    "startTime": "2026-07-22T09:03:34Z",
-    "endTime": "2026-07-22T10:50:38Z",
-    "ttl": "2026-07-29T09:00:00.000Z",
-    "streamerId": "shinomiya_runa"
-  },
-  {
     "id": "R-WDu7z1Q6U",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 #ぶいすぽ7周年大感謝祭 〗秋葉原で探せ！ぶいすぽっ！ジャージ探索 後編。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
@@ -260,19 +247,6 @@
     "streamerId": "ginjo_saine"
   },
   {
-    "id": "iQYjyNSlL0k",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  League of Legends  ◢　ソロランクする！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/iQYjyNSlL0k/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=iQYjyNSlL0k",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-22T07:00:00Z",
-    "startTime": "2026-07-22T07:05:33Z",
-    "endTime": "2026-07-22T09:57:36Z",
-    "ttl": "2026-07-29T07:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
     "id": "fHiTMo4hBeA",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Part 2 - Italians in a Chinese Restaurant?!  |  Chef's Shift 【#VSPOEN #RemiaAotsuki】",
@@ -347,17 +321,5 @@
     "platform": "twitch",
     "ttl": "2026-07-29T12:21:11.000Z",
     "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "316211970802",
-    "channelId": "akarindao",
-    "title": "VCRまつたりと#2",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/cc090571080e93a622a5_akarindao_316211970802_1784711649//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2826082411",
-    "scheduledStartTime": "2026-07-22T09:14:15Z",
-    "startTime": "2026-07-22T09:14:15Z",
-    "platform": "twitch",
-    "ttl": "2026-07-29T09:14:15.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
