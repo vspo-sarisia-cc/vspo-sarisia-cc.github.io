@@ -1,5 +1,18 @@
 [
   {
+    "id": "RHhmHHZ3muA",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【VCR:Rust】メテオ爆誕したい。【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/RHhmHHZ3muA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=RHhmHHZ3muA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-29T13:45:00Z",
+    "startTime": "2026-07-29T13:44:47Z",
+    "endTime": "2026-07-29T19:03:12Z",
+    "ttl": "2026-08-05T13:45:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "CNn-dVyrovQ",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【APEX】ぶいすぽGG APEXカスタム本番☆　ちゅな、うるかさん【ぶいすぽ/花芽なずな】",
@@ -10,18 +23,6 @@
     "startTime": "2026-07-29T11:06:31Z",
     "endTime": "2026-07-29T13:40:26Z",
     "ttl": "2026-08-05T11:00:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
-    "id": "RHhmHHZ3muA",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【VCR:Rust】メテオ爆誕したい。【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/RHhmHHZ3muA/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=RHhmHHZ3muA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-29T13:45:00Z",
-    "startTime": "2026-07-29T13:44:47Z",
-    "ttl": "2026-08-05T13:45:00.000Z",
     "streamerId": "kaga_nazuna"
   },
   {
@@ -41,11 +42,12 @@
     "id": "ftcJPrDxSiA",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【VCR RUST】腹パンタンク【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/ftcJPrDxSiA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ftcJPrDxSiA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ftcJPrDxSiA",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-29T15:15:00Z",
     "startTime": "2026-07-29T15:13:09Z",
+    "endTime": "2026-07-29T19:04:41Z",
     "ttl": "2026-08-05T15:15:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -118,11 +120,12 @@
     "id": "FT5b5x8hcg4",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 VCR RUST 】 布装装備吐出し女【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/FT5b5x8hcg4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/FT5b5x8hcg4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=FT5b5x8hcg4",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-29T14:20:00Z",
     "startTime": "2026-07-29T14:24:35Z",
+    "endTime": "2026-07-29T19:05:09Z",
     "ttl": "2026-08-05T14:20:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -143,11 +146,12 @@
     "id": "B0OgBu71USg",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【 VCR RUST 】#6 銃撃・移動はすごいんだぞ！！！！！！【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/B0OgBu71USg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/B0OgBu71USg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=B0OgBu71USg",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-29T12:15:00Z",
     "startTime": "2026-07-29T12:17:27Z",
+    "endTime": "2026-07-29T19:03:38Z",
     "ttl": "2026-08-05T12:15:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -181,11 +185,12 @@
     "id": "CZIaRX8Z9Sc",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 APEX 】ふるぱ w/ハセシン、バーチャルゴリラ【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/CZIaRX8Z9Sc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/CZIaRX8Z9Sc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=CZIaRX8Z9Sc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-29T15:20:00Z",
     "startTime": "2026-07-29T15:24:14Z",
+    "endTime": "2026-07-29T18:15:22Z",
     "ttl": "2026-08-05T15:20:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -257,11 +262,12 @@
     "id": "6g3lF8z7XfQ",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "#１０【 VCR RUST3 】　まじでちょっとファームするだけ！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/6g3lF8z7XfQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/6g3lF8z7XfQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=6g3lF8z7XfQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-29T14:30:00Z",
     "startTime": "2026-07-29T14:31:53Z",
+    "endTime": "2026-07-29T19:09:38Z",
     "ttl": "2026-08-05T14:30:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -279,6 +285,19 @@
     "streamerId": "choya_hanabi"
   },
   {
+    "id": "D0E_2cmtbmk",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【VCR RUST】お久しぶりに全力ファーム【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/D0E_2cmtbmk/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=D0E_2cmtbmk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-29T13:35:00Z",
+    "startTime": "2026-07-29T13:35:40Z",
+    "endTime": "2026-07-29T19:02:26Z",
+    "ttl": "2026-08-05T13:35:00.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
     "id": "t1dnK7CMmzI",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【APEX LEGENDS】本番よろしくお願いいたします！ ／ のあ先輩、めと先輩【ぶいすぽっ！ #銀城サイネ 】",
@@ -290,30 +309,6 @@
     "endTime": "2026-07-29T13:29:10Z",
     "ttl": "2026-08-05T10:00:00.000Z",
     "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "D0E_2cmtbmk",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【VCR RUST】お久しぶりに全力ファーム【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/D0E_2cmtbmk/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=D0E_2cmtbmk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-29T13:35:00Z",
-    "startTime": "2026-07-29T13:35:40Z",
-    "ttl": "2026-08-05T13:35:00.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "esSGm-1KOx8",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  VCR RUST  ◢　RUSTいくぞおおお #4  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/esSGm-1KOx8/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=esSGm-1KOx8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-29T14:45:00Z",
-    "startTime": "2026-07-29T14:46:22Z",
-    "ttl": "2026-08-05T14:45:00.000Z",
-    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "ralX1AdE3XU",
@@ -332,11 +327,12 @@
     "id": "1vMhHGwtfXE",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Part 3 - Japanese Restaurant  |  Chef's Shift 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/1vMhHGwtfXE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/1vMhHGwtfXE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=1vMhHGwtfXE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-29T14:00:00Z",
     "startTime": "2026-07-29T14:06:45Z",
+    "endTime": "2026-07-29T18:28:18Z",
     "ttl": "2026-08-05T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -380,18 +376,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316242963954",
-    "channelId": "ramuneshiranami",
-    "title": "【APEX】#ぶいすぽGG 練習→本番 w/かみーと へんでぃー→【Rust】#8",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-29T09:47:40Z",
-    "startTime": "2026-07-29T09:47:40Z",
-    "platform": "twitch",
-    "ttl": "2026-08-05T09:47:40.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316243139442",
     "channelId": "ren_kisaragi__",
     "title": "Street Fighter 6 at EWC 26 - Day 1 - Group Stageミラー配信",
@@ -414,6 +398,18 @@
     "platform": "twitch",
     "ttl": "2026-08-05T06:59:15.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316242963954",
+    "channelId": "ramuneshiranami",
+    "title": "【APEX】#ぶいすぽGG 練習→本番 w/かみーと へんでぃー",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/a7b7392b652291c6ba0a_ramuneshiranami_316242963954_1785318460//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2831825083",
+    "scheduledStartTime": "2026-07-29T09:47:45Z",
+    "startTime": "2026-07-29T09:47:45Z",
+    "platform": "twitch",
+    "ttl": "2026-08-05T09:47:45.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316299143795",
