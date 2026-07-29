@@ -13,12 +13,12 @@
   {
     "id": "_gBCt07m5pk",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【 APEX 】　ぶいすぽGG本番ちゃんぽんとるぞ！！！w/CPT、あじゃ選手【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "title": "【 APEX 】　自主練→ぶいすぽGG本番ちゃんぽんとるぞ！！！w/CPT、あじゃ選手【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
     "thumbnail": "https://i.ytimg.com/vi/_gBCt07m5pk/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=_gBCt07m5pk",
     "platform": "youtube",
-    "scheduledStartTime": "2026-07-29T11:00:00Z",
-    "ttl": "2026-08-05T11:00:00.000Z",
+    "scheduledStartTime": "2026-07-29T10:00:00Z",
+    "ttl": "2026-08-05T10:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -53,5 +53,16 @@
     "scheduledStartTime": "2026-07-29T11:00:00Z",
     "ttl": "2026-08-05T11:00:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "w-sPifTcAHk",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Apex Legends◢ TOURNAMENT DAY VSPO!GG #ぶいすぽGG | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/w-sPifTcAHk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=w-sPifTcAHk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-29T09:45:00Z",
+    "ttl": "2026-08-05T09:45:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
