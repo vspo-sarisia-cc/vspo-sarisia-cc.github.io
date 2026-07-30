@@ -15,11 +15,12 @@
     "id": "odstVoOcFhc",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 LoL 】LoLクラシックとやらをやるのです w/ゆうひちゃん、ちせちゃん、ぽんさん、カツディオンさん【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/odstVoOcFhc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/odstVoOcFhc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=odstVoOcFhc",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-30T12:15:00Z",
     "startTime": "2026-07-30T12:09:33Z",
+    "endTime": "2026-07-30T16:41:38Z",
     "ttl": "2026-08-06T12:15:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -125,6 +126,19 @@
     "streamerId": "choya_hanabi"
   },
   {
+    "id": "3pzz-_OXKSM",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　CLASSICモードやらせていただくぞ！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/3pzz-_OXKSM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=3pzz-_OXKSM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-30T12:10:00Z",
+    "startTime": "2026-07-30T12:12:09Z",
+    "endTime": "2026-07-30T16:45:32Z",
+    "ttl": "2026-08-06T12:10:00.000Z",
+    "streamerId": "tatsumaki_chise"
+  },
+  {
     "id": "BbcomjXbaKY",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  #龍巻ちせ生誕祭2026  ◢　今日はデビューして初めての誕生日だーー！  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
@@ -135,18 +149,6 @@
     "startTime": "2026-07-30T09:01:31Z",
     "endTime": "2026-07-30T10:43:45Z",
     "ttl": "2026-08-06T09:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
-    "id": "3pzz-_OXKSM",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  League of Legends  ◢　CLASSICモードやらせていただくぞ！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/3pzz-_OXKSM/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=3pzz-_OXKSM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-30T12:10:00Z",
-    "startTime": "2026-07-30T12:12:09Z",
-    "ttl": "2026-08-06T12:10:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
   {
@@ -176,18 +178,6 @@
     "streamerId": "narin_mikure"
   },
   {
-    "id": "Cp5da0xnTH4",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Leauge of Legends◢ FIRST TIME PLAYING CLASSIC | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/Cp5da0xnTH4/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=Cp5da0xnTH4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-30T14:00:00Z",
-    "startTime": "2026-07-30T14:01:27Z",
-    "ttl": "2026-08-06T14:00:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
     "id": "mAdWluv3HwI",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Meccha Chameleon◢ w/ deme, cotton, crelly, fraiki, kumi, saruei, shoto, zen | #JunoUmezono #VSPOEN",
@@ -197,18 +187,6 @@
     "scheduledStartTime": "2026-07-30T17:00:00Z",
     "ttl": "2026-08-06T17:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316238876913",
-    "channelId": "ren_kisaragi__",
-    "title": "Street Fighter 6 at EWC 26 - Day 2 - Group Stageミラー配信",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-07-30T10:35:10Z",
-    "startTime": "2026-07-30T10:35:10Z",
-    "platform": "twitch",
-    "ttl": "2026-08-06T10:35:10.000Z",
-    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316247950322",
@@ -223,27 +201,39 @@
     "streamerId": "shiranami_ramune"
   },
   {
+    "id": "317377502947",
+    "channelId": "remiaaotsuki",
+    "title": "ELO gaining time w/ @sinisterdoodle I Premier NA",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_remiaaotsuki-320x180.jpg",
+    "url": "https://www.twitch.tv/remiaaotsuki",
+    "scheduledStartTime": "2026-07-30T16:01:22Z",
+    "startTime": "2026-07-30T16:01:22Z",
+    "platform": "twitch",
+    "ttl": "2026-08-06T16:01:22.000Z",
+    "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "316238876913",
+    "channelId": "ren_kisaragi__",
+    "title": "Street Fighter 6 at EWC 26 - Day 2 - Group Stageミラー配信",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/6f00a501d010ff513a52_ren_kisaragi___316238876913_1785407710//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2832657341",
+    "scheduledStartTime": "2026-07-30T10:35:15Z",
+    "startTime": "2026-07-30T10:35:15Z",
+    "platform": "twitch",
+    "ttl": "2026-08-06T10:35:15.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
     "id": "316303935475",
     "channelId": "sendo_yuuhi",
     "title": "LoL老人の集い w/ちーたま,ととち,カツ,ぽん３",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sendo_yuuhi-320x180.jpg",
-    "url": "https://www.twitch.tv/sendo_yuuhi",
-    "scheduledStartTime": "2026-07-30T12:09:35Z",
-    "startTime": "2026-07-30T12:09:35Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/1426a61893ffed9c6712_sendo_yuuhi_316303935475_1785413374//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2832695737",
+    "scheduledStartTime": "2026-07-30T12:09:40Z",
+    "startTime": "2026-07-30T12:09:40Z",
     "platform": "twitch",
-    "ttl": "2026-08-06T12:09:35.000Z",
+    "ttl": "2026-08-06T12:09:40.000Z",
     "streamerId": "sendo_yuuhi"
-  },
-  {
-    "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMX0=",
-    "channelId": "remiaaotsuki",
-    "title": "EU faceit elo gain?",
-    "thumbnail": "",
-    "url": "https://www.twitch.tv/remiaaotsuki",
-    "scheduledStartTime": "2026-07-30T14:00:00Z",
-    "startTime": "2026-07-30T14:00:00Z",
-    "platform": "twitch",
-    "ttl": "2026-08-06T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
   }
 ]
