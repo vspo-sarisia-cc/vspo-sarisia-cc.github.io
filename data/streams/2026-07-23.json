@@ -26,19 +26,6 @@
     "streamerId": "tachibana_hinano"
   },
   {
-    "id": "fld0LRjGzSs",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【APEX】えぺまつりきたーーーーーーー w/ボドカらむち【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/fld0LRjGzSs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=fld0LRjGzSs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-23T10:00:00Z",
-    "startTime": "2026-07-23T09:15:09Z",
-    "endTime": "2026-07-23T13:27:36Z",
-    "ttl": "2026-07-30T10:00:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
     "id": "oGHQIwQFmiM",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】めちゃすこし【ぶいすぽっ！/ 藍沢エマ】",
@@ -50,32 +37,6 @@
     "endTime": "2026-07-23T16:25:07Z",
     "ttl": "2026-07-30T13:15:00.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "3YIDFkteqVs",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【APEX】#えぺまつり　キター！めあしゃーつなで行かせていただきます【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/3YIDFkteqVs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=3YIDFkteqVs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-23T10:00:00Z",
-    "startTime": "2026-07-23T09:59:03Z",
-    "endTime": "2026-07-23T13:31:32Z",
-    "ttl": "2026-07-30T10:00:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "BnyBHWPNXJk",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【APEX】えぺまつり⚡/ かみーとさん、MasuoTVさん【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/BnyBHWPNXJk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=BnyBHWPNXJk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-23T10:00:00Z",
-    "startTime": "2026-07-23T09:23:21Z",
-    "endTime": "2026-07-23T13:44:34Z",
-    "ttl": "2026-07-30T10:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "5rIzN5HlFHA",
@@ -128,18 +89,6 @@
     "endTime": "2026-07-23T17:32:24Z",
     "ttl": "2026-07-30T14:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316271951859",
-    "channelId": "ren_kisaragi__",
-    "title": "ちょっとだけ",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/f3c430611f97b961b96f_ren_kisaragi___316271951859_1784803134//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2826931880",
-    "scheduledStartTime": "2026-07-23T10:38:59Z",
-    "startTime": "2026-07-23T10:38:59Z",
-    "platform": "twitch",
-    "ttl": "2026-07-30T10:38:59.000Z",
-    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316273013107",
