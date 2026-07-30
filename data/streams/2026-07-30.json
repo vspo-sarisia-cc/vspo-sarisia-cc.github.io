@@ -3,7 +3,7 @@
     "id": "_17m_-z0o6Q",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【VCR:Rust】ぶいすぽ海賊団始動【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/_17m_-z0o6Q/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/_17m_-z0o6Q/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=_17m_-z0o6Q",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-30T09:45:00Z",
@@ -42,11 +42,12 @@
     "id": "lSR_WHbO9cE",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 VCR RUST 】 エピックスクラップください【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/lSR_WHbO9cE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/lSR_WHbO9cE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=lSR_WHbO9cE",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-30T10:00:00Z",
     "startTime": "2026-07-30T10:00:18Z",
+    "endTime": "2026-07-30T19:05:03Z",
     "ttl": "2026-08-06T10:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -80,11 +81,12 @@
     "id": "gKrXLSq7I_s",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【VCR RUST】ｵｼﾞｬﾏｼﾏｽ…【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/gKrXLSq7I_s/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/gKrXLSq7I_s/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=gKrXLSq7I_s",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-30T13:30:00Z",
     "startTime": "2026-07-30T13:31:54Z",
+    "endTime": "2026-07-30T18:34:22Z",
     "ttl": "2026-08-06T13:30:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -105,11 +107,12 @@
     "id": "uqVCjtHz1_8",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "#１１【 VCR RUST3 】　ファーム大革命時代！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/uqVCjtHz1_8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/uqVCjtHz1_8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=uqVCjtHz1_8",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-30T10:00:00Z",
     "startTime": "2026-07-30T10:02:26Z",
+    "endTime": "2026-07-30T19:19:20Z",
     "ttl": "2026-08-06T10:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -181,26 +184,28 @@
   {
     "id": "mAdWluv3HwI",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Meccha Chameleon◢ w/ deme, cotton, crelly, fraiki, kumi, saruei, shoto, zen | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/mAdWluv3HwI/mqdefault_live.jpg",
+    "title": "◤Meccha Chameleon◢ w/ deme, cotton, crelly, fraiki, kumi, saruei, shoto, zen, layna | #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/mAdWluv3HwI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=mAdWluv3HwI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-30T17:00:00Z",
     "startTime": "2026-07-30T16:58:50Z",
+    "endTime": "2026-07-30T19:25:50Z",
     "ttl": "2026-08-06T17:00:00.000Z",
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316247950322",
-    "channelId": "ramuneshiranami",
-    "title": "【Rust】#9 海賊王になる",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-07-30T12:18:43Z",
-    "startTime": "2026-07-30T12:18:43Z",
-    "platform": "twitch",
-    "ttl": "2026-08-06T12:18:43.000Z",
-    "streamerId": "shiranami_ramune"
+    "id": "Cp5da0xnTH4",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Leauge of Legends◢ FIRST TIME PLAYING CLASSIC | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/Cp5da0xnTH4/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Cp5da0xnTH4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-30T14:00:00Z",
+    "startTime": "2026-07-30T14:01:27Z",
+    "endTime": "2026-07-30T16:50:07Z",
+    "ttl": "2026-08-06T14:00:00.000Z",
+    "streamerId": "juno_umezono"
   },
   {
     "id": "316240583793",
@@ -215,18 +220,6 @@
     "streamerId": "kisaragi_ren"
   },
   {
-    "id": "317377502947",
-    "channelId": "remiaaotsuki",
-    "title": "ELO gaining time w/ @sinisterdoodle I Premier NA",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_remiaaotsuki-320x180.jpg",
-    "url": "https://www.twitch.tv/remiaaotsuki",
-    "scheduledStartTime": "2026-07-30T16:01:22Z",
-    "startTime": "2026-07-30T16:01:22Z",
-    "platform": "twitch",
-    "ttl": "2026-08-06T16:01:22.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
     "id": "316238876913",
     "channelId": "ren_kisaragi__",
     "title": "Street Fighter 6 at EWC 26 - Day 2 - Group Stageミラー配信",
@@ -239,6 +232,18 @@
     "streamerId": "kisaragi_ren"
   },
   {
+    "id": "316247950322",
+    "channelId": "ramuneshiranami",
+    "title": "【Rust】#9 海賊王になる",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/fd28c344b5e4cf5b2a9a_ramuneshiranami_316247950322_1785413923//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2832699770",
+    "scheduledStartTime": "2026-07-30T12:18:48Z",
+    "startTime": "2026-07-30T12:18:48Z",
+    "platform": "twitch",
+    "ttl": "2026-08-06T12:18:48.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
     "id": "316303935475",
     "channelId": "sendo_yuuhi",
     "title": "LoL老人の集い w/ちーたま,ととち,カツ,ぽん３",
@@ -249,5 +254,17 @@
     "platform": "twitch",
     "ttl": "2026-08-06T12:09:40.000Z",
     "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "317377502947",
+    "channelId": "remiaaotsuki",
+    "title": "ELO gaining time w/ @sinisterdoodle I Premier NA",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/f68f0cd756abf8f5082d_remiaaotsuki_317377502947_1785427282//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2832818960",
+    "scheduledStartTime": "2026-07-30T16:01:28Z",
+    "startTime": "2026-07-30T16:01:28Z",
+    "platform": "twitch",
+    "ttl": "2026-08-06T16:01:28.000Z",
+    "streamerId": "remia_aotsuki"
   }
 ]
