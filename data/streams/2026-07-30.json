@@ -18,6 +18,7 @@
     "url": "https://www.youtube.com/watch?v=ohWXZyut81g",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-30T03:00:00Z",
+    "startTime": "2026-07-30T03:01:09Z",
     "ttl": "2026-08-06T03:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -29,6 +30,7 @@
     "url": "https://www.youtube.com/watch?v=DOr5I-mcCys",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-30T03:00:00Z",
+    "startTime": "2026-07-30T03:05:47Z",
     "ttl": "2026-08-06T03:00:00.000Z",
     "streamerId": "narin_mikure"
   },
