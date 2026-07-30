@@ -8,6 +8,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-30T09:45:00Z",
     "startTime": "2026-07-30T09:46:43Z",
+    "endTime": "2026-07-30T18:12:21Z",
     "ttl": "2026-08-06T09:45:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -129,7 +130,7 @@
     "id": "3pzz-_OXKSM",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  League of Legends  ◢　CLASSICモードやらせていただくぞ！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/3pzz-_OXKSM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/3pzz-_OXKSM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=3pzz-_OXKSM",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-30T12:10:00Z",
@@ -185,6 +186,7 @@
     "url": "https://www.youtube.com/watch?v=mAdWluv3HwI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-30T17:00:00Z",
+    "startTime": "2026-07-30T16:58:50Z",
     "ttl": "2026-08-06T17:00:00.000Z",
     "streamerId": "juno_umezono"
   },
@@ -199,6 +201,18 @@
     "platform": "twitch",
     "ttl": "2026-08-06T12:18:43.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316240583793",
+    "channelId": "ren_kisaragi__",
+    "title": "久しぶりにちょっとだけやる",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-07-30T17:26:52Z",
+    "startTime": "2026-07-30T17:26:52Z",
+    "platform": "twitch",
+    "ttl": "2026-08-06T17:26:52.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "317377502947",
