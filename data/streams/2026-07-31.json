@@ -31,5 +31,16 @@
     "scheduledStartTime": "2026-07-31T14:00:00Z",
     "ttl": "2026-08-07T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "icNdnOL8hiY",
+    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
+    "title": "【VALORANT】 diamond 2 57rr 【#VSPOEN #NarinMikure】",
+    "thumbnail": "https://i.ytimg.com/vi/icNdnOL8hiY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=icNdnOL8hiY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-31T03:00:00Z",
+    "ttl": "2026-08-07T03:00:00.000Z",
+    "streamerId": "narin_mikure"
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "id": "FTnm2HVb8u0",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "【APEX】ぶいすぽ夏の大沼APEXw/如月れん.蝶屋はなび【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/FTnm2HVb8u0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=FTnm2HVb8u0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-30T07:00:00Z",
+    "startTime": "2026-07-30T07:01:33Z",
+    "ttl": "2026-08-06T07:00:00.000Z",
+    "streamerId": "asumi_sena"
+  },
+  {
+    "id": "4_XQSiWrv5w",
+    "channelId": "UCGWa1dMU_sDCaRQjdabsVgg",
+    "title": "【APEX】大沼APEXらしいぞ【ぶいすぽ/如月れん】",
+    "thumbnail": "https://i.ytimg.com/vi/4_XQSiWrv5w/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=4_XQSiWrv5w",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-30T07:01:08Z",
+    "startTime": "2026-07-30T07:02:35Z",
+    "ttl": "2026-08-06T07:01:08.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "SvMhaa4XjlQ",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【雑談】昼しゃべり【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/SvMhaa4XjlQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=SvMhaa4XjlQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-30T06:00:00Z",
+    "startTime": "2026-07-30T05:47:34Z",
+    "ttl": "2026-08-06T06:00:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
     "id": "YyzRchn253U",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 APEX 】　先輩方とあそぶぞおおおおおおお！！！！w/セナ先輩、れん先輩 【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -7,18 +43,31 @@
     "url": "https://www.youtube.com/watch?v=YyzRchn253U",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-30T07:00:00Z",
+    "startTime": "2026-07-30T07:02:19Z",
     "ttl": "2026-08-06T07:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "uqVCjtHz1_8",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "#１１【 VCR RUST3 】　ファーム大革命時代！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/uqVCjtHz1_8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=uqVCjtHz1_8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-30T10:00:00Z",
+    "ttl": "2026-08-06T10:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
     "id": "ohWXZyut81g",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【League of Legends】playing with one hand like the good ol' days【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/ohWXZyut81g/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ohWXZyut81g/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ohWXZyut81g",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-30T03:00:00Z",
     "startTime": "2026-07-30T03:01:09Z",
+    "endTime": "2026-07-30T05:47:56Z",
     "ttl": "2026-08-06T03:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -26,11 +75,12 @@
     "id": "DOr5I-mcCys",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
     "title": "【VALORANT】 finishing placements :3 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/DOr5I-mcCys/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/DOr5I-mcCys/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=DOr5I-mcCys",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-30T03:00:00Z",
     "startTime": "2026-07-30T03:05:47Z",
+    "endTime": "2026-07-30T06:16:15Z",
     "ttl": "2026-08-06T03:00:00.000Z",
     "streamerId": "narin_mikure"
   },
