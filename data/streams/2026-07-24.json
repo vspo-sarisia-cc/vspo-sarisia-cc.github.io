@@ -1,18 +1,5 @@
 [
   {
-    "id": "9tTARL1iayQ",
-    "channelId": "UCuI5XaO-6VkOEhHao6ij7JA",
-    "title": "Presented by GALLERIA ぶいすぽっ！GP 2026 summer【#ぶいすぽGP2026】",
-    "thumbnail": "https://i.ytimg.com/vi/9tTARL1iayQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=9tTARL1iayQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-24T10:00:00Z",
-    "startTime": "2026-07-24T09:39:18Z",
-    "endTime": "2026-07-24T11:55:41Z",
-    "ttl": "2026-07-31T10:00:00.000Z",
-    "streamerId": "vspo_official"
-  },
-  {
     "id": "bi3Ie0R00W0",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【VCR:Rust】農業完成したのでなにをしよう【ぶいすぽ/花芽なずな】",
@@ -23,19 +10,6 @@
     "startTime": "2026-07-24T13:38:13Z",
     "endTime": "2026-07-24T19:01:47Z",
     "ttl": "2026-07-31T13:40:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
-    "id": "xlTj-czr7o0",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【VCR:Rust】ちょっとだけ農業でも【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/xlTj-czr7o0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=xlTj-czr7o0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-24T09:00:00Z",
-    "startTime": "2026-07-24T09:01:18Z",
-    "endTime": "2026-07-24T10:54:31Z",
-    "ttl": "2026-07-31T09:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
   {
@@ -52,19 +26,6 @@
     "streamerId": "ichinose_uruha"
   },
   {
-    "id": "K_bNKL3iA_Q",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【Forza Horizon 6】右も左もわからねえ、前しか見えねえ！！！！！🚙【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/K_bNKL3iA_Q/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=K_bNKL3iA_Q",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-24T10:00:00Z",
-    "startTime": "2026-07-24T10:05:17Z",
-    "endTime": "2026-07-24T11:52:52Z",
-    "ttl": "2026-07-31T10:00:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
     "id": "ALrOTXoPJrw",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】ありさかさんときなこぽっぷ【 ぶいすぽっ！胡桃のあ 】",
@@ -76,19 +37,6 @@
     "endTime": "2026-07-24T13:51:45Z",
     "ttl": "2026-07-31T11:00:00.000Z",
     "streamerId": "kurumi_noah"
-  },
-  {
-    "id": "fJLnjnP1DMY",
-    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
-    "title": "【Minecraft】整地と橋作り。 【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/fJLnjnP1DMY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=fJLnjnP1DMY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-24T10:00:00Z",
-    "startTime": "2026-07-24T10:08:34Z",
-    "endTime": "2026-07-24T13:37:14Z",
-    "ttl": "2026-07-31T10:00:00.000Z",
-    "streamerId": "tosaki_mimi"
   },
   {
     "id": "IjXZ8eRpuBY",
@@ -104,32 +52,6 @@
     "streamerId": "tachibana_hinano"
   },
   {
-    "id": "ZeweS_2nKD0",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 Forza Horizon6 】 最速王におれはなる【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/ZeweS_2nKD0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ZeweS_2nKD0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-24T10:00:00Z",
-    "startTime": "2026-07-24T10:04:50Z",
-    "endTime": "2026-07-24T11:53:13Z",
-    "ttl": "2026-07-31T10:00:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "PZ-l2hC5nyo",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【Vlog】ぶいすぽメンバーと埼玉の秩父に行ってきた！【ぶいすぽっ！八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/PZ-l2hC5nyo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=PZ-l2hC5nyo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-24T10:00:00Z",
-    "startTime": "2026-07-24T10:00:06Z",
-    "endTime": "2026-07-24T10:09:35Z",
-    "ttl": "2026-07-31T10:00:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
     "id": "gHtqu9pduE8",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "怒涛のトークで笑い疲れました【ぶいすぽっ！/ 藍沢エマ/橘ひなの/柊ツルギ/APEX】",
@@ -140,19 +62,6 @@
     "startTime": "2026-07-24T22:00:06Z",
     "endTime": "2026-07-24T22:31:32Z",
     "ttl": "2026-07-31T22:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "wW-sbbhx7-M",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】EWC 2026 – Street Fighter 6 – LCQ DAY1みるぞ～！！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/wW-sbbhx7-M/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=wW-sbbhx7-M",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-24T08:30:00Z",
-    "startTime": "2026-07-24T08:30:20Z",
-    "endTime": "2026-07-24T16:38:05Z",
-    "ttl": "2026-07-31T08:30:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -167,32 +76,6 @@
     "endTime": "2026-07-24T18:01:25Z",
     "ttl": "2026-07-31T14:15:00.000Z",
     "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "E6rksVZFXs4",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【VCR Rust3】浦島太郎なんですが【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/E6rksVZFXs4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=E6rksVZFXs4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-24T09:35:00Z",
-    "startTime": "2026-07-24T09:38:48Z",
-    "endTime": "2026-07-24T19:22:58Z",
-    "ttl": "2026-07-31T09:35:00.000Z",
-    "streamerId": "sendo_yuuhi"
-  },
-  {
-    "id": "99zkiEcD2b4",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "#6【 VCR RUST3 】　気合いれてくぞおおおおおおお！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/99zkiEcD2b4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=99zkiEcD2b4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-24T09:00:00Z",
-    "startTime": "2026-07-24T09:01:40Z",
-    "endTime": "2026-07-24T19:09:41Z",
-    "ttl": "2026-07-31T09:00:00.000Z",
-    "streamerId": "choya_hanabi"
   },
   {
     "id": "MB6YDmxnkWM",
@@ -234,18 +117,6 @@
     "streamerId": "remia_aotsuki"
   },
   {
-    "id": "316211987953",
-    "channelId": "ren_kisaragi__",
-    "title": "EWC 2026 – Street Fighter 6 – LCQ DAY1 ミラー配信",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/da4c284a71326d907f92_ren_kisaragi___316211987953_1784885203//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2827730386",
-    "scheduledStartTime": "2026-07-24T09:26:48Z",
-    "startTime": "2026-07-24T09:26:48Z",
-    "platform": "twitch",
-    "ttl": "2026-07-31T09:26:48.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "316212772337",
     "channelId": "ramuneshiranami",
     "title": "【Rust】#6 サブタスク終わってまう・・・",
@@ -258,18 +129,6 @@
     "streamerId": "shiranami_ramune"
   },
   {
-    "id": "316220831602",
-    "channelId": "ramuneshiranami",
-    "title": "【Forza Horizon 6】Presented by GALLERIA ぶいすぽっ！GP 2026 summer",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/09427a06f4d5c2d08d32_ramuneshiranami_316220831602_1784887522//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2827742779",
-    "scheduledStartTime": "2026-07-24T10:05:27Z",
-    "startTime": "2026-07-24T10:05:27Z",
-    "platform": "twitch",
-    "ttl": "2026-07-31T10:05:27.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316276757491",
     "channelId": "akarindao",
     "title": "マイカーほしいなあ＃4",
@@ -279,18 +138,6 @@
     "startTime": "2026-07-24T12:01:06Z",
     "platform": "twitch",
     "ttl": "2026-07-31T12:01:06.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316276240755",
-    "channelId": "akarindao",
-    "title": "Presented by GALLERIA ぶいすぽっ！GP 2026 summer",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d62b666b05edc46c44b9_akarindao_316276240755_1784887504//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2827742655",
-    "scheduledStartTime": "2026-07-24T10:05:09Z",
-    "startTime": "2026-07-24T10:05:09Z",
-    "platform": "twitch",
-    "ttl": "2026-07-31T10:05:09.000Z",
     "streamerId": "yumeno_akari"
   }
 ]
