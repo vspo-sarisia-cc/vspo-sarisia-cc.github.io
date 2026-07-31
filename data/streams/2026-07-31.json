@@ -130,6 +130,19 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "9lWWFzoDAVo",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "大会中に機材トラブルに見舞われるも優しすぎる男に救われる藍沢エマ【ぶいすぽっ！/ 藍沢エマ/ハセシン/ありさか/APEX/ぶいすぽGG】",
+    "thumbnail": "https://i.ytimg.com/vi/9lWWFzoDAVo/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=9lWWFzoDAVo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-31T22:00:00Z",
+    "startTime": "2026-07-31T22:00:06Z",
+    "endTime": "2026-07-31T22:20:07Z",
+    "ttl": "2026-08-07T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "BJuWHjrsH_I",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】EWC 2026 – Street Fighter 6 – DAY3応援！！【ぶいすぽっ！/ 藍沢エマ】",
@@ -140,17 +153,6 @@
     "startTime": "2026-07-31T10:55:00Z",
     "endTime": "2026-07-31T17:15:19Z",
     "ttl": "2026-08-07T11:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "9lWWFzoDAVo",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "大会中に機材トラブルに見舞われるも優しすぎる男に救われる藍沢エマ【ぶいすぽっ！/ 藍沢エマ/ハセシン/ありさか/APEX/ぶいすぽGG】",
-    "thumbnail": "https://i.ytimg.com/vi/9lWWFzoDAVo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=9lWWFzoDAVo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-31T22:00:00Z",
-    "ttl": "2026-08-07T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -309,15 +311,15 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316245260913",
+    "id": "316310268915",
     "channelId": "saineginjo",
     "title": "新モニターテスト＋突発カスタム",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saineginjo-320x180.jpg",
     "url": "https://www.twitch.tv/saineginjo",
-    "scheduledStartTime": "2026-07-31T19:43:35Z",
-    "startTime": "2026-07-31T19:43:35Z",
+    "scheduledStartTime": "2026-07-31T22:22:55Z",
+    "startTime": "2026-07-31T22:22:55Z",
     "platform": "twitch",
-    "ttl": "2026-08-07T19:43:35.000Z",
+    "ttl": "2026-08-07T22:22:55.000Z",
     "streamerId": "ginjo_saine"
   },
   {
@@ -367,5 +369,17 @@
     "platform": "twitch",
     "ttl": "2026-08-07T09:12:55.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316245260913",
+    "channelId": "saineginjo",
+    "title": "新モニターテスト＋突発カスタム",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/3cda41efe361a959ddd9_saineginjo_316245260913_1785527015//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2833809493",
+    "scheduledStartTime": "2026-07-31T19:43:40Z",
+    "startTime": "2026-07-31T19:43:40Z",
+    "platform": "twitch",
+    "ttl": "2026-08-07T19:43:40.000Z",
+    "streamerId": "ginjo_saine"
   }
 ]
