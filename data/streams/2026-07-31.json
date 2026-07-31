@@ -188,6 +188,18 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "kGwYPZAm9KI",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【VCR Rust3】海ingできるらしいじゃん【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/kGwYPZAm9KI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=kGwYPZAm9KI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-31T16:00:00Z",
+    "startTime": "2026-07-31T16:01:01Z",
+    "ttl": "2026-08-07T16:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
     "id": "nQtB9QB1Ngc",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【#WatchPartyLCP】TSW vs MVK | CFO vs GAM | LCP 2026 Split 3 Swiss Stage Week 2 Day 2【ぶいすぽっ！/千燈ゆうひ】",
@@ -204,11 +216,12 @@
     "id": "2LFownqlyQY",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 めっちゃカメレオン 】　すごいメンバーのところにカメレオン！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/2LFownqlyQY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/2LFownqlyQY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=2LFownqlyQY",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-31T13:30:00Z",
     "startTime": "2026-07-31T13:34:36Z",
+    "endTime": "2026-07-31T15:46:12Z",
     "ttl": "2026-08-07T13:30:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -239,6 +252,18 @@
     "streamerId": "choya_hanabi"
   },
   {
+    "id": "2PNxPLgPjek",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  VCR RUST  ◢　RUSTファームいろいろやる！ #5  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/2PNxPLgPjek/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=2PNxPLgPjek",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-31T15:25:00Z",
+    "startTime": "2026-07-31T15:25:23Z",
+    "ttl": "2026-08-07T15:25:00.000Z",
+    "streamerId": "tatsumaki_chise"
+  },
+  {
     "id": "R0uTAZvXRCg",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Part 3 - Final Destination  |  Escape the Backrooms 【#VSPOEN #RemiaAotsuki】",
@@ -259,6 +284,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-07-31T14:00:00Z",
     "startTime": "2026-07-31T13:59:00Z",
+    "endTime": "2026-07-31T16:31:39Z",
     "ttl": "2026-08-07T14:00:00.000Z",
     "streamerId": "juno_umezono"
   },
