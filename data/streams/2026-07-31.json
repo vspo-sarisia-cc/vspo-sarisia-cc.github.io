@@ -11,10 +11,36 @@
     "streamerId": "vspo_official"
   },
   {
+    "id": "xnIaVZwM8wE",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】お仕事の時間までソロランク行く！【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/xnIaVZwM8wE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=xnIaVZwM8wE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-31T05:10:00Z",
+    "startTime": "2026-07-31T05:12:27Z",
+    "endTime": "2026-07-31T06:45:33Z",
+    "ttl": "2026-08-07T05:10:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "G5_QSn5-Tgs",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】ソロコンペ！早くイモータル帰るぞ６【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/G5_QSn5-Tgs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=G5_QSn5-Tgs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-07-31T05:15:00Z",
+    "startTime": "2026-07-31T05:11:59Z",
+    "endTime": "2026-07-31T06:47:01Z",
+    "ttl": "2026-08-07T05:15:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "7Y-ImS2jeuw",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 緊急 】　３０万人見届けたいのでお力貸してください！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/7Y-ImS2jeuw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/7Y-ImS2jeuw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=7Y-ImS2jeuw",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-31T03:00:00Z",
@@ -57,20 +83,9 @@
     "streamerId": "remia_aotsuki"
   },
   {
-    "id": "icNdnOL8hiY",
-    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
-    "title": "【VALORANT】 diamond 2 57rr 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/icNdnOL8hiY/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=icNdnOL8hiY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-31T03:00:00Z",
-    "ttl": "2026-08-07T03:00:00.000Z",
-    "streamerId": "narin_mikure"
-  },
-  {
     "id": "n5JM7A0gT3o",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Apex Legends◢ 1 regular girl, 2 furries, 3 filipinos | #JunoUmezono #VSPOEN",
+    "title": "◤Apex Legends◢ 1 potential girl, 2 furries, 3 filipinos | #JunoUmezono #VSPOEN",
     "thumbnail": "https://i.ytimg.com/vi/n5JM7A0gT3o/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=n5JM7A0gT3o",
     "platform": "youtube",
