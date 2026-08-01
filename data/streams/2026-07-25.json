@@ -13,32 +13,6 @@
     "streamerId": "kaga_nazuna"
   },
   {
-    "id": "z9x6OjUMFm0",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【緊急】ぶいすぽタイピングゲームの様子がおかしいらしい…【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/z9x6OjUMFm0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=z9x6OjUMFm0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-25T09:30:00Z",
-    "startTime": "2026-07-25T09:38:21Z",
-    "endTime": "2026-07-25T10:19:58Z",
-    "ttl": "2026-08-01T09:30:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
-    "id": "Lcve4heWGkg",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【VCR RUST】こちらぶいすぽ支部【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/Lcve4heWGkg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Lcve4heWGkg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-25T09:30:00Z",
-    "startTime": "2026-07-25T09:22:32Z",
-    "endTime": "2026-07-25T18:54:56Z",
-    "ttl": "2026-08-01T09:30:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
     "id": "FJwHxOET8DI",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 夜ふかし雑談 】#84 新衣装だしたよ～【ぶいすぽっ！胡桃のあ】",
@@ -102,19 +76,6 @@
     "endTime": "2026-07-25T16:08:08Z",
     "ttl": "2026-08-01T12:00:00.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "0qusIMZWqvc",
-    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
-    "title": "【 スプラトゥーン レイダース 】マンタソロパートまじで頼む ネタバレ注意【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/0qusIMZWqvc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=0qusIMZWqvc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-25T09:15:00Z",
-    "startTime": "2026-07-25T09:15:49Z",
-    "endTime": "2026-07-25T12:11:12Z",
-    "ttl": "2026-08-01T09:15:00.000Z",
-    "streamerId": "shinomiya_runa"
   },
   {
     "id": "rqWPHhqMYzA",
@@ -182,19 +143,6 @@
     "streamerId": "sendo_yuuhi"
   },
   {
-    "id": "WkCon3TNF0o",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【#WatchPartyLCP】GZ vs MVK | SHG vs TSW | LCP 2026 Split 3 Swiss Stage Week 1 Day 1【ぶいすぽっ！/千燈ゆうひ】",
-    "thumbnail": "https://i.ytimg.com/vi/WkCon3TNF0o/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=WkCon3TNF0o",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-25T09:00:00Z",
-    "startTime": "2026-07-25T09:04:19Z",
-    "endTime": "2026-07-25T10:58:53Z",
-    "ttl": "2026-08-01T09:00:00.000Z",
-    "streamerId": "sendo_yuuhi"
-  },
-  {
     "id": "NQfvjasaWas",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "#7.5【 VCR RUST3 】　今緊急で配信回しています！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -205,19 +153,6 @@
     "startTime": "2026-07-25T12:40:59Z",
     "endTime": "2026-07-25T19:04:24Z",
     "ttl": "2026-08-01T12:10:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "npI3bRkp8DE",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "#7【 VCR RUST3 】　まずは硫黄なんよ！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/npI3bRkp8DE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=npI3bRkp8DE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-25T09:00:00Z",
-    "startTime": "2026-07-25T09:00:51Z",
-    "endTime": "2026-07-25T12:02:11Z",
-    "ttl": "2026-08-01T09:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
