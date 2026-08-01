@@ -52,25 +52,14 @@
     "id": "7fIRF3ebS4s",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【Minecraft】チルマイクラ回廊作り⏀ぶいすぽ夏祭り準備。【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/7fIRF3ebS4s/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/7fIRF3ebS4s/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=7fIRF3ebS4s",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-01T12:30:00Z",
     "startTime": "2026-08-01T12:33:06Z",
+    "endTime": "2026-08-01T15:59:28Z",
     "ttl": "2026-08-08T12:30:00.000Z",
     "streamerId": "asumi_sena"
-  },
-  {
-    "id": "qbiH3Dy4XJc",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 VCR RUST 】 船大工になります2【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/qbiH3Dy4XJc/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=qbiH3Dy4XJc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-01T12:35:00Z",
-    "startTime": "2026-08-01T12:39:42Z",
-    "ttl": "2026-08-08T12:35:00.000Z",
-    "streamerId": "tachibana_hinano"
   },
   {
     "id": "drfZ0nRpgts",
@@ -86,14 +75,27 @@
     "streamerId": "tachibana_hinano"
   },
   {
+    "id": "qbiH3Dy4XJc",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 VCR RUST 】 船大工になります2【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/qbiH3Dy4XJc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=qbiH3Dy4XJc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-01T12:35:00Z",
+    "startTime": "2026-08-01T12:39:42Z",
+    "ttl": "2026-08-08T12:35:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "Bd94TNuD-w0",
     "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
     "title": "【VCR RUST】チームぶいすぽにお邪魔します！【ぶいすぽっ！/英リサ】",
-    "thumbnail": "https://i.ytimg.com/vi/Bd94TNuD-w0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Bd94TNuD-w0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Bd94TNuD-w0",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-01T09:10:00Z",
     "startTime": "2026-08-01T09:11:15Z",
+    "endTime": "2026-08-01T15:46:17Z",
     "ttl": "2026-08-08T09:10:00.000Z",
     "streamerId": "hanabusa_lisa"
   },
