@@ -1,13 +1,26 @@
 [
   {
+    "id": "kQsdlnViPQA",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【VCR:Rust】今日も海賊団出航するのか…！？【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/kQsdlnViPQA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=kQsdlnViPQA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-01T14:00:00Z",
+    "startTime": "2026-08-01T14:00:41Z",
+    "ttl": "2026-08-08T14:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "wbWArpDXl5Y",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【漢義リーグ】第8節！ここからの戦いが大事すぎる　w ..白雪レイド、本阿弥あずさ、ルイス・キャミー【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/wbWArpDXl5Y/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/wbWArpDXl5Y/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=wbWArpDXl5Y",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-01T09:00:00Z",
     "startTime": "2026-08-01T09:21:24Z",
+    "endTime": "2026-08-01T13:51:44Z",
     "ttl": "2026-08-08T09:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -22,6 +35,18 @@
     "startTime": "2026-08-01T09:17:28Z",
     "ttl": "2026-08-08T09:15:00.000Z",
     "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "H1Wzu93MZRE",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 夜ふかし雑談 】#85 深夜はまったり話したいよねぇ【ぶいすぽっ！胡桃のあ】",
+    "thumbnail": "https://i.ytimg.com/vi/H1Wzu93MZRE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=H1Wzu93MZRE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-01T14:00:00Z",
+    "startTime": "2026-08-01T14:03:23Z",
+    "ttl": "2026-08-08T14:00:00.000Z",
+    "streamerId": "kurumi_noah"
   },
   {
     "id": "7fIRF3ebS4s",
@@ -43,6 +68,7 @@
     "url": "https://www.youtube.com/watch?v=qbiH3Dy4XJc",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-01T12:35:00Z",
+    "startTime": "2026-08-01T12:39:42Z",
     "ttl": "2026-08-08T12:35:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -50,7 +76,7 @@
     "id": "drfZ0nRpgts",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 VCR RUST 】 船大工になります【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/drfZ0nRpgts/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/drfZ0nRpgts/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=drfZ0nRpgts",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-01T09:20:00Z",
@@ -75,13 +101,26 @@
     "id": "salPBNzdoqY",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【 VCR RUST 】#8 世は大ファーム時代【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/salPBNzdoqY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/salPBNzdoqY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=salPBNzdoqY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-01T09:45:00Z",
     "startTime": "2026-08-01T09:31:59Z",
+    "endTime": "2026-08-01T13:06:28Z",
     "ttl": "2026-08-08T09:45:00.000Z",
     "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "bJpm_gCSDTM",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】EWC 2026 – Street Fighter 6 – FINAL DAY応援！！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/bJpm_gCSDTM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=bJpm_gCSDTM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-01T13:00:00Z",
+    "startTime": "2026-08-01T12:39:33Z",
+    "ttl": "2026-08-08T13:00:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "Z1_GVSGSOqg",
@@ -94,17 +133,6 @@
     "startTime": "2026-08-01T05:36:34Z",
     "endTime": "2026-08-01T08:43:33Z",
     "ttl": "2026-08-08T05:30:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "bJpm_gCSDTM",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】EWC 2026 – Street Fighter 6 – FINAL DAY応援！！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/bJpm_gCSDTM/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=bJpm_gCSDTM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-01T13:00:00Z",
-    "ttl": "2026-08-08T13:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -131,6 +159,17 @@
     "endTime": "2026-08-01T09:33:45Z",
     "ttl": "2026-08-08T05:00:00.000Z",
     "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "owBcpG-x8lE",
+    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
+    "title": "【 ニチアサ 】朝、起きるということ【 ぶいすぽっ！ / 小森めと 】",
+    "thumbnail": "https://i.ytimg.com/vi/owBcpG-x8lE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=owBcpG-x8lE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-01T23:00:00Z",
+    "ttl": "2026-08-08T23:00:00.000Z",
+    "streamerId": "komori_met"
   },
   {
     "id": "kLVb3uygyUE",
@@ -183,16 +222,16 @@
     "streamerId": "tatsumaki_chise"
   },
   {
-    "id": "316256222066",
-    "channelId": "akarindao",
-    "title": "夏だ、海だ、海賊だ🏴VCR#9",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-08-01T10:00:15Z",
-    "startTime": "2026-08-01T10:00:15Z",
+    "id": "316248387313",
+    "channelId": "ren_kisaragi__",
+    "title": "EWC 26 Street Fighter 6  - FINAL DAY!ミラー配信",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-08-01T12:29:08Z",
+    "startTime": "2026-08-01T12:29:08Z",
     "platform": "twitch",
-    "ttl": "2026-08-08T10:00:15.000Z",
-    "streamerId": "yumeno_akari"
+    "ttl": "2026-08-08T12:29:08.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316312505587",
@@ -207,16 +246,16 @@
     "streamerId": "shiranami_ramune"
   },
   {
-    "id": "316248387313",
-    "channelId": "ren_kisaragi__",
-    "title": "EWC 26 Street Fighter 6  - FINAL DAY!ミラー配信",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-08-01T12:29:08Z",
-    "startTime": "2026-08-01T12:29:08Z",
+    "id": "316256222066",
+    "channelId": "akarindao",
+    "title": "夏だ、海だ、海賊だ🏴VCR#9",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-08-01T10:00:15Z",
+    "startTime": "2026-08-01T10:00:15Z",
     "platform": "twitch",
-    "ttl": "2026-08-08T12:29:08.000Z",
-    "streamerId": "kisaragi_ren"
+    "ttl": "2026-08-08T10:00:15.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316312510323",

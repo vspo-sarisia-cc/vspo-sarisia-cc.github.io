@@ -1,31 +1,5 @@
 [
   {
-    "id": "FJwHxOET8DI",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 夜ふかし雑談 】#84 新衣装だしたよ～【ぶいすぽっ！胡桃のあ】",
-    "thumbnail": "https://i.ytimg.com/vi/FJwHxOET8DI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=FJwHxOET8DI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-25T14:05:00Z",
-    "startTime": "2026-07-25T14:05:55Z",
-    "endTime": "2026-07-25T16:08:23Z",
-    "ttl": "2026-08-01T14:05:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
-    "id": "JsFPaS5MgKI",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 VCR RUST 】 家をどうにかこうにか【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/JsFPaS5MgKI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=JsFPaS5MgKI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-25T13:00:00Z",
-    "startTime": "2026-07-25T13:56:36Z",
-    "endTime": "2026-07-25T19:05:12Z",
-    "ttl": "2026-08-01T13:00:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
     "id": "Iv7UosLThnY",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 ニチアサ 】朝起きて歯を磨いてあっという間【 ぶいすぽっ！ / 小森めと 】",
@@ -50,31 +24,5 @@
     "endTime": "2026-07-25T19:16:06Z",
     "ttl": "2026-08-01T17:30:00.000Z",
     "streamerId": "sendo_yuuhi"
-  },
-  {
-    "id": "jeuxdZoCD0E",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  VCR RUST  ◢　今日もRUSTいくぞおおお #3  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/jeuxdZoCD0E/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=jeuxdZoCD0E",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-25T13:00:00Z",
-    "startTime": "2026-07-25T13:00:46Z",
-    "endTime": "2026-07-25T19:16:08Z",
-    "ttl": "2026-08-01T13:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
-    "id": "LGlwGvMw0nI",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Wuthering Waves 2.4◢ THIS PATCH HAS THE BEST WIVES (PART. 2) | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/LGlwGvMw0nI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=LGlwGvMw0nI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-25T14:00:00Z",
-    "startTime": "2026-07-25T14:00:35Z",
-    "endTime": "2026-07-25T18:04:10Z",
-    "ttl": "2026-08-01T14:00:00.000Z",
-    "streamerId": "juno_umezono"
   }
 ]
