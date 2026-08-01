@@ -211,11 +211,12 @@
     "id": "kGwYPZAm9KI",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【VCR Rust3】海ingできるらしいじゃん【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/kGwYPZAm9KI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/kGwYPZAm9KI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=kGwYPZAm9KI",
     "platform": "youtube",
     "scheduledStartTime": "2026-07-31T16:00:00Z",
     "startTime": "2026-07-31T16:01:01Z",
+    "endTime": "2026-07-31T23:03:29Z",
     "ttl": "2026-08-07T16:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -311,18 +312,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316310268915",
-    "channelId": "saineginjo",
-    "title": "新モニターテスト＋突発カスタム",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saineginjo-320x180.jpg",
-    "url": "https://www.twitch.tv/saineginjo",
-    "scheduledStartTime": "2026-07-31T22:22:55Z",
-    "startTime": "2026-07-31T22:22:55Z",
-    "platform": "twitch",
-    "ttl": "2026-08-07T22:22:55.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
     "id": "316253551986",
     "channelId": "ren_kisaragi__",
     "title": "わ",
@@ -369,6 +358,18 @@
     "platform": "twitch",
     "ttl": "2026-08-07T09:12:55.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316310268915",
+    "channelId": "saineginjo",
+    "title": "新モニターテスト＋突発カスタム",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/4741475271b91fdc97aa_saineginjo_316310268915_1785536575//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2833926318",
+    "scheduledStartTime": "2026-07-31T22:23:00Z",
+    "startTime": "2026-07-31T22:23:00Z",
+    "platform": "twitch",
+    "ttl": "2026-08-07T22:23:00.000Z",
+    "streamerId": "ginjo_saine"
   },
   {
     "id": "316245260913",
