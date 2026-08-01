@@ -65,19 +65,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "xuC6EPaqcAs",
-    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
-    "title": "【LoL】ランク追い込み。アカリOTPとして＿＿＿【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/xuC6EPaqcAs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=xuC6EPaqcAs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-25T07:10:00Z",
-    "startTime": "2026-07-25T07:15:15Z",
-    "endTime": "2026-07-25T09:48:04Z",
-    "ttl": "2026-08-01T07:10:00.000Z",
-    "streamerId": "asumi_sena"
-  },
-  {
     "id": "JsFPaS5MgKI",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 VCR RUST 】 家をどうにかこうにか【ぶいすぽっ！/橘ひなの】",
@@ -285,18 +272,6 @@
     "streamerId": "kisaragi_ren"
   },
   {
-    "id": "316216449905",
-    "channelId": "emtsmaru",
-    "title": "作業雑",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/c5baef7b700cedc08bb4_emtsmaru_316216449905_1784967388//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2828548137",
-    "scheduledStartTime": "2026-07-25T08:16:34Z",
-    "startTime": "2026-07-25T08:16:34Z",
-    "platform": "twitch",
-    "ttl": "2026-08-01T08:16:34.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
     "id": "316225730674",
     "channelId": "ramuneshiranami",
     "title": "【APEX】少しやって→【Rust】いく",
@@ -307,29 +282,5 @@
     "platform": "twitch",
     "ttl": "2026-08-01T11:06:26.000Z",
     "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "316225071986",
-    "channelId": "sendo_yuuhi",
-    "title": "FF14ファンフェスの基調講演ちょっと見る～！",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/f9f8353002ea71832a6e_sendo_yuuhi_316225071986_1784966222//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2828541151",
-    "scheduledStartTime": "2026-07-25T07:57:07Z",
-    "startTime": "2026-07-25T07:57:07Z",
-    "platform": "twitch",
-    "ttl": "2026-08-01T07:57:07.000Z",
-    "streamerId": "sendo_yuuhi"
-  },
-  {
-    "id": "316216190577",
-    "channelId": "choyahanabi",
-    "title": "【スト６】やるぞ！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d8aa9488ebbe89d97f8c_choyahanabi_316216190577_1784963051//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2828522679",
-    "scheduledStartTime": "2026-07-25T07:04:16Z",
-    "startTime": "2026-07-25T07:04:16Z",
-    "platform": "twitch",
-    "ttl": "2026-08-01T07:04:16.000Z",
-    "streamerId": "choya_hanabi"
   }
 ]

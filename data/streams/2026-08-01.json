@@ -1,5 +1,16 @@
 [
   {
+    "id": "wbWArpDXl5Y",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【漢義リーグ】第8節！ここからの戦いが大事すぎる　w ..白雪レイド、本阿弥あずさ、ルイス・キャミー【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/wbWArpDXl5Y/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=wbWArpDXl5Y",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-01T09:00:00Z",
+    "ttl": "2026-08-08T09:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "Z1_GVSGSOqg",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【雑談】8月ですか🍉【ぶいすぽっ！/ 藍沢エマ】",
@@ -24,6 +35,17 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "kLVb3uygyUE",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【新企画】皆の手料理から今日の夜ご飯TOP3を決める🍚 ～今夜のつむおは何を食う～#1【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/kLVb3uygyUE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=kLVb3uygyUE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-01T09:00:00Z",
+    "ttl": "2026-08-08T09:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "yPRkXSLWS_0",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "#１３【 VCR RUST3 】　海賊になるのか？！！！？？？！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -33,6 +55,18 @@
     "scheduledStartTime": "2026-08-01T10:00:00Z",
     "ttl": "2026-08-08T10:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "316255914098",
+    "channelId": "asumisena",
+    "title": "TFTやるよ～",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asumisena-320x180.jpg",
+    "url": "https://www.twitch.tv/asumisena",
+    "scheduledStartTime": "2026-08-01T08:22:41Z",
+    "startTime": "2026-08-01T08:22:41Z",
+    "platform": "twitch",
+    "ttl": "2026-08-08T08:22:41.000Z",
+    "streamerId": "asumi_sena"
   },
   {
     "id": "316311016691",
