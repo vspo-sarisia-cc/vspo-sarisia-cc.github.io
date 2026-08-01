@@ -1,17 +1,5 @@
 [
   {
-    "id": "kQsdlnViPQA",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【VCR:Rust】今日も海賊団出航するのか…！？【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/kQsdlnViPQA/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=kQsdlnViPQA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-01T14:00:00Z",
-    "startTime": "2026-08-01T14:00:41Z",
-    "ttl": "2026-08-08T14:00:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "wbWArpDXl5Y",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【漢義リーグ】第8節！ここからの戦いが大事すぎる　w ..白雪レイド、本阿弥あずさ、ルイス・キャミー【ぶいすぽ/花芽なずな】",
@@ -22,6 +10,18 @@
     "startTime": "2026-08-01T09:21:24Z",
     "endTime": "2026-08-01T13:51:44Z",
     "ttl": "2026-08-08T09:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "kQsdlnViPQA",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【VCR:Rust】今日も海賊団出航するのか…！？【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/kQsdlnViPQA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=kQsdlnViPQA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-01T14:00:00Z",
+    "startTime": "2026-08-01T14:00:41Z",
+    "ttl": "2026-08-08T14:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
   {

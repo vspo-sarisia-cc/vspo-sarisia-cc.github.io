@@ -11,18 +11,5 @@
     "endTime": "2026-07-26T01:20:14Z",
     "ttl": "2026-08-01T23:00:00.000Z",
     "streamerId": "komori_met"
-  },
-  {
-    "id": "-7dnM4GiXk4",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【VCR Rust3】釣り🎣!!【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/-7dnM4GiXk4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=-7dnM4GiXk4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-25T17:30:00Z",
-    "startTime": "2026-07-25T17:30:43Z",
-    "endTime": "2026-07-25T19:16:06Z",
-    "ttl": "2026-08-01T17:30:00.000Z",
-    "streamerId": "sendo_yuuhi"
   }
 ]
