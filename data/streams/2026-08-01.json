@@ -31,8 +31,20 @@
     "url": "https://www.youtube.com/watch?v=7fIRF3ebS4s",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-01T12:30:00Z",
+    "startTime": "2026-08-01T12:33:06Z",
     "ttl": "2026-08-08T12:30:00.000Z",
     "streamerId": "asumi_sena"
+  },
+  {
+    "id": "qbiH3Dy4XJc",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 VCR RUST 】 船大工になります2【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/qbiH3Dy4XJc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=qbiH3Dy4XJc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-01T12:35:00Z",
+    "ttl": "2026-08-08T12:35:00.000Z",
+    "streamerId": "tachibana_hinano"
   },
   {
     "id": "drfZ0nRpgts",
@@ -43,6 +55,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-01T09:20:00Z",
     "startTime": "2026-08-01T09:33:59Z",
+    "endTime": "2026-08-01T12:33:01Z",
     "ttl": "2026-08-08T09:20:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -148,7 +161,7 @@
     "id": "SXFx4s2z6es",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【VCR RUST】できるだけやる！海賊になれるんですか！？【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/SXFx4s2z6es/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/SXFx4s2z6es/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=SXFx4s2z6es",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-01T09:00:00Z",
@@ -192,6 +205,18 @@
     "platform": "twitch",
     "ttl": "2026-08-08T10:42:58.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316248387313",
+    "channelId": "ren_kisaragi__",
+    "title": "EWC 26 Street Fighter 6  - FINAL DAY!ミラー配信",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-08-01T12:29:08Z",
+    "startTime": "2026-08-01T12:29:08Z",
+    "platform": "twitch",
+    "ttl": "2026-08-08T12:29:08.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316312510323",

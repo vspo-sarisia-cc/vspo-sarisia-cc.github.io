@@ -13,19 +13,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "fYaLqvnGm2I",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 #胡桃のあ新衣装 】１年ぶりの新衣装🎶【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/fYaLqvnGm2I/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=fYaLqvnGm2I",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-25T12:00:00Z",
-    "startTime": "2026-07-25T12:03:05Z",
-    "endTime": "2026-07-25T13:51:36Z",
-    "ttl": "2026-08-01T12:00:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "JsFPaS5MgKI",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 VCR RUST 】 家をどうにかこうにか【ぶいすぽっ！/橘ひなの】",
@@ -37,19 +24,6 @@
     "endTime": "2026-07-25T19:05:12Z",
     "ttl": "2026-08-01T13:00:00.000Z",
     "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "d-5ffpk6eFE",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】EWC 2026 – Street Fighter 6 – LCQ DAY2応援！！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/d-5ffpk6eFE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=d-5ffpk6eFE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-25T12:00:00Z",
-    "startTime": "2026-07-25T11:55:45Z",
-    "endTime": "2026-07-25T16:08:08Z",
-    "ttl": "2026-08-01T12:00:00.000Z",
-    "streamerId": "aizawa_ema"
   },
   {
     "id": "Iv7UosLThnY",
@@ -78,32 +52,6 @@
     "streamerId": "sendo_yuuhi"
   },
   {
-    "id": "NQfvjasaWas",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "#7.5【 VCR RUST3 】　今緊急で配信回しています！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/NQfvjasaWas/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=NQfvjasaWas",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-25T12:10:00Z",
-    "startTime": "2026-07-25T12:40:59Z",
-    "endTime": "2026-07-25T19:04:24Z",
-    "ttl": "2026-08-01T12:10:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "0ZQ67b1MLGM",
-    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
-    "title": "【スト6】EWC 2026 –  Street Fighter 6 –LCQ Top64、32、16 Watch Party! 応援応援応援【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/0ZQ67b1MLGM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=0ZQ67b1MLGM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-25T12:00:00Z",
-    "startTime": "2026-07-25T11:54:29Z",
-    "endTime": "2026-07-25T16:05:08Z",
-    "ttl": "2026-08-01T12:00:00.000Z",
-    "streamerId": "amayui_moka"
-  },
-  {
     "id": "jeuxdZoCD0E",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  VCR RUST  ◢　今日もRUSTいくぞおおお #3  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
@@ -128,17 +76,5 @@
     "endTime": "2026-07-25T18:04:10Z",
     "ttl": "2026-08-01T14:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316225918450",
-    "channelId": "ren_kisaragi__",
-    "title": "EWC 2026 – Street Fighter 6 – LCQ DAY2 ミラー配信",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/6cae0cc2c007a84a555d_ren_kisaragi___316225918450_1784980192//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2828624014",
-    "scheduledStartTime": "2026-07-25T11:49:57Z",
-    "startTime": "2026-07-25T11:49:57Z",
-    "platform": "twitch",
-    "ttl": "2026-08-01T11:49:57.000Z",
-    "streamerId": "kisaragi_ren"
   }
 ]
