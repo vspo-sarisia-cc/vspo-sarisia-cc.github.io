@@ -114,11 +114,12 @@
     "id": "bJpm_gCSDTM",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】EWC 2026 – Street Fighter 6 – FINAL DAY応援！！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/bJpm_gCSDTM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/bJpm_gCSDTM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=bJpm_gCSDTM",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-01T13:00:00Z",
     "startTime": "2026-08-01T12:39:33Z",
+    "endTime": "2026-08-01T15:03:19Z",
     "ttl": "2026-08-08T13:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -170,6 +171,18 @@
     "scheduledStartTime": "2026-08-01T23:00:00Z",
     "ttl": "2026-08-08T23:00:00.000Z",
     "streamerId": "komori_met"
+  },
+  {
+    "id": "JdP7eTzTTQs",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】ソロコンペ！早くイモータル帰るぞ７【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/JdP7eTzTTQs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=JdP7eTzTTQs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-01T14:30:00Z",
+    "startTime": "2026-08-01T14:27:33Z",
+    "ttl": "2026-08-08T14:30:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "kLVb3uygyUE",
@@ -258,18 +271,6 @@
     "streamerId": "yumeno_akari"
   },
   {
-    "id": "316312510323",
-    "channelId": "saineginjo",
-    "title": "RUSTを配信させてください",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saineginjo-320x180.jpg",
-    "url": "https://www.twitch.tv/saineginjo",
-    "scheduledStartTime": "2026-08-01T10:44:42Z",
-    "startTime": "2026-08-01T10:44:42Z",
-    "platform": "twitch",
-    "ttl": "2026-08-08T10:44:42.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
     "id": "316255914098",
     "channelId": "asumisena",
     "title": "TFTやるよ～",
@@ -304,5 +305,17 @@
     "platform": "twitch",
     "ttl": "2026-08-08T03:11:10.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "316312510323",
+    "channelId": "saineginjo",
+    "title": "RUSTを配信させてください",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/ec6ef6436bc3024a5cc0_saineginjo_316312510323_1785581082//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2834344703",
+    "scheduledStartTime": "2026-08-01T10:44:47Z",
+    "startTime": "2026-08-01T10:44:47Z",
+    "platform": "twitch",
+    "ttl": "2026-08-08T10:44:47.000Z",
+    "streamerId": "ginjo_saine"
   }
 ]
