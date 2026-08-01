@@ -24,6 +24,17 @@
     "streamerId": "ichinose_uruha"
   },
   {
+    "id": "7fIRF3ebS4s",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "【Minecraft】チルマイクラ回廊作り⏀ぶいすぽ夏祭り準備。【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/7fIRF3ebS4s/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=7fIRF3ebS4s",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-01T12:30:00Z",
+    "ttl": "2026-08-08T12:30:00.000Z",
+    "streamerId": "asumi_sena"
+  },
+  {
     "id": "drfZ0nRpgts",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 VCR RUST 】 船大工になります【ぶいすぽっ！/橘ひなの】",
@@ -91,6 +102,7 @@
     "url": "https://www.youtube.com/watch?v=YIUVEFadpts",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-01T10:30:00Z",
+    "startTime": "2026-08-01T10:31:41Z",
     "ttl": "2026-08-08T10:30:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -111,7 +123,7 @@
     "id": "kLVb3uygyUE",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【新企画】皆の手料理から今日の夜ご飯TOP3を決める🍚 ～今夜のつむおは何を食う～#1【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/kLVb3uygyUE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/kLVb3uygyUE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=kLVb3uygyUE",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-01T09:00:00Z",
@@ -141,8 +153,21 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-01T09:00:00Z",
     "startTime": "2026-08-01T08:59:54Z",
+    "endTime": "2026-08-01T10:38:12Z",
     "ttl": "2026-08-08T09:00:00.000Z",
     "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "WZIR5dGFg0I",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  VCR RUST  ◢　今日もクエストファームする！#6  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/WZIR5dGFg0I/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=WZIR5dGFg0I",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-01T11:00:00Z",
+    "startTime": "2026-08-01T11:00:44Z",
+    "ttl": "2026-08-08T11:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "316256222066",
@@ -157,15 +182,39 @@
     "streamerId": "yumeno_akari"
   },
   {
+    "id": "316312505587",
+    "channelId": "ramuneshiranami",
+    "title": "【Rust】#11 沈没なんてしない海賊団",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-08-01T10:42:58Z",
+    "startTime": "2026-08-01T10:42:58Z",
+    "platform": "twitch",
+    "ttl": "2026-08-08T10:42:58.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316312510323",
+    "channelId": "saineginjo",
+    "title": "RUSTを配信させてください",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saineginjo-320x180.jpg",
+    "url": "https://www.twitch.tv/saineginjo",
+    "scheduledStartTime": "2026-08-01T10:44:42Z",
+    "startTime": "2026-08-01T10:44:42Z",
+    "platform": "twitch",
+    "ttl": "2026-08-08T10:44:42.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
     "id": "316255914098",
     "channelId": "asumisena",
     "title": "TFTやるよ～",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asumisena-320x180.jpg",
-    "url": "https://www.twitch.tv/asumisena",
-    "scheduledStartTime": "2026-08-01T08:22:41Z",
-    "startTime": "2026-08-01T08:22:41Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/7dbba2ea7c7288f2c006_asumisena_316255914098_1785572561//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2834294828",
+    "scheduledStartTime": "2026-08-01T08:22:46Z",
+    "startTime": "2026-08-01T08:22:46Z",
     "platform": "twitch",
-    "ttl": "2026-08-08T08:22:41.000Z",
+    "ttl": "2026-08-08T08:22:46.000Z",
     "streamerId": "asumi_sena"
   },
   {
