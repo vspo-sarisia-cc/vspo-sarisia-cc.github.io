@@ -1,14 +1,49 @@
 [
   {
+    "id": "Z1_GVSGSOqg",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【雑談】8月ですか🍉【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/Z1_GVSGSOqg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Z1_GVSGSOqg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-01T05:30:00Z",
+    "startTime": "2026-08-01T05:36:34Z",
+    "ttl": "2026-08-08T05:30:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "n88vkgpuYhk",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【スーパーマリオサンシャイン】人生初３Ｄマリオやってみる！！その３【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/n88vkgpuYhk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=n88vkgpuYhk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-01T05:00:00Z",
+    "startTime": "2026-08-01T05:08:19Z",
+    "ttl": "2026-08-08T05:00:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "yPRkXSLWS_0",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "#１３【 VCR RUST3 】　海賊になるのか？！！！？？？！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/yPRkXSLWS_0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=yPRkXSLWS_0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-01T10:00:00Z",
+    "ttl": "2026-08-08T10:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "316311016691",
     "channelId": "choyahanabi",
     "title": "【スト６】まったりと！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_choyahanabi-320x180.jpg",
-    "url": "https://www.twitch.tv/choyahanabi",
-    "scheduledStartTime": "2026-08-01T03:11:05Z",
-    "startTime": "2026-08-01T03:11:05Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/b5f4ac08b466ab1620e2_choyahanabi_316311016691_1785553865//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2834147588",
+    "scheduledStartTime": "2026-08-01T03:11:10Z",
+    "startTime": "2026-08-01T03:11:10Z",
     "platform": "twitch",
-    "ttl": "2026-08-08T03:11:05.000Z",
+    "ttl": "2026-08-08T03:11:10.000Z",
     "streamerId": "choya_hanabi"
   }
 ]

@@ -9,5 +9,16 @@
     "scheduledStartTime": "2026-08-02T03:00:00Z",
     "ttl": "2026-08-09T03:00:00.000Z",
     "streamerId": "jira_jisaki"
+  },
+  {
+    "id": "cXJbO-X_XqE",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Wuthering Waves 2.5◢ PHROLOVA ARC FIRST LOOK ! | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/cXJbO-X_XqE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=cXJbO-X_XqE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-02T14:00:00Z",
+    "ttl": "2026-08-09T14:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
