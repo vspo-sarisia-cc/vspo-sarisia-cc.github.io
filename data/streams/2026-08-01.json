@@ -1,5 +1,18 @@
 [
   {
+    "id": "kQsdlnViPQA",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【VCR:Rust】今日も海賊団出航するのか…！？【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/kQsdlnViPQA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=kQsdlnViPQA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-01T14:00:00Z",
+    "startTime": "2026-08-01T14:00:41Z",
+    "endTime": "2026-08-01T19:02:12Z",
+    "ttl": "2026-08-08T14:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "wbWArpDXl5Y",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【漢義リーグ】第8節！ここからの戦いが大事すぎる　w ..白雪レイド、本阿弥あずさ、ルイス・キャミー【ぶいすぽ/花芽なずな】",
@@ -13,22 +26,10 @@
     "streamerId": "kaga_nazuna"
   },
   {
-    "id": "kQsdlnViPQA",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【VCR:Rust】今日も海賊団出航するのか…！？【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/kQsdlnViPQA/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=kQsdlnViPQA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-01T14:00:00Z",
-    "startTime": "2026-08-01T14:00:41Z",
-    "ttl": "2026-08-08T14:00:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "jRGCTWIuixI",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【VCR RUST】今日もいくぞ～～～【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/jRGCTWIuixI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/jRGCTWIuixI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=jRGCTWIuixI",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-01T09:15:00Z",
@@ -64,6 +65,19 @@
     "streamerId": "asumi_sena"
   },
   {
+    "id": "qbiH3Dy4XJc",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 VCR RUST 】 船大工になります2【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/qbiH3Dy4XJc/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=qbiH3Dy4XJc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-01T12:35:00Z",
+    "startTime": "2026-08-01T12:39:42Z",
+    "endTime": "2026-08-01T19:16:31Z",
+    "ttl": "2026-08-08T12:35:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "drfZ0nRpgts",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 VCR RUST 】 船大工になります【ぶいすぽっ！/橘ひなの】",
@@ -74,18 +88,6 @@
     "startTime": "2026-08-01T09:33:59Z",
     "endTime": "2026-08-01T12:33:01Z",
     "ttl": "2026-08-08T09:20:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "qbiH3Dy4XJc",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 VCR RUST 】 船大工になります2【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/qbiH3Dy4XJc/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=qbiH3Dy4XJc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-01T12:35:00Z",
-    "startTime": "2026-08-01T12:39:42Z",
-    "ttl": "2026-08-08T12:35:00.000Z",
     "streamerId": "tachibana_hinano"
   },
   {
@@ -144,11 +146,12 @@
     "id": "YIUVEFadpts",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【VCR RUST】強くなるためにファームしたり色々していきたい【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/YIUVEFadpts/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/YIUVEFadpts/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=YIUVEFadpts",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-01T10:30:00Z",
     "startTime": "2026-08-01T10:31:41Z",
+    "endTime": "2026-08-01T19:04:59Z",
     "ttl": "2026-08-08T10:30:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -180,7 +183,7 @@
     "id": "JdP7eTzTTQs",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VALORANT】ソロコンペ！早くイモータル帰るぞ７【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/JdP7eTzTTQs/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/JdP7eTzTTQs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=JdP7eTzTTQs",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-01T14:30:00Z",
@@ -232,37 +235,14 @@
     "id": "WZIR5dGFg0I",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  VCR RUST  ◢　今日もクエストファームする！#6  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/WZIR5dGFg0I/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/WZIR5dGFg0I/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=WZIR5dGFg0I",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-01T11:00:00Z",
     "startTime": "2026-08-01T11:00:44Z",
+    "endTime": "2026-08-01T19:17:57Z",
     "ttl": "2026-08-08T11:00:00.000Z",
     "streamerId": "tatsumaki_chise"
-  },
-  {
-    "id": "316312505587",
-    "channelId": "ramuneshiranami",
-    "title": "【Rust】#11 沈没なんてしない海賊団",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-08-01T10:42:58Z",
-    "startTime": "2026-08-01T10:42:58Z",
-    "platform": "twitch",
-    "ttl": "2026-08-08T10:42:58.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "316256222066",
-    "channelId": "akarindao",
-    "title": "夏だ、海だ、海賊だ🏴VCR#9",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-08-01T10:00:15Z",
-    "startTime": "2026-08-01T10:00:15Z",
-    "platform": "twitch",
-    "ttl": "2026-08-08T10:00:15.000Z",
-    "streamerId": "yumeno_akari"
   },
   {
     "id": "316255914098",
@@ -287,6 +267,30 @@
     "platform": "twitch",
     "ttl": "2026-08-08T12:29:13.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316312505587",
+    "channelId": "ramuneshiranami",
+    "title": "【Rust】#11 沈没なんてしない海賊団",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/bdfe43b4937e76a5f1e6_ramuneshiranami_316312505587_1785580978//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2834344104",
+    "scheduledStartTime": "2026-08-01T10:43:03Z",
+    "startTime": "2026-08-01T10:43:03Z",
+    "platform": "twitch",
+    "ttl": "2026-08-08T10:43:03.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316256222066",
+    "channelId": "akarindao",
+    "title": "夏だ、海だ、海賊だ🏴VCR#9",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/925f37a8dbb3e4a83c96_akarindao_316256222066_1785578415//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2834328486",
+    "scheduledStartTime": "2026-08-01T10:00:20Z",
+    "startTime": "2026-08-01T10:00:20Z",
+    "platform": "twitch",
+    "ttl": "2026-08-08T10:00:20.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316247763825",
