@@ -13,45 +13,6 @@
     "streamerId": "kaga_nazuna"
   },
   {
-    "id": "I4jg2MrMP5I",
-    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
-    "title": "【Minecraft】 花火の回路をどうするか【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/I4jg2MrMP5I/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=I4jg2MrMP5I",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-26T12:30:00Z",
-    "startTime": "2026-07-26T12:20:35Z",
-    "endTime": "2026-07-26T18:47:05Z",
-    "ttl": "2026-08-02T12:30:00.000Z",
-    "streamerId": "tosaki_mimi"
-  },
-  {
-    "id": "tC9o91aa01c",
-    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
-    "title": "【Satisfactory】圧倒的好評✨このゲームをやりすぎました w/龍巻ちせ【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/tC9o91aa01c/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=tC9o91aa01c",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-26T13:00:00Z",
-    "startTime": "2026-07-26T13:01:29Z",
-    "endTime": "2026-07-26T18:08:11Z",
-    "ttl": "2026-08-02T13:00:00.000Z",
-    "streamerId": "asumi_sena"
-  },
-  {
-    "id": "yooH7rg7sFs",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】EWC 2026 – Street Fighter 6 – LCQ DAY3応援！！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/yooH7rg7sFs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=yooH7rg7sFs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-26T13:05:00Z",
-    "startTime": "2026-07-26T13:09:00Z",
-    "endTime": "2026-07-26T14:38:41Z",
-    "ttl": "2026-08-02T13:05:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
     "id": "l4TFKwt5WaA",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【雑談】エアコンないのでキッチンに寝袋敷いて寝た女【ぶいすぽっ！ #銀城サイネ 】",
@@ -65,19 +26,6 @@
     "streamerId": "ginjo_saine"
   },
   {
-    "id": "T9uTdCItc3U",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  Satisfactory  ◢　セナ先輩と工場作りの続きをさせていただくぞ！#2   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/T9uTdCItc3U/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=T9uTdCItc3U",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-26T13:00:00Z",
-    "startTime": "2026-07-26T13:01:59Z",
-    "endTime": "2026-07-26T18:17:42Z",
-    "ttl": "2026-08-02T13:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
     "id": "e1VAaMndHBM",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Apex Legends◢ CULTIVATING for VSPO!GG #ぶいすぽGG | #JunoUmezono #VSPOEN",
@@ -89,17 +37,5 @@
     "endTime": "2026-07-26T18:09:11Z",
     "ttl": "2026-08-02T14:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316230920434",
-    "channelId": "ramuneshiranami",
-    "title": "【Rust】#7 色白ギャルが生配信中！！！！セクシーもいるよ☆",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/03455f39a6be71b07f86_ramuneshiranami_316230920434_1785068824//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2829466481",
-    "scheduledStartTime": "2026-07-26T12:27:09Z",
-    "startTime": "2026-07-26T12:27:09Z",
-    "platform": "twitch",
-    "ttl": "2026-08-02T12:27:09.000Z",
-    "streamerId": "shiranami_ramune"
   }
 ]

@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=Wca3bEuKrQs",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-02T12:30:00Z",
+    "startTime": "2026-08-02T12:36:38Z",
     "ttl": "2026-08-09T12:30:00.000Z",
     "streamerId": "kaga_sumire"
   },
@@ -126,7 +127,7 @@
     "id": "6EL3R4B-hto",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【臓器女】VS 格闘女　/w　とと先輩、ろびんさん、顔芸さん【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/6EL3R4B-hto/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/6EL3R4B-hto/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=6EL3R4B-hto",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-02T10:00:00Z",
@@ -147,6 +148,18 @@
     "endTime": "2026-08-02T07:08:57Z",
     "ttl": "2026-08-09T06:05:00.000Z",
     "streamerId": "amayui_moka"
+  },
+  {
+    "id": "6BVglKAcQhU",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  VCR RUST  ◢　夏だ！ファームだ！#7  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/6BVglKAcQhU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=6BVglKAcQhU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-02T13:00:00Z",
+    "startTime": "2026-08-02T13:00:43Z",
+    "ttl": "2026-08-09T13:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "21_Delte6Hk",
