@@ -260,19 +260,6 @@
     "streamerId": "tatsumaki_chise"
   },
   {
-    "id": "HBbn7NzkfL8",
-    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-    "title": "【PRAGMATA】anything for diana !! (contains spoilers)【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/HBbn7NzkfL8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=HBbn7NzkfL8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-26T00:00:00Z",
-    "startTime": "2026-07-26T00:00:29Z",
-    "endTime": "2026-07-26T04:05:02Z",
-    "ttl": "2026-08-02T00:00:00.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
     "id": "Y_6sqAGzdpE",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【League of Legends】the grind continues【#VSPOEN #JiraJisaki】",
@@ -345,17 +332,5 @@
     "platform": "twitch",
     "ttl": "2026-08-02T02:35:31.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "320512636505",
-    "channelId": "aryakuroha",
-    "title": "✦ continuing our playthrough !!",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/1298ad8004a011e1b3ec_aryakuroha_320512636505_1785024156//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2829103193",
-    "scheduledStartTime": "2026-07-26T00:02:45Z",
-    "startTime": "2026-07-26T00:02:45Z",
-    "platform": "twitch",
-    "ttl": "2026-08-02T00:02:45.000Z",
-    "streamerId": "arya_kuroha"
   }
 ]
