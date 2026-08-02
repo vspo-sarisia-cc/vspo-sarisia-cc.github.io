@@ -1,5 +1,17 @@
 [
   {
+    "id": "GbHaf-tlLO8",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【雑談】8月の目標をゆるりと決める～ぶどうぱんを添えて～【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/GbHaf-tlLO8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=GbHaf-tlLO8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-02T04:00:00Z",
+    "startTime": "2026-08-02T04:05:54Z",
+    "ttl": "2026-08-09T04:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "ACRdMINldcw",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Rebroadcast Karaoke | 2nd Anniversary After Party! 【#VSPOEN #RemiaAotsuki】",
@@ -18,6 +30,7 @@
     "url": "https://www.youtube.com/watch?v=F_Et9dLjZvM",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-02T03:00:00Z",
+    "startTime": "2026-08-02T03:07:31Z",
     "ttl": "2026-08-09T03:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -31,5 +44,17 @@
     "scheduledStartTime": "2026-08-02T14:00:00Z",
     "ttl": "2026-08-09T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "315404577264",
+    "channelId": "erissuzukami",
+    "title": "pregaming next week schedule",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
+    "url": "https://www.twitch.tv/erissuzukami",
+    "scheduledStartTime": "2026-08-02T03:06:24Z",
+    "startTime": "2026-08-02T03:06:24Z",
+    "platform": "twitch",
+    "ttl": "2026-08-09T03:06:24.000Z",
+    "streamerId": "eris_suzukami"
   }
 ]

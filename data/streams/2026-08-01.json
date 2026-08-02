@@ -172,11 +172,12 @@
     "id": "owBcpG-x8lE",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 ニチアサ 】朝、起きるということ【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/owBcpG-x8lE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/owBcpG-x8lE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=owBcpG-x8lE",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-01T23:00:00Z",
     "startTime": "2026-08-01T23:00:28Z",
+    "endTime": "2026-08-02T01:29:19Z",
     "ttl": "2026-08-08T23:00:00.000Z",
     "streamerId": "komori_met"
   },
