@@ -16,11 +16,12 @@
     "id": "8nUbQIF5FKY",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【VCR:Rust】AK釣りたいんですけど【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/8nUbQIF5FKY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/8nUbQIF5FKY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=8nUbQIF5FKY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-02T09:20:00Z",
     "startTime": "2026-08-02T09:23:39Z",
+    "endTime": "2026-08-02T16:53:41Z",
     "ttl": "2026-08-09T09:20:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -96,6 +97,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-02T09:00:00Z",
     "startTime": "2026-08-02T09:03:04Z",
+    "endTime": "2026-08-02T17:47:15Z",
     "ttl": "2026-08-09T09:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
