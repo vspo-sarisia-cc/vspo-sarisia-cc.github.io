@@ -1,5 +1,40 @@
 [
   {
+    "id": "8nUbQIF5FKY",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【VCR:Rust】AK釣りたいんですけど【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/8nUbQIF5FKY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=8nUbQIF5FKY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-02T09:20:00Z",
+    "startTime": "2026-08-02T09:23:39Z",
+    "ttl": "2026-08-09T09:20:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "S0hR5Bv9BV0",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "【 臓器女 】新作ホラゲー、行きます w/顔芸さん、もかちゃん、ろびんさん【 ぶいすぽ / 小雀とと 】",
+    "thumbnail": "https://i.ytimg.com/vi/S0hR5Bv9BV0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=S0hR5Bv9BV0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-02T10:00:00Z",
+    "ttl": "2026-08-09T10:00:00.000Z",
+    "streamerId": "kogara_toto"
+  },
+  {
+    "id": "eXxMELlajAk",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【VCR RUST】生還できるのか・・・・！？【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/eXxMELlajAk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=eXxMELlajAk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-02T09:15:00Z",
+    "startTime": "2026-08-02T09:03:42Z",
+    "ttl": "2026-08-09T09:15:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "B2kpa6ZgOOg",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】がっつりフルパで行くぞ！！/【 ぶいすぽっ！胡桃のあ 】",
@@ -11,15 +46,41 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "acjmD4okd54",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 VCR RUST 】 あつすぎる【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/acjmD4okd54/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=acjmD4okd54",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-02T09:10:00Z",
+    "startTime": "2026-08-02T09:09:29Z",
+    "ttl": "2026-08-09T09:10:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "CBOtNOhJV8M",
     "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
-    "title": "【リズム天国 ミラクルスターズ】ノれないやつは、置いていく【ぶいすぽっ！/英リサ】",
+    "title": "【初音ミク Project DIVA MEGA39’s＋】ノれないやつは、置いていく【ぶいすぽっ！/英リサ】",
     "thumbnail": "https://i.ytimg.com/vi/CBOtNOhJV8M/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=CBOtNOhJV8M",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-02T07:15:00Z",
+    "startTime": "2026-08-02T07:40:15Z",
+    "endTime": "2026-08-02T09:18:42Z",
     "ttl": "2026-08-09T07:15:00.000Z",
     "streamerId": "hanabusa_lisa"
+  },
+  {
+    "id": "krAM-VPFRhg",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【VCR RUST】生きて帰りたいです【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/krAM-VPFRhg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=krAM-VPFRhg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-02T09:00:00Z",
+    "startTime": "2026-08-02T09:03:04Z",
+    "ttl": "2026-08-09T09:00:00.000Z",
+    "streamerId": "nekota_tsuna"
   },
   {
     "id": "GbHaf-tlLO8",
@@ -35,10 +96,22 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "vVtYUDPhc7M",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【#WatchPartyLCP】TSW vs CFO | LCP 2026 Split 3 Swiss Stage Week 2 Day 4【ぶいすぽっ！/千燈ゆうひ】",
+    "thumbnail": "https://i.ytimg.com/vi/vVtYUDPhc7M/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=vVtYUDPhc7M",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-02T09:00:00Z",
+    "startTime": "2026-08-02T09:02:03Z",
+    "ttl": "2026-08-09T09:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
     "id": "_4_0g3TKW1E",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】夜も配信あるので少し。明日・・・！くるのか【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/_4_0g3TKW1E/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/_4_0g3TKW1E/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=_4_0g3TKW1E",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-02T06:05:00Z",
@@ -62,11 +135,12 @@
     "id": "21_Delte6Hk",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  League of Legends  ◢　日曜日のソロランク   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/21_Delte6Hk/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/21_Delte6Hk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=21_Delte6Hk",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-02T06:00:00Z",
     "startTime": "2026-08-02T06:04:56Z",
+    "endTime": "2026-08-02T08:52:15Z",
     "ttl": "2026-08-09T06:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
