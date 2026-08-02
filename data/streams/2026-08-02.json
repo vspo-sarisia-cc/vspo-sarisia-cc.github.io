@@ -19,6 +19,7 @@
     "url": "https://www.youtube.com/watch?v=S0hR5Bv9BV0",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-02T10:00:00Z",
+    "startTime": "2026-08-02T10:01:55Z",
     "ttl": "2026-08-09T10:00:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -108,6 +109,18 @@
     "streamerId": "sendo_yuuhi"
   },
   {
+    "id": "6EL3R4B-hto",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【臓器女】VS 格闘女　/w　とと先輩、ろびんさん、顔芸さん【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/6EL3R4B-hto/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=6EL3R4B-hto",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-02T10:00:00Z",
+    "startTime": "2026-08-02T10:03:03Z",
+    "ttl": "2026-08-09T10:00:00.000Z",
+    "streamerId": "amayui_moka"
+  },
+  {
     "id": "_4_0g3TKW1E",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】夜も配信あるので少し。明日・・・！くるのか【 ぶいすぽっ！甘結もか 】",
@@ -118,17 +131,6 @@
     "startTime": "2026-08-02T06:05:55Z",
     "endTime": "2026-08-02T07:08:57Z",
     "ttl": "2026-08-09T06:05:00.000Z",
-    "streamerId": "amayui_moka"
-  },
-  {
-    "id": "6EL3R4B-hto",
-    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
-    "title": "【臓器女】VS 格闘女　/w　とと先輩、ろびんさん、顔芸さん【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/6EL3R4B-hto/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=6EL3R4B-hto",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-02T10:00:00Z",
-    "ttl": "2026-08-09T10:00:00.000Z",
     "streamerId": "amayui_moka"
   },
   {
@@ -180,15 +182,15 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "315404577264",
+    "id": "315386848495",
     "channelId": "erissuzukami",
-    "title": "pregaming next week schedule",
+    "title": "relaxing gambling to end the day",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
     "url": "https://www.twitch.tv/erissuzukami",
-    "scheduledStartTime": "2026-08-02T03:06:24Z",
-    "startTime": "2026-08-02T03:06:24Z",
+    "scheduledStartTime": "2026-08-02T10:35:47Z",
+    "startTime": "2026-08-02T10:35:47Z",
     "platform": "twitch",
-    "ttl": "2026-08-09T03:06:24.000Z",
+    "ttl": "2026-08-09T10:35:47.000Z",
     "streamerId": "eris_suzukami"
   }
 ]
