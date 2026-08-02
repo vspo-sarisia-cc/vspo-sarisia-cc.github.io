@@ -9,5 +9,16 @@
     "scheduledStartTime": "2026-08-03T15:00:00Z",
     "ttl": "2026-08-10T15:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "uDu7b8sVJ1A",
+    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+    "title": "【League of Legends】emerald 1 22 lp start【#VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/uDu7b8sVJ1A/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=uDu7b8sVJ1A",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-03T03:00:00Z",
+    "ttl": "2026-08-10T03:00:00.000Z",
+    "streamerId": "jira_jisaki"
   }
 ]
