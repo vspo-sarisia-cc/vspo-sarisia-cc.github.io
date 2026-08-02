@@ -68,7 +68,7 @@
     "id": "acjmD4okd54",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 VCR RUST 】 あつすぎる【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/acjmD4okd54/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/acjmD4okd54/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=acjmD4okd54",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-02T09:10:00Z",
@@ -202,6 +202,7 @@
     "url": "https://www.youtube.com/watch?v=ACRdMINldcw",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-02T19:00:00Z",
+    "startTime": "2026-08-02T19:00:25Z",
     "ttl": "2026-08-09T19:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
