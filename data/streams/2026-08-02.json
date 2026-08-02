@@ -98,6 +98,18 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "1NsiEBtLwnA",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】ソロコンペ！早くイモータル帰るぞ８【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/1NsiEBtLwnA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=1NsiEBtLwnA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-02T14:10:00Z",
+    "startTime": "2026-08-02T14:16:03Z",
+    "ttl": "2026-08-09T14:10:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "GbHaf-tlLO8",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【雑談】8月の目標をゆるりと決める～ぶどうぱんを添えて～【ぶいすぽっ！ / 紡木こかげ】",
@@ -206,6 +218,7 @@
     "url": "https://www.youtube.com/watch?v=cXJbO-X_XqE",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-02T14:00:00Z",
+    "startTime": "2026-08-02T14:02:19Z",
     "ttl": "2026-08-09T14:00:00.000Z",
     "streamerId": "juno_umezono"
   },

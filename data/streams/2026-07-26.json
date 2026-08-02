@@ -1,18 +1,5 @@
 [
   {
-    "id": "6rzyR-zOF7E",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【VCR:Rust】体は疲れていますが農業をしたい【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/6rzyR-zOF7E/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=6rzyR-zOF7E",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-26T14:40:00Z",
-    "startTime": "2026-07-26T14:48:17Z",
-    "endTime": "2026-07-26T19:02:43Z",
-    "ttl": "2026-08-02T14:40:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "l4TFKwt5WaA",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【雑談】エアコンないのでキッチンに寝袋敷いて寝た女【ぶいすぽっ！ #銀城サイネ 】",
@@ -24,18 +11,5 @@
     "endTime": "2026-07-27T00:02:20Z",
     "ttl": "2026-08-02T22:00:00.000Z",
     "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "e1VAaMndHBM",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Apex Legends◢ CULTIVATING for VSPO!GG #ぶいすぽGG | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/e1VAaMndHBM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=e1VAaMndHBM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-26T14:00:00Z",
-    "startTime": "2026-07-26T14:08:26Z",
-    "endTime": "2026-07-26T18:09:11Z",
-    "ttl": "2026-08-02T14:00:00.000Z",
-    "streamerId": "juno_umezono"
   }
 ]
