@@ -1,5 +1,29 @@
 [
   {
+    "id": "hs3sJieraEs",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【ドラゴンクエストVII Reimagined】まだ1割も終わってないってマジ？ #4【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/hs3sJieraEs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=hs3sJieraEs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-03T03:05:00Z",
+    "startTime": "2026-08-03T03:08:43Z",
+    "ttl": "2026-08-10T03:05:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "0aAm35sJZKs",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【スト6】調整！！！！きたけど！！！！！【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/0aAm35sJZKs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=0aAm35sJZKs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-03T02:45:00Z",
+    "startTime": "2026-08-03T02:44:47Z",
+    "ttl": "2026-08-10T02:45:00.000Z",
+    "streamerId": "amayui_moka"
+  },
+  {
     "id": "F-_lmEpdP8U",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Part 4 - Final showdown  |  Chef's Shift 【#VSPOEN #RemiaAotsuki】",
@@ -18,7 +42,31 @@
     "url": "https://www.youtube.com/watch?v=uDu7b8sVJ1A",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-03T03:00:00Z",
+    "startTime": "2026-08-03T03:06:33Z",
     "ttl": "2026-08-10T03:00:00.000Z",
     "streamerId": "jira_jisaki"
+  },
+  {
+    "id": "1JsSkVsBlY8",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤LoL◢ league classic with my favorite kaiju waifu @jirajisaki | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/1JsSkVsBlY8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=1JsSkVsBlY8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-03T14:40:00Z",
+    "ttl": "2026-08-10T14:40:00.000Z",
+    "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316320125299",
+    "channelId": "ren_kisaragi__",
+    "title": "如月ミン覗き見",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-08-03T03:01:15Z",
+    "startTime": "2026-08-03T03:01:15Z",
+    "platform": "twitch",
+    "ttl": "2026-08-10T03:01:15.000Z",
+    "streamerId": "kisaragi_ren"
   }
 ]
