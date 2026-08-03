@@ -1,15 +1,53 @@
 [
   {
+    "id": "SNUDYuDd1Jg",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【緊急】花芽姉妹がぶいすぽタイピングゲームで対決を挑まれた件【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/SNUDYuDd1Jg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=SNUDYuDd1Jg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-03T10:00:00Z",
+    "startTime": "2026-08-03T10:01:59Z",
+    "ttl": "2026-08-10T10:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "qjw6gTowM5U",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】病院からただいま～ソロちょっと行く【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/qjw6gTowM5U/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/qjw6gTowM5U/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=qjw6gTowM5U",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-03T04:40:00Z",
     "startTime": "2026-08-03T04:40:19Z",
+    "endTime": "2026-08-03T07:19:05Z",
     "ttl": "2026-08-10T04:40:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "5YmMvEWkTK0",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】それでも私は【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/5YmMvEWkTK0/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=5YmMvEWkTK0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-03T08:15:00Z",
+    "startTime": "2026-08-03T08:18:12Z",
+    "endTime": "2026-08-03T10:19:09Z",
+    "ttl": "2026-08-10T08:15:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "2ndVlY99GV0",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】ソロコンペ！早くイモータル帰るぞ９【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/2ndVlY99GV0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=2ndVlY99GV0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-03T07:45:00Z",
+    "startTime": "2026-08-03T07:44:05Z",
+    "ttl": "2026-08-10T07:45:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "hs3sJieraEs",
@@ -61,17 +99,6 @@
     "streamerId": "jira_jisaki"
   },
   {
-    "id": "1JsSkVsBlY8",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤LoL◢ league classic with my favorite kaiju waifu @jirajisaki | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/1JsSkVsBlY8/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=1JsSkVsBlY8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-03T14:40:00Z",
-    "ttl": "2026-08-10T14:40:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
     "id": "316320125299",
     "channelId": "ren_kisaragi__",
     "title": "如月ミン覗き見",
@@ -82,5 +109,17 @@
     "platform": "twitch",
     "ttl": "2026-08-10T03:01:20.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316264567154",
+    "channelId": "akarindao",
+    "title": "火薬集め釣り雑談【ぶいすぽ夏祭り】",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/75b9c09320d1ebc4cec8_akarindao_316264567154_1785742586//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2835990826",
+    "scheduledStartTime": "2026-08-03T07:36:31Z",
+    "startTime": "2026-08-03T07:36:31Z",
+    "platform": "twitch",
+    "ttl": "2026-08-10T07:36:31.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
