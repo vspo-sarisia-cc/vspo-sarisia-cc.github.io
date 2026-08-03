@@ -1,13 +1,27 @@
 [
   {
+    "id": "SUL0biJ5N1U",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【グッズ大量紹介】引っ越しついでにいろんなぶいすぽグッズを整理してみた【実写】",
+    "thumbnail": "https://i.ytimg.com/vi/SUL0biJ5N1U/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=SUL0biJ5N1U",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-03T12:00:00Z",
+    "startTime": "2026-08-03T12:00:07Z",
+    "endTime": "2026-08-03T12:12:08Z",
+    "ttl": "2026-08-10T12:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "SNUDYuDd1Jg",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【緊急】花芽姉妹がぶいすぽタイピングゲームで対決を挑まれた件【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/SNUDYuDd1Jg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/SNUDYuDd1Jg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=SNUDYuDd1Jg",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-03T10:00:00Z",
     "startTime": "2026-08-03T10:01:59Z",
+    "endTime": "2026-08-03T10:46:15Z",
     "ttl": "2026-08-10T10:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -25,6 +39,18 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "EOsard9i76o",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】対戦会おじゃまします緊張です【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/EOsard9i76o/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=EOsard9i76o",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-03T12:30:00Z",
+    "startTime": "2026-08-03T12:32:47Z",
+    "ttl": "2026-08-10T12:30:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "5YmMvEWkTK0",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】それでも私は【ぶいすぽっ！/ 藍沢エマ】",
@@ -38,6 +64,42 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "X-AxC3gFLgo",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "赤ちゃん言葉のようになるエマに目覚めそうになるヘンディー【ぶいすぽっ！/ 藍沢エマ/ヘンディー/ハセシン/APEX】",
+    "thumbnail": "https://i.ytimg.com/vi/X-AxC3gFLgo/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=X-AxC3gFLgo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-03T22:00:00Z",
+    "ttl": "2026-08-10T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "VkPvJJl2hpc",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 APEX 】寝起きハセ w/ハセシン、CivA【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/VkPvJJl2hpc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=VkPvJJl2hpc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-03T11:00:00Z",
+    "startTime": "2026-08-03T11:04:07Z",
+    "ttl": "2026-08-10T11:00:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "LDLBFMJA8a4",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "💀アーカイブはメン限💀",
+    "thumbnail": "https://i.ytimg.com/vi/LDLBFMJA8a4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=LDLBFMJA8a4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-03T11:15:00Z",
+    "startTime": "2026-08-03T11:15:59Z",
+    "endTime": "2026-08-03T13:29:27Z",
+    "ttl": "2026-08-10T11:15:00.000Z",
+    "streamerId": "yano_kuromu"
+  },
+  {
     "id": "2ndVlY99GV0",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VALORANT】ソロコンペ！早くイモータル帰るぞ９【ぶいすぽっ！ / 紡木こかげ】",
@@ -48,6 +110,18 @@
     "startTime": "2026-08-03T07:44:05Z",
     "ttl": "2026-08-10T07:45:00.000Z",
     "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "mn8KdGjZLDo",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【Minecraft】競馬場の準備する！【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/mn8KdGjZLDo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=mn8KdGjZLDo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-03T12:45:00Z",
+    "startTime": "2026-08-03T12:49:37Z",
+    "ttl": "2026-08-10T12:45:00.000Z",
+    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "hs3sJieraEs",
@@ -66,13 +140,26 @@
     "id": "0aAm35sJZKs",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】調整！！！！きたけど！！！！！【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/0aAm35sJZKs/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/0aAm35sJZKs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=0aAm35sJZKs",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-03T02:45:00Z",
     "startTime": "2026-08-03T02:44:47Z",
+    "endTime": "2026-08-03T11:03:04Z",
     "ttl": "2026-08-10T02:45:00.000Z",
     "streamerId": "amayui_moka"
+  },
+  {
+    "id": "EB3Jyqo3rm4",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  Minecraft  ◢　夏祭り準備いくぞ！！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/EB3Jyqo3rm4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=EB3Jyqo3rm4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-03T12:50:00Z",
+    "startTime": "2026-08-03T12:51:00Z",
+    "ttl": "2026-08-10T12:50:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "F-_lmEpdP8U",
@@ -97,6 +184,18 @@
     "endTime": "2026-08-03T05:18:49Z",
     "ttl": "2026-08-10T03:00:00.000Z",
     "streamerId": "jira_jisaki"
+  },
+  {
+    "id": "316256711025",
+    "channelId": "akarindao",
+    "title": "めあ aja やうじ zerost LOLではなくなんとVALOフルパ！",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-08-03T11:03:43Z",
+    "startTime": "2026-08-03T11:03:43Z",
+    "platform": "twitch",
+    "ttl": "2026-08-10T11:03:43.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316320125299",

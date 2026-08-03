@@ -1,31 +1,5 @@
 [
   {
-    "id": "jeVEsLTWi28",
-    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
-    "title": "【Minecraft】 ロゴ作成してく～【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/jeVEsLTWi28/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=jeVEsLTWi28",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-27T12:00:00Z",
-    "startTime": "2026-07-27T11:43:25Z",
-    "endTime": "2026-07-27T18:59:14Z",
-    "ttl": "2026-08-03T12:00:00.000Z",
-    "streamerId": "tosaki_mimi"
-  },
-  {
-    "id": "bfkZK-R8N_o",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【Minecraft】 色白セクシーお姉さんが配信中！！！！【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/bfkZK-R8N_o/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=bfkZK-R8N_o",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-27T11:00:00Z",
-    "startTime": "2026-07-27T11:03:53Z",
-    "endTime": "2026-07-27T15:42:23Z",
-    "ttl": "2026-08-03T11:00:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
     "id": "0zIzBiCLhoE",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【※オンライン雑談です】ちる部雑談配信で緊張して固まる夕刻ロベル【ぶいすぽっ！/ 藍沢エマ/緋月ゆい/夕刻ロベル/ちる部】",
@@ -39,19 +13,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "MIYplIFvcN0",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【ドラゴンクエストVII Reimagined】3つ目の石板を探しに行くぞ！ #3【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/MIYplIFvcN0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=MIYplIFvcN0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-27T12:10:00Z",
-    "startTime": "2026-07-27T12:11:26Z",
-    "endTime": "2026-07-27T14:35:21Z",
-    "ttl": "2026-08-03T12:10:00.000Z",
-    "streamerId": "sendo_yuuhi"
-  },
-  {
     "id": "mIsWg3nZX68",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】寝る前カスタムれんしゅ【 ぶいすぽっ！甘結もか 】",
@@ -63,18 +24,5 @@
     "endTime": "2026-07-27T17:29:53Z",
     "ttl": "2026-08-03T15:20:00.000Z",
     "streamerId": "amayui_moka"
-  },
-  {
-    "id": "_0H0CtI1S5I",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "Let's get out of 23K  |  Premier  |  Counter-Strike 2 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/_0H0CtI1S5I/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=_0H0CtI1S5I",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-27T12:00:00Z",
-    "startTime": "2026-07-27T12:10:37Z",
-    "endTime": "2026-07-27T15:54:48Z",
-    "ttl": "2026-08-03T12:00:00.000Z",
-    "streamerId": "remia_aotsuki"
   }
 ]
