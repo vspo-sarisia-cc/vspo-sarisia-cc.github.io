@@ -65,6 +65,18 @@
     "streamerId": "kaminari_qpi"
   },
   {
+    "id": "X-AxC3gFLgo",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "赤ちゃん言葉のようになるエマに目覚めそうになるヘンディー【ぶいすぽっ！/ 藍沢エマ/ヘンディー/ハセシン/APEX】",
+    "thumbnail": "https://i.ytimg.com/vi/X-AxC3gFLgo/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=X-AxC3gFLgo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-03T22:00:00Z",
+    "startTime": "2026-08-03T22:00:06Z",
+    "ttl": "2026-08-10T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "EOsard9i76o",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】対戦会おじゃまします緊張です【ぶいすぽっ！/ 藍沢エマ】",
@@ -88,17 +100,6 @@
     "startTime": "2026-08-03T08:18:12Z",
     "endTime": "2026-08-03T10:19:09Z",
     "ttl": "2026-08-10T08:15:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "X-AxC3gFLgo",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "赤ちゃん言葉のようになるエマに目覚めそうになるヘンディー【ぶいすぽっ！/ 藍沢エマ/ヘンディー/ハセシン/APEX】",
-    "thumbnail": "https://i.ytimg.com/vi/X-AxC3gFLgo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=X-AxC3gFLgo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-03T22:00:00Z",
-    "ttl": "2026-08-10T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
