@@ -26,6 +26,18 @@
     "streamerId": "kaga_nazuna"
   },
   {
+    "id": "6a7eK-M4e-k",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】マスターが見えてる！【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/6a7eK-M4e-k/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=6a7eK-M4e-k",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-03T14:10:00Z",
+    "startTime": "2026-08-03T14:19:04Z",
+    "ttl": "2026-08-10T14:10:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "qjw6gTowM5U",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】病院からただいま～ソロちょっと行く【 ぶいすぽっ！胡桃のあ 】",
@@ -87,27 +99,27 @@
     "streamerId": "shinomiya_runa"
   },
   {
-    "id": "LDLBFMJA8a4",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "💀アーカイブはメン限💀",
-    "thumbnail": "https://i.ytimg.com/vi/LDLBFMJA8a4/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=LDLBFMJA8a4",
+    "id": "7WuMtaigMvo",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【歌枠】バラード多めで歌いたい🎤【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/7WuMtaigMvo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=7WuMtaigMvo",
     "platform": "youtube",
-    "scheduledStartTime": "2026-08-03T11:15:00Z",
-    "startTime": "2026-08-03T11:15:59Z",
-    "endTime": "2026-08-03T13:29:27Z",
-    "ttl": "2026-08-10T11:15:00.000Z",
-    "streamerId": "yano_kuromu"
+    "scheduledStartTime": "2026-08-03T14:30:00Z",
+    "startTime": "2026-08-03T14:40:47Z",
+    "ttl": "2026-08-10T14:30:00.000Z",
+    "streamerId": "nekota_tsuna"
   },
   {
     "id": "2ndVlY99GV0",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VALORANT】ソロコンペ！早くイモータル帰るぞ９【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/2ndVlY99GV0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/2ndVlY99GV0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=2ndVlY99GV0",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-03T07:45:00Z",
     "startTime": "2026-08-03T07:44:05Z",
+    "endTime": "2026-08-03T13:35:21Z",
     "ttl": "2026-08-10T07:45:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -115,11 +127,12 @@
     "id": "mn8KdGjZLDo",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【Minecraft】競馬場の準備する！【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/mn8KdGjZLDo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/mn8KdGjZLDo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=mn8KdGjZLDo",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-03T12:45:00Z",
     "startTime": "2026-08-03T12:49:37Z",
+    "endTime": "2026-08-03T15:21:22Z",
     "ttl": "2026-08-10T12:45:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -153,11 +166,12 @@
     "id": "EB3Jyqo3rm4",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  Minecraft  ◢　夏祭り準備いくぞ！！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/EB3Jyqo3rm4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/EB3Jyqo3rm4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=EB3Jyqo3rm4",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-03T12:50:00Z",
     "startTime": "2026-08-03T12:51:00Z",
+    "endTime": "2026-08-03T15:24:49Z",
     "ttl": "2026-08-10T12:50:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -169,6 +183,7 @@
     "url": "https://www.youtube.com/watch?v=F-_lmEpdP8U",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-03T15:00:00Z",
+    "startTime": "2026-08-03T15:01:06Z",
     "ttl": "2026-08-10T15:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -186,18 +201,6 @@
     "streamerId": "jira_jisaki"
   },
   {
-    "id": "316256711025",
-    "channelId": "akarindao",
-    "title": "めあ aja やうじ zerost LOLではなくなんとVALOフルパ！",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-08-03T11:03:43Z",
-    "startTime": "2026-08-03T11:03:43Z",
-    "platform": "twitch",
-    "ttl": "2026-08-10T11:03:43.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316320125299",
     "channelId": "ren_kisaragi__",
     "title": "如月ミン覗き見",
@@ -208,6 +211,18 @@
     "platform": "twitch",
     "ttl": "2026-08-10T03:01:20.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316256711025",
+    "channelId": "akarindao",
+    "title": "めあ aja やうじ zerost LOLではなくなんとVALOフルパ！",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/ed06caa8faf138dd7222_akarindao_316256711025_1785755023//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2836060249",
+    "scheduledStartTime": "2026-08-03T11:03:48Z",
+    "startTime": "2026-08-03T11:03:48Z",
+    "platform": "twitch",
+    "ttl": "2026-08-10T11:03:48.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316264567154",
