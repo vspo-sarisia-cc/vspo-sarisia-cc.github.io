@@ -1,13 +1,26 @@
 [
   {
+    "id": "qjw6gTowM5U",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】病院からただいま～ソロちょっと行く【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/qjw6gTowM5U/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=qjw6gTowM5U",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-03T04:40:00Z",
+    "startTime": "2026-08-03T04:40:19Z",
+    "ttl": "2026-08-10T04:40:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "hs3sJieraEs",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【ドラゴンクエストVII Reimagined】まだ1割も終わってないってマジ？ #4【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/hs3sJieraEs/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/hs3sJieraEs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=hs3sJieraEs",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-03T03:05:00Z",
     "startTime": "2026-08-03T03:08:43Z",
+    "endTime": "2026-08-03T05:35:41Z",
     "ttl": "2026-08-10T03:05:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -38,11 +51,12 @@
     "id": "uDu7b8sVJ1A",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【League of Legends】emerald 1 22 lp start【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/uDu7b8sVJ1A/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/uDu7b8sVJ1A/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=uDu7b8sVJ1A",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-03T03:00:00Z",
     "startTime": "2026-08-03T03:06:33Z",
+    "endTime": "2026-08-03T05:18:49Z",
     "ttl": "2026-08-10T03:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -61,12 +75,12 @@
     "id": "316320125299",
     "channelId": "ren_kisaragi__",
     "title": "如月ミン覗き見",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-08-03T03:01:15Z",
-    "startTime": "2026-08-03T03:01:15Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/05db59bde7106ea928ed_ren_kisaragi___316320125299_1785726075//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2835874682",
+    "scheduledStartTime": "2026-08-03T03:01:20Z",
+    "startTime": "2026-08-03T03:01:20Z",
     "platform": "twitch",
-    "ttl": "2026-08-10T03:01:15.000Z",
+    "ttl": "2026-08-10T03:01:20.000Z",
     "streamerId": "kisaragi_ren"
   }
 ]
