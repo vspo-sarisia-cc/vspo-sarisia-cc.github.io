@@ -51,6 +51,18 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "G2IOT7A5u1M",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【STREET FIGHTER 6】帰国ヤスミンジェイミーレッツGO【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/G2IOT7A5u1M/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=G2IOT7A5u1M",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-03T17:15:00Z",
+    "startTime": "2026-08-03T17:15:02Z",
+    "ttl": "2026-08-10T17:15:00.000Z",
+    "streamerId": "kaminari_qpi"
+  },
+  {
     "id": "EOsard9i76o",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】対戦会おじゃまします緊張です【ぶいすぽっ！/ 藍沢エマ】",
@@ -59,6 +71,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-03T12:30:00Z",
     "startTime": "2026-08-03T12:32:47Z",
+    "endTime": "2026-08-03T17:57:07Z",
     "ttl": "2026-08-10T12:30:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -90,11 +103,12 @@
     "id": "VkPvJJl2hpc",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 APEX 】寝起きハセ w/ハセシン、CivA【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/VkPvJJl2hpc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/VkPvJJl2hpc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=VkPvJJl2hpc",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-03T11:00:00Z",
     "startTime": "2026-08-03T11:04:07Z",
+    "endTime": "2026-08-03T17:11:33Z",
     "ttl": "2026-08-10T11:00:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -102,11 +116,12 @@
     "id": "7WuMtaigMvo",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【歌枠】バラード多めで歌いたい🎤【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/7WuMtaigMvo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/7WuMtaigMvo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=7WuMtaigMvo",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-03T14:30:00Z",
     "startTime": "2026-08-03T14:40:47Z",
+    "endTime": "2026-08-03T17:20:51Z",
     "ttl": "2026-08-10T14:30:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -184,6 +199,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-03T15:00:00Z",
     "startTime": "2026-08-03T15:01:06Z",
+    "endTime": "2026-08-03T16:54:38Z",
     "ttl": "2026-08-10T15:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
