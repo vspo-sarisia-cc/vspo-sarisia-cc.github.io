@@ -1,5 +1,17 @@
 [
   {
+    "id": "WPmb-8PeYiw",
+    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
+    "title": "【Minecraft】おはよう夏祭りなにつくろうね～【ぶいすぽっ！/花芽すみれ】",
+    "thumbnail": "https://i.ytimg.com/vi/WPmb-8PeYiw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=WPmb-8PeYiw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-03T22:30:00Z",
+    "startTime": "2026-08-03T22:32:52Z",
+    "ttl": "2026-08-10T22:30:00.000Z",
+    "streamerId": "kaga_sumire"
+  },
+  {
     "id": "SUL0biJ5N1U",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【グッズ大量紹介】引っ越しついでにいろんなぶいすぽグッズを整理してみた【実写】",
@@ -73,6 +85,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-03T22:00:00Z",
     "startTime": "2026-08-03T22:00:06Z",
+    "endTime": "2026-08-03T22:21:50Z",
     "ttl": "2026-08-10T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
