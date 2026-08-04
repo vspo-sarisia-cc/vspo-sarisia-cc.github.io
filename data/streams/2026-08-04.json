@@ -1,27 +1,52 @@
 [
   {
+    "id": "kgtHHbKLIQs",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【VCR:Rust】てぃあ３ボスをたおしたいのだ【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/kgtHHbKLIQs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=kgtHHbKLIQs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-04T10:35:00Z",
+    "startTime": "2026-08-04T10:33:30Z",
+    "ttl": "2026-08-11T10:35:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "kaEuXrpCJOM",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【VCR RUST】休日明けrustの様子【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/kaEuXrpCJOM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=kaEuXrpCJOM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-04T10:00:00Z",
+    "startTime": "2026-08-04T09:56:15Z",
+    "ttl": "2026-08-11T10:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "7hIRc_X4Itc",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】耐久!?マスターまであと800RP！【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/7hIRc_X4Itc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/7hIRc_X4Itc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=7hIRc_X4Itc",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-04T06:30:00Z",
     "startTime": "2026-08-04T06:22:50Z",
+    "endTime": "2026-08-04T09:52:17Z",
     "ttl": "2026-08-11T06:30:00.000Z",
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "x24G_k-lAq8",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】ほんのちょっとだけ【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/x24G_k-lAq8/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=x24G_k-lAq8",
+    "id": "9pJApVX8-yE",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 VCR RUST 】 あと二日らしいぞ！【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/9pJApVX8-yE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=9pJApVX8-yE",
     "platform": "youtube",
-    "scheduledStartTime": "2026-08-04T07:30:00Z",
-    "startTime": "2026-08-04T07:41:28Z",
-    "ttl": "2026-08-11T07:30:00.000Z",
-    "streamerId": "aizawa_ema"
+    "scheduledStartTime": "2026-08-04T10:15:00Z",
+    "startTime": "2026-08-04T10:12:01Z",
+    "ttl": "2026-08-11T10:15:00.000Z",
+    "streamerId": "tachibana_hinano"
   },
   {
     "id": "sLU1JspzPj4",
@@ -31,8 +56,45 @@
     "url": "https://www.youtube.com/watch?v=sLU1JspzPj4",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-04T11:00:00Z",
+    "startTime": "2026-08-04T11:06:06Z",
     "ttl": "2026-08-11T11:00:00.000Z",
     "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "x24G_k-lAq8",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】ほんのちょっとだけ【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/x24G_k-lAq8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=x24G_k-lAq8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-04T07:30:00Z",
+    "startTime": "2026-08-04T07:41:28Z",
+    "endTime": "2026-08-04T10:10:34Z",
+    "ttl": "2026-08-11T07:30:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "3fm3RTzU4ng",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【APEX】ブラッドハウンドお別れの会　w/ハセシン、うるーか【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/3fm3RTzU4ng/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=3fm3RTzU4ng",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-04T11:00:00Z",
+    "startTime": "2026-08-04T11:01:48Z",
+    "ttl": "2026-08-11T11:00:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "ijSCDlZ6hAI",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "〖 VCR RUST 〗マイホームにかえるにょ。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+    "thumbnail": "https://i.ytimg.com/vi/ijSCDlZ6hAI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ijSCDlZ6hAI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-04T12:00:00Z",
+    "ttl": "2026-08-11T12:00:00.000Z",
+    "streamerId": "yano_kuromu"
   },
   {
     "id": "1XHkhEp50_4",
@@ -73,11 +135,12 @@
     "id": "pwDtNJsEl2Y",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【ゼンレスゾーンゼロ】夏だ！美女だ！ゼンゼロだ！！【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/pwDtNJsEl2Y/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/pwDtNJsEl2Y/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=pwDtNJsEl2Y",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-04T08:00:00Z",
     "startTime": "2026-08-04T08:02:18Z",
+    "endTime": "2026-08-04T10:23:37Z",
     "ttl": "2026-08-11T08:00:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -117,5 +180,41 @@
     "endTime": "2026-08-04T07:22:22Z",
     "ttl": "2026-08-11T04:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316325716467",
+    "channelId": "akarindao",
+    "title": "ゼロからモンスト！#PR チーム、めあたむ、らっしゃー、やうじ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-08-04T10:00:49Z",
+    "startTime": "2026-08-04T10:00:49Z",
+    "platform": "twitch",
+    "ttl": "2026-08-11T10:00:49.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316260851313",
+    "channelId": "ramuneshiranami",
+    "title": "【Rust】#13 tier3 いくのか？",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-08-04T10:19:30Z",
+    "startTime": "2026-08-04T10:19:30Z",
+    "platform": "twitch",
+    "ttl": "2026-08-11T10:19:30.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316261055089",
+    "channelId": "ren_kisaragi__",
+    "title": "告知が出ましたわ～～～～～～～～",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-08-04T11:08:07Z",
+    "startTime": "2026-08-04T11:08:07Z",
+    "platform": "twitch",
+    "ttl": "2026-08-11T11:08:07.000Z",
+    "streamerId": "kisaragi_ren"
   }
 ]
