@@ -102,31 +102,5 @@
     "endTime": "2026-07-28T18:57:21Z",
     "ttl": "2026-08-04T14:00:00.000Z",
     "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "fkwkbhb5C_0",
-    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
-    "title": "【VCR RUST】本当に初心者です本日お邪魔します【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/fkwkbhb5C_0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=fkwkbhb5C_0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-28T12:00:00Z",
-    "startTime": "2026-07-28T12:02:19Z",
-    "endTime": "2026-07-28T16:59:15Z",
-    "ttl": "2026-08-04T12:00:00.000Z",
-    "streamerId": "amayui_moka"
-  },
-  {
-    "id": "dMU16_v-yEA",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "Let's get out of 23K part 2  |  Premier  |  Counter-Strike 2 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/dMU16_v-yEA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=dMU16_v-yEA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-28T12:00:00Z",
-    "startTime": "2026-07-28T12:15:26Z",
-    "endTime": "2026-07-28T17:51:25Z",
-    "ttl": "2026-08-04T12:00:00.000Z",
-    "streamerId": "remia_aotsuki"
   }
 ]
