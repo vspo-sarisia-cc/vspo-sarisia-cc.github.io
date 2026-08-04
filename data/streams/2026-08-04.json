@@ -40,19 +40,9 @@
     "url": "https://www.youtube.com/watch?v=rvnboU6Zltw",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-04T03:00:00Z",
+    "startTime": "2026-08-04T03:00:54Z",
     "ttl": "2026-08-11T03:00:00.000Z",
     "streamerId": "jira_jisaki"
-  },
-  {
-    "id": "EVX-NgRTkwA",
-    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
-    "title": "【Road to Empress | Part 2】 soup!! 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/EVX-NgRTkwA/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=EVX-NgRTkwA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-04T03:00:00Z",
-    "ttl": "2026-08-11T03:00:00.000Z",
-    "streamerId": "narin_mikure"
   },
   {
     "id": "J95UghuT01w",
@@ -62,6 +52,7 @@
     "url": "https://www.youtube.com/watch?v=J95UghuT01w",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-04T04:00:00Z",
+    "startTime": "2026-08-04T03:52:39Z",
     "ttl": "2026-08-11T04:00:00.000Z",
     "streamerId": "juno_umezono"
   }
