@@ -91,6 +91,17 @@
     "streamerId": "hanabusa_lisa"
   },
   {
+    "id": "E_0p9RFHcHs",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【雑談】朝雑～いってらっしゃい～～【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/E_0p9RFHcHs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=E_0p9RFHcHs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-04T22:00:00Z",
+    "ttl": "2026-08-11T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "sLU1JspzPj4",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【Pummel Party】V最 炊きたてファジーおにぎり二次会！【ぶいすぽっ！/ 藍沢エマ】",
@@ -213,6 +224,7 @@
     "url": "https://www.youtube.com/watch?v=WR64-HOqrCg",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-04T21:00:00Z",
+    "startTime": "2026-08-04T21:01:46Z",
     "ttl": "2026-08-11T21:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -289,5 +301,17 @@
     "platform": "twitch",
     "ttl": "2026-08-11T10:00:54.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "315884147667",
+    "channelId": "remiaaotsuki",
+    "title": "ELO gaining time w/ @akiratsukiyono I Premier SEA",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/5a9409e44b35ba0653d7_remiaaotsuki_315884147667_1785877577//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2837329190",
+    "scheduledStartTime": "2026-08-04T21:07:38Z",
+    "startTime": "2026-08-04T21:07:38Z",
+    "platform": "twitch",
+    "ttl": "2026-08-11T21:07:38.000Z",
+    "streamerId": "remia_aotsuki"
   }
 ]
