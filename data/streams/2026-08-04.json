@@ -98,6 +98,7 @@
     "url": "https://www.youtube.com/watch?v=E_0p9RFHcHs",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-04T22:00:00Z",
+    "startTime": "2026-08-04T22:01:17Z",
     "ttl": "2026-08-11T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -187,6 +188,7 @@
     "url": "https://www.youtube.com/watch?v=W2auY6pnMe0",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-04T22:00:00Z",
+    "startTime": "2026-08-04T22:00:38Z",
     "ttl": "2026-08-11T22:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -255,18 +257,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316262923889",
-    "channelId": "sendo_yuuhi",
-    "title": "え、かすたむ・・・？",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sendo_yuuhi-320x180.jpg",
-    "url": "https://www.twitch.tv/sendo_yuuhi",
-    "scheduledStartTime": "2026-08-04T19:18:12Z",
-    "startTime": "2026-08-04T19:18:12Z",
-    "platform": "twitch",
-    "ttl": "2026-08-11T19:18:12.000Z",
-    "streamerId": "sendo_yuuhi"
-  },
-  {
     "id": "316261055089",
     "channelId": "ren_kisaragi__",
     "title": "告知が出ましたわ～～～～～～～～",
@@ -301,6 +291,18 @@
     "platform": "twitch",
     "ttl": "2026-08-11T10:00:54.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316262923889",
+    "channelId": "sendo_yuuhi",
+    "title": "え、かすたむ・・・？",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/5f2f15596ac07130002b_sendo_yuuhi_316262923889_1785871092//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2837244903",
+    "scheduledStartTime": "2026-08-04T19:18:17Z",
+    "startTime": "2026-08-04T19:18:17Z",
+    "platform": "twitch",
+    "ttl": "2026-08-11T19:18:17.000Z",
+    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "315884147667",
