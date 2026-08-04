@@ -1,5 +1,17 @@
 [
   {
+    "id": "7hIRc_X4Itc",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】耐久!?マスターまであと800RP！【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/7hIRc_X4Itc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=7hIRc_X4Itc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-04T06:30:00Z",
+    "startTime": "2026-08-04T06:22:50Z",
+    "ttl": "2026-08-11T06:30:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "W2auY6pnMe0",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【朝活雑談】　暑い！！！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -36,11 +48,12 @@
     "id": "rvnboU6Zltw",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【League of Legends】EMERALD 2 START COUNT YOUR DAYS RIOT GA【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/rvnboU6Zltw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/rvnboU6Zltw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=rvnboU6Zltw",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-04T03:00:00Z",
     "startTime": "2026-08-04T03:00:54Z",
+    "endTime": "2026-08-04T05:17:20Z",
     "ttl": "2026-08-11T03:00:00.000Z",
     "streamerId": "jira_jisaki"
   },

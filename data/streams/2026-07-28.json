@@ -195,19 +195,6 @@
     "streamerId": "komori_met"
   },
   {
-    "id": "ARn-N_cBLmE",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【VALORANT】ソロコンペ！早くイモータル帰るぞ５【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/ARn-N_cBLmE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ARn-N_cBLmE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-28T06:05:00Z",
-    "startTime": "2026-07-28T06:11:56Z",
-    "endTime": "2026-07-28T11:44:57Z",
-    "ttl": "2026-08-04T06:05:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
     "id": "O63kC1edM_0",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【朝活雑談】　もう真夏です！！もうすぐ３０万人！！！いきたいです！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -345,18 +332,6 @@
     "startTime": "2026-07-28T10:05:32Z",
     "platform": "twitch",
     "ttl": "2026-08-04T10:05:32.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316237877746",
-    "channelId": "akarindao",
-    "title": "めあたむとツルギ君といくAPEX",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/878e904701360f0c6a92_akarindao_316237877746_1785215351//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2830908388",
-    "scheduledStartTime": "2026-07-28T05:09:16Z",
-    "startTime": "2026-07-28T05:09:16Z",
-    "platform": "twitch",
-    "ttl": "2026-08-04T05:09:16.000Z",
     "streamerId": "yumeno_akari"
   }
 ]
