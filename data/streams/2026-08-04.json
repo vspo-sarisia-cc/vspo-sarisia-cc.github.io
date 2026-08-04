@@ -12,6 +12,41 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "x24G_k-lAq8",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】ほんのちょっとだけ【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/x24G_k-lAq8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=x24G_k-lAq8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-04T07:30:00Z",
+    "startTime": "2026-08-04T07:41:28Z",
+    "ttl": "2026-08-11T07:30:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "sLU1JspzPj4",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【Pummel Party】V最 炊きたてファジーおにぎり二次会！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/sLU1JspzPj4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=sLU1JspzPj4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-04T11:00:00Z",
+    "ttl": "2026-08-11T11:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "1XHkhEp50_4",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】うおおやっとイモータル戻ったあああ【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/1XHkhEp50_4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=1XHkhEp50_4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-04T08:00:00Z",
+    "startTime": "2026-08-04T08:01:59Z",
+    "ttl": "2026-08-11T08:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "W2auY6pnMe0",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【朝活雑談】　暑い！！！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -23,6 +58,18 @@
     "streamerId": "choya_hanabi"
   },
   {
+    "id": "zMNqN5tCur8",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【スト6】ルーーークはあるのか　我々は調査に向かった（１人）ルーク詳しい人いたら助かる【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/zMNqN5tCur8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=zMNqN5tCur8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-04T07:15:00Z",
+    "startTime": "2026-08-04T07:15:45Z",
+    "ttl": "2026-08-11T07:15:00.000Z",
+    "streamerId": "amayui_moka"
+  },
+  {
     "id": "pwDtNJsEl2Y",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【ゼンレスゾーンゼロ】夏だ！美女だ！ゼンゼロだ！！【ぶいすぽっ！ #銀城サイネ 】",
@@ -30,6 +77,7 @@
     "url": "https://www.youtube.com/watch?v=pwDtNJsEl2Y",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-04T08:00:00Z",
+    "startTime": "2026-08-04T08:02:18Z",
     "ttl": "2026-08-11T08:00:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -61,11 +109,12 @@
     "id": "J95UghuT01w",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Marvel Rivals◢ THE FILIPINO AVENGERS? | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/J95UghuT01w/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/J95UghuT01w/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=J95UghuT01w",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-04T04:00:00Z",
     "startTime": "2026-08-04T03:52:39Z",
+    "endTime": "2026-08-04T07:22:22Z",
     "ttl": "2026-08-11T04:00:00.000Z",
     "streamerId": "juno_umezono"
   }
