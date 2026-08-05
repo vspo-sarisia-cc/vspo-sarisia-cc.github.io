@@ -1,25 +1,75 @@
 [
   {
+    "id": "AtbnNRzajOY",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【VCR:Rust】今日が最終日【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/AtbnNRzajOY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=AtbnNRzajOY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-05T09:30:00Z",
+    "startTime": "2026-08-05T09:22:09Z",
+    "ttl": "2026-08-12T09:30:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "Fxd7_9Bi_DQ",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【VCR RUST】ラスト【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/Fxd7_9Bi_DQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Fxd7_9Bi_DQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-05T09:00:00Z",
+    "startTime": "2026-08-05T09:03:37Z",
+    "ttl": "2026-08-12T09:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "dD1KMMowAS0",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
     "title": "【雑談】ちょっとだけでもおしゃべり【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/dD1KMMowAS0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/dD1KMMowAS0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=dD1KMMowAS0",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-05T08:00:00Z",
     "startTime": "2026-08-05T07:46:06Z",
+    "endTime": "2026-08-05T08:52:24Z",
     "ttl": "2026-08-12T08:00:00.000Z",
     "streamerId": "tosaki_mimi"
   },
   {
+    "id": "_EcsR96KoUM",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 VCR RUST 】 本日LAST！【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/_EcsR96KoUM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=_EcsR96KoUM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-05T09:35:00Z",
+    "startTime": "2026-08-05T09:33:19Z",
+    "ttl": "2026-08-12T09:35:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "4NCo-awU7Gg",
+    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
+    "title": "【VCR RUST】最終日になっちゃった・・・【ぶいすぽっ！/英リサ】",
+    "thumbnail": "https://i.ytimg.com/vi/4NCo-awU7Gg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=4NCo-awU7Gg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-05T09:45:00Z",
+    "startTime": "2026-08-05T09:38:35Z",
+    "ttl": "2026-08-12T09:45:00.000Z",
+    "streamerId": "hanabusa_lisa"
+  },
+  {
     "id": "PuAFhRyRnJo",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 VCR RUST 〗開始時間未定。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+    "title": "〖 VCR RUST 〗さいしゅうび・・だと・・・⁉️⁉️の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
     "thumbnail": "https://i.ytimg.com/vi/PuAFhRyRnJo/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=PuAFhRyRnJo",
     "platform": "youtube",
-    "scheduledStartTime": "2026-08-05T11:00:00Z",
-    "ttl": "2026-08-12T11:00:00.000Z",
+    "scheduledStartTime": "2026-08-05T09:30:00Z",
+    "startTime": "2026-08-05T09:34:59Z",
+    "ttl": "2026-08-12T09:30:00.000Z",
     "streamerId": "yano_kuromu"
   },
   {
@@ -30,6 +80,7 @@
     "url": "https://www.youtube.com/watch?v=woFmU6YcHXE",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-05T08:00:00Z",
+    "startTime": "2026-08-05T08:01:49Z",
     "ttl": "2026-08-12T08:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -41,6 +92,7 @@
     "url": "https://www.youtube.com/watch?v=RrKMqp_uL7E",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-05T09:00:00Z",
+    "startTime": "2026-08-05T09:28:26Z",
     "ttl": "2026-08-12T09:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -48,11 +100,12 @@
     "id": "XuUNMBnhuj0",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】ルーーーク!!!GOGO!!さすがに今日は配信ちょっとにしようかな！！！！【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/XuUNMBnhuj0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/XuUNMBnhuj0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=XuUNMBnhuj0",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-05T05:25:00Z",
     "startTime": "2026-08-05T05:25:47Z",
+    "endTime": "2026-08-05T08:10:46Z",
     "ttl": "2026-08-12T05:25:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -60,11 +113,12 @@
     "id": "2vVFQrBWcKE",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  League of Legends  ◢　マスターに戻れたのでLPあげたい   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/2vVFQrBWcKE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/2vVFQrBWcKE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=2vVFQrBWcKE",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-05T07:00:00Z",
     "startTime": "2026-08-05T07:07:21Z",
+    "endTime": "2026-08-05T10:18:13Z",
     "ttl": "2026-08-12T07:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -104,15 +158,27 @@
     "streamerId": "juno_umezono"
   },
   {
+    "id": "316265003633",
+    "channelId": "akarindao",
+    "title": "最終日らしいので挨拶しないとVCR",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-08-05T09:03:23Z",
+    "startTime": "2026-08-05T09:03:23Z",
+    "platform": "twitch",
+    "ttl": "2026-08-12T09:03:23.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
     "id": "316264558833",
     "channelId": "akarindao",
     "title": "火薬集め釣り雑談【ぶいすぽ夏祭り】",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-08-05T06:34:25Z",
-    "startTime": "2026-08-05T06:34:25Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/0c1731b73d2de1fbe2db_akarindao_316264558833_1785911665//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2837717710",
+    "scheduledStartTime": "2026-08-05T06:34:30Z",
+    "startTime": "2026-08-05T06:34:30Z",
     "platform": "twitch",
-    "ttl": "2026-08-12T06:34:25.000Z",
+    "ttl": "2026-08-12T06:34:30.000Z",
     "streamerId": "yumeno_akari"
   }
 ]
