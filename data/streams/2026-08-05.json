@@ -1,5 +1,17 @@
 [
   {
+    "id": "dD1KMMowAS0",
+    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
+    "title": "【雑談】ちょっとだけでもおしゃべり【ぶいすぽ/兎咲ミミ】",
+    "thumbnail": "https://i.ytimg.com/vi/dD1KMMowAS0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=dD1KMMowAS0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-05T08:00:00Z",
+    "startTime": "2026-08-05T07:46:06Z",
+    "ttl": "2026-08-12T08:00:00.000Z",
+    "streamerId": "tosaki_mimi"
+  },
+  {
     "id": "PuAFhRyRnJo",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 VCR RUST 〗開始時間未定。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
@@ -9,6 +21,17 @@
     "scheduledStartTime": "2026-08-05T11:00:00Z",
     "ttl": "2026-08-12T11:00:00.000Z",
     "streamerId": "yano_kuromu"
+  },
+  {
+    "id": "woFmU6YcHXE",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "LJL 2026 SUMMER CHAMPIONSHIP UPPER ROUND 3 公式ウォッチパーティー！【ぶいすぽっ！/千燈ゆうひ】",
+    "thumbnail": "https://i.ytimg.com/vi/woFmU6YcHXE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=woFmU6YcHXE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-05T08:00:00Z",
+    "ttl": "2026-08-12T08:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "RrKMqp_uL7E",
@@ -29,8 +52,21 @@
     "url": "https://www.youtube.com/watch?v=XuUNMBnhuj0",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-05T05:25:00Z",
+    "startTime": "2026-08-05T05:25:47Z",
     "ttl": "2026-08-12T05:25:00.000Z",
     "streamerId": "amayui_moka"
+  },
+  {
+    "id": "2vVFQrBWcKE",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　マスターに戻れたのでLPあげたい   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/2vVFQrBWcKE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=2vVFQrBWcKE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-05T07:00:00Z",
+    "startTime": "2026-08-05T07:07:21Z",
+    "ttl": "2026-08-12T07:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "qEY3HYO7J4o",
@@ -47,11 +83,12 @@
     "id": "EVX-NgRTkwA",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
     "title": "【Road to Empress | Part 2】 soup!! 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/EVX-NgRTkwA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/EVX-NgRTkwA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=EVX-NgRTkwA",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-05T03:00:00Z",
     "startTime": "2026-08-05T03:08:07Z",
+    "endTime": "2026-08-05T05:34:40Z",
     "ttl": "2026-08-12T03:00:00.000Z",
     "streamerId": "narin_mikure"
   },
@@ -65,5 +102,17 @@
     "scheduledStartTime": "2026-08-05T14:00:00Z",
     "ttl": "2026-08-12T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316264558833",
+    "channelId": "akarindao",
+    "title": "火薬集め釣り雑談【ぶいすぽ夏祭り】",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-08-05T06:34:25Z",
+    "startTime": "2026-08-05T06:34:25Z",
+    "platform": "twitch",
+    "ttl": "2026-08-12T06:34:25.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]

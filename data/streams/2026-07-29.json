@@ -91,19 +91,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "oGV_t3WCLzs",
-    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
-    "title": "【Minecraft】花火会場の装飾 【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/oGV_t3WCLzs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=oGV_t3WCLzs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-29T07:45:00Z",
-    "startTime": "2026-07-29T07:47:26Z",
-    "endTime": "2026-07-29T12:35:09Z",
-    "ttl": "2026-08-05T07:45:00.000Z",
-    "streamerId": "tosaki_mimi"
-  },
-  {
     "id": "S0YMdndo-E8",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "仕事.学校行きたくない人おいで～【空澄セナ/ぶいすぽっ！】",
@@ -179,19 +166,6 @@
     "startTime": "2026-07-29T10:31:30Z",
     "endTime": "2026-07-29T13:46:14Z",
     "ttl": "2026-08-05T11:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "L4IGhZooLXc",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "三時のざつだん",
-    "thumbnail": "https://i.ytimg.com/vi/L4IGhZooLXc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=L4IGhZooLXc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-29T06:45:00Z",
-    "startTime": "2026-07-29T06:39:07Z",
-    "endTime": "2026-07-29T08:39:58Z",
-    "ttl": "2026-08-05T06:45:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -412,18 +386,6 @@
     "startTime": "2026-07-29T10:33:34Z",
     "platform": "twitch",
     "ttl": "2026-08-05T10:33:34.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316242439282",
-    "channelId": "ren_kisaragi__",
-    "title": "でも～？なんと～？",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/7ac87860d9f9f16e023f_ren_kisaragi___316242439282_1785308350//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2831772644",
-    "scheduledStartTime": "2026-07-29T06:59:15Z",
-    "startTime": "2026-07-29T06:59:15Z",
-    "platform": "twitch",
-    "ttl": "2026-08-05T06:59:15.000Z",
     "streamerId": "kisaragi_ren"
   },
   {
