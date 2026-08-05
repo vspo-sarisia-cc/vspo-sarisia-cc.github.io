@@ -1,18 +1,5 @@
 [
   {
-    "id": "ftcJPrDxSiA",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【VCR RUST】腹パンタンク【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/ftcJPrDxSiA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ftcJPrDxSiA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-29T15:15:00Z",
-    "startTime": "2026-07-29T15:13:09Z",
-    "endTime": "2026-07-29T19:04:41Z",
-    "ttl": "2026-08-05T15:15:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
     "id": "S0YMdndo-E8",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "仕事.学校行きたくない人おいで～【空澄セナ/ぶいすぽっ！】",
@@ -26,19 +13,6 @@
     "streamerId": "asumi_sena"
   },
   {
-    "id": "CZIaRX8Z9Sc",
-    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
-    "title": "【 APEX 】ふるぱ w/ハセシン、バーチャルゴリラ【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/CZIaRX8Z9Sc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=CZIaRX8Z9Sc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-29T15:20:00Z",
-    "startTime": "2026-07-29T15:24:14Z",
-    "endTime": "2026-07-29T18:15:22Z",
-    "ttl": "2026-08-05T15:20:00.000Z",
-    "streamerId": "shinomiya_runa"
-  },
-  {
     "id": "HQx0bOUOSH8",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【Minecraft】やぐらっぽいやつ作る！２【ぶいすぽっ！ / 紡木こかげ】",
@@ -50,18 +24,5 @@
     "endTime": "2026-07-29T22:30:12Z",
     "ttl": "2026-08-05T16:30:00.000Z",
     "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "esSGm-1KOx8",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  VCR RUST  ◢　RUSTいくぞおおお #4  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/esSGm-1KOx8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=esSGm-1KOx8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-29T14:45:00Z",
-    "startTime": "2026-07-29T14:46:22Z",
-    "endTime": "2026-07-29T19:08:16Z",
-    "ttl": "2026-08-05T14:45:00.000Z",
-    "streamerId": "tatsumaki_chise"
   }
 ]
