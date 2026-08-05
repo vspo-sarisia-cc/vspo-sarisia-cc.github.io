@@ -24,6 +24,18 @@
     "streamerId": "ichinose_uruha"
   },
   {
+    "id": "HNTqFc8g0gg",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】新シーズンフルパで見に行こう！/つな、ボドさん【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/HNTqFc8g0gg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=HNTqFc8g0gg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-05T11:00:00Z",
+    "startTime": "2026-08-05T11:01:59Z",
+    "ttl": "2026-08-12T11:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "dD1KMMowAS0",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
     "title": "【雑談】ちょっとだけでもおしゃべり【ぶいすぽ/兎咲ミミ】",
@@ -61,6 +73,18 @@
     "streamerId": "hanabusa_lisa"
   },
   {
+    "id": "p6cZr5iL_6g",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【APEX】新シーズンになってめっちゃ変わったらしいじゃないですか　w/ぼどっち、のあっち【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/p6cZr5iL_6g/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=p6cZr5iL_6g",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-05T11:00:00Z",
+    "startTime": "2026-08-05T11:01:53Z",
+    "ttl": "2026-08-12T11:00:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
     "id": "PuAFhRyRnJo",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 VCR RUST 〗さいしゅうび・・だと・・・⁉️⁉️の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
@@ -69,6 +93,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-05T09:30:00Z",
     "startTime": "2026-08-05T09:34:59Z",
+    "endTime": "2026-08-05T12:19:16Z",
     "ttl": "2026-08-12T09:30:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -76,11 +101,12 @@
     "id": "woFmU6YcHXE",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "LJL 2026 SUMMER CHAMPIONSHIP UPPER ROUND 3 公式ウォッチパーティー！【ぶいすぽっ！/千燈ゆうひ】",
-    "thumbnail": "https://i.ytimg.com/vi/woFmU6YcHXE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/woFmU6YcHXE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=woFmU6YcHXE",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-05T08:00:00Z",
     "startTime": "2026-08-05T08:01:49Z",
+    "endTime": "2026-08-05T10:57:09Z",
     "ttl": "2026-08-12T08:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -110,6 +136,18 @@
     "streamerId": "amayui_moka"
   },
   {
+    "id": "gRKQWdqzweM",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  VCR RUST  ◢　最終日！やらせていただく！#8  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/gRKQWdqzweM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=gRKQWdqzweM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-05T12:00:00Z",
+    "startTime": "2026-08-05T12:00:49Z",
+    "ttl": "2026-08-12T12:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
+  },
+  {
     "id": "2vVFQrBWcKE",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  League of Legends  ◢　マスターに戻れたのでLPあげたい   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
@@ -130,6 +168,7 @@
     "url": "https://www.youtube.com/watch?v=qEY3HYO7J4o",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-05T12:00:00Z",
+    "startTime": "2026-08-05T12:03:46Z",
     "ttl": "2026-08-12T12:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
