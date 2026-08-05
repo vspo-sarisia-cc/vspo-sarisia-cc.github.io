@@ -1,5 +1,16 @@
 [
   {
+    "id": "RrKMqp_uL7E",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "#最終回【 VCR RUST3 】　もう今日でおわりなの？？！？！！！！；；　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/RrKMqp_uL7E/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=RrKMqp_uL7E",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-05T09:00:00Z",
+    "ttl": "2026-08-12T09:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "qEY3HYO7J4o",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "23K Grind w/ @AkiraTsukiyono   |  Premier  |  Counter-Strike 2 【#VSPOEN #RemiaAotsuki】",
@@ -20,5 +31,16 @@
     "scheduledStartTime": "2026-08-05T03:00:00Z",
     "ttl": "2026-08-12T03:00:00.000Z",
     "streamerId": "narin_mikure"
+  },
+  {
+    "id": "qyJ-9iaYZvk",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Apex Legends◢ Kuroha Invitational training ! | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/qyJ-9iaYZvk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=qyJ-9iaYZvk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-05T14:00:00Z",
+    "ttl": "2026-08-12T14:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
