@@ -1,5 +1,16 @@
 [
   {
+    "id": "PuAFhRyRnJo",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "〖 VCR RUST 〗開始時間未定。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+    "thumbnail": "https://i.ytimg.com/vi/PuAFhRyRnJo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=PuAFhRyRnJo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-05T11:00:00Z",
+    "ttl": "2026-08-12T11:00:00.000Z",
+    "streamerId": "yano_kuromu"
+  },
+  {
     "id": "RrKMqp_uL7E",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "#最終回【 VCR RUST3 】　もう今日でおわりなの？？！？！！！！；；　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -9,6 +20,17 @@
     "scheduledStartTime": "2026-08-05T09:00:00Z",
     "ttl": "2026-08-12T09:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "XuUNMBnhuj0",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【スト6】ルーーーク!!!GOGO!!さすがに今日は配信ちょっとにしようかな！！！！【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/XuUNMBnhuj0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=XuUNMBnhuj0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-05T05:25:00Z",
+    "ttl": "2026-08-12T05:25:00.000Z",
+    "streamerId": "amayui_moka"
   },
   {
     "id": "qEY3HYO7J4o",
@@ -29,6 +51,7 @@
     "url": "https://www.youtube.com/watch?v=EVX-NgRTkwA",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-05T03:00:00Z",
+    "startTime": "2026-08-05T03:08:07Z",
     "ttl": "2026-08-12T03:00:00.000Z",
     "streamerId": "narin_mikure"
   },
