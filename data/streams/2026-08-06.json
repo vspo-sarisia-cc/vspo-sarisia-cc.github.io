@@ -20,6 +20,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-06T08:10:00Z",
     "startTime": "2026-08-06T08:21:43Z",
+    "endTime": "2026-08-06T12:49:36Z",
     "ttl": "2026-08-13T08:10:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -49,14 +50,27 @@
     "streamerId": "tachibana_hinano"
   },
   {
+    "id": "PViXSOUzj64",
+    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
+    "title": "【リズム天国 ミラクルスターズ】ノれないやつは、置いていく【ぶいすぽっ！/英リサ】",
+    "thumbnail": "https://i.ytimg.com/vi/PViXSOUzj64/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=PViXSOUzj64",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-06T12:00:00Z",
+    "startTime": "2026-08-06T12:01:05Z",
+    "ttl": "2026-08-13T12:00:00.000Z",
+    "streamerId": "hanabusa_lisa"
+  },
+  {
     "id": "NEmUcH4wqX4",
     "channelId": "UCGWa1dMU_sDCaRQjdabsVgg",
-    "title": "【？？？？？】",
-    "thumbnail": "https://i.ytimg.com/vi/NEmUcH4wqX4/mqdefault_live.jpg",
+    "title": "【 #SFリーグ 】公式応援アンバサダー就任発表配信！【 ぶいすぽ/如月れん 】",
+    "thumbnail": "https://i.ytimg.com/vi/NEmUcH4wqX4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=NEmUcH4wqX4",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-06T11:00:00Z",
     "startTime": "2026-08-06T10:58:11Z",
+    "endTime": "2026-08-06T11:50:29Z",
     "ttl": "2026-08-13T11:00:00.000Z",
     "streamerId": "kisaragi_ren"
   },
@@ -100,16 +114,40 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "dJDylnz9I0I",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】ソロコンペ！早くイモ2戻るぞ２【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/dJDylnz9I0I/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=dJDylnz9I0I",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-06T13:15:00Z",
+    "ttl": "2026-08-13T13:15:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "GqSOVD3y06w",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【#WatchPartyLCP】SHG vs GZ | LCP 2026 Split 3 Swiss Stage Week 3 Day 1【ぶいすぽっ！/千燈ゆうひ】",
-    "thumbnail": "https://i.ytimg.com/vi/GqSOVD3y06w/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/GqSOVD3y06w/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=GqSOVD3y06w",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-06T09:00:00Z",
     "startTime": "2026-08-06T09:11:29Z",
+    "endTime": "2026-08-06T12:17:54Z",
     "ttl": "2026-08-13T09:00:00.000Z",
     "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "JKFfRya9-RI",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【スト６】　ﾏｲﾁｬﾝどうなってんﾏﾘﾁｬﾝ！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/JKFfRya9-RI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=JKFfRya9-RI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-06T13:15:00Z",
+    "startTime": "2026-08-06T13:15:01Z",
+    "ttl": "2026-08-13T13:15:00.000Z",
+    "streamerId": "choya_hanabi"
   },
   {
     "id": "cGLImFtBauM",
@@ -198,6 +236,30 @@
     "endTime": "2026-08-06T06:23:33Z",
     "ttl": "2026-08-13T01:30:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "317392988386",
+    "channelId": "remiaaotsuki",
+    "title": "ELO gaining time w/ @akiratsukiyono I Premier SEA/NA",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_remiaaotsuki-320x180.jpg",
+    "url": "https://www.twitch.tv/remiaaotsuki",
+    "scheduledStartTime": "2026-08-06T12:01:14Z",
+    "startTime": "2026-08-06T12:01:14Z",
+    "platform": "twitch",
+    "ttl": "2026-08-13T12:01:14.000Z",
+    "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "316335668979",
+    "channelId": "akarindao",
+    "title": "ゼロからモンストで運極を5体作る件について。#PR",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-08-06T13:17:12Z",
+    "startTime": "2026-08-06T13:17:12Z",
+    "platform": "twitch",
+    "ttl": "2026-08-13T13:17:12.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "320712902233",
