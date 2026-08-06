@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=FB0gS-c-amw",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-06T11:00:00Z",
+    "startTime": "2026-08-06T11:05:28Z",
     "ttl": "2026-08-13T11:00:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -36,6 +37,18 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "m8y0fp-PqmY",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 Apex Legends 】 新シーズンやりますか w/ボド、でゅーく【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/m8y0fp-PqmY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=m8y0fp-PqmY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-06T11:30:00Z",
+    "startTime": "2026-08-06T11:29:13Z",
+    "ttl": "2026-08-13T11:30:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "NEmUcH4wqX4",
     "channelId": "UCGWa1dMU_sDCaRQjdabsVgg",
     "title": "【？？？？？】",
@@ -43,6 +56,7 @@
     "url": "https://www.youtube.com/watch?v=NEmUcH4wqX4",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-06T11:00:00Z",
+    "startTime": "2026-08-06T10:58:11Z",
     "ttl": "2026-08-13T11:00:00.000Z",
     "streamerId": "kisaragi_ren"
   },
@@ -50,7 +64,7 @@
     "id": "VgdAA0Gdzn0",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】げきねむ筋トレ💎🍅💜【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/VgdAA0Gdzn0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/VgdAA0Gdzn0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=VgdAA0Gdzn0",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-06T06:45:00Z",
@@ -111,6 +125,18 @@
     "streamerId": "amayui_moka"
   },
   {
+    "id": "r5LwWShCz0g",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　今日こそ連勝！連勝！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/r5LwWShCz0g/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=r5LwWShCz0g",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-06T10:20:00Z",
+    "startTime": "2026-08-06T10:20:29Z",
+    "ttl": "2026-08-13T10:20:00.000Z",
+    "streamerId": "tatsumaki_chise"
+  },
+  {
     "id": "EkGX3bRJNsU",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "SCRIMS | KUROHA × INZONE INVITATIONAL vr. Apex Legends【#KurohaInvitational2026 #VSPOEN #AryaKuroha】",
@@ -131,6 +157,7 @@
     "url": "https://www.youtube.com/watch?v=Uyk3Rc4NY-U",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-06T11:00:00Z",
+    "startTime": "2026-08-06T11:14:09Z",
     "ttl": "2026-08-13T11:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -148,6 +175,18 @@
     "streamerId": "riko_solari"
   },
   {
+    "id": "_KhyPvyYh0o",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Machine Party◢ ITS PARTY TIME | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/_KhyPvyYh0o/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=_KhyPvyYh0o",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-06T11:00:00Z",
+    "startTime": "2026-08-06T11:00:39Z",
+    "ttl": "2026-08-13T11:00:00.000Z",
+    "streamerId": "juno_umezono"
+  },
+  {
     "id": "WeqJNUCzOkA",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Apex Legends◢ Kuroha Scrims Day 1 Team 9 | #JunoUmezono #VSPOEN",
@@ -158,17 +197,6 @@
     "startTime": "2026-08-06T01:27:48Z",
     "endTime": "2026-08-06T06:23:33Z",
     "ttl": "2026-08-13T01:30:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
-    "id": "_KhyPvyYh0o",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Machine Party◢ ITS PARTY TIME | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/_KhyPvyYh0o/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=_KhyPvyYh0o",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-06T11:00:00Z",
-    "ttl": "2026-08-13T11:00:00.000Z",
     "streamerId": "juno_umezono"
   },
   {

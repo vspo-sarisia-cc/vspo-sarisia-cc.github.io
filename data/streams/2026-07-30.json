@@ -1,18 +1,5 @@
 [
   {
-    "id": "_17m_-z0o6Q",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【VCR:Rust】ぶいすぽ海賊団始動【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/_17m_-z0o6Q/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=_17m_-z0o6Q",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-30T09:45:00Z",
-    "startTime": "2026-07-30T09:46:43Z",
-    "endTime": "2026-07-30T18:12:21Z",
-    "ttl": "2026-08-06T09:45:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "odstVoOcFhc",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 LoL 】LoLクラシックとやらをやるのです w/ゆうひちゃん、ちせちゃん、ぽんさん、カツディオンさん【 ぶいすぽ / 小雀とと 】",
@@ -26,19 +13,6 @@
     "streamerId": "kogara_toto"
   },
   {
-    "id": "lSR_WHbO9cE",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 VCR RUST 】 エピックスクラップください【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/lSR_WHbO9cE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=lSR_WHbO9cE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-30T10:00:00Z",
-    "startTime": "2026-07-30T10:00:18Z",
-    "endTime": "2026-07-30T19:05:03Z",
-    "ttl": "2026-08-06T10:00:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
     "id": "gKrXLSq7I_s",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【VCR RUST】ｵｼﾞｬﾏｼﾏｽ…【ぶいすぽ / 猫汰つな】",
@@ -50,19 +24,6 @@
     "endTime": "2026-07-30T18:34:22Z",
     "ttl": "2026-08-06T13:30:00.000Z",
     "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "uqVCjtHz1_8",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "#１１【 VCR RUST3 】　ファーム大革命時代！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/uqVCjtHz1_8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=uqVCjtHz1_8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-30T10:00:00Z",
-    "startTime": "2026-07-30T10:02:26Z",
-    "endTime": "2026-07-30T19:19:20Z",
-    "ttl": "2026-08-06T10:00:00.000Z",
-    "streamerId": "choya_hanabi"
   },
   {
     "id": "3pzz-_OXKSM",
@@ -113,18 +74,6 @@
     "startTime": "2026-07-30T17:26:57Z",
     "platform": "twitch",
     "ttl": "2026-08-06T17:26:57.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316238876913",
-    "channelId": "ren_kisaragi__",
-    "title": "Street Fighter 6 at EWC 26 - Day 2 - Group Stageミラー配信",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/6f00a501d010ff513a52_ren_kisaragi___316238876913_1785407710//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2832657341",
-    "scheduledStartTime": "2026-07-30T10:35:15Z",
-    "startTime": "2026-07-30T10:35:15Z",
-    "platform": "twitch",
-    "ttl": "2026-08-06T10:35:15.000Z",
     "streamerId": "kisaragi_ren"
   },
   {
