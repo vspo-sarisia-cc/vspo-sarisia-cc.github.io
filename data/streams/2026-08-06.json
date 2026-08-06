@@ -1,5 +1,17 @@
 [
   {
+    "id": "27SZeBudA-Y",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】アリヤの大会スクリムに出るぞ！cpt/Ruさん【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/27SZeBudA-Y/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=27SZeBudA-Y",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-06T02:00:00Z",
+    "startTime": "2026-08-06T02:15:34Z",
+    "ttl": "2026-08-13T02:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "NEmUcH4wqX4",
     "channelId": "UCGWa1dMU_sDCaRQjdabsVgg",
     "title": "【？？？？？】",
@@ -11,14 +23,39 @@
     "streamerId": "kisaragi_ren"
   },
   {
+    "id": "DcEo269x4vw",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 APEX 】Aryaちゃん主催大会スクリム w/1tappy、きなこ【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/DcEo269x4vw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=DcEo269x4vw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-06T02:00:00Z",
+    "startTime": "2026-08-06T02:20:19Z",
+    "ttl": "2026-08-13T02:00:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "2a_lGDl5OAk",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【APEX】11時から大会のスクリム！w/ハセシン、Xtsuviさん #KurohaInvitational2026【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/2a_lGDl5OAk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=2a_lGDl5OAk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-06T01:10:00Z",
+    "startTime": "2026-08-06T01:15:05Z",
+    "ttl": "2026-08-13T01:10:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
     "id": "EkGX3bRJNsU",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "SCRIMS | KUROHA × INZONE INVITATIONAL vr. Apex Legends【#KurohaInvitational2026 #VSPOEN #AryaKuroha】",
     "thumbnail": "https://i.ytimg.com/vi/EkGX3bRJNsU/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=EkGX3bRJNsU",
     "platform": "youtube",
-    "scheduledStartTime": "2026-08-06T02:00:00Z",
-    "ttl": "2026-08-13T02:00:00.000Z",
+    "scheduledStartTime": "2026-08-06T01:20:00Z",
+    "startTime": "2026-08-06T01:22:16Z",
+    "ttl": "2026-08-13T01:20:00.000Z",
     "streamerId": "arya_kuroha"
   },
   {
@@ -40,8 +77,21 @@
     "url": "https://www.youtube.com/watch?v=n4tIQASl5Fo",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-06T02:00:00Z",
+    "startTime": "2026-08-06T02:01:13Z",
     "ttl": "2026-08-13T02:00:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "WeqJNUCzOkA",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Apex Legends◢ Kuroha Scrims Day 1 Team 9 | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/WeqJNUCzOkA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=WeqJNUCzOkA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-06T01:30:00Z",
+    "startTime": "2026-08-06T01:27:48Z",
+    "ttl": "2026-08-13T01:30:00.000Z",
+    "streamerId": "juno_umezono"
   },
   {
     "id": "_KhyPvyYh0o",
@@ -55,15 +105,16 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "WeqJNUCzOkA",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Apex Legends◢ Kuroha Scrims Day 1 Team 9 | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/WeqJNUCzOkA/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=WeqJNUCzOkA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-06T01:30:00Z",
-    "ttl": "2026-08-13T01:30:00.000Z",
-    "streamerId": "juno_umezono"
+    "id": "320712902233",
+    "channelId": "aryakuroha",
+    "title": "✦ kuroha x inzone invitational scrims !!",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-08-06T01:22:13Z",
+    "startTime": "2026-08-06T01:22:13Z",
+    "platform": "twitch",
+    "ttl": "2026-08-13T01:22:13.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozMn0=",
