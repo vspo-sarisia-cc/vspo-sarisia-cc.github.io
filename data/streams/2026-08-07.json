@@ -21,8 +21,44 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-07T06:00:00Z",
     "startTime": "2026-08-07T06:01:28Z",
+    "endTime": "2026-08-07T07:45:25Z",
     "ttl": "2026-08-14T06:00:00.000Z",
     "streamerId": "asumi_sena"
+  },
+  {
+    "id": "MYB8EDgTRXM",
+    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
+    "title": "【VCTWatchParty】たかし応援隊‼その8~たかしを添えて~【ぶいすぽっ！/英リサ】",
+    "thumbnail": "https://i.ytimg.com/vi/MYB8EDgTRXM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=MYB8EDgTRXM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-07T08:00:00Z",
+    "ttl": "2026-08-14T08:00:00.000Z",
+    "streamerId": "hanabusa_lisa"
+  },
+  {
+    "id": "Py5CrA1Qajk",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】嬉しいです【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/Py5CrA1Qajk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Py5CrA1Qajk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-07T06:55:00Z",
+    "startTime": "2026-08-07T07:12:32Z",
+    "ttl": "2026-08-14T06:55:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "Me0jw7fA3EM",
+    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
+    "title": "【 雑談 】雑に談笑【 ぶいすぽっ！ / 小森めと 】",
+    "thumbnail": "https://i.ytimg.com/vi/Me0jw7fA3EM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Me0jw7fA3EM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-07T07:25:00Z",
+    "startTime": "2026-08-07T07:32:28Z",
+    "ttl": "2026-08-14T07:25:00.000Z",
+    "streamerId": "komori_met"
   },
   {
     "id": "zUDvnDkJWr0",
@@ -32,6 +68,7 @@
     "url": "https://www.youtube.com/watch?v=zUDvnDkJWr0",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-07T07:30:00Z",
+    "startTime": "2026-08-07T07:29:44Z",
     "ttl": "2026-08-14T07:30:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -48,14 +85,26 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "764wwULBHlo",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【#WatchPartyLCP】DFM vs GAM | LCP 2026 Split 3 Swiss Stage Week 3 Day 2【ぶいすぽっ！/千燈ゆうひ】",
+    "thumbnail": "https://i.ytimg.com/vi/764wwULBHlo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=764wwULBHlo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-07T09:00:00Z",
+    "ttl": "2026-08-14T09:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
     "id": "XN05--z0dDM",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 #VCTWatchParty  】　みんなでDFM応援しよう！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
     "thumbnail": "https://i.ytimg.com/vi/XN05--z0dDM/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=XN05--z0dDM",
     "platform": "youtube",
-    "scheduledStartTime": "2026-08-07T08:00:00Z",
-    "ttl": "2026-08-14T08:00:00.000Z",
+    "scheduledStartTime": "2026-08-07T07:40:00Z",
+    "startTime": "2026-08-07T07:38:16Z",
+    "ttl": "2026-08-14T07:40:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -73,11 +122,12 @@
     "id": "gnn5wdkEoEg",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】もかCUP前日・・・！？　トナメみたりstartggおさらいも！【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/gnn5wdkEoEg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/gnn5wdkEoEg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=gnn5wdkEoEg",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-07T05:45:00Z",
     "startTime": "2026-08-07T05:45:48Z",
+    "endTime": "2026-08-07T07:26:37Z",
     "ttl": "2026-08-14T05:45:00.000Z",
     "streamerId": "amayui_moka"
   },
