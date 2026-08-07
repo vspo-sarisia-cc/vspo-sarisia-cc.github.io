@@ -12,6 +12,18 @@
     "streamerId": "kaga_nazuna"
   },
   {
+    "id": "lNw-46I2QgI",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "こぬばぬは",
+    "thumbnail": "https://i.ytimg.com/vi/lNw-46I2QgI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=lNw-46I2QgI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-07T13:00:00Z",
+    "startTime": "2026-08-07T12:57:05Z",
+    "ttl": "2026-08-14T13:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "KdMJyYvlHC8",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】フルパランクにいくぞ！/ハセシン、水無瀬さん【 ぶいすぽっ！胡桃のあ 】",
@@ -98,6 +110,18 @@
     "endTime": "2026-08-07T10:31:43Z",
     "ttl": "2026-08-14T06:55:00.000Z",
     "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "0J8UDaElFeA",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 ドラゴンクエストⅪ 】暑いッ#１2【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/0J8UDaElFeA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=0J8UDaElFeA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-07T13:10:00Z",
+    "startTime": "2026-08-07T13:19:16Z",
+    "ttl": "2026-08-14T13:10:00.000Z",
+    "streamerId": "shinomiya_runa"
   },
   {
     "id": "8Bays1M1bag",
@@ -225,6 +249,18 @@
     "endTime": "2026-08-07T07:26:37Z",
     "ttl": "2026-08-14T05:45:00.000Z",
     "streamerId": "amayui_moka"
+  },
+  {
+    "id": "riKdyxvPOgw",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  ELDEN RING ◢　＃13 エルデンリング一体今私はどこにいるのだろう   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/riKdyxvPOgw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=riKdyxvPOgw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-07T13:30:00Z",
+    "startTime": "2026-08-07T13:32:53Z",
+    "ttl": "2026-08-14T13:30:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "6Ytupfw5UNM",
