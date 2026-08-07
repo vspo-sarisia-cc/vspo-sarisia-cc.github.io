@@ -26,19 +26,6 @@
     "streamerId": "kaga_nazuna"
   },
   {
-    "id": "kfc6OPLkPUU",
-    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
-    "title": "【 DBD 】カオスシャッフルきたあああああああ w/顔芸さん【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/kfc6OPLkPUU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=kfc6OPLkPUU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-31T10:00:00Z",
-    "startTime": "2026-07-31T10:03:35Z",
-    "endTime": "2026-07-31T13:47:35Z",
-    "ttl": "2026-08-07T10:00:00.000Z",
-    "streamerId": "kogara_toto"
-  },
-  {
     "id": "BAlqPegZVKs",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【VCR RUST】オイスオイス【ぶいすぽ/一ノ瀬うるは】",
@@ -76,32 +63,6 @@
     "endTime": "2026-07-31T10:36:00Z",
     "ttl": "2026-08-07T10:05:00.000Z",
     "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "UTk63WFXpqI",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "✌️✌️✨✨✨✨告知をします！！！！！！！！✨✨✨✨✌️✌️",
-    "thumbnail": "https://i.ytimg.com/vi/UTk63WFXpqI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=UTk63WFXpqI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-31T10:00:00Z",
-    "startTime": "2026-07-31T10:03:03Z",
-    "endTime": "2026-07-31T10:05:15Z",
-    "ttl": "2026-08-07T10:00:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "6KZvHsEaE0U",
-    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
-    "title": "今日も暑いですね",
-    "thumbnail": "https://i.ytimg.com/vi/6KZvHsEaE0U/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=6KZvHsEaE0U",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-07-31T09:00:00Z",
-    "startTime": "2026-07-31T08:58:00Z",
-    "endTime": "2026-07-31T10:59:56Z",
-    "ttl": "2026-08-07T09:00:00.000Z",
-    "streamerId": "hanabusa_lisa"
   },
   {
     "id": "RFsAobGlLV0",
@@ -307,18 +268,6 @@
     "platform": "twitch",
     "ttl": "2026-08-07T11:16:41.000Z",
     "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "316307544691",
-    "channelId": "akarindao",
-    "title": "海賊になれるときいて。車より船だな！VCR＃8",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/b58c4b323dca80fe9850_akarindao_316307544691_1785489170//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2833448051",
-    "scheduledStartTime": "2026-07-31T09:12:55Z",
-    "startTime": "2026-07-31T09:12:55Z",
-    "platform": "twitch",
-    "ttl": "2026-08-07T09:12:55.000Z",
-    "streamerId": "yumeno_akari"
   },
   {
     "id": "316310268915",

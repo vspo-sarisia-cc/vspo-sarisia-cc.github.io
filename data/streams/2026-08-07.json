@@ -53,11 +53,12 @@
     "id": "Me0jw7fA3EM",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 雑談 】雑に談笑【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/Me0jw7fA3EM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Me0jw7fA3EM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Me0jw7fA3EM",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-07T07:25:00Z",
     "startTime": "2026-08-07T07:32:28Z",
+    "endTime": "2026-08-07T09:45:35Z",
     "ttl": "2026-08-14T07:25:00.000Z",
     "streamerId": "komori_met"
   },
@@ -94,6 +95,7 @@
     "url": "https://www.youtube.com/watch?v=764wwULBHlo",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-07T09:00:00Z",
+    "startTime": "2026-08-07T09:00:06Z",
     "ttl": "2026-08-14T09:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -106,6 +108,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-07T07:40:00Z",
     "startTime": "2026-08-07T07:38:16Z",
+    "endTime": "2026-08-07T10:03:03Z",
     "ttl": "2026-08-14T07:40:00.000Z",
     "streamerId": "choya_hanabi"
   },
