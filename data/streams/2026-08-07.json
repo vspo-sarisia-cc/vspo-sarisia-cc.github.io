@@ -7,8 +7,20 @@
     "url": "https://www.youtube.com/watch?v=9nwWjWamYu4",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-07T01:00:00Z",
+    "startTime": "2026-08-07T00:53:31Z",
     "ttl": "2026-08-14T01:00:00.000Z",
     "streamerId": "tosaki_mimi"
+  },
+  {
+    "id": "zUDvnDkJWr0",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "〖 #VCTWatchParty 〗集え、たかしたちよ。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+    "thumbnail": "https://i.ytimg.com/vi/zUDvnDkJWr0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=zUDvnDkJWr0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-07T07:30:00Z",
+    "ttl": "2026-08-14T07:30:00.000Z",
+    "streamerId": "yano_kuromu"
   },
   {
     "id": "XN05--z0dDM",
@@ -33,6 +45,17 @@
     "streamerId": "choya_hanabi"
   },
   {
+    "id": "6Ytupfw5UNM",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【MECCHA CHAMELEON】HUGE pinoy collab (help i dont speak tagalog)【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/6Ytupfw5UNM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=6Ytupfw5UNM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-07T12:00:00Z",
+    "ttl": "2026-08-14T12:00:00.000Z",
+    "streamerId": "riko_solari"
+  },
+  {
     "id": "JF2xWuZ6HMY",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Meccha Chameleon◢ buwan ng wika mandatory stream | #JunoUmezono #VSPOEN",
@@ -42,5 +65,29 @@
     "scheduledStartTime": "2026-08-07T12:00:00Z",
     "ttl": "2026-08-14T12:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316272739825",
+    "channelId": "choyahanabi",
+    "title": "【スト６】進路相談！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_choyahanabi-320x180.jpg",
+    "url": "https://www.twitch.tv/choyahanabi",
+    "scheduledStartTime": "2026-08-07T03:06:09Z",
+    "startTime": "2026-08-07T03:06:09Z",
+    "platform": "twitch",
+    "ttl": "2026-08-14T03:06:09.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "316281141362",
+    "channelId": "narinmikure",
+    "title": "kurecup day 1 wahoo!! (community customs)",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_narinmikure-320x180.jpg",
+    "url": "https://www.twitch.tv/narinmikure",
+    "scheduledStartTime": "2026-08-07T03:28:48Z",
+    "startTime": "2026-08-07T03:28:48Z",
+    "platform": "twitch",
+    "ttl": "2026-08-14T03:28:48.000Z",
+    "streamerId": "narin_mikure"
   }
 ]
