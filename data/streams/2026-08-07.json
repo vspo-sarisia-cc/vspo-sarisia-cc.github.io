@@ -166,13 +166,27 @@
     "id": "764wwULBHlo",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【#WatchPartyLCP】DFM vs GAM | LCP 2026 Split 3 Swiss Stage Week 3 Day 2【ぶいすぽっ！/千燈ゆうひ】",
-    "thumbnail": "https://i.ytimg.com/vi/764wwULBHlo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/764wwULBHlo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=764wwULBHlo",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-07T09:00:00Z",
     "startTime": "2026-08-07T09:00:06Z",
+    "endTime": "2026-08-07T12:10:13Z",
     "ttl": "2026-08-14T09:00:00.000Z",
     "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "kPseQfhAX40",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "会心の一撃 / 蝶屋はなび cover",
+    "thumbnail": "https://i.ytimg.com/vi/kPseQfhAX40/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=kPseQfhAX40",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-07T12:00:00Z",
+    "startTime": "2026-08-07T12:00:06Z",
+    "endTime": "2026-08-07T12:06:42Z",
+    "ttl": "2026-08-14T12:00:00.000Z",
+    "streamerId": "choya_hanabi"
   },
   {
     "id": "XN05--z0dDM",
@@ -185,17 +199,6 @@
     "startTime": "2026-08-07T07:38:16Z",
     "endTime": "2026-08-07T10:03:03Z",
     "ttl": "2026-08-14T07:40:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "kPseQfhAX40",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "会心の一撃 / 蝶屋はなび cover",
-    "thumbnail": "https://i.ytimg.com/vi/kPseQfhAX40/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=kPseQfhAX40",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-07T12:00:00Z",
-    "ttl": "2026-08-14T12:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -231,6 +234,7 @@
     "url": "https://www.youtube.com/watch?v=6Ytupfw5UNM",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-07T12:00:00Z",
+    "startTime": "2026-08-07T12:05:15Z",
     "ttl": "2026-08-14T12:00:00.000Z",
     "streamerId": "riko_solari"
   },
@@ -242,6 +246,7 @@
     "url": "https://www.youtube.com/watch?v=JF2xWuZ6HMY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-07T12:00:00Z",
+    "startTime": "2026-08-07T12:01:30Z",
     "ttl": "2026-08-14T12:00:00.000Z",
     "streamerId": "juno_umezono"
   },
