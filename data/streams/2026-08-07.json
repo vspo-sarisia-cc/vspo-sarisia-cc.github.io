@@ -3,11 +3,12 @@
     "id": "9nwWjWamYu4",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
     "title": "【Minecraft】朝から建築～【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/9nwWjWamYu4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/9nwWjWamYu4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=9nwWjWamYu4",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-07T01:00:00Z",
     "startTime": "2026-08-07T00:53:31Z",
+    "endTime": "2026-08-07T04:29:36Z",
     "ttl": "2026-08-14T01:00:00.000Z",
     "streamerId": "tosaki_mimi"
   },
@@ -67,18 +68,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316272739825",
-    "channelId": "choyahanabi",
-    "title": "【スト６】進路相談！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_choyahanabi-320x180.jpg",
-    "url": "https://www.twitch.tv/choyahanabi",
-    "scheduledStartTime": "2026-08-07T03:06:09Z",
-    "startTime": "2026-08-07T03:06:09Z",
-    "platform": "twitch",
-    "ttl": "2026-08-14T03:06:09.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
     "id": "316281141362",
     "channelId": "narinmikure",
     "title": "kurecup day 1 wahoo!! (community customs)",
@@ -89,5 +78,17 @@
     "platform": "twitch",
     "ttl": "2026-08-14T03:28:48.000Z",
     "streamerId": "narin_mikure"
+  },
+  {
+    "id": "316272739825",
+    "channelId": "choyahanabi",
+    "title": "【スト６】進路相談！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/31f52598c5363b34619b_choyahanabi_316272739825_1786071969//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2839386652",
+    "scheduledStartTime": "2026-08-07T03:06:14Z",
+    "startTime": "2026-08-07T03:06:14Z",
+    "platform": "twitch",
+    "ttl": "2026-08-14T03:06:14.000Z",
+    "streamerId": "choya_hanabi"
   }
 ]
