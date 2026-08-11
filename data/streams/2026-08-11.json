@@ -168,6 +168,18 @@
     "streamerId": "sendo_yuuhi"
   },
   {
+    "id": "qcmNbJGFTrU",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【朝活雑談】　おはよういっぱい話そ！！！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/qcmNbJGFTrU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=qcmNbJGFTrU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-11T22:00:00Z",
+    "startTime": "2026-08-11T22:00:51Z",
+    "ttl": "2026-08-18T22:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "OeVw92uuowo",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "＃３【 #ストリヌ 】　マイクラ異世界転生したら竜宮城なう！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -178,17 +190,6 @@
     "startTime": "2026-08-11T11:59:45Z",
     "endTime": "2026-08-11T17:15:50Z",
     "ttl": "2026-08-18T12:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "qcmNbJGFTrU",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【朝活雑談】　おはよういっぱい話そ！！！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/qcmNbJGFTrU/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=qcmNbJGFTrU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-11T22:00:00Z",
-    "ttl": "2026-08-18T22:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
