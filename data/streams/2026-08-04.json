@@ -24,30 +24,5 @@
     "endTime": "2026-08-05T00:32:41Z",
     "ttl": "2026-08-11T22:00:00.000Z",
     "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "WR64-HOqrCg",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "LAST time with this squad *sob*  |  Premier  |  Counter-Strike 2 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/WR64-HOqrCg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=WR64-HOqrCg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-04T21:00:00Z",
-    "startTime": "2026-08-04T21:01:46Z",
-    "endTime": "2026-08-05T00:24:25Z",
-    "ttl": "2026-08-11T21:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "315884147667",
-    "channelId": "remiaaotsuki",
-    "title": "ELO gaining time w/ @akiratsukiyono I Premier SEA",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/5a9409e44b35ba0653d7_remiaaotsuki_315884147667_1785877577//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2837329190",
-    "scheduledStartTime": "2026-08-04T21:07:38Z",
-    "startTime": "2026-08-04T21:07:38Z",
-    "platform": "twitch",
-    "ttl": "2026-08-11T21:07:38.000Z",
-    "streamerId": "remia_aotsuki"
   }
 ]
