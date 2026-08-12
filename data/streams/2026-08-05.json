@@ -39,32 +39,6 @@
     "streamerId": "tsumugi_kokage"
   },
   {
-    "id": "gRKQWdqzweM",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  VCR RUST  ◢　最終日！やらせていただく！#8  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/gRKQWdqzweM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=gRKQWdqzweM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-05T12:00:00Z",
-    "startTime": "2026-08-05T12:00:49Z",
-    "endTime": "2026-08-05T15:56:44Z",
-    "ttl": "2026-08-12T12:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
-    "id": "qEY3HYO7J4o",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "23K Grind w/ @AkiraTsukiyono   |  Premier  |  Counter-Strike 2 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/qEY3HYO7J4o/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=qEY3HYO7J4o",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-05T12:00:00Z",
-    "startTime": "2026-08-05T12:03:46Z",
-    "endTime": "2026-08-05T18:53:45Z",
-    "ttl": "2026-08-12T12:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
     "id": "qyJ-9iaYZvk",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Apex Legends◢ Kuroha Invitational training ! | #JunoUmezono #VSPOEN",
@@ -76,17 +50,5 @@
     "endTime": "2026-08-05T16:56:14Z",
     "ttl": "2026-08-12T14:30:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316274591346",
-    "channelId": "ramuneshiranami",
-    "title": "【Rust】#14 最終日！楽しかったネ~",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/012d74d131277d9657ba_ramuneshiranami_316274591346_1785935224//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2837874518",
-    "scheduledStartTime": "2026-08-05T13:07:10Z",
-    "startTime": "2026-08-05T13:07:10Z",
-    "platform": "twitch",
-    "ttl": "2026-08-12T13:07:10.000Z",
-    "streamerId": "shiranami_ramune"
   }
 ]
