@@ -1,5 +1,17 @@
 [
   {
+    "id": "RAgeqBHL_w8",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "【 Apex 】たまにはソロえぺ【 ぶいすぽ / 小雀とと 】",
+    "thumbnail": "https://i.ytimg.com/vi/RAgeqBHL_w8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=RAgeqBHL_w8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-12T08:30:00Z",
+    "startTime": "2026-08-12T08:44:34Z",
+    "ttl": "2026-08-19T08:30:00.000Z",
+    "streamerId": "kogara_toto"
+  },
+  {
     "id": "GVUlkEAsGjI",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【ほの暮しの庭】なんだか不穏なスローライフ【ぶいすぽ/一ノ瀬うるは】",
@@ -7,6 +19,7 @@
     "url": "https://www.youtube.com/watch?v=GVUlkEAsGjI",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-12T07:30:00Z",
+    "startTime": "2026-08-12T07:33:06Z",
     "ttl": "2026-08-19T07:30:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -23,6 +36,17 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "tl3YsH592D4",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【League of Legends】シーズン2ブロンズ、しゃるる杯CLASSICに参戦【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/tl3YsH592D4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=tl3YsH592D4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-12T09:00:00Z",
+    "ttl": "2026-08-19T09:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
     "id": "AJ9dfbbAIco",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 マリオカート ワールド 】　元日本代表にコーチングしていただきます！！！！！！！！w/ぎぞっく　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -37,11 +61,12 @@
     "id": "wHWbKLbCaoA",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【雑談】もかCUPお疲れ様でした等【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/wHWbKLbCaoA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/wHWbKLbCaoA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=wHWbKLbCaoA",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-12T06:46:00Z",
     "startTime": "2026-08-12T06:47:35Z",
+    "endTime": "2026-08-12T08:20:35Z",
     "ttl": "2026-08-19T06:46:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -54,8 +79,20 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-12T05:30:00Z",
     "startTime": "2026-08-12T05:37:09Z",
+    "endTime": "2026-08-12T07:35:45Z",
     "ttl": "2026-08-19T05:30:00.000Z",
     "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "usAOmdpd0JU",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤ しゃるる杯 CLASSIC ◢　League of Legends Streamer Cup参加させていただきます！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/usAOmdpd0JU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=usAOmdpd0JU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-12T09:00:00Z",
+    "ttl": "2026-08-19T09:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "ofi9BgQgwws",
@@ -101,5 +138,17 @@
     "platform": "twitch",
     "ttl": "2026-08-19T06:05:34.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "315400748014",
+    "channelId": "erissuzukami",
+    "title": "PLEASE RIOT PLEEAAASEEE",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
+    "url": "https://www.twitch.tv/erissuzukami",
+    "scheduledStartTime": "2026-08-12T07:39:43Z",
+    "startTime": "2026-08-12T07:39:43Z",
+    "platform": "twitch",
+    "ttl": "2026-08-19T07:39:43.000Z",
+    "streamerId": "eris_suzukami"
   }
 ]

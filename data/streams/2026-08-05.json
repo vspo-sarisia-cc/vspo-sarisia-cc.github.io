@@ -39,19 +39,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "dD1KMMowAS0",
-    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
-    "title": "【雑談】ちょっとだけでもおしゃべり【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/dD1KMMowAS0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=dD1KMMowAS0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-05T08:00:00Z",
-    "startTime": "2026-08-05T07:46:06Z",
-    "endTime": "2026-08-05T08:52:24Z",
-    "ttl": "2026-08-12T08:00:00.000Z",
-    "streamerId": "tosaki_mimi"
-  },
-  {
     "id": "_EcsR96KoUM",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 VCR RUST 】 本日LAST！【ぶいすぽっ！/橘ひなの】",
@@ -141,19 +128,6 @@
     "endTime": "2026-08-05T16:54:09Z",
     "ttl": "2026-08-12T14:15:00.000Z",
     "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "woFmU6YcHXE",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "LJL 2026 SUMMER CHAMPIONSHIP UPPER ROUND 3 公式ウォッチパーティー！【ぶいすぽっ！/千燈ゆうひ】",
-    "thumbnail": "https://i.ytimg.com/vi/woFmU6YcHXE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=woFmU6YcHXE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-05T08:00:00Z",
-    "startTime": "2026-08-05T08:01:49Z",
-    "endTime": "2026-08-05T10:57:09Z",
-    "ttl": "2026-08-12T08:00:00.000Z",
-    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "RrKMqp_uL7E",
