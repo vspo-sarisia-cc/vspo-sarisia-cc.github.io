@@ -1,5 +1,17 @@
 [
   {
+    "id": "eTgoNcha1kk",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【Escape from Tarkov】２０時からYB学園！それまでマップお散歩【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/eTgoNcha1kk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=eTgoNcha1kk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-12T10:05:00Z",
+    "startTime": "2026-08-12T10:04:53Z",
+    "ttl": "2026-08-19T10:05:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "RAgeqBHL_w8",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 Apex 】たまにはソロえぺ【 ぶいすぽ / 小雀とと 】",
@@ -12,22 +24,68 @@
     "streamerId": "kogara_toto"
   },
   {
+    "id": "NgD04X0ELwg",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【Escape from Tarkov】久しぶりにYB学園に登校します🏫【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/NgD04X0ELwg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=NgD04X0ELwg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-12T11:00:00Z",
+    "ttl": "2026-08-19T11:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "GVUlkEAsGjI",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【ほの暮しの庭】なんだか不穏なスローライフ【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/GVUlkEAsGjI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/GVUlkEAsGjI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=GVUlkEAsGjI",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-12T07:30:00Z",
     "startTime": "2026-08-12T07:33:06Z",
+    "endTime": "2026-08-12T10:10:58Z",
     "ttl": "2026-08-19T07:30:00.000Z",
     "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "BjbTfi8rGCQ",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 Minecraft 】つなとお花の公園つくる【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/BjbTfi8rGCQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=BjbTfi8rGCQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-12T11:00:00Z",
+    "startTime": "2026-08-12T11:02:27Z",
+    "ttl": "2026-08-19T11:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "LlCnrxaFmfE",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "【#ストリヌ】異世界転生したらマイクラだった件 | 釣りと寿司握り【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/LlCnrxaFmfE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=LlCnrxaFmfE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-12T11:15:00Z",
+    "ttl": "2026-08-19T11:15:00.000Z",
+    "streamerId": "asumi_sena"
+  },
+  {
+    "id": "sTGTONO3BJw",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【 Escape from Tarkov 】YB学園に不登校の生徒が復帰した🏫Lv20~【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/sTGTONO3BJw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=sTGTONO3BJw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-12T11:15:00Z",
+    "ttl": "2026-08-19T11:15:00.000Z",
+    "streamerId": "yakumo_beni"
   },
   {
     "id": "tnM9vexWxHA",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【 Escape from Tarkov 】昼樽→夜YB学園新入生🏫Lv18~【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/tnM9vexWxHA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/tnM9vexWxHA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=tnM9vexWxHA",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-12T06:30:00Z",
@@ -44,8 +102,21 @@
     "url": "https://www.youtube.com/watch?v=waXU3xSIB1E",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-12T11:00:00Z",
+    "startTime": "2026-08-12T11:02:21Z",
     "ttl": "2026-08-19T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "UHVn-TmwPZ8",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "〖 ストリヌ 〗3日目🍓今日も探検するゾ。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+    "thumbnail": "https://i.ytimg.com/vi/UHVn-TmwPZ8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=UHVn-TmwPZ8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-12T10:45:00Z",
+    "startTime": "2026-08-12T10:48:09Z",
+    "ttl": "2026-08-19T10:45:00.000Z",
+    "streamerId": "yano_kuromu"
   },
   {
     "id": "tl3YsH592D4",
@@ -67,6 +138,7 @@
     "url": "https://www.youtube.com/watch?v=AJ9dfbbAIco",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-12T11:00:00Z",
+    "startTime": "2026-08-12T11:00:30Z",
     "ttl": "2026-08-19T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
