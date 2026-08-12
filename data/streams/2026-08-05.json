@@ -182,19 +182,6 @@
     "streamerId": "tatsumaki_chise"
   },
   {
-    "id": "2vVFQrBWcKE",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  League of Legends  ◢　マスターに戻れたのでLPあげたい   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/2vVFQrBWcKE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=2vVFQrBWcKE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-05T07:00:00Z",
-    "startTime": "2026-08-05T07:07:21Z",
-    "endTime": "2026-08-05T10:18:13Z",
-    "ttl": "2026-08-12T07:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
     "id": "qEY3HYO7J4o",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "23K Grind w/ @AkiraTsukiyono   |  Premier  |  Counter-Strike 2 【#VSPOEN #RemiaAotsuki】",
@@ -242,18 +229,6 @@
     "startTime": "2026-08-05T09:03:28Z",
     "platform": "twitch",
     "ttl": "2026-08-12T09:03:28.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316264558833",
-    "channelId": "akarindao",
-    "title": "火薬集め釣り雑談【ぶいすぽ夏祭り】",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/0c1731b73d2de1fbe2db_akarindao_316264558833_1785911665//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2837717710",
-    "scheduledStartTime": "2026-08-05T06:34:30Z",
-    "startTime": "2026-08-05T06:34:30Z",
-    "platform": "twitch",
-    "ttl": "2026-08-12T06:34:30.000Z",
     "streamerId": "yumeno_akari"
   }
 ]
