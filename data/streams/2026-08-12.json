@@ -15,11 +15,12 @@
     "id": "RAgeqBHL_w8",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 Apex 】たまにはソロえぺ【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/RAgeqBHL_w8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/RAgeqBHL_w8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=RAgeqBHL_w8",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-12T08:30:00Z",
     "startTime": "2026-08-12T08:44:34Z",
+    "endTime": "2026-08-12T11:14:29Z",
     "ttl": "2026-08-19T08:30:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -31,6 +32,7 @@
     "url": "https://www.youtube.com/watch?v=NgD04X0ELwg",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-12T11:00:00Z",
+    "startTime": "2026-08-12T11:05:26Z",
     "ttl": "2026-08-19T11:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -62,13 +64,26 @@
   {
     "id": "LlCnrxaFmfE",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
-    "title": "【#ストリヌ】異世界転生したらマイクラだった件 | 釣りと寿司握り【空澄セナ/ぶいすぽっ！】",
+    "title": "【#ストリヌ】2 異世界転生したら 釣り師で寿司握りだった件 【空澄セナ/ぶいすぽっ！】",
     "thumbnail": "https://i.ytimg.com/vi/LlCnrxaFmfE/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=LlCnrxaFmfE",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-12T11:15:00Z",
+    "startTime": "2026-08-12T11:15:27Z",
     "ttl": "2026-08-19T11:15:00.000Z",
     "streamerId": "asumi_sena"
+  },
+  {
+    "id": "Ml-aX36W8dU",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 Escape from Tarkov 】 YB学園の皆様の後ろをついて回ります【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/Ml-aX36W8dU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Ml-aX36W8dU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-12T11:15:00Z",
+    "startTime": "2026-08-12T11:15:28Z",
+    "ttl": "2026-08-19T11:15:00.000Z",
+    "streamerId": "tachibana_hinano"
   },
   {
     "id": "sTGTONO3BJw",
@@ -78,6 +93,7 @@
     "url": "https://www.youtube.com/watch?v=sTGTONO3BJw",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-12T11:15:00Z",
+    "startTime": "2026-08-12T11:05:15Z",
     "ttl": "2026-08-19T11:15:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -224,6 +240,18 @@
     "platform": "twitch",
     "ttl": "2026-08-19T06:05:34.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316297610353",
+    "channelId": "akarindao",
+    "title": "CRライバルズ 初練習っっ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-08-12T11:10:37Z",
+    "startTime": "2026-08-12T11:10:37Z",
+    "platform": "twitch",
+    "ttl": "2026-08-19T11:10:37.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "315400748014",
