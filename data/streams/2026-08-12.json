@@ -222,11 +222,12 @@
     "id": "ofi9BgQgwws",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "Big 20K soloQ Noob  |  Premier  |  Counter-Strike 2 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/ofi9BgQgwws/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ofi9BgQgwws/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ofi9BgQgwws",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-12T15:00:00Z",
     "startTime": "2026-08-12T15:00:47Z",
+    "endTime": "2026-08-12T17:49:08Z",
     "ttl": "2026-08-19T15:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -253,18 +254,6 @@
     "endTime": "2026-08-12T16:53:33Z",
     "ttl": "2026-08-19T13:15:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "315416106607",
-    "channelId": "erissuzukami",
-    "title": "gmbling",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
-    "url": "https://www.twitch.tv/erissuzukami",
-    "scheduledStartTime": "2026-08-12T16:50:25Z",
-    "startTime": "2026-08-12T16:50:25Z",
-    "platform": "twitch",
-    "ttl": "2026-08-19T16:50:25.000Z",
-    "streamerId": "eris_suzukami"
   },
   {
     "id": "316296468977",
