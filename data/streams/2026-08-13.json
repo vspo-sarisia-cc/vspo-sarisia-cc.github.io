@@ -37,6 +37,17 @@
     "streamerId": "kogara_toto"
   },
   {
+    "id": "cUgZfPnrqQ8",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【ほの暮しの庭】労働でしか対価は得られない【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/cUgZfPnrqQ8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=cUgZfPnrqQ8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-13T13:30:00Z",
+    "ttl": "2026-08-20T13:30:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "_ugVGDKBcqU",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 MACHINE PARTY 】ミミちゃん、きゅぴちゃん、めとちゃんとパーティゲーム？【 ぶいすぽっ！胡桃のあ 】",
@@ -44,6 +55,7 @@
     "url": "https://www.youtube.com/watch?v=_ugVGDKBcqU",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T12:00:00Z",
+    "startTime": "2026-08-13T12:04:20Z",
     "ttl": "2026-08-20T12:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -55,6 +67,7 @@
     "url": "https://www.youtube.com/watch?v=XJSuMQRR00Q",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T12:00:00Z",
+    "startTime": "2026-08-13T12:02:45Z",
     "ttl": "2026-08-20T12:00:00.000Z",
     "streamerId": "tosaki_mimi"
   },
@@ -62,12 +75,24 @@
     "id": "w5URWLukHXg",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【NIKKE】あのNIKKEとペルソナがコラボ！？エマべにと楽しんじゃいます！！【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/w5URWLukHXg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/w5URWLukHXg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=w5URWLukHXg",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T11:00:00Z",
     "startTime": "2026-08-13T11:00:13Z",
+    "endTime": "2026-08-13T12:09:39Z",
     "ttl": "2026-08-20T11:00:00.000Z",
+    "streamerId": "asumi_sena"
+  },
+  {
+    "id": "PotRJ7s4Z1c",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "【#ストリヌ】3 異世界転生したらズズギャグ3に誘拐された件 【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/PotRJ7s4Z1c/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=PotRJ7s4Z1c",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-13T15:00:00Z",
+    "ttl": "2026-08-20T15:00:00.000Z",
     "streamerId": "asumi_sena"
   },
   {
@@ -90,6 +115,7 @@
     "url": "https://www.youtube.com/watch?v=aURoRQ8mG98",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T12:00:00Z",
+    "startTime": "2026-08-13T12:04:14Z",
     "ttl": "2026-08-20T12:00:00.000Z",
     "streamerId": "kaminari_qpi"
   },
@@ -97,23 +123,36 @@
     "id": "vdNYEAfypE0",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【勝利の女神:NIKKE】ペルソナコラボ！NIKKEを楽しんでもらうぞ✨ w/藍沢エマ、空澄セナ【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/vdNYEAfypE0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/vdNYEAfypE0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=vdNYEAfypE0",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T11:00:00Z",
     "startTime": "2026-08-13T10:59:54Z",
+    "endTime": "2026-08-13T12:09:39Z",
     "ttl": "2026-08-20T11:00:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "rANWlvTQLOU",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【 Escape from Tarkov 】命削ってタルコフ Lv20~ w/バレバレイード【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/rANWlvTQLOU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=rANWlvTQLOU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-13T13:00:00Z",
+    "ttl": "2026-08-20T13:00:00.000Z",
     "streamerId": "yakumo_beni"
   },
   {
     "id": "MrjZeYgpwTM",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【勝利の女神：NIKKE】ペルソナシリーズ コラボだと？！？！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/MrjZeYgpwTM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/MrjZeYgpwTM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=MrjZeYgpwTM",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T11:00:00Z",
     "startTime": "2026-08-13T11:00:56Z",
+    "endTime": "2026-08-13T12:10:05Z",
     "ttl": "2026-08-20T11:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -138,6 +177,7 @@
     "url": "https://www.youtube.com/watch?v=jP5VlG72TWs",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T12:00:00Z",
+    "startTime": "2026-08-13T12:04:32Z",
     "ttl": "2026-08-20T12:00:00.000Z",
     "streamerId": "komori_met"
   },
@@ -187,6 +227,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T10:00:00Z",
     "startTime": "2026-08-13T10:04:03Z",
+    "endTime": "2026-08-13T13:17:50Z",
     "ttl": "2026-08-20T10:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -235,20 +276,9 @@
     "url": "https://www.youtube.com/watch?v=W3SRhDcugaw",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T12:00:00Z",
+    "startTime": "2026-08-13T12:02:58Z",
     "ttl": "2026-08-20T12:00:00.000Z",
     "streamerId": "tatsumaki_chise"
-  },
-  {
-    "id": "316300838001",
-    "channelId": "ramuneshiranami",
-    "title": "【Valheim】#2 建築むずすぎるだろ w/愉快なみんな",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-08-13T03:57:42Z",
-    "startTime": "2026-08-13T03:57:42Z",
-    "platform": "twitch",
-    "ttl": "2026-08-20T03:57:42.000Z",
-    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316367711475",
@@ -261,6 +291,18 @@
     "platform": "twitch",
     "ttl": "2026-08-20T11:04:12.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316300838001",
+    "channelId": "ramuneshiranami",
+    "title": "【Valheim】#2 建築むずすぎるだろ w/愉快なみんな",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/9ff57d093e6039e4e54d_ramuneshiranami_316300838001_1786593461//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2844809081",
+    "scheduledStartTime": "2026-08-13T03:57:47Z",
+    "startTime": "2026-08-13T03:57:47Z",
+    "platform": "twitch",
+    "ttl": "2026-08-20T03:57:47.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozM30=",

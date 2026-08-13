@@ -1,18 +1,5 @@
 [
   {
-    "id": "PViXSOUzj64",
-    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
-    "title": "【リズム天国 ミラクルスターズ】ノれないやつは、置いていく【ぶいすぽっ！/英リサ】",
-    "thumbnail": "https://i.ytimg.com/vi/PViXSOUzj64/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=PViXSOUzj64",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-06T12:00:00Z",
-    "startTime": "2026-08-06T12:01:05Z",
-    "endTime": "2026-08-06T14:55:09Z",
-    "ttl": "2026-08-13T12:00:00.000Z",
-    "streamerId": "hanabusa_lisa"
-  },
-  {
     "id": "B9L7ap-vvLc",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 ぽこ あ ポケモン 】アシマリギャルゲ【 ぶいすぽっ！/紫宮るな 】",
@@ -24,55 +11,5 @@
     "endTime": "2026-08-06T18:42:52Z",
     "ttl": "2026-08-13T16:35:00.000Z",
     "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "dJDylnz9I0I",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【VALORANT】ソロコンペ！早くイモ2戻るぞ２【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/dJDylnz9I0I/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=dJDylnz9I0I",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-06T13:15:00Z",
-    "startTime": "2026-08-06T13:21:15Z",
-    "endTime": "2026-08-06T15:41:14Z",
-    "ttl": "2026-08-13T13:15:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "JKFfRya9-RI",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【スト６】　ﾏｲﾁｬﾝどうなってんﾏﾘﾁｬﾝ！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/JKFfRya9-RI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=JKFfRya9-RI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-06T13:15:00Z",
-    "startTime": "2026-08-06T13:15:01Z",
-    "endTime": "2026-08-06T15:17:35Z",
-    "ttl": "2026-08-13T13:15:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "316335668979",
-    "channelId": "akarindao",
-    "title": "ゼロからモンストで運極を5体作る件について。#PR",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/0f2929a724877920aa49_akarindao_316335668979_1786022232//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2838759033",
-    "scheduledStartTime": "2026-08-06T13:17:17Z",
-    "startTime": "2026-08-06T13:17:17Z",
-    "platform": "twitch",
-    "ttl": "2026-08-13T13:17:17.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "317392988386",
-    "channelId": "remiaaotsuki",
-    "title": "ELO gaining time w/ @akiratsukiyono I Premier SEA",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/64aef3260b69417e9a6b_remiaaotsuki_317392988386_1786017674//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2838717879",
-    "scheduledStartTime": "2026-08-06T12:01:20Z",
-    "startTime": "2026-08-06T12:01:20Z",
-    "platform": "twitch",
-    "ttl": "2026-08-13T12:01:20.000Z",
-    "streamerId": "remia_aotsuki"
   }
 ]
