@@ -84,6 +84,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T15:30:00Z",
     "startTime": "2026-08-13T15:42:45Z",
+    "endTime": "2026-08-13T17:01:04Z",
     "ttl": "2026-08-20T15:30:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -245,11 +246,12 @@
     "id": "51GHUlhPbFU",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "＃５【 #ストリヌ 】　マイクラ異世界転生したら、とんでもねえ世界だったW！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/51GHUlhPbFU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/51GHUlhPbFU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=51GHUlhPbFU",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T11:00:00Z",
     "startTime": "2026-08-13T11:00:35Z",
+    "endTime": "2026-08-13T17:05:46Z",
     "ttl": "2026-08-20T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
