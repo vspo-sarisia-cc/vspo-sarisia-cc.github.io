@@ -32,6 +32,7 @@
     "url": "https://www.youtube.com/watch?v=IDRJtn0P4rE",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T11:00:00Z",
+    "startTime": "2026-08-13T11:05:57Z",
     "ttl": "2026-08-20T11:00:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -45,6 +46,17 @@
     "scheduledStartTime": "2026-08-13T12:00:00Z",
     "ttl": "2026-08-20T12:00:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "XJSuMQRR00Q",
+    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
+    "title": "【Machine Party】なんだこのげーむ【ぶいすぽ/兎咲ミミ】",
+    "thumbnail": "https://i.ytimg.com/vi/XJSuMQRR00Q/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=XJSuMQRR00Q",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-13T12:00:00Z",
+    "ttl": "2026-08-20T12:00:00.000Z",
+    "streamerId": "tosaki_mimi"
   },
   {
     "id": "w5URWLukHXg",
@@ -69,6 +81,17 @@
     "startTime": "2026-08-13T09:10:16Z",
     "ttl": "2026-08-20T09:15:00.000Z",
     "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "aURoRQ8mG98",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【Machine Party】デ・・デスゲームやんけえ・・ w/のあﾁｬﾝ,みみたや,めてぃ【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/aURoRQ8mG98/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=aURoRQ8mG98",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-13T12:00:00Z",
+    "ttl": "2026-08-20T12:00:00.000Z",
+    "streamerId": "kaminari_qpi"
   },
   {
     "id": "vdNYEAfypE0",
@@ -108,6 +131,17 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "jP5VlG72TWs",
+    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
+    "title": "【 Machine Party 】デスゲームやるぞ！！！！！ / w のあちゃんみみちゃんきゅーちゃん【 ぶいすぽっ！ / 小森めと 】",
+    "thumbnail": "https://i.ytimg.com/vi/jP5VlG72TWs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=jP5VlG72TWs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-13T12:00:00Z",
+    "ttl": "2026-08-20T12:00:00.000Z",
+    "streamerId": "komori_met"
+  },
+  {
     "id": "JNtyhR-kHK4",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 ストリヌ 〗4日目🍓今日もふらふらり。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
@@ -120,10 +154,22 @@
     "streamerId": "yano_kuromu"
   },
   {
+    "id": "uzRho3kZkoQ",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】CRリバイブのライバルズのライバルらしい【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/uzRho3kZkoQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=uzRho3kZkoQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-13T11:30:00Z",
+    "startTime": "2026-08-13T11:22:39Z",
+    "ttl": "2026-08-20T11:30:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "SepmQ1k-RpA",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VALORANT】ソロコンペ！イモ２落ちた！【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/SepmQ1k-RpA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/SepmQ1k-RpA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=SepmQ1k-RpA",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T03:20:00Z",
@@ -177,8 +223,20 @@
     "url": "https://www.youtube.com/watch?v=k7pzRHanuks",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T11:30:00Z",
+    "startTime": "2026-08-13T11:30:14Z",
     "ttl": "2026-08-20T11:30:00.000Z",
     "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "W3SRhDcugaw",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　ADC環境もどってきた！？   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/W3SRhDcugaw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=W3SRhDcugaw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-13T12:00:00Z",
+    "ttl": "2026-08-20T12:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "316300838001",
@@ -195,7 +253,7 @@
   {
     "id": "316367711475",
     "channelId": "akarindao",
-    "title": "CRライバルズ 練習２日目～！",
+    "title": "CRリバイブ 練習２日目～！",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
     "url": "https://www.twitch.tv/akarindao",
     "scheduledStartTime": "2026-08-13T11:04:12Z",
