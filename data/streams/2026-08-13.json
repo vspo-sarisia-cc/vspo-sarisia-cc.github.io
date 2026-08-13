@@ -76,6 +76,18 @@
     "streamerId": "tosaki_mimi"
   },
   {
+    "id": "PotRJ7s4Z1c",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "【#ストリヌ】3 異世界転生したらズズギャグ3に誘拐された件 【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/PotRJ7s4Z1c/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=PotRJ7s4Z1c",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-13T15:30:00Z",
+    "startTime": "2026-08-13T15:42:45Z",
+    "ttl": "2026-08-20T15:30:00.000Z",
+    "streamerId": "asumi_sena"
+  },
+  {
     "id": "w5URWLukHXg",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【NIKKE】あのNIKKEとペルソナがコラボ！？エマべにと楽しんじゃいます！！【空澄セナ/ぶいすぽっ！】",
@@ -86,17 +98,6 @@
     "startTime": "2026-08-13T11:00:13Z",
     "endTime": "2026-08-13T12:09:39Z",
     "ttl": "2026-08-20T11:00:00.000Z",
-    "streamerId": "asumi_sena"
-  },
-  {
-    "id": "PotRJ7s4Z1c",
-    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
-    "title": "【#ストリヌ】3 異世界転生したらズズギャグ3に誘拐された件 【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/PotRJ7s4Z1c/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=PotRJ7s4Z1c",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-13T15:30:00Z",
-    "ttl": "2026-08-20T15:30:00.000Z",
     "streamerId": "asumi_sena"
   },
   {
@@ -205,11 +206,12 @@
     "id": "uzRho3kZkoQ",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VALORANT】CRリバイブのライバルズのライバルらしい【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/uzRho3kZkoQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/uzRho3kZkoQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=uzRho3kZkoQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T11:30:00Z",
     "startTime": "2026-08-13T11:22:39Z",
+    "endTime": "2026-08-13T16:17:27Z",
     "ttl": "2026-08-20T11:30:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -313,17 +315,5 @@
     "platform": "twitch",
     "ttl": "2026-08-20T11:04:18.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozM30=",
-    "channelId": "remiaaotsuki",
-    "title": "EU faceit elo gain?",
-    "thumbnail": "",
-    "url": "https://www.twitch.tv/remiaaotsuki",
-    "scheduledStartTime": "2026-08-13T14:00:00Z",
-    "startTime": "2026-08-13T14:00:00Z",
-    "platform": "twitch",
-    "ttl": "2026-08-20T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
   }
 ]
