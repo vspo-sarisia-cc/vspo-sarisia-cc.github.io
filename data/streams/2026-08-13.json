@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=Rbpmfklq_h4",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T10:15:00Z",
+    "startTime": "2026-08-13T10:11:10Z",
     "ttl": "2026-08-20T10:15:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -14,7 +15,7 @@
     "id": "jSR5-LiqMdw",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【シャドバWB】うし！シャドバ練習するぞ！w.リグゼコーチ、【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/jSR5-LiqMdw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/jSR5-LiqMdw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=jSR5-LiqMdw",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T07:00:00Z",
@@ -53,6 +54,7 @@
     "url": "https://www.youtube.com/watch?v=w5URWLukHXg",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T11:00:00Z",
+    "startTime": "2026-08-13T11:00:13Z",
     "ttl": "2026-08-20T11:00:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -76,8 +78,21 @@
     "url": "https://www.youtube.com/watch?v=vdNYEAfypE0",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T11:00:00Z",
+    "startTime": "2026-08-13T10:59:54Z",
     "ttl": "2026-08-20T11:00:00.000Z",
     "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "MrjZeYgpwTM",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【勝利の女神：NIKKE】ペルソナシリーズ コラボだと？！？！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/MrjZeYgpwTM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=MrjZeYgpwTM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-13T11:00:00Z",
+    "startTime": "2026-08-13T11:00:56Z",
+    "ttl": "2026-08-20T11:00:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "OnlqWC-dI3U",
@@ -93,15 +108,16 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "MrjZeYgpwTM",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【勝利の女神：NIKKE】ペルソナシリーズ コラボだと？！？！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/MrjZeYgpwTM/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=MrjZeYgpwTM",
+    "id": "JNtyhR-kHK4",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "〖 ストリヌ 〗4日目🍓今日もふらふらり。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+    "thumbnail": "https://i.ytimg.com/vi/JNtyhR-kHK4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=JNtyhR-kHK4",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T11:00:00Z",
+    "startTime": "2026-08-13T11:02:57Z",
     "ttl": "2026-08-20T11:00:00.000Z",
-    "streamerId": "aizawa_ema"
+    "streamerId": "yano_kuromu"
   },
   {
     "id": "SepmQ1k-RpA",
@@ -112,6 +128,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T03:20:00Z",
     "startTime": "2026-08-13T03:23:01Z",
+    "endTime": "2026-08-13T10:56:47Z",
     "ttl": "2026-08-20T03:20:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -123,8 +140,21 @@
     "url": "https://www.youtube.com/watch?v=4wGJf43p-S4",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-13T10:00:00Z",
+    "startTime": "2026-08-13T10:04:03Z",
     "ttl": "2026-08-20T10:00:00.000Z",
     "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "51GHUlhPbFU",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "＃５【 #ストリヌ 】　マイクラ異世界転生したら、とんでもねえ世界だったW！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/51GHUlhPbFU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=51GHUlhPbFU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-13T11:00:00Z",
+    "startTime": "2026-08-13T11:00:35Z",
+    "ttl": "2026-08-20T11:00:00.000Z",
+    "streamerId": "choya_hanabi"
   },
   {
     "id": "F_0fcJqBgp4",
@@ -137,17 +167,6 @@
     "startTime": "2026-08-13T02:58:44Z",
     "endTime": "2026-08-13T05:03:24Z",
     "ttl": "2026-08-20T03:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "51GHUlhPbFU",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "＃５【 #ストリヌ 】　マイクラ異世界転生したら、とんでもねえ世界だったW！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/51GHUlhPbFU/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=51GHUlhPbFU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-13T11:00:00Z",
-    "ttl": "2026-08-20T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -172,6 +191,18 @@
     "platform": "twitch",
     "ttl": "2026-08-20T03:57:42.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316367711475",
+    "channelId": "akarindao",
+    "title": "CRライバルズ 練習２日目～！",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-08-13T11:04:12Z",
+    "startTime": "2026-08-13T11:04:12Z",
+    "platform": "twitch",
+    "ttl": "2026-08-20T11:04:12.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozM30=",
