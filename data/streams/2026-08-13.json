@@ -302,25 +302,13 @@
     "id": "316304591345",
     "channelId": "ren_kisaragi__",
     "title": "寝れないのでおはようとさせていただく",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-08-13T22:36:27Z",
-    "startTime": "2026-08-13T22:36:27Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/bfc70b7ad946e90d0b55_ren_kisaragi___316304591345_1786660587//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2845473718",
+    "scheduledStartTime": "2026-08-13T22:36:32Z",
+    "startTime": "2026-08-13T22:36:32Z",
     "platform": "twitch",
-    "ttl": "2026-08-20T22:36:27.000Z",
+    "ttl": "2026-08-20T22:36:32.000Z",
     "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "317478191716",
-    "channelId": "remiaaotsuki",
-    "title": "ELO gaining time w/ @sinisterdoodle @eliseleverne I Premier NA/EU",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_remiaaotsuki-320x180.jpg",
-    "url": "https://www.twitch.tv/remiaaotsuki",
-    "scheduledStartTime": "2026-08-13T21:04:51Z",
-    "startTime": "2026-08-13T21:04:51Z",
-    "platform": "twitch",
-    "ttl": "2026-08-20T21:04:51.000Z",
-    "streamerId": "remia_aotsuki"
   },
   {
     "id": "316300838001",
@@ -345,5 +333,17 @@
     "platform": "twitch",
     "ttl": "2026-08-20T11:04:18.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "317478191716",
+    "channelId": "remiaaotsuki",
+    "title": "ELO gaining time w/ @sinisterdoodle @eliseleverne I Premier NA/EU",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/d62e987d0526e8575311_remiaaotsuki_317478191716_1786655091//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2845403994",
+    "scheduledStartTime": "2026-08-13T21:04:57Z",
+    "startTime": "2026-08-13T21:04:57Z",
+    "platform": "twitch",
+    "ttl": "2026-08-20T21:04:57.000Z",
+    "streamerId": "remia_aotsuki"
   }
 ]
