@@ -16,7 +16,7 @@
     "id": "Bv8_uRxcgyE",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【CR Streamer League Shadowverse】最終節！！！優勝！賞金！優勝！w.リグゼコーチ、ぱらちゃん【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/Bv8_uRxcgyE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Bv8_uRxcgyE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Bv8_uRxcgyE",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-14T07:00:00Z",
@@ -24,6 +24,17 @@
     "endTime": "2026-08-14T11:23:55Z",
     "ttl": "2026-08-21T07:00:00.000Z",
     "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "znTvcm0PRjM",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【Supermarket Chaos】４人でお片付け🎶【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/znTvcm0PRjM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=znTvcm0PRjM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-14T12:10:00Z",
+    "ttl": "2026-08-21T12:10:00.000Z",
+    "streamerId": "ichinose_uruha"
   },
   {
     "id": "e8YdyzAq0LY",
@@ -36,6 +47,17 @@
     "startTime": "2026-08-14T09:52:06Z",
     "ttl": "2026-08-21T09:45:00.000Z",
     "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "L_JKCi9Ov_k",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【Supermarket Chaos】この４人でチルゲーってできるのかな【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/L_JKCi9Ov_k/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=L_JKCi9Ov_k",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-14T12:10:00Z",
+    "ttl": "2026-08-21T12:10:00.000Z",
+    "streamerId": "nekota_tsuna"
   },
   {
     "id": "A0-rOr1KXFI",
