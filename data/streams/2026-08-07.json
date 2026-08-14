@@ -322,17 +322,5 @@
     "platform": "twitch",
     "ttl": "2026-08-14T23:31:25.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316272739825",
-    "channelId": "choyahanabi",
-    "title": "【スト６】進路相談！！！！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/31f52598c5363b34619b_choyahanabi_316272739825_1786071969//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2839386652",
-    "scheduledStartTime": "2026-08-07T03:06:14Z",
-    "startTime": "2026-08-07T03:06:14Z",
-    "platform": "twitch",
-    "ttl": "2026-08-14T03:06:14.000Z",
-    "streamerId": "choya_hanabi"
   }
 ]
