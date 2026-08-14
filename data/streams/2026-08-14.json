@@ -41,11 +41,12 @@
     "id": "znTvcm0PRjM",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【Supermarket Chaos】４人でお片付け🎶【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/znTvcm0PRjM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/znTvcm0PRjM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=znTvcm0PRjM",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-14T12:10:00Z",
     "startTime": "2026-08-14T12:12:56Z",
+    "endTime": "2026-08-14T15:42:46Z",
     "ttl": "2026-08-21T12:10:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -77,11 +78,12 @@
     "id": "L_JKCi9Ov_k",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【Supermarket Chaos】この４人でチルゲーってできるのかな【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/L_JKCi9Ov_k/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/L_JKCi9Ov_k/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=L_JKCi9Ov_k",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-14T12:10:00Z",
     "startTime": "2026-08-14T12:13:00Z",
+    "endTime": "2026-08-14T15:44:33Z",
     "ttl": "2026-08-21T12:10:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -94,6 +96,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-14T11:00:00Z",
     "startTime": "2026-08-14T11:06:19Z",
+    "endTime": "2026-08-14T16:25:09Z",
     "ttl": "2026-08-21T11:00:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -165,7 +168,7 @@
   {
     "id": "cEU0kDWxNw4",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "Beyond The Way『青月レミア  x 如月れん x 蝶屋はなび COVER』 #ぶいすぽっ #VSPOEN",
+    "title": "Beyond The Way 『青月レミア  x 如月れん x 蝶屋はなび COVER』 #ぶいすぽっ #VSPOEN",
     "thumbnail": "https://i.ytimg.com/vi/cEU0kDWxNw4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=cEU0kDWxNw4",
     "platform": "youtube",
@@ -201,21 +204,9 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316370911347",
-    "channelId": "ramuneshiranami",
-    "title": "【Valheim】#3 快適なおうちを目指して w/愉快なみんな→【Supermarket Chaos】スーパー定員になる w/あかりん うるはさん つな",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-08-14T04:27:12Z",
-    "startTime": "2026-08-14T04:27:12Z",
-    "platform": "twitch",
-    "ttl": "2026-08-21T04:27:12.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316307127537",
     "channelId": "akarindao",
-    "title": "お片付け🎵お片付け🎵うるはさんとちゅなとらむちとお片付け🎵",
+    "title": "チラズアート新作やる",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
     "url": "https://www.twitch.tv/akarindao",
     "scheduledStartTime": "2026-08-14T12:12:53Z",
@@ -235,5 +226,17 @@
     "platform": "twitch",
     "ttl": "2026-08-21T12:59:08.000Z",
     "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "316370911347",
+    "channelId": "ramuneshiranami",
+    "title": "【Valheim】#3 快適なおうちを目指して w/愉快なみんな",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/1dec63d32dd66025716c_ramuneshiranami_316370911347_1786681632//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2845734868",
+    "scheduledStartTime": "2026-08-14T04:27:17Z",
+    "startTime": "2026-08-14T04:27:17Z",
+    "platform": "twitch",
+    "ttl": "2026-08-21T04:27:17.000Z",
+    "streamerId": "shiranami_ramune"
   }
 ]
