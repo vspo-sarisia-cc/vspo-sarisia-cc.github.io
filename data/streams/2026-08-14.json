@@ -39,11 +39,12 @@
     "id": "WpAvw57PJjA",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "【LOL】Coca-Cola STAGE:0 eSPORTS High-School Championship 2026 グランドファイナル Day1 ウォッチパ！【ぶいすぽっ！/ 龍巻ちせ】",
-    "thumbnail": "https://i.ytimg.com/vi/WpAvw57PJjA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/WpAvw57PJjA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=WpAvw57PJjA",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-14T01:00:00Z",
     "startTime": "2026-08-14T01:02:52Z",
+    "endTime": "2026-08-14T05:26:44Z",
     "ttl": "2026-08-21T01:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -90,5 +91,17 @@
     "scheduledStartTime": "2026-08-14T14:00:00Z",
     "ttl": "2026-08-21T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316370911347",
+    "channelId": "ramuneshiranami",
+    "title": "【Valheim】#3 快適なおうちを目指して w/愉快なみんな",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-08-14T04:27:12Z",
+    "startTime": "2026-08-14T04:27:12Z",
+    "platform": "twitch",
+    "ttl": "2026-08-21T04:27:12.000Z",
+    "streamerId": "shiranami_ramune"
   }
 ]
