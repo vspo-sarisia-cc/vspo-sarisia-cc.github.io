@@ -50,6 +50,17 @@
     "streamerId": "ichinose_uruha"
   },
   {
+    "id": "8ueBI6h8FPk",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "ぶいすぽメンバーのコーチになったナウマンに裏切られた(？)ツルギ【ぶいすぽっ！/ 藍沢エマ/ナウマン/柊ツルギ/スト6/STREET FIGHTER 6】",
+    "thumbnail": "https://i.ytimg.com/vi/8ueBI6h8FPk/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=8ueBI6h8FPk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-14T22:00:00Z",
+    "ttl": "2026-08-21T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "e8YdyzAq0LY",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 ぽこ あ ポケモン 】海の中で涼む【 ぶいすぽっ！/紫宮るな 】",
@@ -103,11 +114,12 @@
     "id": "g8XgPqxTZpc",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【#WatchPartyLCP】CFO vs MVK | LCP 2026 Split 3 Swiss Stage Week 4 Day 2【ぶいすぽっ！/千燈ゆうひ】",
-    "thumbnail": "https://i.ytimg.com/vi/g8XgPqxTZpc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/g8XgPqxTZpc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=g8XgPqxTZpc",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-14T09:00:00Z",
     "startTime": "2026-08-14T09:10:38Z",
+    "endTime": "2026-08-14T13:47:19Z",
     "ttl": "2026-08-21T09:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -183,6 +195,7 @@
     "url": "https://www.youtube.com/watch?v=q_gmkJE3U8Q",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-14T14:00:00Z",
+    "startTime": "2026-08-14T14:01:47Z",
     "ttl": "2026-08-21T14:00:00.000Z",
     "streamerId": "juno_umezono"
   },
