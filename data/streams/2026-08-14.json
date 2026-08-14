@@ -13,6 +13,18 @@
     "streamerId": "kaga_sumire"
   },
   {
+    "id": "5I76yedIiQk",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【Escape from Tarkov】とりまソロ！【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/5I76yedIiQk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=5I76yedIiQk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-14T12:30:00Z",
+    "startTime": "2026-08-14T12:29:41Z",
+    "ttl": "2026-08-21T12:30:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "Bv8_uRxcgyE",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【CR Streamer League Shadowverse】最終節！！！優勝！賞金！優勝！w.リグゼコーチ、ぱらちゃん【ぶいすぽ/花芽なずな】",
@@ -33,6 +45,7 @@
     "url": "https://www.youtube.com/watch?v=znTvcm0PRjM",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-14T12:10:00Z",
+    "startTime": "2026-08-14T12:12:56Z",
     "ttl": "2026-08-21T12:10:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -40,11 +53,12 @@
     "id": "e8YdyzAq0LY",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 ぽこ あ ポケモン 】海の中で涼む【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/e8YdyzAq0LY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/e8YdyzAq0LY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=e8YdyzAq0LY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-14T09:45:00Z",
     "startTime": "2026-08-14T09:52:06Z",
+    "endTime": "2026-08-14T12:57:19Z",
     "ttl": "2026-08-21T09:45:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -56,6 +70,7 @@
     "url": "https://www.youtube.com/watch?v=L_JKCi9Ov_k",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-14T12:10:00Z",
+    "startTime": "2026-08-14T12:13:00Z",
     "ttl": "2026-08-21T12:10:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -130,6 +145,7 @@
     "url": "https://www.youtube.com/watch?v=mqN6bMf0ZPc",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-14T13:05:00Z",
+    "startTime": "2026-08-14T13:06:41Z",
     "ttl": "2026-08-21T13:05:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -141,6 +157,8 @@
     "url": "https://www.youtube.com/watch?v=cEU0kDWxNw4",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-14T13:00:00Z",
+    "startTime": "2026-08-14T13:00:06Z",
+    "endTime": "2026-08-14T13:04:04Z",
     "ttl": "2026-08-21T13:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -148,11 +166,12 @@
     "id": "Aa3WtgL6urg",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【ZATSU】tadaima!! we gao AGANE【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/Aa3WtgL6urg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Aa3WtgL6urg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Aa3WtgL6urg",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-14T11:00:00Z",
     "startTime": "2026-08-14T11:05:52Z",
+    "endTime": "2026-08-14T13:31:01Z",
     "ttl": "2026-08-21T11:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -170,7 +189,7 @@
   {
     "id": "316370911347",
     "channelId": "ramuneshiranami",
-    "title": "【Valheim】#3 快適なおうちを目指して w/愉快なみんな",
+    "title": "【Valheim】#3 快適なおうちを目指して w/愉快なみんな→【Supermarket Chaos】スーパー定員になる w/あかりん うるはさん つな",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
     "url": "https://www.twitch.tv/ramuneshiranami",
     "scheduledStartTime": "2026-08-14T04:27:12Z",
@@ -178,5 +197,29 @@
     "platform": "twitch",
     "ttl": "2026-08-21T04:27:12.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316307127537",
+    "channelId": "akarindao",
+    "title": "お片付け🎵お片付け🎵うるはさんとちゅなとらむちとお片付け🎵",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-08-14T12:12:53Z",
+    "startTime": "2026-08-14T12:12:53Z",
+    "platform": "twitch",
+    "ttl": "2026-08-21T12:12:53.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316372833267",
+    "channelId": "shinomiya_runa",
+    "title": "ジュリ戦いしよう",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinomiya_runa-320x180.jpg",
+    "url": "https://www.twitch.tv/shinomiya_runa",
+    "scheduledStartTime": "2026-08-14T12:59:08Z",
+    "startTime": "2026-08-14T12:59:08Z",
+    "platform": "twitch",
+    "ttl": "2026-08-21T12:59:08.000Z",
+    "streamerId": "shinomiya_runa"
   }
 ]
