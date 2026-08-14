@@ -206,18 +206,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316307127537",
-    "channelId": "akarindao",
-    "title": "チラズアート新作やる",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-08-14T12:12:53Z",
-    "startTime": "2026-08-14T12:12:53Z",
-    "platform": "twitch",
-    "ttl": "2026-08-21T12:12:53.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316372833267",
     "channelId": "shinomiya_runa",
     "title": "ジュリ戦いしよう",
@@ -240,5 +228,17 @@
     "platform": "twitch",
     "ttl": "2026-08-21T04:27:17.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316307127537",
+    "channelId": "akarindao",
+    "title": "お片付け🎵お片付け🎵うるはさんとちゅなとらむちとお片付け🎵",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d237a756f732610ea458_akarindao_316307127537_1786709573//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2845915725",
+    "scheduledStartTime": "2026-08-14T12:12:59Z",
+    "startTime": "2026-08-14T12:12:59Z",
+    "platform": "twitch",
+    "ttl": "2026-08-21T12:12:59.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
