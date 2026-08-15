@@ -3,7 +3,7 @@
     "id": "qT1oM8UxLEA",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【ほの暮しの庭】夏がく、くる【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/qT1oM8UxLEA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/qT1oM8UxLEA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=qT1oM8UxLEA",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-15T00:45:00Z",
@@ -20,6 +20,7 @@
     "url": "https://www.youtube.com/watch?v=HQ0sT_4vX6k",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-15T04:15:00Z",
+    "startTime": "2026-08-15T04:20:02Z",
     "ttl": "2026-08-22T04:15:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -56,6 +57,18 @@
     "startTime": "2026-08-15T01:03:07Z",
     "ttl": "2026-08-22T01:00:00.000Z",
     "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "_e2tqI5j0ds",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】調子悪いのにコンペ回し続けてしまった結果・・・【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/_e2tqI5j0ds/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=_e2tqI5j0ds",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-15T04:20:00Z",
+    "startTime": "2026-08-15T04:18:43Z",
+    "ttl": "2026-08-22T04:20:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "bP2kSh2DwAI",

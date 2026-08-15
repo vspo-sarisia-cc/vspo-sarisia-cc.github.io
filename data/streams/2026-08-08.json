@@ -143,19 +143,6 @@
     "streamerId": "komori_met"
   },
   {
-    "id": "DycXVln0g48",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 VALO 〗いつもの。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/DycXVln0g48/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=DycXVln0g48",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-08T04:00:00Z",
-    "startTime": "2026-08-08T04:01:30Z",
-    "endTime": "2026-08-08T07:00:20Z",
-    "ttl": "2026-08-15T04:00:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
     "id": "hWQX0deajqk",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【第2回】皆の手料理から今夜のご飯を決める！ 今夜のつむおは何を食う#2【ぶいすぽっ！ / 紡木こかげ】",
@@ -180,19 +167,6 @@
     "endTime": "2026-08-08T08:17:27Z",
     "ttl": "2026-08-15T06:45:00.000Z",
     "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "mBKf73A30dM",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【 VALORANT 】　むーーーーさんとヴァロやるぞおおおお！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/mBKf73A30dM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=mBKf73A30dM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-08T04:00:00Z",
-    "startTime": "2026-08-08T04:01:53Z",
-    "endTime": "2026-08-08T06:55:56Z",
-    "ttl": "2026-08-15T04:00:00.000Z",
-    "streamerId": "choya_hanabi"
   },
   {
     "id": "NVt1J-Loa_o",
