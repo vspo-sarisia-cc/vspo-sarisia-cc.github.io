@@ -50,14 +50,27 @@
     "streamerId": "tachibana_hinano"
   },
   {
+    "id": "MYn94xOR8UI",
+    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
+    "title": "【Minecraft】泥酔マイクラ【ぶいすぽっ！/英リサ】",
+    "thumbnail": "https://i.ytimg.com/vi/MYn94xOR8UI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=MYn94xOR8UI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-15T11:15:00Z",
+    "startTime": "2026-08-15T11:13:36Z",
+    "ttl": "2026-08-22T11:15:00.000Z",
+    "streamerId": "hanabusa_lisa"
+  },
+  {
     "id": "l6vTQxmPJaU",
     "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
     "title": "【#英リサ6周年】本日で６周年！いつもありがとう【記念グッズ紹介】【酒浴び】",
-    "thumbnail": "https://i.ytimg.com/vi/l6vTQxmPJaU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/l6vTQxmPJaU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=l6vTQxmPJaU",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-15T10:00:00Z",
     "startTime": "2026-08-15T10:01:37Z",
+    "endTime": "2026-08-15T11:04:39Z",
     "ttl": "2026-08-22T10:00:00.000Z",
     "streamerId": "hanabusa_lisa"
   },

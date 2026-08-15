@@ -1,31 +1,5 @@
 [
   {
-    "id": "ClQCdh5_6r4",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【Machine Party】だいぶエグそうなパーティーゲーム【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/ClQCdh5_6r4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ClQCdh5_6r4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-08T11:00:00Z",
-    "startTime": "2026-08-08T11:08:13Z",
-    "endTime": "2026-08-08T12:14:25Z",
-    "ttl": "2026-08-15T11:00:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
-    "id": "G1p0VtcK2Tg",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【MACHINE PARTY】不穏なパーティーゲーム【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/G1p0VtcK2Tg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=G1p0VtcK2Tg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-08T11:00:00Z",
-    "startTime": "2026-08-08T11:08:29Z",
-    "endTime": "2026-08-08T12:13:00Z",
-    "ttl": "2026-08-15T11:00:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
     "id": "u7rRCWr95nE",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 夜ふかし雑談 】#86 歌ってみた聞いてくれた～？【ぶいすぽっ！胡桃のあ】",
@@ -50,32 +24,6 @@
     "endTime": "2026-08-08T19:32:25Z",
     "ttl": "2026-08-15T12:30:00.000Z",
     "streamerId": "tosaki_mimi"
-  },
-  {
-    "id": "ihk_uQQnKGw",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 Machine Party 】 ぐろそうなパーティーゲームやります【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/ihk_uQQnKGw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ihk_uQQnKGw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-08T11:00:00Z",
-    "startTime": "2026-08-08T11:07:45Z",
-    "endTime": "2026-08-08T12:19:56Z",
-    "ttl": "2026-08-15T11:00:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "568Mp28qMjQ",
-    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
-    "title": "【Machine Party】バイオレンスパーティーゲーム/ひなーの、なずぴ、うるは先輩 【ぶいすぽっ！/英リサ】",
-    "thumbnail": "https://i.ytimg.com/vi/568Mp28qMjQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=568Mp28qMjQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-08T11:00:00Z",
-    "startTime": "2026-08-08T11:08:13Z",
-    "endTime": "2026-08-08T12:15:50Z",
-    "ttl": "2026-08-15T11:00:00.000Z",
-    "streamerId": "hanabusa_lisa"
   },
   {
     "id": "stFA_EkT_7w",
