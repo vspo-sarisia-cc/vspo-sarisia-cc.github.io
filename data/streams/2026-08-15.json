@@ -95,6 +95,7 @@
     "url": "https://www.youtube.com/watch?v=OUyxVi_qDSg",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-15T09:20:00Z",
+    "startTime": "2026-08-15T09:26:38Z",
     "ttl": "2026-08-22T09:20:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -107,6 +108,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-15T09:00:00Z",
     "startTime": "2026-08-15T09:02:26Z",
+    "endTime": "2026-08-15T09:48:24Z",
     "ttl": "2026-08-22T09:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -131,6 +133,7 @@
     "url": "https://www.youtube.com/watch?v=1SL1ZhQbAr8",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-15T09:25:00Z",
+    "startTime": "2026-08-15T09:22:24Z",
     "ttl": "2026-08-22T09:25:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
