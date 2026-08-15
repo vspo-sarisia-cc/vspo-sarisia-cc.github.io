@@ -24,17 +24,5 @@
     "endTime": "2026-08-09T00:10:11Z",
     "ttl": "2026-08-15T21:00:00.000Z",
     "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "316280208753",
-    "channelId": "emtsmaru",
-    "title": "バレリーナの夜食待機中",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/e6ecdf5e5530470dc81e_emtsmaru_316280208753_1786202519//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2840651027",
-    "scheduledStartTime": "2026-08-08T15:22:04Z",
-    "startTime": "2026-08-08T15:22:04Z",
-    "platform": "twitch",
-    "ttl": "2026-08-15T15:22:04.000Z",
-    "streamerId": "aizawa_ema"
   }
 ]
