@@ -8,8 +8,20 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-15T00:45:00Z",
     "startTime": "2026-08-15T00:46:20Z",
+    "endTime": "2026-08-15T03:47:23Z",
     "ttl": "2026-08-22T00:45:00.000Z",
     "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "HQ0sT_4vX6k",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 BIOHAZARD RE:2 】完全初見プレイ🔰 #2 へっぴり腰のレオン【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/HQ0sT_4vX6k/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=HQ0sT_4vX6k",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-15T04:15:00Z",
+    "ttl": "2026-08-22T04:15:00.000Z",
+    "streamerId": "kurumi_noah"
   },
   {
     "id": "fsu-pUEWFP8",
