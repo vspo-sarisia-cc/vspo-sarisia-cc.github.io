@@ -12,6 +12,18 @@
     "streamerId": "kaga_sumire"
   },
   {
+    "id": "pUkqmk388qs",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【Escape from Tarkov】バレバレタルコフ【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/pUkqmk388qs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=pUkqmk388qs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-15T14:40:00Z",
+    "startTime": "2026-08-15T14:39:22Z",
+    "ttl": "2026-08-22T14:40:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "4Lt_nhxKTMQ",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【ほの暮しの庭】ここで生活をしています【ぶいすぽ/一ノ瀬うるは】",
@@ -154,7 +166,7 @@
     "id": "2P2Euuli2qQ",
     "channelId": "UC61OwuYOVuKkpKnid-43Twg",
     "title": "【キングダムハーツHD1.5+2.5】KINGDOM HEARTS II FINAL MIX ＃２【ぶいすぽ/白波らむね】",
-    "thumbnail": "https://i.ytimg.com/vi/2P2Euuli2qQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/2P2Euuli2qQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=2P2Euuli2qQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-15T08:00:00Z",
@@ -162,6 +174,17 @@
     "endTime": "2026-08-15T14:05:34Z",
     "ttl": "2026-08-22T08:00:00.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "WQnosweS3SQ",
+    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
+    "title": "【 ニチアサ 】しゃべることしかできない奴【 ぶいすぽっ！ / 小森めと 】",
+    "thumbnail": "https://i.ytimg.com/vi/WQnosweS3SQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=WQnosweS3SQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-15T23:00:00Z",
+    "ttl": "2026-08-22T23:00:00.000Z",
+    "streamerId": "komori_met"
   },
   {
     "id": "OUyxVi_qDSg",
@@ -172,6 +195,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-15T09:20:00Z",
     "startTime": "2026-08-15T09:26:38Z",
+    "endTime": "2026-08-15T14:43:39Z",
     "ttl": "2026-08-22T09:20:00.000Z",
     "streamerId": "yano_kuromu"
   },
