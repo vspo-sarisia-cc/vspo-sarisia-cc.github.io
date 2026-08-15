@@ -54,6 +54,7 @@
     "url": "https://www.youtube.com/watch?v=WLtcIV2H0bo",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-15T05:00:00Z",
+    "startTime": "2026-08-15T05:24:15Z",
     "ttl": "2026-08-22T05:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -66,6 +67,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-15T01:00:00Z",
     "startTime": "2026-08-15T01:03:07Z",
+    "endTime": "2026-08-15T05:38:13Z",
     "ttl": "2026-08-22T01:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
