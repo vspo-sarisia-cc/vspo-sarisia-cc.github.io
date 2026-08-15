@@ -13,19 +13,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "nvLvnf5vZ0U",
-    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
-    "title": "【Minecraft】トラップ作りしま【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/nvLvnf5vZ0U/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=nvLvnf5vZ0U",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-08T12:30:00Z",
-    "startTime": "2026-08-08T12:38:07Z",
-    "endTime": "2026-08-08T19:32:25Z",
-    "ttl": "2026-08-15T12:30:00.000Z",
-    "streamerId": "tosaki_mimi"
-  },
-  {
     "id": "stFA_EkT_7w",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【 Escape from Tarkov 】帰還。w/ レイード【ぶいすぽ/八雲べに】",
@@ -111,17 +98,5 @@
     "platform": "twitch",
     "ttl": "2026-08-15T13:15:35.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "316279279729",
-    "channelId": "akarindao",
-    "title": "ずんずん🎵初見リズム天国🎵",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/158d5c661a361fdb5f11_akarindao_316279279729_1786191747//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2840541662",
-    "scheduledStartTime": "2026-08-08T12:22:33Z",
-    "startTime": "2026-08-08T12:22:33Z",
-    "platform": "twitch",
-    "ttl": "2026-08-15T12:22:33.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
