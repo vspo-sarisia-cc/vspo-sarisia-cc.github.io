@@ -54,7 +54,7 @@
     "id": "MYn94xOR8UI",
     "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
     "title": "【Minecraft】泥酔マイクラ【ぶいすぽっ！/英リサ】",
-    "thumbnail": "https://i.ytimg.com/vi/MYn94xOR8UI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/MYn94xOR8UI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=MYn94xOR8UI",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-15T11:15:00Z",
@@ -136,6 +136,17 @@
     "startTime": "2026-08-15T09:26:38Z",
     "ttl": "2026-08-22T09:20:00.000Z",
     "streamerId": "yano_kuromu"
+  },
+  {
+    "id": "CmvKNSjQ3Xo",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】配信者ヴぁろカスタムだーーー！【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/CmvKNSjQ3Xo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=CmvKNSjQ3Xo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-15T12:00:00Z",
+    "ttl": "2026-08-22T12:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "bP2kSh2DwAI",
