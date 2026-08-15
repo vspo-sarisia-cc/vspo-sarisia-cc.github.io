@@ -62,7 +62,7 @@
     "id": "-6jnXcWvpFw",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【VALO】Coca-Cola STAGE:0 eSPORTS High-School Championship 2026 グランドファイナル Day2 ウォッチパ！【ぶいすぽっ！/ 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/-6jnXcWvpFw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/-6jnXcWvpFw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=-6jnXcWvpFw",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-15T01:00:00Z",
@@ -93,6 +93,18 @@
     "scheduledStartTime": "2026-08-15T09:00:00Z",
     "ttl": "2026-08-22T09:00:00.000Z",
     "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "XKR7iMRpU8k",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　マスターから落ちるなランク   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/XKR7iMRpU8k/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=XKR7iMRpU8k",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-15T06:00:00Z",
+    "startTime": "2026-08-15T06:08:01Z",
+    "ttl": "2026-08-22T06:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "iK1EwZCJ3XM",
