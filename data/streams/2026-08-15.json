@@ -44,6 +44,7 @@
     "url": "https://www.youtube.com/watch?v=KaIcwpvEtVs",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-15T14:00:00Z",
+    "startTime": "2026-08-15T14:01:23Z",
     "ttl": "2026-08-22T14:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -158,6 +159,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-15T08:00:00Z",
     "startTime": "2026-08-15T08:16:17Z",
+    "endTime": "2026-08-15T14:05:34Z",
     "ttl": "2026-08-22T08:00:00.000Z",
     "streamerId": "shiranami_ramune"
   },
@@ -210,19 +212,6 @@
     "endTime": "2026-08-15T08:52:38Z",
     "ttl": "2026-08-22T04:20:00.000Z",
     "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "1SL1ZhQbAr8",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【#WatchPartyLCP】GZ vs DFM | LCP 2026 Split 3 Swiss Stage Week 4 Day 3【ぶいすぽっ！/千燈ゆうひ】",
-    "thumbnail": "https://i.ytimg.com/vi/1SL1ZhQbAr8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=1SL1ZhQbAr8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-15T09:25:00Z",
-    "startTime": "2026-08-15T09:22:24Z",
-    "endTime": "2026-08-15T12:04:59Z",
-    "ttl": "2026-08-22T09:25:00.000Z",
-    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "XKR7iMRpU8k",
