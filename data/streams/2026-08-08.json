@@ -195,19 +195,6 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "ncJ-UZgfn1o",
-    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
-    "title": "【スト6】もかCUP予選！チームもかやす【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/ncJ-UZgfn1o/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ncJ-UZgfn1o",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-08T03:00:00Z",
-    "startTime": "2026-08-08T02:51:29Z",
-    "endTime": "2026-08-08T06:43:04Z",
-    "ttl": "2026-08-15T03:00:00.000Z",
-    "streamerId": "amayui_moka"
-  },
-  {
     "id": "NVt1J-Loa_o",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "We are trapped stepmelon...  |  Separated【#VSPOEN #RemiaAotsuki】",
@@ -231,18 +218,6 @@
     "platform": "twitch",
     "ttl": "2026-08-15T14:33:50.000Z",
     "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "316342360819",
-    "channelId": "ren_kisaragi__",
-    "title": "もかCUPにでるぞ～～～～w/shu3",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/29ce1aacb3bfd7739a47_ren_kisaragi___316342360819_1786157610//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2840276912",
-    "scheduledStartTime": "2026-08-08T02:53:35Z",
-    "startTime": "2026-08-08T02:53:35Z",
-    "platform": "twitch",
-    "ttl": "2026-08-15T02:53:35.000Z",
-    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316280208753",
@@ -290,18 +265,6 @@
     "startTime": "2026-08-08T12:22:33Z",
     "platform": "twitch",
     "ttl": "2026-08-15T12:22:33.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316277223153",
-    "channelId": "akarindao",
-    "title": "夏なので、夢野監視教会はじめました",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/ef72eb2dae191ec42ac0_akarindao_316277223153_1786157764//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2840278765",
-    "scheduledStartTime": "2026-08-08T02:56:10Z",
-    "startTime": "2026-08-08T02:56:10Z",
-    "platform": "twitch",
-    "ttl": "2026-08-15T02:56:10.000Z",
     "streamerId": "yumeno_akari"
   }
 ]
