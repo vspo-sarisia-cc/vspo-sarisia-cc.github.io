@@ -106,11 +106,12 @@
     "id": "xKUAV7Hnhzg",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "まだ日曜日",
-    "thumbnail": "https://i.ytimg.com/vi/xKUAV7Hnhzg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/xKUAV7Hnhzg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=xKUAV7Hnhzg",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-16T15:26:05Z",
     "startTime": "2026-08-16T15:32:41Z",
+    "endTime": "2026-08-16T18:02:06Z",
     "ttl": "2026-08-23T15:26:05.000Z",
     "streamerId": "aizawa_ema"
   },
