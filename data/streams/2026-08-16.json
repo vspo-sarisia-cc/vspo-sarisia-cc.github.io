@@ -159,6 +159,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-16T12:30:00Z",
     "startTime": "2026-08-16T12:41:13Z",
+    "endTime": "2026-08-16T15:10:03Z",
     "ttl": "2026-08-23T12:30:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -200,18 +201,6 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "316382415219",
-    "channelId": "ren_kisaragi__",
-    "title": "あまりにも暇すぎて寝転がってたら誘ってもらった",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-08-16T12:41:36Z",
-    "startTime": "2026-08-16T12:41:36Z",
-    "platform": "twitch",
-    "ttl": "2026-08-23T12:41:36.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "316324252530",
     "channelId": "asumisena",
     "title": "TFTやるよ～",
@@ -222,6 +211,18 @@
     "platform": "twitch",
     "ttl": "2026-08-23T06:24:12.000Z",
     "streamerId": "asumi_sena"
+  },
+  {
+    "id": "316382415219",
+    "channelId": "ren_kisaragi__",
+    "title": "あまりにも暇すぎて寝転がってたら誘ってもらった",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/def6e2d3cc04149db5bf_ren_kisaragi___316382415219_1786884096//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2847795755",
+    "scheduledStartTime": "2026-08-16T12:41:41Z",
+    "startTime": "2026-08-16T12:41:41Z",
+    "platform": "twitch",
+    "ttl": "2026-08-23T12:41:41.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316324188786",
