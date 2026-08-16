@@ -19,6 +19,7 @@
     "url": "https://www.youtube.com/watch?v=I5vfgLiKwus",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-16T12:50:00Z",
+    "startTime": "2026-08-16T12:50:38Z",
     "ttl": "2026-08-23T12:50:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -31,6 +32,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-16T10:30:00Z",
     "startTime": "2026-08-16T10:31:22Z",
+    "endTime": "2026-08-16T13:25:47Z",
     "ttl": "2026-08-23T10:30:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -134,17 +136,6 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "tYMLF3clUO4",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【メン限】いつ切れるかわからなくてもヘリウ民なら許してくれるはず【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/tYMLF3clUO4/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=tYMLF3clUO4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-16T13:00:00Z",
-    "ttl": "2026-08-23T13:00:00.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
     "id": "9iV6577ELa4",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤ Overwatch ◢　激浅ウォーバーウォッチ部きたああ   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
@@ -187,6 +178,7 @@
     "url": "https://www.youtube.com/watch?v=8IzEk8_K_Hs",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-16T13:00:00Z",
+    "startTime": "2026-08-16T13:03:30Z",
     "ttl": "2026-08-23T13:00:00.000Z",
     "streamerId": "riko_solari"
   },
