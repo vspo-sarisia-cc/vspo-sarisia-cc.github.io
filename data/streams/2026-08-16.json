@@ -12,6 +12,17 @@
     "streamerId": "kaga_sumire"
   },
   {
+    "id": "I5vfgLiKwus",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【Escape from Tarkov】お金稼ぎとハイドアウトの物あつめたい　１９才【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/I5vfgLiKwus/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=I5vfgLiKwus",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-16T12:50:00Z",
+    "ttl": "2026-08-23T12:50:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "GR0gXodbYiY",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【APEX】きゅぴリサとえぺすんぞ！【ぶいすぽ/一ノ瀬うるは】",
@@ -85,14 +96,27 @@
     "streamerId": "yano_kuromu"
   },
   {
+    "id": "6YUhZ-itUuE",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】残り3日・・・レート−200・・・【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/6YUhZ-itUuE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=6YUhZ-itUuE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-16T12:30:00Z",
+    "startTime": "2026-08-16T12:34:53Z",
+    "ttl": "2026-08-23T12:30:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "a-aDBFuGrMU",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Among Us 3D 】　久々の再会がここってワケ！！！w/のばまん、ぷちひな、あろま　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/a-aDBFuGrMU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/a-aDBFuGrMU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=a-aDBFuGrMU",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-16T10:00:00Z",
     "startTime": "2026-08-16T10:05:43Z",
+    "endTime": "2026-08-16T12:36:06Z",
     "ttl": "2026-08-23T10:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -108,6 +132,29 @@
     "endTime": "2026-08-16T04:58:57Z",
     "ttl": "2026-08-23T03:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "tYMLF3clUO4",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【メン限】いつ切れるかわからなくてもヘリウ民なら許してくれるはず【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/tYMLF3clUO4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=tYMLF3clUO4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-16T13:00:00Z",
+    "ttl": "2026-08-23T13:00:00.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "9iV6577ELa4",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤ Overwatch ◢　激浅ウォーバーウォッチ部きたああ   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/9iV6577ELa4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=9iV6577ELa4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-16T12:30:00Z",
+    "startTime": "2026-08-16T12:41:13Z",
+    "ttl": "2026-08-23T12:30:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "HeHf9BXZ8nw",
@@ -142,6 +189,18 @@
     "scheduledStartTime": "2026-08-16T13:00:00Z",
     "ttl": "2026-08-23T13:00:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "316382415219",
+    "channelId": "ren_kisaragi__",
+    "title": "あまりにも暇すぎて寝転がってたら誘ってもらった",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-08-16T12:41:36Z",
+    "startTime": "2026-08-16T12:41:36Z",
+    "platform": "twitch",
+    "ttl": "2026-08-23T12:41:36.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316324252530",
