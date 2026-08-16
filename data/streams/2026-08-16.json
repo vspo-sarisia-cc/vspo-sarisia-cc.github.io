@@ -14,7 +14,7 @@
     "id": "beFbjHQRrhw",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【雑談】　元気になった！！！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/beFbjHQRrhw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/beFbjHQRrhw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=beFbjHQRrhw",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-16T03:00:00Z",
@@ -44,5 +44,16 @@
     "scheduledStartTime": "2026-08-16T11:00:00Z",
     "ttl": "2026-08-23T11:00:00.000Z",
     "streamerId": "jira_jisaki"
+  },
+  {
+    "id": "8IzEk8_K_Hs",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【RED DEAD REDEMPTION 2】howdy partner 🤠【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/8IzEk8_K_Hs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=8IzEk8_K_Hs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-16T12:00:00Z",
+    "ttl": "2026-08-23T12:00:00.000Z",
+    "streamerId": "riko_solari"
   }
 ]
