@@ -52,19 +52,6 @@
     "streamerId": "tachibana_hinano"
   },
   {
-    "id": "gJpuHSJYEzA",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 Apex Legends 】 あつい w/かみーと、シノくん【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/gJpuHSJYEzA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=gJpuHSJYEzA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-09T07:45:00Z",
-    "startTime": "2026-08-09T07:57:47Z",
-    "endTime": "2026-08-09T12:19:50Z",
-    "ttl": "2026-08-16T07:45:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
     "id": "QYYdnst-QRs",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【 Escape from Tarkov 】アレルギー＠２なんでしょうか Lv12~【ぶいすぽ/八雲べに】",
@@ -180,18 +167,6 @@
     "endTime": "2026-08-10T00:15:01Z",
     "ttl": "2026-08-16T18:00:00.000Z",
     "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "316283004145",
-    "channelId": "ren_kisaragi__",
-    "title": "バトルハブでもかカップ見るチャレンジ",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/6cb9f87959e07dcc2ae3_ren_kisaragi___316283004145_1786262040//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2841340756",
-    "scheduledStartTime": "2026-08-09T07:54:05Z",
-    "startTime": "2026-08-09T07:54:05Z",
-    "platform": "twitch",
-    "ttl": "2026-08-16T07:54:05.000Z",
-    "streamerId": "kisaragi_ren"
   },
   {
     "id": "320948207067",
