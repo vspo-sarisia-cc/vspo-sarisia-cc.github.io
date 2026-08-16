@@ -55,5 +55,29 @@
     "scheduledStartTime": "2026-08-16T12:00:00Z",
     "ttl": "2026-08-23T12:00:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "316324188786",
+    "channelId": "ramuneshiranami",
+    "title": "【Valheim】ボスいけんのか",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-08-16T06:05:18Z",
+    "startTime": "2026-08-16T06:05:18Z",
+    "platform": "twitch",
+    "ttl": "2026-08-23T06:05:18.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316324252530",
+    "channelId": "asumisena",
+    "title": "TFTやるよ～",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asumisena-320x180.jpg",
+    "url": "https://www.twitch.tv/asumisena",
+    "scheduledStartTime": "2026-08-16T06:24:07Z",
+    "startTime": "2026-08-16T06:24:07Z",
+    "platform": "twitch",
+    "ttl": "2026-08-23T06:24:07.000Z",
+    "streamerId": "asumi_sena"
   }
 ]
