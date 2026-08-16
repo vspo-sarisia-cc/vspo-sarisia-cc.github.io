@@ -12,6 +12,18 @@
     "streamerId": "ichinose_uruha"
   },
   {
+    "id": "gFuK37s26U8",
+    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
+    "title": "【ストリヌ】最終日！ダンジョンクリア目指して【ぶいすぽ/兎咲ミミ】",
+    "thumbnail": "https://i.ytimg.com/vi/gFuK37s26U8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=gFuK37s26U8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-16T11:00:00Z",
+    "startTime": "2026-08-16T11:03:15Z",
+    "ttl": "2026-08-23T11:00:00.000Z",
+    "streamerId": "tosaki_mimi"
+  },
+  {
     "id": "O1Y-oX6Kr6c",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【#橘ひなのワンマンライブ】Tachibana Hinano One-Man Live Progress / DAY2 冒頭無料配信",
@@ -104,6 +116,7 @@
     "url": "https://www.youtube.com/watch?v=evJet0Ty3LY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-16T11:00:00Z",
+    "startTime": "2026-08-16T11:08:03Z",
     "ttl": "2026-08-23T11:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
