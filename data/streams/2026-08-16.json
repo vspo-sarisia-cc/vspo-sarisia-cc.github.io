@@ -1,5 +1,16 @@
 [
   {
+    "id": "GR0gXodbYiY",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【APEX】きゅぴリサとえぺすんぞ！【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/GR0gXodbYiY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=GR0gXodbYiY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-16T10:30:00Z",
+    "ttl": "2026-08-23T10:30:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "O1Y-oX6Kr6c",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【#橘ひなのワンマンライブ】Tachibana Hinano One-Man Live Progress / DAY2 冒頭無料配信",
@@ -24,6 +35,17 @@
     "streamerId": "hanabusa_lisa"
   },
   {
+    "id": "jXO_TUMucWo",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【APEX】ぶいすぽえぺらんくいっきまあす w/うるはﾁｬﾝ,リサﾁｬﾝ 【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/jXO_TUMucWo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=jXO_TUMucWo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-16T10:30:00Z",
+    "ttl": "2026-08-23T10:30:00.000Z",
+    "streamerId": "kaminari_qpi"
+  },
+  {
     "id": "nNAOs-l2IoU",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 ストリヌ 〗最終日🍓異世界転生も悪くなかったね。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
@@ -31,6 +53,7 @@
     "url": "https://www.youtube.com/watch?v=nNAOs-l2IoU",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-16T10:30:00Z",
+    "startTime": "2026-08-16T10:28:05Z",
     "ttl": "2026-08-23T10:30:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -42,6 +65,7 @@
     "url": "https://www.youtube.com/watch?v=a-aDBFuGrMU",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-16T10:00:00Z",
+    "startTime": "2026-08-16T10:05:43Z",
     "ttl": "2026-08-23T10:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
