@@ -1,5 +1,16 @@
 [
   {
+    "id": "07YAXsS2MZc",
+    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
+    "title": "【APEX】ドカ久々えーぺっくす 【ぶいすぽっ！/花芽すみれ】",
+    "thumbnail": "https://i.ytimg.com/vi/07YAXsS2MZc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=07YAXsS2MZc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-16T11:40:00Z",
+    "ttl": "2026-08-23T11:40:00.000Z",
+    "streamerId": "kaga_sumire"
+  },
+  {
     "id": "GR0gXodbYiY",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【APEX】きゅぴリサとえぺすんぞ！【ぶいすぽ/一ノ瀬うるは】",
@@ -132,18 +143,6 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "316324188786",
-    "channelId": "ramuneshiranami",
-    "title": "【Valheim】ボスいけんのか",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-08-16T06:05:18Z",
-    "startTime": "2026-08-16T06:05:18Z",
-    "platform": "twitch",
-    "ttl": "2026-08-23T06:05:18.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316324252530",
     "channelId": "asumisena",
     "title": "TFTやるよ～",
@@ -154,5 +153,17 @@
     "platform": "twitch",
     "ttl": "2026-08-23T06:24:12.000Z",
     "streamerId": "asumi_sena"
+  },
+  {
+    "id": "316324188786",
+    "channelId": "ramuneshiranami",
+    "title": "【Valheim】ボスいけんのか",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/2623be54121994be45e8_ramuneshiranami_316324188786_1786860318//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2847618659",
+    "scheduledStartTime": "2026-08-16T06:05:24Z",
+    "startTime": "2026-08-16T06:05:24Z",
+    "platform": "twitch",
+    "ttl": "2026-08-23T06:05:24.000Z",
+    "streamerId": "shiranami_ramune"
   }
 ]
