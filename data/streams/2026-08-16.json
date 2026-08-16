@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=GR0gXodbYiY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-16T10:30:00Z",
+    "startTime": "2026-08-16T10:31:22Z",
     "ttl": "2026-08-23T10:30:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -31,6 +32,7 @@
     "url": "https://www.youtube.com/watch?v=VpDqGHG17GU",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-16T10:30:00Z",
+    "startTime": "2026-08-16T10:31:23Z",
     "ttl": "2026-08-23T10:30:00.000Z",
     "streamerId": "hanabusa_lisa"
   },
@@ -42,6 +44,7 @@
     "url": "https://www.youtube.com/watch?v=jXO_TUMucWo",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-16T10:30:00Z",
+    "startTime": "2026-08-16T10:31:23Z",
     "ttl": "2026-08-23T10:30:00.000Z",
     "streamerId": "kaminari_qpi"
   },
