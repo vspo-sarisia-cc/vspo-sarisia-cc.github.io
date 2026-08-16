@@ -8,6 +8,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-16T11:40:00Z",
     "startTime": "2026-08-16T11:49:29Z",
+    "endTime": "2026-08-16T15:36:11Z",
     "ttl": "2026-08-23T11:40:00.000Z",
     "streamerId": "kaga_sumire"
   },
@@ -100,6 +101,18 @@
     "streamerId": "kaminari_qpi"
   },
   {
+    "id": "xKUAV7Hnhzg",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "まだ日曜日",
+    "thumbnail": "https://i.ytimg.com/vi/xKUAV7Hnhzg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=xKUAV7Hnhzg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-16T15:26:05Z",
+    "startTime": "2026-08-16T15:32:41Z",
+    "ttl": "2026-08-23T15:26:05.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "nNAOs-l2IoU",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 ストリヌ 〗最終日🍓異世界転生も悪くなかったね。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
@@ -154,7 +167,7 @@
     "id": "9iV6577ELa4",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤ Overwatch ◢　激浅ウォーバーウォッチ部きたああ   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/9iV6577ELa4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/9iV6577ELa4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=9iV6577ELa4",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-16T12:30:00Z",
