@@ -24,6 +24,18 @@
     "streamerId": "kaga_nazuna"
   },
   {
+    "id": "iJGCpjGdnMg",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【ほの暮しの庭】ほんのり明るく生きています【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/iJGCpjGdnMg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=iJGCpjGdnMg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-16T14:00:00Z",
+    "startTime": "2026-08-16T14:03:19Z",
+    "ttl": "2026-08-23T14:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "GR0gXodbYiY",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【APEX】きゅぴリサとえぺすんぞ！【ぶいすぽ/一ノ瀬うるは】",
@@ -34,17 +46,6 @@
     "startTime": "2026-08-16T10:31:22Z",
     "endTime": "2026-08-16T13:25:47Z",
     "ttl": "2026-08-23T10:30:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
-    "id": "iJGCpjGdnMg",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【ほの暮しの庭】ほんのり明るく生きています【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/iJGCpjGdnMg/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=iJGCpjGdnMg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-16T14:00:00Z",
-    "ttl": "2026-08-23T14:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
   {
@@ -168,6 +169,7 @@
     "url": "https://www.youtube.com/watch?v=HeHf9BXZ8nw",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-16T14:00:00Z",
+    "startTime": "2026-08-16T14:00:27Z",
     "ttl": "2026-08-23T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
