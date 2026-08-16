@@ -3,13 +3,36 @@
     "id": "O1Y-oX6Kr6c",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【#橘ひなのワンマンライブ】Tachibana Hinano One-Man Live Progress / DAY2 冒頭無料配信",
-    "thumbnail": "https://i.ytimg.com/vi/O1Y-oX6Kr6c/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/O1Y-oX6Kr6c/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=O1Y-oX6Kr6c",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-16T07:40:00Z",
     "startTime": "2026-08-16T07:40:19Z",
+    "endTime": "2026-08-16T08:17:19Z",
     "ttl": "2026-08-23T07:40:00.000Z",
     "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "VpDqGHG17GU",
+    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
+    "title": "【APEX】ぶいすぽフルパでイクゾ！/うるは先輩、きゅーちゃん 【ぶいすぽっ！/英リサ】",
+    "thumbnail": "https://i.ytimg.com/vi/VpDqGHG17GU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=VpDqGHG17GU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-16T10:00:00Z",
+    "ttl": "2026-08-23T10:00:00.000Z",
+    "streamerId": "hanabusa_lisa"
+  },
+  {
+    "id": "a-aDBFuGrMU",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【 Among Us 3D 】　久々の再会がここってワケ！！！w/のばまん、ぷちひな、あろま　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/a-aDBFuGrMU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=a-aDBFuGrMU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-16T10:00:00Z",
+    "ttl": "2026-08-23T10:00:00.000Z",
+    "streamerId": "choya_hanabi"
   },
   {
     "id": "beFbjHQRrhw",
@@ -73,12 +96,12 @@
     "id": "316324252530",
     "channelId": "asumisena",
     "title": "TFTやるよ～",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asumisena-320x180.jpg",
-    "url": "https://www.twitch.tv/asumisena",
-    "scheduledStartTime": "2026-08-16T06:24:07Z",
-    "startTime": "2026-08-16T06:24:07Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/3a9e2a53351db140c376_asumisena_316324252530_1786861447//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2847627159",
+    "scheduledStartTime": "2026-08-16T06:24:12Z",
+    "startTime": "2026-08-16T06:24:12Z",
     "platform": "twitch",
-    "ttl": "2026-08-23T06:24:07.000Z",
+    "ttl": "2026-08-23T06:24:12.000Z",
     "streamerId": "asumi_sena"
   }
 ]
