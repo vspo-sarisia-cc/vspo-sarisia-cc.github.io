@@ -9,5 +9,16 @@
     "scheduledStartTime": "2026-08-17T11:00:00Z",
     "ttl": "2026-08-24T11:00:00.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "aPpLLPlKmn4",
+    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
+    "title": "SoloQing in 21K  |  Premier  |  Counter-Strike 2 【#VSPOEN #RemiaAotsuki】",
+    "thumbnail": "https://i.ytimg.com/vi/aPpLLPlKmn4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=aPpLLPlKmn4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-17T12:00:00Z",
+    "ttl": "2026-08-24T12:00:00.000Z",
+    "streamerId": "remia_aotsuki"
   }
 ]
