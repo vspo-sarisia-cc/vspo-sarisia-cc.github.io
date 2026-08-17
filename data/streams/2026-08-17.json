@@ -98,6 +98,8 @@
     "url": "https://www.youtube.com/watch?v=KUOh0jGMeWc",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-17T22:00:00Z",
+    "startTime": "2026-08-17T22:00:06Z",
+    "endTime": "2026-08-17T22:19:44Z",
     "ttl": "2026-08-24T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
