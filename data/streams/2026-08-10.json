@@ -1,18 +1,5 @@
 [
   {
-    "id": "Mzdb7Qf6EJ0",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 Escape from Tarkov 】ありさか先生ときなこ【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/Mzdb7Qf6EJ0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Mzdb7Qf6EJ0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-10T13:00:00Z",
-    "startTime": "2026-08-10T13:03:14Z",
-    "endTime": "2026-08-10T16:12:06Z",
-    "ttl": "2026-08-17T13:00:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "Xy06UVNngeE",
     "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
     "title": "【Minecraft】みなさんHRの時間です　着席してください 【ぶいすぽっ！/英リサ】",
@@ -37,45 +24,6 @@
     "endTime": "2026-08-10T22:20:27Z",
     "ttl": "2026-08-17T22:00:00.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "-tqoMt8jzPw",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【VALORANT】ソロコンペ！早くイモ3戻るぞ４【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/-tqoMt8jzPw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=-tqoMt8jzPw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-10T13:15:00Z",
-    "startTime": "2026-08-10T13:20:50Z",
-    "endTime": "2026-08-10T18:54:46Z",
-    "ttl": "2026-08-17T13:15:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "pzs5Vr0EFYU",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "＃２【 #ストリヌ 】　マイクラ異世界転生したらお寿司握ってた？？！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/pzs5Vr0EFYU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=pzs5Vr0EFYU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-10T13:15:00Z",
-    "startTime": "2026-08-10T12:58:51Z",
-    "endTime": "2026-08-10T15:07:59Z",
-    "ttl": "2026-08-17T13:15:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "f1Fs-wZ5MBI",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤BIRTHDAY 2026◢ Zatsu + VSPO EN Family Feud | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/f1Fs-wZ5MBI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=f1Fs-wZ5MBI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-10T13:00:00Z",
-    "startTime": "2026-08-10T13:03:44Z",
-    "endTime": "2026-08-10T17:54:46Z",
-    "ttl": "2026-08-17T13:00:00.000Z",
-    "streamerId": "juno_umezono"
   },
   {
     "id": "316354365043",

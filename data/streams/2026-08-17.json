@@ -25,6 +25,17 @@
     "streamerId": "kogara_toto"
   },
   {
+    "id": "9oHt56jmr9w",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【ほの暮しの庭】もはや睡眠導入労働【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/9oHt56jmr9w/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=9oHt56jmr9w",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-17T14:00:00Z",
+    "ttl": "2026-08-24T14:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "kQynAQ9-l5Y",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【APEX】どうやら今日もWEらしいハセさん水無瀬さん【ぶいすぽ/一ノ瀬うるは】",
@@ -33,6 +44,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-17T11:00:00Z",
     "startTime": "2026-08-17T11:04:50Z",
+    "endTime": "2026-08-17T13:31:06Z",
     "ttl": "2026-08-24T11:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -57,6 +69,7 @@
     "url": "https://www.youtube.com/watch?v=o6cAc9Ke7oc",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-17T12:45:00Z",
+    "startTime": "2026-08-17T12:57:36Z",
     "ttl": "2026-08-24T12:45:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -64,11 +77,12 @@
     "id": "16k5Uy1D8-0",
     "channelId": "UCGWa1dMU_sDCaRQjdabsVgg",
     "title": "【雑談】衣装がリニューアルして帰ってきたぞ【ぶいすぽ/如月れん】",
-    "thumbnail": "https://i.ytimg.com/vi/16k5Uy1D8-0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/16k5Uy1D8-0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=16k5Uy1D8-0",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-17T11:00:00Z",
     "startTime": "2026-08-17T11:04:39Z",
+    "endTime": "2026-08-17T13:25:01Z",
     "ttl": "2026-08-24T11:00:00.000Z",
     "streamerId": "kisaragi_ren"
   },
