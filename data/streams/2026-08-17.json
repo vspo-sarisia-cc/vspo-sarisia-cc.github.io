@@ -1,5 +1,17 @@
 [
   {
+    "id": "hdS9DJ4juQQ",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【Escape from Tarkov】うめこ先生とひなーのと！20ちゃい【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/hdS9DJ4juQQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=hdS9DJ4juQQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-17T13:00:00Z",
+    "startTime": "2026-08-17T12:51:07Z",
+    "ttl": "2026-08-24T13:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "jCntkW9h_rU",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 DBD 】2v8メディック出勤【 ぶいすぽ / 小雀とと 】",
@@ -36,6 +48,17 @@
     "endTime": "2026-08-17T10:35:40Z",
     "ttl": "2026-08-24T08:35:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "o6cAc9Ke7oc",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 Escape from Tarkov 】日常に戻る 20lv w/なず、ありさか【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/o6cAc9Ke7oc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=o6cAc9Ke7oc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-17T12:45:00Z",
+    "ttl": "2026-08-24T12:45:00.000Z",
+    "streamerId": "tachibana_hinano"
   },
   {
     "id": "16k5Uy1D8-0",
@@ -95,6 +118,7 @@
     "url": "https://www.youtube.com/watch?v=aPpLLPlKmn4",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-17T12:00:00Z",
+    "startTime": "2026-08-17T12:16:17Z",
     "ttl": "2026-08-24T12:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -111,15 +135,27 @@
     "streamerId": "yumeno_akari"
   },
   {
-    "id": "316329715442",
+    "id": "316330172658",
     "channelId": "ramuneshiranami",
     "title": "【Valorant】笑なしフルパ w/アバンさん エイトさん コーカサスオオカブトさん 宇佐さん",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
     "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-08-17T11:03:42Z",
-    "startTime": "2026-08-17T11:03:42Z",
+    "scheduledStartTime": "2026-08-17T12:21:13Z",
+    "startTime": "2026-08-17T12:21:13Z",
     "platform": "twitch",
-    "ttl": "2026-08-24T11:03:42.000Z",
+    "ttl": "2026-08-24T12:21:13.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316329715442",
+    "channelId": "ramuneshiranami",
+    "title": "【Valorant】笑なしフルパ w/アバンさん エイトさん コーカサスオオカブトさん 宇佐さん",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/88eed833801bbf889a42_ramuneshiranami_316329715442_1786964622//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2848639356",
+    "scheduledStartTime": "2026-08-17T11:03:48Z",
+    "startTime": "2026-08-17T11:03:48Z",
+    "platform": "twitch",
+    "ttl": "2026-08-24T11:03:48.000Z",
     "streamerId": "shiranami_ramune"
   },
   {
