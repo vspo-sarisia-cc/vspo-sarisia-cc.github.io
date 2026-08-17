@@ -73,6 +73,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-17T12:45:00Z",
     "startTime": "2026-08-17T12:57:36Z",
+    "endTime": "2026-08-17T20:35:44Z",
     "ttl": "2026-08-24T12:45:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -104,11 +105,12 @@
     "id": "i_fJGfgBi8w",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 スト６】眼精疲労もはやおもろい【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/i_fJGfgBi8w/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/i_fJGfgBi8w/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=i_fJGfgBi8w",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-17T16:10:00Z",
     "startTime": "2026-08-17T16:17:56Z",
+    "endTime": "2026-08-17T20:38:38Z",
     "ttl": "2026-08-24T16:10:00.000Z",
     "streamerId": "shinomiya_runa"
   },
