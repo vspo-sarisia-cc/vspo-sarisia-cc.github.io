@@ -31,6 +31,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-17T04:00:00Z",
     "startTime": "2026-08-17T04:01:18Z",
+    "endTime": "2026-08-17T07:34:59Z",
     "ttl": "2026-08-24T04:00:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -44,5 +45,17 @@
     "scheduledStartTime": "2026-08-17T12:00:00Z",
     "ttl": "2026-08-24T12:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "316385711475",
+    "channelId": "ramuneshiranami",
+    "title": "【Valheim】フェンリルの毛",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-08-17T06:55:06Z",
+    "startTime": "2026-08-17T06:55:06Z",
+    "platform": "twitch",
+    "ttl": "2026-08-24T06:55:06.000Z",
+    "streamerId": "shiranami_ramune"
   }
 ]
