@@ -31,5 +31,16 @@
     "scheduledStartTime": "2026-08-18T14:00:00Z",
     "ttl": "2026-08-25T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "grR1E_dzzrk",
+    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
+    "title": "【Zatsudan 雑談】 long time no see :'3 【#VSPOEN #NarinMikure】",
+    "thumbnail": "https://i.ytimg.com/vi/grR1E_dzzrk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=grR1E_dzzrk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-18T03:00:00Z",
+    "ttl": "2026-08-25T03:00:00.000Z",
+    "streamerId": "narin_mikure"
   }
 ]

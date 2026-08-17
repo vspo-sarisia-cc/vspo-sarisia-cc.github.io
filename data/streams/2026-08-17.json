@@ -20,6 +20,7 @@
     "url": "https://www.youtube.com/watch?v=kQynAQ9-l5Y",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-17T11:00:00Z",
+    "startTime": "2026-08-17T11:04:50Z",
     "ttl": "2026-08-24T11:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -44,6 +45,7 @@
     "url": "https://www.youtube.com/watch?v=16k5Uy1D8-0",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-17T11:00:00Z",
+    "startTime": "2026-08-17T11:04:39Z",
     "ttl": "2026-08-24T11:00:00.000Z",
     "streamerId": "kisaragi_ren"
   },
@@ -55,6 +57,7 @@
     "url": "https://www.youtube.com/watch?v=GZzOipYGogg",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-17T11:00:00Z",
+    "startTime": "2026-08-17T11:02:26Z",
     "ttl": "2026-08-24T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -106,6 +109,18 @@
     "platform": "twitch",
     "ttl": "2026-08-24T10:56:56.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316329715442",
+    "channelId": "ramuneshiranami",
+    "title": "【Valorant】笑なしフルパ w/アバンさん エイトさん コーカサスオオカブトさん 宇佐さん",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-08-17T11:03:42Z",
+    "startTime": "2026-08-17T11:03:42Z",
+    "platform": "twitch",
+    "ttl": "2026-08-24T11:03:42.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316385711475",

@@ -13,19 +13,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "Ec2tmRSc6SE",
-    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
-    "title": "【ストリヌ】ダンジョンいってみたいよね→VALOかすたむ【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/Ec2tmRSc6SE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Ec2tmRSc6SE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-10T11:30:00Z",
-    "startTime": "2026-08-10T11:06:22Z",
-    "endTime": "2026-08-10T17:00:22Z",
-    "ttl": "2026-08-17T11:30:00.000Z",
-    "streamerId": "tosaki_mimi"
-  },
-  {
     "id": "YAN_JYRpPeM",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Escape from Tarkov 】 眠いけど樽がしたいあとアレルギーマジでなに【ぶいすぽっ！/橘ひなの】",
@@ -63,19 +50,6 @@
     "endTime": "2026-08-10T22:20:27Z",
     "ttl": "2026-08-17T22:00:00.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "ZYSXpL429gc",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【OVERWATCH】Crazy Raccoon ReviveのRIVALS REDチーム顔合わせ【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/ZYSXpL429gc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ZYSXpL429gc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-10T11:30:00Z",
-    "startTime": "2026-08-10T11:40:05Z",
-    "endTime": "2026-08-10T14:59:51Z",
-    "ttl": "2026-08-17T11:30:00.000Z",
-    "streamerId": "nekota_tsuna"
   },
   {
     "id": "-tqoMt8jzPw",
