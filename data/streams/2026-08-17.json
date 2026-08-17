@@ -88,6 +88,29 @@
     "streamerId": "kisaragi_ren"
   },
   {
+    "id": "KUOh0jGMeWc",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "10年以上の付き合いのハセボドを堪能するエマ【ぶいすぽっ！/ 藍沢エマ/ハセシン/ボドカ/APEX】",
+    "thumbnail": "https://i.ytimg.com/vi/KUOh0jGMeWc/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=KUOh0jGMeWc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-17T22:00:00Z",
+    "ttl": "2026-08-24T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "i_fJGfgBi8w",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 スト６】眼精疲労もはやおもろい【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/i_fJGfgBi8w/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=i_fJGfgBi8w",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-17T16:10:00Z",
+    "startTime": "2026-08-17T16:17:56Z",
+    "ttl": "2026-08-24T16:10:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
     "id": "GZzOipYGogg",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【OVERWATCH】チーム練習～明日日本帰るので短め　w/naohiro21さん、メルトンさん、まざーさん、らいじんさん、Mihawk さん【ぶいすぽ / 猫汰つな】",
@@ -152,18 +175,6 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "316320211953",
-    "channelId": "akarindao",
-    "title": "初見パワプロ 熱い夏がここにあると聞いて",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-08-17T10:56:56Z",
-    "startTime": "2026-08-17T10:56:56Z",
-    "platform": "twitch",
-    "ttl": "2026-08-24T10:56:56.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316321376881",
     "channelId": "ramuneshiranami",
     "title": "【valheim】建築すっぞ",
@@ -210,5 +221,17 @@
     "platform": "twitch",
     "ttl": "2026-08-24T06:55:11.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316320211953",
+    "channelId": "akarindao",
+    "title": "初見パワプロ 熱い夏がここにあると聞いて",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/8df06228a8d2486b8bad_akarindao_316320211953_1786964216//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2848636039",
+    "scheduledStartTime": "2026-08-17T10:57:01Z",
+    "startTime": "2026-08-17T10:57:01Z",
+    "platform": "twitch",
+    "ttl": "2026-08-24T10:57:01.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
