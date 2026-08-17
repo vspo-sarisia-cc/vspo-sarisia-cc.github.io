@@ -1,18 +1,5 @@
 [
   {
-    "id": "hVX--g-4U3s",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【Escape from Tarkov】べに先生。よろしくお願いします【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/hVX--g-4U3s/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=hVX--g-4U3s",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-10T11:00:00Z",
-    "startTime": "2026-08-10T10:44:53Z",
-    "endTime": "2026-08-10T18:56:00Z",
-    "ttl": "2026-08-17T11:00:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "Mzdb7Qf6EJ0",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 Escape from Tarkov 】ありさか先生ときなこ【 ぶいすぽっ！胡桃のあ 】",
@@ -115,19 +102,6 @@
     "endTime": "2026-08-10T15:07:59Z",
     "ttl": "2026-08-17T13:15:00.000Z",
     "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "KZPUjMuC0F0",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  League of Legends  ◢　パッチ前だけどまたーりソロランク   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/KZPUjMuC0F0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=KZPUjMuC0F0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-10T11:00:00Z",
-    "startTime": "2026-08-10T11:04:33Z",
-    "endTime": "2026-08-10T14:13:43Z",
-    "ttl": "2026-08-17T11:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "f1Fs-wZ5MBI",

@@ -27,11 +27,12 @@
     "id": "rIm1KjkQtE8",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】めっちゃ少しだけかも！【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/rIm1KjkQtE8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/rIm1KjkQtE8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=rIm1KjkQtE8",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-17T08:35:00Z",
     "startTime": "2026-08-17T08:36:16Z",
+    "endTime": "2026-08-17T10:35:40Z",
     "ttl": "2026-08-24T08:35:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -95,15 +96,27 @@
     "streamerId": "remia_aotsuki"
   },
   {
+    "id": "316320211953",
+    "channelId": "akarindao",
+    "title": "初見パワプロ 熱い夏がここにあると聞いて",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-08-17T10:56:56Z",
+    "startTime": "2026-08-17T10:56:56Z",
+    "platform": "twitch",
+    "ttl": "2026-08-24T10:56:56.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
     "id": "316385711475",
     "channelId": "ramuneshiranami",
     "title": "【Valheim】フェンリルの毛",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-08-17T06:55:06Z",
-    "startTime": "2026-08-17T06:55:06Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/1ce6e3aadb69b91bf2b5_ramuneshiranami_316385711475_1786949706//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2848552505",
+    "scheduledStartTime": "2026-08-17T06:55:11Z",
+    "startTime": "2026-08-17T06:55:11Z",
     "platform": "twitch",
-    "ttl": "2026-08-24T06:55:06.000Z",
+    "ttl": "2026-08-24T06:55:11.000Z",
     "streamerId": "shiranami_ramune"
   }
 ]
