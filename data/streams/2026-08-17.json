@@ -32,6 +32,7 @@
     "url": "https://www.youtube.com/watch?v=9oHt56jmr9w",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-17T14:00:00Z",
+    "startTime": "2026-08-17T13:59:49Z",
     "ttl": "2026-08-24T14:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -39,7 +40,7 @@
     "id": "kQynAQ9-l5Y",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【APEX】どうやら今日もWEらしいハセさん水無瀬さん【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/kQynAQ9-l5Y/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/kQynAQ9-l5Y/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=kQynAQ9-l5Y",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-17T11:00:00Z",
@@ -135,6 +136,17 @@
     "startTime": "2026-08-17T12:16:17Z",
     "ttl": "2026-08-24T12:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "ykeWsdILdi8",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【APEX LEGENDS】apepepepe!!!【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/ykeWsdILdi8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ykeWsdILdi8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-17T15:00:00Z",
+    "ttl": "2026-08-24T15:00:00.000Z",
+    "streamerId": "riko_solari"
   },
   {
     "id": "316320211953",
