@@ -13,6 +13,17 @@
     "streamerId": "kogara_toto"
   },
   {
+    "id": "kQynAQ9-l5Y",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【APEX】どうやら今日もWEらしいハセさん水無瀬さん【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/kQynAQ9-l5Y/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=kQynAQ9-l5Y",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-17T11:00:00Z",
+    "ttl": "2026-08-24T11:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "rIm1KjkQtE8",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】めっちゃ少しだけかも！【 ぶいすぽっ！胡桃のあ 】",
@@ -50,11 +61,12 @@
     "id": "hoytowaUV1I",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 歌枠 】　３０万人記念の歌枠！！！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/hoytowaUV1I/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/hoytowaUV1I/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=hoytowaUV1I",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-17T08:00:00Z",
     "startTime": "2026-08-17T08:02:33Z",
+    "endTime": "2026-08-17T09:58:28Z",
     "ttl": "2026-08-24T08:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
