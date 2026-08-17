@@ -96,6 +96,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-17T11:00:00Z",
     "startTime": "2026-08-17T11:02:26Z",
+    "endTime": "2026-08-17T15:02:01Z",
     "ttl": "2026-08-24T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -129,11 +130,12 @@
     "id": "aPpLLPlKmn4",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【Counter-Strike 2】 SoloQing in 21K  |  Premier 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/aPpLLPlKmn4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/aPpLLPlKmn4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=aPpLLPlKmn4",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-17T12:00:00Z",
     "startTime": "2026-08-17T12:16:17Z",
+    "endTime": "2026-08-17T14:45:55Z",
     "ttl": "2026-08-24T12:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -145,6 +147,7 @@
     "url": "https://www.youtube.com/watch?v=ykeWsdILdi8",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-17T15:00:00Z",
+    "startTime": "2026-08-17T15:01:21Z",
     "ttl": "2026-08-24T15:00:00.000Z",
     "streamerId": "riko_solari"
   },
@@ -159,6 +162,18 @@
     "platform": "twitch",
     "ttl": "2026-08-24T10:56:56.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316321376881",
+    "channelId": "ramuneshiranami",
+    "title": "【valheim】建築すっぞ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-08-17T14:51:46Z",
+    "startTime": "2026-08-17T14:51:46Z",
+    "platform": "twitch",
+    "ttl": "2026-08-24T14:51:46.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316330172658",
