@@ -182,18 +182,6 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "316321376881",
-    "channelId": "ramuneshiranami",
-    "title": "【valheim】建築すっぞ",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-08-17T14:51:46Z",
-    "startTime": "2026-08-17T14:51:46Z",
-    "platform": "twitch",
-    "ttl": "2026-08-24T14:51:46.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316388749427",
     "channelId": "ren_kisaragi__",
     "title": "朝活トレモ雑談",
@@ -204,6 +192,18 @@
     "platform": "twitch",
     "ttl": "2026-08-24T21:33:02.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316321376881",
+    "channelId": "ramuneshiranami",
+    "title": "【valheim】建築すっぞ",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/7c5eafe262316d718c46_ramuneshiranami_316321376881_1786978306//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2848762668",
+    "scheduledStartTime": "2026-08-17T14:51:51Z",
+    "startTime": "2026-08-17T14:51:51Z",
+    "platform": "twitch",
+    "ttl": "2026-08-24T14:51:51.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316330172658",
