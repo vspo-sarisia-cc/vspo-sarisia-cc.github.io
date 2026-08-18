@@ -25,6 +25,17 @@
     "streamerId": "tosaki_mimi"
   },
   {
+    "id": "-JxdbVSRKiQ",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "🌟 #橘ひなのワンマンライブ　day1同時視聴会🌟",
+    "thumbnail": "https://i.ytimg.com/vi/-JxdbVSRKiQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=-JxdbVSRKiQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-18T11:00:00Z",
+    "ttl": "2026-08-25T11:00:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "ylBdKHdWb6c",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】SFL Q＆A 見たりたりたり【ぶいすぽっ！/ 藍沢エマ】",
@@ -61,14 +72,26 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "rEttDXJGDps",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【League of Legends】真夏の夜にろるかすたむ！【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/rEttDXJGDps/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=rEttDXJGDps",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-18T11:00:00Z",
+    "ttl": "2026-08-25T11:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
     "id": "wYxANrcAmEc",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Escape from TARKOV 】　た、たるこふだーーーー！！！？！w/エニ、ミドリ、ととみっくすさん　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/wYxANrcAmEc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/wYxANrcAmEc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=wYxANrcAmEc",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T04:00:00Z",
     "startTime": "2026-08-18T04:03:53Z",
+    "endTime": "2026-08-18T10:02:08Z",
     "ttl": "2026-08-25T04:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -90,8 +113,8 @@
     "thumbnail": "https://i.ytimg.com/vi/vzkpONcXmN8/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=vzkpONcXmN8",
     "platform": "youtube",
-    "scheduledStartTime": "2026-08-18T11:00:00Z",
-    "ttl": "2026-08-25T11:00:00.000Z",
+    "scheduledStartTime": "2026-08-18T12:00:00Z",
+    "ttl": "2026-08-25T12:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -103,6 +126,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T08:11:00Z",
     "startTime": "2026-08-18T08:12:02Z",
+    "endTime": "2026-08-18T10:35:23Z",
     "ttl": "2026-08-25T08:11:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -114,6 +138,7 @@
     "url": "https://www.youtube.com/watch?v=IeDPnHBPFeQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T10:00:00Z",
+    "startTime": "2026-08-18T10:00:44Z",
     "ttl": "2026-08-25T10:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
