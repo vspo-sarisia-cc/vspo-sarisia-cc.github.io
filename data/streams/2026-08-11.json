@@ -13,19 +13,6 @@
     "streamerId": "asumi_sena"
   },
   {
-    "id": "8FNb0xOUk2c",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 Escape from Tarkov 】 コロッケ食べたい【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/8FNb0xOUk2c/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=8FNb0xOUk2c",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-11T14:15:00Z",
-    "startTime": "2026-08-11T14:22:40Z",
-    "endTime": "2026-08-11T18:43:59Z",
-    "ttl": "2026-08-18T14:15:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
     "id": "o1FG7Ef2z64",
     "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
     "title": "【Minecraft】夏祭り出し物準備【ぶいすぽっ！/英リサ】",
@@ -63,43 +50,5 @@
     "endTime": "2026-08-12T01:24:04Z",
     "ttl": "2026-08-18T22:00:00.000Z",
     "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "ZUjQE1z04p8",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "【Happy's Humble Burger Cult】 It's like Hell's Kitchen..   【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/ZUjQE1z04p8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ZUjQE1z04p8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-11T14:00:00Z",
-    "startTime": "2026-08-11T14:00:49Z",
-    "endTime": "2026-08-11T16:17:10Z",
-    "ttl": "2026-08-18T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "dCWRZUezxhk",
-    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-    "title": "【HAPPY HUMBLE BURGER CULT】Running a sus burger joint ?!【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/dCWRZUezxhk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=dCWRZUezxhk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-11T14:00:00Z",
-    "startTime": "2026-08-11T14:02:01Z",
-    "endTime": "2026-08-11T16:04:23Z",
-    "ttl": "2026-08-18T14:00:00.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "320978222299",
-    "channelId": "aryakuroha",
-    "title": "✦ Running a sus burger joint ?!",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/a0b079e73c497619c92c_aryakuroha_320978222299_1786456857//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2843263853",
-    "scheduledStartTime": "2026-08-11T14:01:06Z",
-    "startTime": "2026-08-11T14:01:06Z",
-    "platform": "twitch",
-    "ttl": "2026-08-18T14:01:06.000Z",
-    "streamerId": "arya_kuroha"
   }
 ]
