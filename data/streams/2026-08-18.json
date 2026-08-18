@@ -1,5 +1,17 @@
 [
   {
+    "id": "Z2eWc1CFWDU",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【Escape from Tarkov】疲れを感じているので今日は少しだけソロ【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/Z2eWc1CFWDU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Z2eWc1CFWDU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-18T13:00:00Z",
+    "startTime": "2026-08-18T12:56:32Z",
+    "ttl": "2026-08-25T13:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "GnMQhYFSGsc",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】２時間くらいソロやります🎵【 ぶいすぽっ！胡桃のあ 】",
@@ -24,6 +36,17 @@
     "endTime": "2026-08-18T10:43:31Z",
     "ttl": "2026-08-25T09:30:00.000Z",
     "streamerId": "tosaki_mimi"
+  },
+  {
+    "id": "01H60MvAqvg",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "【DrainSim】夏休みだし水掃除で安眠導入【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/01H60MvAqvg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=01H60MvAqvg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-18T13:30:00Z",
+    "ttl": "2026-08-25T13:30:00.000Z",
+    "streamerId": "asumi_sena"
   },
   {
     "id": "-JxdbVSRKiQ",
@@ -53,7 +76,7 @@
     "id": "ylBdKHdWb6c",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】SFL Q＆A 見たりたりたり【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/ylBdKHdWb6c/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ylBdKHdWb6c/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ylBdKHdWb6c",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T08:30:00Z",
@@ -190,6 +213,7 @@
     "url": "https://www.youtube.com/watch?v=Z6TAGrXUk3E",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T13:00:00Z",
+    "startTime": "2026-08-18T13:05:34Z",
     "ttl": "2026-08-25T13:00:00.000Z",
     "streamerId": "riko_solari"
   },
@@ -205,18 +229,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316334178930",
-    "channelId": "ren_kisaragi__",
-    "title": "え～～～～～～ぺっくす",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-08-18T11:14:52Z",
-    "startTime": "2026-08-18T11:14:52Z",
-    "platform": "twitch",
-    "ttl": "2026-08-25T11:14:52.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "316324673137",
     "channelId": "akarindao",
     "title": "雑談→栄冠 初の甲子園を目指して。",
@@ -227,6 +239,18 @@
     "platform": "twitch",
     "ttl": "2026-08-25T11:24:55.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316334178930",
+    "channelId": "ren_kisaragi__",
+    "title": "え～～～～～～ぺっくす",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-08-18T11:14:52Z",
+    "startTime": "2026-08-18T11:14:52Z",
+    "platform": "twitch",
+    "ttl": "2026-08-25T11:14:52.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316323454449",
