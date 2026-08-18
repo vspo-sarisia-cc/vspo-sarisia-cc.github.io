@@ -16,7 +16,7 @@
     "id": "EPU6pab_cQM",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
     "title": "【雑談】お酒飲んでもいいですか【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/EPU6pab_cQM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/EPU6pab_cQM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=EPU6pab_cQM",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T09:30:00Z",
@@ -33,6 +33,7 @@
     "url": "https://www.youtube.com/watch?v=-JxdbVSRKiQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T11:00:00Z",
+    "startTime": "2026-08-18T11:10:30Z",
     "ttl": "2026-08-25T11:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -44,6 +45,7 @@
     "url": "https://www.youtube.com/watch?v=J-Xb1D-Ws7I",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T11:10:00Z",
+    "startTime": "2026-08-18T11:11:22Z",
     "ttl": "2026-08-25T11:10:00.000Z",
     "streamerId": "hanabusa_lisa"
   },
@@ -91,6 +93,7 @@
     "url": "https://www.youtube.com/watch?v=rEttDXJGDps",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T11:00:00Z",
+    "startTime": "2026-08-18T11:03:47Z",
     "ttl": "2026-08-25T11:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -187,6 +190,30 @@
     "scheduledStartTime": "2026-08-18T14:00:00Z",
     "ttl": "2026-08-25T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316334178930",
+    "channelId": "ren_kisaragi__",
+    "title": "え～～～～～～ぺっくす",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-08-18T11:14:52Z",
+    "startTime": "2026-08-18T11:14:52Z",
+    "platform": "twitch",
+    "ttl": "2026-08-25T11:14:52.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316324673137",
+    "channelId": "akarindao",
+    "title": "雑談→栄冠 初の甲子園を目指して。",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-08-18T11:24:55Z",
+    "startTime": "2026-08-18T11:24:55Z",
+    "platform": "twitch",
+    "ttl": "2026-08-25T11:24:55.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316323454449",
