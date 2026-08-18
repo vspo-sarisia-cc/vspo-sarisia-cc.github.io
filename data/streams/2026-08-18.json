@@ -3,11 +3,12 @@
     "id": "GnMQhYFSGsc",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】２時間くらいソロやります🎵【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/GnMQhYFSGsc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/GnMQhYFSGsc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=GnMQhYFSGsc",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T02:40:00Z",
     "startTime": "2026-08-18T02:45:59Z",
+    "endTime": "2026-08-18T04:55:19Z",
     "ttl": "2026-08-25T02:40:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -69,17 +70,6 @@
     "streamerId": "remia_aotsuki"
   },
   {
-    "id": "grR1E_dzzrk",
-    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
-    "title": "【Zatsudan 雑談】 long time no see :'3 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/grR1E_dzzrk/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=grR1E_dzzrk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-18T03:00:00Z",
-    "ttl": "2026-08-25T03:00:00.000Z",
-    "streamerId": "narin_mikure"
-  },
-  {
     "id": "8etk_7uF8rw",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves 2.6 part 2◢ MOON(feet) PRIESTESS | #JunoUmezono #VSPOEN",
@@ -89,5 +79,17 @@
     "scheduledStartTime": "2026-08-18T14:00:00Z",
     "ttl": "2026-08-25T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316323454449",
+    "channelId": "akarindao",
+    "title": "高めあいDUO",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-08-18T05:17:17Z",
+    "startTime": "2026-08-18T05:17:17Z",
+    "platform": "twitch",
+    "ttl": "2026-08-25T05:17:17.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
