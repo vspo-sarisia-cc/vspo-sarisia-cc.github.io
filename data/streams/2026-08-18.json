@@ -156,6 +156,18 @@
     "streamerId": "sendo_yuuhi"
   },
   {
+    "id": "8Gmw8lauORY",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【朝活雑談】　オハヨーーーーー！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/8Gmw8lauORY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=8Gmw8lauORY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-18T22:00:00Z",
+    "startTime": "2026-08-18T22:01:05Z",
+    "ttl": "2026-08-25T22:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "vzkpONcXmN8",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 夜勤清掃 】　３０万人記念企画のホラゲその１！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -179,17 +191,6 @@
     "startTime": "2026-08-18T04:03:53Z",
     "endTime": "2026-08-18T10:02:08Z",
     "ttl": "2026-08-25T04:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "8Gmw8lauORY",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【朝活雑談】　オハヨーーーーー！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/8Gmw8lauORY/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=8Gmw8lauORY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-18T22:00:00Z",
-    "ttl": "2026-08-25T22:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
