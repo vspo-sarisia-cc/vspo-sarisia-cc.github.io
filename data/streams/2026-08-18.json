@@ -21,6 +21,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T09:30:00Z",
     "startTime": "2026-08-18T09:34:59Z",
+    "endTime": "2026-08-18T10:43:31Z",
     "ttl": "2026-08-25T09:30:00.000Z",
     "streamerId": "tosaki_mimi"
   },
@@ -34,6 +35,17 @@
     "scheduledStartTime": "2026-08-18T11:00:00Z",
     "ttl": "2026-08-25T11:00:00.000Z",
     "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "J-Xb1D-Ws7I",
+    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
+    "title": "【Minecraft】夏祭りの準備　急ぎ目【ぶいすぽっ！/英リサ】",
+    "thumbnail": "https://i.ytimg.com/vi/J-Xb1D-Ws7I/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=J-Xb1D-Ws7I",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-18T11:10:00Z",
+    "ttl": "2026-08-25T11:10:00.000Z",
+    "streamerId": "hanabusa_lisa"
   },
   {
     "id": "ylBdKHdWb6c",
@@ -121,7 +133,7 @@
     "id": "v1YrSzVpKPQ",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】ルーク！！！！よ！【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/v1YrSzVpKPQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/v1YrSzVpKPQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=v1YrSzVpKPQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T08:11:00Z",
@@ -129,6 +141,18 @@
     "endTime": "2026-08-18T10:35:23Z",
     "ttl": "2026-08-25T08:11:00.000Z",
     "streamerId": "amayui_moka"
+  },
+  {
+    "id": "MaMzlXm8BG4",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【League of Legends】回線復帰1発目はLoLカス！ですわ♪【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/MaMzlXm8BG4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=MaMzlXm8BG4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-18T11:00:00Z",
+    "startTime": "2026-08-18T10:53:40Z",
+    "ttl": "2026-08-25T11:00:00.000Z",
+    "streamerId": "ginjo_saine"
   },
   {
     "id": "IeDPnHBPFeQ",

@@ -1,18 +1,5 @@
 [
   {
-    "id": "UTNfEMgOkbc",
-    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
-    "title": "【ゼンレスゾーンゼロ】はじめてのゼンゼロ！たのしみ！【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/UTNfEMgOkbc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=UTNfEMgOkbc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-11T11:00:00Z",
-    "startTime": "2026-08-11T11:00:22Z",
-    "endTime": "2026-08-11T13:00:36Z",
-    "ttl": "2026-08-18T11:00:00.000Z",
-    "streamerId": "kaga_sumire"
-  },
-  {
     "id": "rD7e4OG_iDc",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【ほの暮しの庭】スローライフってやつをさせてください【ぶいすぽ/一ノ瀬うるは】",
@@ -24,19 +11,6 @@
     "endTime": "2026-08-11T15:34:53Z",
     "ttl": "2026-08-18T12:00:00.000Z",
     "streamerId": "ichinose_uruha"
-  },
-  {
-    "id": "oMos8bOmtXc",
-    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
-    "title": "【ストリヌ】ダンジョン周回のために頑張って声かけるんだ！【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/oMos8bOmtXc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=oMos8bOmtXc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-11T11:00:00Z",
-    "startTime": "2026-08-11T11:06:50Z",
-    "endTime": "2026-08-11T16:56:21Z",
-    "ttl": "2026-08-18T11:00:00.000Z",
-    "streamerId": "tosaki_mimi"
   },
   {
     "id": "hnWZDb-x2yM",
