@@ -246,7 +246,7 @@
     "id": "Z6TAGrXUk3E",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【RED DEAD REDEMPTION 2】more cowboy shenanigans【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/Z6TAGrXUk3E/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Z6TAGrXUk3E/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Z6TAGrXUk3E",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T13:00:00Z",
@@ -268,15 +268,15 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316324673137",
+    "id": "316326217073",
     "channelId": "akarindao",
     "title": "雑談→栄冠 初の甲子園を目指して。",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
     "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-08-18T11:24:55Z",
-    "startTime": "2026-08-18T11:24:55Z",
+    "scheduledStartTime": "2026-08-18T17:32:48Z",
+    "startTime": "2026-08-18T17:32:48Z",
     "platform": "twitch",
-    "ttl": "2026-08-25T11:24:55.000Z",
+    "ttl": "2026-08-25T17:32:48.000Z",
     "streamerId": "yumeno_akari"
   },
   {
@@ -290,6 +290,18 @@
     "platform": "twitch",
     "ttl": "2026-08-25T11:14:57.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316324673137",
+    "channelId": "akarindao",
+    "title": "雑談→栄冠 初の甲子園を目指して。",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/557e6a62a8bfc2c1c60e_akarindao_316324673137_1787052295//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2849544457",
+    "scheduledStartTime": "2026-08-18T11:25:00Z",
+    "startTime": "2026-08-18T11:25:00Z",
+    "platform": "twitch",
+    "ttl": "2026-08-25T11:25:00.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316323454449",
