@@ -20,6 +20,7 @@
     "url": "https://www.youtube.com/watch?v=EPU6pab_cQM",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T09:30:00Z",
+    "startTime": "2026-08-18T09:34:59Z",
     "ttl": "2026-08-25T09:30:00.000Z",
     "streamerId": "tosaki_mimi"
   },
@@ -43,6 +44,7 @@
     "url": "https://www.youtube.com/watch?v=MsJdxULsBO8",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T10:00:00Z",
+    "startTime": "2026-08-18T09:59:10Z",
     "ttl": "2026-08-25T10:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -105,6 +107,17 @@
     "streamerId": "amayui_moka"
   },
   {
+    "id": "IeDPnHBPFeQ",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　ソロランクれつご   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/IeDPnHBPFeQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=IeDPnHBPFeQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-18T10:00:00Z",
+    "ttl": "2026-08-25T10:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
+  },
+  {
     "id": "-g9Fqsp9TF8",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【Counter-Strike 2】SoloQing 24K maybe  |  Premier  【#VSPOEN #RemiaAotsuki】",
@@ -130,12 +143,12 @@
     "id": "316323454449",
     "channelId": "akarindao",
     "title": "高めあいDUO",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-08-18T05:17:17Z",
-    "startTime": "2026-08-18T05:17:17Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/3510f374626b566c7859_akarindao_316323454449_1787030237//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2849407789",
+    "scheduledStartTime": "2026-08-18T05:17:23Z",
+    "startTime": "2026-08-18T05:17:23Z",
     "platform": "twitch",
-    "ttl": "2026-08-25T05:17:17.000Z",
+    "ttl": "2026-08-25T05:17:23.000Z",
     "streamerId": "yumeno_akari"
   }
 ]
