@@ -45,6 +45,7 @@
     "url": "https://www.youtube.com/watch?v=01H60MvAqvg",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T13:30:00Z",
+    "startTime": "2026-08-18T13:34:08Z",
     "ttl": "2026-08-25T13:30:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -57,6 +58,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T11:00:00Z",
     "startTime": "2026-08-18T11:10:30Z",
+    "endTime": "2026-08-18T13:49:36Z",
     "ttl": "2026-08-25T11:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -71,6 +73,17 @@
     "startTime": "2026-08-18T11:11:22Z",
     "ttl": "2026-08-25T11:10:00.000Z",
     "streamerId": "hanabusa_lisa"
+  },
+  {
+    "id": "wXb2OICXZ7M",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【Minecraft】すぐおわるかもしれない夏祭り準備【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/wXb2OICXZ7M/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=wXb2OICXZ7M",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-18T14:15:00Z",
+    "ttl": "2026-08-25T14:15:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "ylBdKHdWb6c",
@@ -125,11 +138,12 @@
     "id": "vzkpONcXmN8",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 夜勤清掃 】　３０万人記念企画のホラゲその１！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/vzkpONcXmN8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/vzkpONcXmN8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=vzkpONcXmN8",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T12:00:00Z",
     "startTime": "2026-08-18T11:59:26Z",
+    "endTime": "2026-08-18T13:33:48Z",
     "ttl": "2026-08-25T12:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -224,8 +238,8 @@
     "thumbnail": "https://i.ytimg.com/vi/8etk_7uF8rw/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=8etk_7uF8rw",
     "platform": "youtube",
-    "scheduledStartTime": "2026-08-18T14:00:00Z",
-    "ttl": "2026-08-25T14:00:00.000Z",
+    "scheduledStartTime": "2026-08-18T14:30:00Z",
+    "ttl": "2026-08-25T14:30:00.000Z",
     "streamerId": "juno_umezono"
   },
   {
@@ -244,12 +258,12 @@
     "id": "316334178930",
     "channelId": "ren_kisaragi__",
     "title": "え～～～～～～ぺっくす",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-08-18T11:14:52Z",
-    "startTime": "2026-08-18T11:14:52Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/5e987a36302ede1e7ce9_ren_kisaragi___316334178930_1787051691//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2849540185",
+    "scheduledStartTime": "2026-08-18T11:14:57Z",
+    "startTime": "2026-08-18T11:14:57Z",
     "platform": "twitch",
-    "ttl": "2026-08-25T11:14:52.000Z",
+    "ttl": "2026-08-25T11:14:57.000Z",
     "streamerId": "kisaragi_ren"
   },
   {
