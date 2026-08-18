@@ -12,15 +12,15 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "8Gmw8lauORY",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【朝活雑談】　オハヨーーーーー！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/8Gmw8lauORY/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=8Gmw8lauORY",
+    "id": "4687qyCHVjk",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】求:残り15時間でイモ3カムバックする方法【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/4687qyCHVjk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=4687qyCHVjk",
     "platform": "youtube",
-    "scheduledStartTime": "2026-08-18T22:00:00Z",
-    "ttl": "2026-08-25T22:00:00.000Z",
-    "streamerId": "choya_hanabi"
+    "scheduledStartTime": "2026-08-18T04:15:00Z",
+    "ttl": "2026-08-25T04:15:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "wYxANrcAmEc",
@@ -30,7 +30,19 @@
     "url": "https://www.youtube.com/watch?v=wYxANrcAmEc",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T04:00:00Z",
+    "startTime": "2026-08-18T04:03:53Z",
     "ttl": "2026-08-25T04:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "8Gmw8lauORY",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【朝活雑談】　オハヨーーーーー！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/8Gmw8lauORY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=8Gmw8lauORY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-18T22:00:00Z",
+    "ttl": "2026-08-25T22:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
