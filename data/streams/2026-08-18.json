@@ -125,6 +125,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T16:25:00Z",
     "startTime": "2026-08-18T16:26:12Z",
+    "endTime": "2026-08-18T19:10:22Z",
     "ttl": "2026-08-25T16:25:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -234,11 +235,12 @@
     "id": "-g9Fqsp9TF8",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【Counter-Strike 2】SoloQing 24K maybe  |  Premier  【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/-g9Fqsp9TF8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/-g9Fqsp9TF8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=-g9Fqsp9TF8",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T14:00:00Z",
     "startTime": "2026-08-18T14:11:03Z",
+    "endTime": "2026-08-18T18:55:20Z",
     "ttl": "2026-08-25T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
