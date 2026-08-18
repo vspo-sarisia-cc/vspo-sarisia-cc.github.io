@@ -58,6 +58,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T08:30:00Z",
     "startTime": "2026-08-18T08:32:44Z",
+    "endTime": "2026-08-18T12:00:14Z",
     "ttl": "2026-08-25T08:30:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -98,6 +99,18 @@
     "streamerId": "sendo_yuuhi"
   },
   {
+    "id": "vzkpONcXmN8",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【 夜勤清掃 】　３０万人記念企画のホラゲその１！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/vzkpONcXmN8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=vzkpONcXmN8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-18T12:00:00Z",
+    "startTime": "2026-08-18T11:59:26Z",
+    "ttl": "2026-08-25T12:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "wYxANrcAmEc",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Escape from TARKOV 】　た、たるこふだーーーー！！！？！w/エニ、ミドリ、ととみっくすさん　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -119,17 +132,6 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T22:00:00Z",
     "ttl": "2026-08-25T22:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "vzkpONcXmN8",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【 夜勤清掃 】　３０万人記念企画のホラゲその１！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/vzkpONcXmN8/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=vzkpONcXmN8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-18T12:00:00Z",
-    "ttl": "2026-08-25T12:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -179,6 +181,17 @@
     "scheduledStartTime": "2026-08-18T14:00:00Z",
     "ttl": "2026-08-25T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "Z6TAGrXUk3E",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【RED DEAD REDEMPTION 2】more cowboy shenanigans【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/Z6TAGrXUk3E/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Z6TAGrXUk3E",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-18T13:00:00Z",
+    "ttl": "2026-08-25T13:00:00.000Z",
+    "streamerId": "riko_solari"
   },
   {
     "id": "8etk_7uF8rw",
