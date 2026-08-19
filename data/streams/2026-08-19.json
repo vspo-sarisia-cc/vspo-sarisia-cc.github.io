@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=VFSgURQtYiI",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-19T11:00:00Z",
+    "startTime": "2026-08-19T11:05:12Z",
     "ttl": "2026-08-26T11:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -31,6 +32,7 @@
     "url": "https://www.youtube.com/watch?v=oJdJ2TJww-Y",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-19T11:00:00Z",
+    "startTime": "2026-08-19T11:19:06Z",
     "ttl": "2026-08-26T11:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -41,8 +43,9 @@
     "thumbnail": "https://i.ytimg.com/vi/g6m8gzmJXLg/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=g6m8gzmJXLg",
     "platform": "youtube",
-    "scheduledStartTime": "2026-08-19T11:15:00Z",
-    "ttl": "2026-08-26T11:15:00.000Z",
+    "scheduledStartTime": "2026-08-19T11:35:00Z",
+    "startTime": "2026-08-19T11:35:17Z",
+    "ttl": "2026-08-26T11:35:00.000Z",
     "streamerId": "hanabusa_lisa"
   },
   {
@@ -79,8 +82,20 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-19T09:45:00Z",
     "startTime": "2026-08-19T09:51:39Z",
+    "endTime": "2026-08-19T11:28:20Z",
     "ttl": "2026-08-26T09:45:00.000Z",
     "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "UgefdUtNkOo",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【歌枠】雑談を添えてアニソン多めで歌います🎤【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/UgefdUtNkOo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=UgefdUtNkOo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-19T13:00:00Z",
+    "ttl": "2026-08-26T13:00:00.000Z",
+    "streamerId": "nekota_tsuna"
   },
   {
     "id": "IWJl9KFGCs4",

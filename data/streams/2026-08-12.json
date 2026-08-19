@@ -13,45 +13,6 @@
     "streamerId": "asumi_sena"
   },
   {
-    "id": "LlCnrxaFmfE",
-    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
-    "title": "【#ストリヌ】2 異世界転生したら 釣り師で寿司握りだった件 【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/LlCnrxaFmfE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=LlCnrxaFmfE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-12T11:15:00Z",
-    "startTime": "2026-08-12T11:15:27Z",
-    "endTime": "2026-08-12T15:54:01Z",
-    "ttl": "2026-08-19T11:15:00.000Z",
-    "streamerId": "asumi_sena"
-  },
-  {
-    "id": "Ml-aX36W8dU",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 Escape from Tarkov 】 YB学園の皆様の後ろをついて回ります【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/Ml-aX36W8dU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Ml-aX36W8dU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-12T11:15:00Z",
-    "startTime": "2026-08-12T11:15:28Z",
-    "endTime": "2026-08-12T21:41:14Z",
-    "ttl": "2026-08-19T11:15:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "sTGTONO3BJw",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【 Escape from Tarkov 】YB学園に不登校の生徒が復帰した🏫Lv20~【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/sTGTONO3BJw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=sTGTONO3BJw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-12T11:15:00Z",
-    "startTime": "2026-08-12T11:05:15Z",
-    "endTime": "2026-08-12T15:48:41Z",
-    "ttl": "2026-08-19T11:15:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
     "id": "D1C6FAoluvg",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "＃４【 #ストリヌ 】　マイクラ異世界転生したら、竜宮城で働かせてもらうことになった！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -89,17 +50,5 @@
     "endTime": "2026-08-12T16:53:33Z",
     "ttl": "2026-08-19T13:15:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316297610353",
-    "channelId": "akarindao",
-    "title": "CRライバルズ 初練習っっ",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/55e4610d5d24f474802a_akarindao_316297610353_1786533037//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2844086708",
-    "scheduledStartTime": "2026-08-12T11:10:42Z",
-    "startTime": "2026-08-12T11:10:42Z",
-    "platform": "twitch",
-    "ttl": "2026-08-19T11:10:42.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
