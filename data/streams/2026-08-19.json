@@ -94,6 +94,7 @@
     "url": "https://www.youtube.com/watch?v=UgefdUtNkOo",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-19T13:00:00Z",
+    "startTime": "2026-08-19T13:02:49Z",
     "ttl": "2026-08-26T13:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -101,11 +102,12 @@
     "id": "IWJl9KFGCs4",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VALORANT】新ACTきたお【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/IWJl9KFGCs4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/IWJl9KFGCs4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=IWJl9KFGCs4",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-19T09:15:00Z",
     "startTime": "2026-08-19T09:10:25Z",
+    "endTime": "2026-08-19T13:10:11Z",
     "ttl": "2026-08-26T09:15:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -155,6 +157,7 @@
     "url": "https://www.youtube.com/watch?v=I7T9kxwQs6c",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-19T13:00:00Z",
+    "startTime": "2026-08-19T13:23:18Z",
     "ttl": "2026-08-26T13:00:00.000Z",
     "streamerId": "riko_solari"
   },
