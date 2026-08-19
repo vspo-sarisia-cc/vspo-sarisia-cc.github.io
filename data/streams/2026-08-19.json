@@ -20,6 +20,7 @@
     "url": "https://www.youtube.com/watch?v=fOpcZcH-Ap8",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-19T09:15:00Z",
+    "startTime": "2026-08-19T09:03:50Z",
     "ttl": "2026-08-26T09:15:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -34,6 +35,18 @@
     "startTime": "2026-08-19T08:14:52Z",
     "ttl": "2026-08-26T08:00:00.000Z",
     "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "IWJl9KFGCs4",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】新ACTきたお【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/IWJl9KFGCs4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=IWJl9KFGCs4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-19T09:15:00Z",
+    "startTime": "2026-08-19T09:10:25Z",
+    "ttl": "2026-08-26T09:15:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "miKEvKHcrBU",
