@@ -21,6 +21,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-19T11:00:00Z",
     "startTime": "2026-08-19T11:05:12Z",
+    "endTime": "2026-08-19T18:50:19Z",
     "ttl": "2026-08-26T11:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -197,11 +198,12 @@
     "id": "AHjE3mFVOi8",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Apex Legends◢ CATCH THESE TOES | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/AHjE3mFVOi8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/AHjE3mFVOi8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=AHjE3mFVOi8",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-19T14:00:00Z",
     "startTime": "2026-08-19T14:03:55Z",
+    "endTime": "2026-08-19T18:48:24Z",
     "ttl": "2026-08-26T14:00:00.000Z",
     "streamerId": "juno_umezono"
   },
