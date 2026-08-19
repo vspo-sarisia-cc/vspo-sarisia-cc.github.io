@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=U9YP0EIdyTI",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-19T16:00:00Z",
+    "startTime": "2026-08-19T16:00:24Z",
     "ttl": "2026-08-26T16:00:00.000Z",
     "streamerId": "kaga_sumire"
   },
@@ -75,6 +76,18 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "g_nxycdoiE0",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】寝る前のリラックスタイム（少しだけ）【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/g_nxycdoiE0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=g_nxycdoiE0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-19T15:50:00Z",
+    "startTime": "2026-08-19T15:55:03Z",
+    "ttl": "2026-08-26T15:50:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "Gf3Iy5RLii8",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【Minecraft】少しずつやらねば【ぶいすぽっ！/ 藍沢エマ】",
@@ -104,11 +117,12 @@
     "id": "UgefdUtNkOo",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【歌枠】雑談を添えてアニソン多めで歌います🎤【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/UgefdUtNkOo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/UgefdUtNkOo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=UgefdUtNkOo",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-19T13:00:00Z",
     "startTime": "2026-08-19T13:02:49Z",
+    "endTime": "2026-08-19T16:09:37Z",
     "ttl": "2026-08-26T13:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
