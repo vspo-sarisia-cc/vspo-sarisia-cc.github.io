@@ -117,19 +117,6 @@
     "streamerId": "yakumo_beni"
   },
   {
-    "id": "tnM9vexWxHA",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【 Escape from Tarkov 】昼樽→夜YB学園新入生🏫Lv18~【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/tnM9vexWxHA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=tnM9vexWxHA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-12T06:30:00Z",
-    "startTime": "2026-08-12T06:28:47Z",
-    "endTime": "2026-08-12T09:52:45Z",
-    "ttl": "2026-08-19T06:30:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
     "id": "waXU3xSIB1E",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【Minecraft】のあちゃんと夏祭り出し物なんか作る【ぶいすぽ / 猫汰つな】",
@@ -245,18 +232,6 @@
     "endTime": "2026-08-12T16:53:33Z",
     "ttl": "2026-08-19T13:15:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316296468977",
-    "channelId": "ramuneshiranami",
-    "title": "【Valheim】初見プレイです w/愉快なみんな",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/7ae9fbe95f5ffdc3f704_ramuneshiranami_316296468977_1786514734//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2843972261",
-    "scheduledStartTime": "2026-08-12T06:05:39Z",
-    "startTime": "2026-08-12T06:05:39Z",
-    "platform": "twitch",
-    "ttl": "2026-08-19T06:05:39.000Z",
-    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316297610353",
