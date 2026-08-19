@@ -13,6 +13,17 @@
     "streamerId": "asumi_sena"
   },
   {
+    "id": "oJdJ2TJww-Y",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "🌟 #橘ひなのワンマンライブ　day2同時視聴会＆グッズの紹介🌟",
+    "thumbnail": "https://i.ytimg.com/vi/oJdJ2TJww-Y/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=oJdJ2TJww-Y",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-19T11:00:00Z",
+    "ttl": "2026-08-26T11:00:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "fOpcZcH-Ap8",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【 Escape from Tarkov 】ただいまタルコフ！22歳女性 w/rassya【ぶいすぽ/八雲べに】",
@@ -28,11 +39,12 @@
     "id": "Gf3Iy5RLii8",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【Minecraft】少しずつやらねば【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/Gf3Iy5RLii8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Gf3Iy5RLii8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Gf3Iy5RLii8",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-19T08:00:00Z",
     "startTime": "2026-08-19T08:14:52Z",
+    "endTime": "2026-08-19T10:13:56Z",
     "ttl": "2026-08-26T08:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -64,11 +76,12 @@
     "id": "miKEvKHcrBU",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【スト6】本日のランクコマ投げ【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/miKEvKHcrBU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/miKEvKHcrBU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=miKEvKHcrBU",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-19T06:15:00Z",
     "startTime": "2026-08-19T06:17:38Z",
+    "endTime": "2026-08-19T10:07:57Z",
     "ttl": "2026-08-26T06:15:00.000Z",
     "streamerId": "ginjo_saine"
   },
