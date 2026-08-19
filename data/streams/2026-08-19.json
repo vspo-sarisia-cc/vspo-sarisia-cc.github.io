@@ -208,18 +208,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316330149617",
-    "channelId": "akarindao",
-    "title": "熱血ガチカスタム界隈",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-08-19T14:42:11Z",
-    "startTime": "2026-08-19T14:42:11Z",
-    "platform": "twitch",
-    "ttl": "2026-08-26T14:42:11.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316338437490",
     "channelId": "ramuneshiranami",
     "title": "【valheim】建築の沼に足を踏み入れてます",
@@ -230,5 +218,17 @@
     "platform": "twitch",
     "ttl": "2026-08-26T10:53:26.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316330149617",
+    "channelId": "akarindao",
+    "title": "熱血ガチカスタム界隈",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/7059f24467b64e025eff_akarindao_316330149617_1787150531//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2850565273",
+    "scheduledStartTime": "2026-08-19T14:42:16Z",
+    "startTime": "2026-08-19T14:42:16Z",
+    "platform": "twitch",
+    "ttl": "2026-08-26T14:42:16.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
