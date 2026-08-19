@@ -1,31 +1,5 @@
 [
   {
-    "id": "NgD04X0ELwg",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【Escape from Tarkov】久しぶりにYB学園に登校します🏫【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/NgD04X0ELwg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=NgD04X0ELwg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-12T11:00:00Z",
-    "startTime": "2026-08-12T11:05:26Z",
-    "endTime": "2026-08-12T16:05:24Z",
-    "ttl": "2026-08-19T11:00:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
-    "id": "BjbTfi8rGCQ",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 Minecraft 】つなとお花の公園つくる【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/BjbTfi8rGCQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=BjbTfi8rGCQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-12T11:00:00Z",
-    "startTime": "2026-08-12T11:02:27Z",
-    "endTime": "2026-08-12T13:45:11Z",
-    "ttl": "2026-08-19T11:00:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "61AIOUu_Lao",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【朝】ドパガキを捕える！夏休みの自由配信Ⅱ【空澄セナ/ぶいすぽっ！】",
@@ -78,32 +52,6 @@
     "streamerId": "yakumo_beni"
   },
   {
-    "id": "waXU3xSIB1E",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【Minecraft】のあちゃんと夏祭り出し物なんか作る【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/waXU3xSIB1E/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=waXU3xSIB1E",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-12T11:00:00Z",
-    "startTime": "2026-08-12T11:02:21Z",
-    "endTime": "2026-08-12T13:43:37Z",
-    "ttl": "2026-08-19T11:00:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "UHVn-TmwPZ8",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 ストリヌ 〗3日目🍓今日も探検するゾ。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/UHVn-TmwPZ8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=UHVn-TmwPZ8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-12T10:45:00Z",
-    "startTime": "2026-08-12T10:48:09Z",
-    "endTime": "2026-08-12T14:54:59Z",
-    "ttl": "2026-08-19T10:45:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
     "id": "D1C6FAoluvg",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "＃４【 #ストリヌ 】　マイクラ異世界転生したら、竜宮城で働かせてもらうことになった！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -114,19 +62,6 @@
     "startTime": "2026-08-12T13:30:10Z",
     "endTime": "2026-08-12T17:15:13Z",
     "ttl": "2026-08-19T13:30:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "AJ9dfbbAIco",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【 マリオカート ワールド 】　元日本代表にコーチングしていただきます！！！！！！！！w/ぎぞっく　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/AJ9dfbbAIco/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=AJ9dfbbAIco",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-12T11:00:00Z",
-    "startTime": "2026-08-12T11:00:30Z",
-    "endTime": "2026-08-12T12:55:12Z",
-    "ttl": "2026-08-19T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
