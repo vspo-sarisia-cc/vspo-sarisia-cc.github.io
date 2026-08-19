@@ -28,11 +28,12 @@
     "id": "oJdJ2TJww-Y",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "🌟 #橘ひなのワンマンライブ　day2同時視聴会＆グッズの紹介🌟",
-    "thumbnail": "https://i.ytimg.com/vi/oJdJ2TJww-Y/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/oJdJ2TJww-Y/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=oJdJ2TJww-Y",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-19T11:00:00Z",
     "startTime": "2026-08-19T11:19:06Z",
+    "endTime": "2026-08-19T14:24:18Z",
     "ttl": "2026-08-26T11:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -169,6 +170,7 @@
     "url": "https://www.youtube.com/watch?v=AHjE3mFVOi8",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-19T14:00:00Z",
+    "startTime": "2026-08-19T14:03:55Z",
     "ttl": "2026-08-26T14:00:00.000Z",
     "streamerId": "juno_umezono"
   },
