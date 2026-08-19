@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=qbJXY17_dzs",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-19T02:30:00Z",
+    "startTime": "2026-08-19T02:32:32Z",
     "ttl": "2026-08-26T02:30:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -18,6 +19,7 @@
     "url": "https://www.youtube.com/watch?v=grR1E_dzzrk",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-19T03:00:00Z",
+    "startTime": "2026-08-19T03:00:58Z",
     "ttl": "2026-08-26T03:00:00.000Z",
     "streamerId": "narin_mikure"
   },
