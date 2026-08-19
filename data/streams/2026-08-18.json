@@ -159,11 +159,12 @@
     "id": "8Gmw8lauORY",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【朝活雑談】　オハヨーーーーー！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/8Gmw8lauORY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/8Gmw8lauORY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=8Gmw8lauORY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-18T22:00:00Z",
     "startTime": "2026-08-18T22:01:05Z",
+    "endTime": "2026-08-19T00:14:22Z",
     "ttl": "2026-08-25T22:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -272,18 +273,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316326217073",
-    "channelId": "akarindao",
-    "title": "雑談→栄冠 初の甲子園を目指して。",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-08-18T17:32:48Z",
-    "startTime": "2026-08-18T17:32:48Z",
-    "platform": "twitch",
-    "ttl": "2026-08-25T17:32:48.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316334178930",
     "channelId": "ren_kisaragi__",
     "title": "え～～～～～～ぺっくす",
@@ -294,6 +283,18 @@
     "platform": "twitch",
     "ttl": "2026-08-25T11:14:57.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316326217073",
+    "channelId": "akarindao",
+    "title": "雑談→栄冠 初の甲子園を目指して。",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/30c72d7ef7bf1c9c1576_akarindao_316326217073_1787074368//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2849780813",
+    "scheduledStartTime": "2026-08-18T17:32:53Z",
+    "startTime": "2026-08-18T17:32:53Z",
+    "platform": "twitch",
+    "ttl": "2026-08-25T17:32:53.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316324673137",
