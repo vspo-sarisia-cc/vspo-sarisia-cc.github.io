@@ -41,11 +41,12 @@
     "id": "g6m8gzmJXLg",
     "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
     "title": "【Minecraft】終わりの目途が立ってきた【ぶいすぽっ！/英リサ】",
-    "thumbnail": "https://i.ytimg.com/vi/g6m8gzmJXLg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/g6m8gzmJXLg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=g6m8gzmJXLg",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-19T11:35:00Z",
     "startTime": "2026-08-19T11:35:17Z",
+    "endTime": "2026-08-19T14:49:55Z",
     "ttl": "2026-08-26T11:35:00.000Z",
     "streamerId": "hanabusa_lisa"
   },
@@ -58,6 +59,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-19T09:15:00Z",
     "startTime": "2026-08-19T09:03:50Z",
+    "endTime": "2026-08-19T14:59:58Z",
     "ttl": "2026-08-26T09:15:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -185,5 +187,17 @@
     "platform": "twitch",
     "ttl": "2026-08-26T10:53:21.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316330149617",
+    "channelId": "akarindao",
+    "title": "熱血ガチカスタム界隈",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-08-19T14:42:11Z",
+    "startTime": "2026-08-19T14:42:11Z",
+    "platform": "twitch",
+    "ttl": "2026-08-26T14:42:11.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
