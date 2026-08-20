@@ -47,6 +47,18 @@
     "streamerId": "ginjo_saine"
   },
   {
+    "id": "315457362672",
+    "channelId": "erissuzukami",
+    "title": "mejja chameleon",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
+    "url": "https://www.twitch.tv/erissuzukami",
+    "scheduledStartTime": "2026-08-20T06:00:56Z",
+    "startTime": "2026-08-20T06:00:56Z",
+    "platform": "twitch",
+    "ttl": "2026-08-27T06:00:56.000Z",
+    "streamerId": "eris_suzukami"
+  },
+  {
     "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNH0=",
     "channelId": "remiaaotsuki",
     "title": "EU faceit elo gain?",
