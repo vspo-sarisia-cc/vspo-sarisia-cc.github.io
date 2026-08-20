@@ -1,5 +1,16 @@
 [
   {
+    "id": "4uNo7ULfC3k",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "【 VALORANT 】なんだこのメンツ？！ w/てとちゃん、或世くん、立川さん、あやかさん【 ぶいすぽ / 小雀とと 】",
+    "thumbnail": "https://i.ytimg.com/vi/4uNo7ULfC3k/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=4uNo7ULfC3k",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-20T11:00:00Z",
+    "ttl": "2026-08-27T11:00:00.000Z",
+    "streamerId": "kogara_toto"
+  },
+  {
     "id": "o40eCOGtLwU",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】ワールズエッジ！GOGO！！【 ぶいすぽっ！胡桃のあ 】",
@@ -57,18 +68,6 @@
     "endTime": "2026-08-20T05:29:57Z",
     "ttl": "2026-08-27T03:00:00.000Z",
     "streamerId": "narin_mikure"
-  },
-  {
-    "id": "315457362672",
-    "channelId": "erissuzukami",
-    "title": "THANKS FOR PLAYING",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
-    "url": "https://www.twitch.tv/erissuzukami",
-    "scheduledStartTime": "2026-08-20T06:00:56Z",
-    "startTime": "2026-08-20T06:00:56Z",
-    "platform": "twitch",
-    "ttl": "2026-08-27T06:00:56.000Z",
-    "streamerId": "eris_suzukami"
   },
   {
     "id": "316341666290",
