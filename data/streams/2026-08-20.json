@@ -153,30 +153,6 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "316343285490",
-    "channelId": "akarindao",
-    "title": "CRリバイブ 本番相手とスクリム！",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-08-20T12:03:33Z",
-    "startTime": "2026-08-20T12:03:33Z",
-    "platform": "twitch",
-    "ttl": "2026-08-27T12:03:33.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "317506587746",
-    "channelId": "remiaaotsuki",
-    "title": "i just wna play :3 23K",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_remiaaotsuki-320x180.jpg",
-    "url": "https://www.twitch.tv/remiaaotsuki",
-    "scheduledStartTime": "2026-08-20T13:14:37Z",
-    "startTime": "2026-08-20T13:14:37Z",
-    "platform": "twitch",
-    "ttl": "2026-08-27T13:14:37.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
     "id": "316333432561",
     "channelId": "ramuneshiranami",
     "title": "【valheim】次のボス探し",
@@ -189,6 +165,18 @@
     "streamerId": "shiranami_ramune"
   },
   {
+    "id": "316343285490",
+    "channelId": "akarindao",
+    "title": "CRリバイブ 本番相手とスクリム！",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/7694e2bb36c2cc0d656c_akarindao_316343285490_1787227413//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2851379173",
+    "scheduledStartTime": "2026-08-20T12:03:38Z",
+    "startTime": "2026-08-20T12:03:38Z",
+    "platform": "twitch",
+    "ttl": "2026-08-27T12:03:38.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
     "id": "316341666290",
     "channelId": "saineginjo",
     "title": "久しぶりすぎませんかそろきゅー",
@@ -199,5 +187,17 @@
     "platform": "twitch",
     "ttl": "2026-08-27T04:47:11.000Z",
     "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "317506587746",
+    "channelId": "remiaaotsuki",
+    "title": "i just wna play :3 23K",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/8a4eaa00c48e89dd2dd7_remiaaotsuki_317506587746_1787231677//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2851420755",
+    "scheduledStartTime": "2026-08-20T13:14:44Z",
+    "startTime": "2026-08-20T13:14:44Z",
+    "platform": "twitch",
+    "ttl": "2026-08-27T13:14:44.000Z",
+    "streamerId": "remia_aotsuki"
   }
 ]
