@@ -11,16 +11,53 @@
     "streamerId": "kogara_toto"
   },
   {
+    "id": "Ngk9P6hAQDM",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【APEX】ねこーたうるーか【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/Ngk9P6hAQDM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Ngk9P6hAQDM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-20T10:00:00Z",
+    "startTime": "2026-08-20T10:02:40Z",
+    "ttl": "2026-08-27T10:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "o40eCOGtLwU",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】ワールズエッジ！GOGO！！【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/o40eCOGtLwU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/o40eCOGtLwU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=o40eCOGtLwU",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-20T07:05:00Z",
     "startTime": "2026-08-20T07:06:42Z",
+    "endTime": "2026-08-20T09:33:57Z",
     "ttl": "2026-08-27T07:05:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "TRP7I1wiP-E",
+    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
+    "title": "【Minecraft】めんどくさい回路を終わらせたい【ぶいすぽ/兎咲ミミ】",
+    "thumbnail": "https://i.ytimg.com/vi/TRP7I1wiP-E/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=TRP7I1wiP-E",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-20T10:00:00Z",
+    "startTime": "2026-08-20T09:59:41Z",
+    "ttl": "2026-08-27T10:00:00.000Z",
+    "streamerId": "tosaki_mimi"
+  },
+  {
+    "id": "c-03Fk8BkdI",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【APEX】つなうるうるでエペ　w/うるはうるか【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/c-03Fk8BkdI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=c-03Fk8BkdI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-20T10:00:00Z",
+    "startTime": "2026-08-20T10:02:39Z",
+    "ttl": "2026-08-27T10:00:00.000Z",
+    "streamerId": "nekota_tsuna"
   },
   {
     "id": "OVAe4vNR-1I",
@@ -53,6 +90,7 @@
     "url": "https://www.youtube.com/watch?v=3omRQ6igBbM",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-20T10:00:00Z",
+    "startTime": "2026-08-20T10:00:53Z",
     "ttl": "2026-08-27T10:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
