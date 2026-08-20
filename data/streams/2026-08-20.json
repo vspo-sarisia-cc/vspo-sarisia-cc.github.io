@@ -153,18 +153,6 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "316333432561",
-    "channelId": "ramuneshiranami",
-    "title": "【valheim】次のボス探し",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-08-20T11:15:01Z",
-    "startTime": "2026-08-20T11:15:01Z",
-    "platform": "twitch",
-    "ttl": "2026-08-27T11:15:01.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316343285490",
     "channelId": "akarindao",
     "title": "CRリバイブ 本番相手とスクリム！",
@@ -187,6 +175,18 @@
     "platform": "twitch",
     "ttl": "2026-08-27T13:14:37.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "316333432561",
+    "channelId": "ramuneshiranami",
+    "title": "【valheim】次のボス探し",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/b2b0c4386bf7644d6661_ramuneshiranami_316333432561_1787224501//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2851352362",
+    "scheduledStartTime": "2026-08-20T11:15:06Z",
+    "startTime": "2026-08-20T11:15:06Z",
+    "platform": "twitch",
+    "ttl": "2026-08-27T11:15:06.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316341666290",
