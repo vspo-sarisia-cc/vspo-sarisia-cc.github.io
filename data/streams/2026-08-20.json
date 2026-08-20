@@ -12,6 +12,18 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "OVAe4vNR-1I",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "〖 #VCTWatchParty 〗消えるな日本チーム。涙のDFMWIN。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+    "thumbnail": "https://i.ytimg.com/vi/OVAe4vNR-1I/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=OVAe4vNR-1I",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-20T07:45:00Z",
+    "startTime": "2026-08-20T07:42:03Z",
+    "ttl": "2026-08-27T07:45:00.000Z",
+    "streamerId": "yano_kuromu"
+  },
+  {
     "id": "u39MpTzPzIk",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "Greedy Greedy / covered by 夜乃くろむ【 #夜乃くろむ3D 】",
@@ -20,17 +32,6 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-20T13:00:00Z",
     "ttl": "2026-08-27T13:00:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
-    "id": "OVAe4vNR-1I",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 #VCTWatchParty 〗消えるな日本チーム。涙のDFMWIN。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/OVAe4vNR-1I/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=OVAe4vNR-1I",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-20T07:45:00Z",
-    "ttl": "2026-08-27T07:45:00.000Z",
     "streamerId": "yano_kuromu"
   },
   {
@@ -47,18 +48,6 @@
     "streamerId": "narin_mikure"
   },
   {
-    "id": "316341666290",
-    "channelId": "saineginjo",
-    "title": "久しぶりすぎませんかそろきゅー",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saineginjo-320x180.jpg",
-    "url": "https://www.twitch.tv/saineginjo",
-    "scheduledStartTime": "2026-08-20T04:47:06Z",
-    "startTime": "2026-08-20T04:47:06Z",
-    "platform": "twitch",
-    "ttl": "2026-08-27T04:47:06.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
     "id": "315457362672",
     "channelId": "erissuzukami",
     "title": "mejja chameleon",
@@ -69,6 +58,18 @@
     "platform": "twitch",
     "ttl": "2026-08-27T06:00:56.000Z",
     "streamerId": "eris_suzukami"
+  },
+  {
+    "id": "316341666290",
+    "channelId": "saineginjo",
+    "title": "久しぶりすぎませんかそろきゅー",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/911c1618b33dce13c685_saineginjo_316341666290_1787201226//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2851207393",
+    "scheduledStartTime": "2026-08-20T04:47:11Z",
+    "startTime": "2026-08-20T04:47:11Z",
+    "platform": "twitch",
+    "ttl": "2026-08-27T04:47:11.000Z",
+    "streamerId": "ginjo_saine"
   },
   {
     "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNH0=",
