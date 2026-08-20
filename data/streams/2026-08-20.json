@@ -23,6 +23,18 @@
     "streamerId": "narin_mikure"
   },
   {
+    "id": "316341666290",
+    "channelId": "saineginjo",
+    "title": "久しぶりすぎませんかそろきゅー",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saineginjo-320x180.jpg",
+    "url": "https://www.twitch.tv/saineginjo",
+    "scheduledStartTime": "2026-08-20T04:47:06Z",
+    "startTime": "2026-08-20T04:47:06Z",
+    "platform": "twitch",
+    "ttl": "2026-08-27T04:47:06.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
     "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozNH0=",
     "channelId": "remiaaotsuki",
     "title": "EU faceit elo gain?",
