@@ -2,11 +2,12 @@
   {
     "id": "4uNo7ULfC3k",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
-    "title": "【 VALORANT 】なんだこのメンツ？！ w/てとちゃん、或世くん、立川さん、あやかさん【 ぶいすぽ / 小雀とと 】",
+    "title": "【 VALORANT 】なんだこのメンツ？！ w/てとちゃん、或世くん、立川さん、あやちゃん【 ぶいすぽ / 小雀とと 】",
     "thumbnail": "https://i.ytimg.com/vi/4uNo7ULfC3k/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=4uNo7ULfC3k",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-20T11:00:00Z",
+    "startTime": "2026-08-20T11:03:59Z",
     "ttl": "2026-08-27T11:00:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -106,6 +107,18 @@
     "endTime": "2026-08-20T05:29:57Z",
     "ttl": "2026-08-27T03:00:00.000Z",
     "streamerId": "narin_mikure"
+  },
+  {
+    "id": "316333432561",
+    "channelId": "ramuneshiranami",
+    "title": "【valheim】次のボス探し",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-08-20T11:15:01Z",
+    "startTime": "2026-08-20T11:15:01Z",
+    "platform": "twitch",
+    "ttl": "2026-08-27T11:15:01.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316341666290",
