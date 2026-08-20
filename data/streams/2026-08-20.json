@@ -3,11 +3,12 @@
     "id": "4uNo7ULfC3k",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 VALORANT 】なんだこのメンツ？！ w/てとちゃん、或世くん、立川さん、あやちゃん【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/4uNo7ULfC3k/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/4uNo7ULfC3k/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4uNo7ULfC3k",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-20T11:00:00Z",
     "startTime": "2026-08-20T11:03:59Z",
+    "endTime": "2026-08-20T14:41:42Z",
     "ttl": "2026-08-27T11:00:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -61,6 +62,18 @@
     "endTime": "2026-08-20T12:56:32Z",
     "ttl": "2026-08-27T10:00:00.000Z",
     "streamerId": "tosaki_mimi"
+  },
+  {
+    "id": "RpKnUSC_gaM",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "車免許本免学科試験を終えてきました。【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/RpKnUSC_gaM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=RpKnUSC_gaM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-20T14:40:00Z",
+    "startTime": "2026-08-20T14:42:21Z",
+    "ttl": "2026-08-27T14:40:00.000Z",
+    "streamerId": "asumi_sena"
   },
   {
     "id": "c-03Fk8BkdI",
