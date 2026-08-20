@@ -12,6 +12,18 @@
     "streamerId": "kogara_toto"
   },
   {
+    "id": "T-eWF7WjaAg",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【ほの暮しの庭】秋だーーーーー！！！【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/T-eWF7WjaAg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=T-eWF7WjaAg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-20T14:00:00Z",
+    "startTime": "2026-08-20T14:01:29Z",
+    "ttl": "2026-08-27T14:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "Ngk9P6hAQDM",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【APEX】ねこーたうるーか【ぶいすぽ/一ノ瀬うるは】",
@@ -22,17 +34,6 @@
     "startTime": "2026-08-20T10:02:40Z",
     "endTime": "2026-08-20T13:04:12Z",
     "ttl": "2026-08-27T10:00:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
-    "id": "T-eWF7WjaAg",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【ほの暮しの庭】秋だーーーーー！！！【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/T-eWF7WjaAg/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=T-eWF7WjaAg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-20T14:00:00Z",
-    "ttl": "2026-08-27T14:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
   {
