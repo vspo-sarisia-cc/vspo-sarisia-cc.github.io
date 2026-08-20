@@ -121,6 +121,18 @@
     "streamerId": "shiranami_ramune"
   },
   {
+    "id": "316343285490",
+    "channelId": "akarindao",
+    "title": "CRリバイブ 本番相手とスクリム！",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-08-20T12:03:33Z",
+    "startTime": "2026-08-20T12:03:33Z",
+    "platform": "twitch",
+    "ttl": "2026-08-27T12:03:33.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
     "id": "316341666290",
     "channelId": "saineginjo",
     "title": "久しぶりすぎませんかそろきゅー",
