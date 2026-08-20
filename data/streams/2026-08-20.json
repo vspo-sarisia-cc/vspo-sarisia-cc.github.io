@@ -1,5 +1,16 @@
 [
   {
+    "id": "u39MpTzPzIk",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "Greedy Greedy / covered by 夜乃くろむ【 #夜乃くろむ3D 】",
+    "thumbnail": "https://i.ytimg.com/vi/u39MpTzPzIk/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=u39MpTzPzIk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-20T13:00:00Z",
+    "ttl": "2026-08-27T13:00:00.000Z",
+    "streamerId": "yano_kuromu"
+  },
+  {
     "id": "OVAe4vNR-1I",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 #VCTWatchParty 〗消えるな日本チーム。涙のDFMWIN。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
@@ -14,11 +25,12 @@
     "id": "icNdnOL8hiY",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
     "title": "【VALORANT】 diamond 2 80rr 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/icNdnOL8hiY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/icNdnOL8hiY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=icNdnOL8hiY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-20T03:00:00Z",
     "startTime": "2026-08-20T03:01:25Z",
+    "endTime": "2026-08-20T05:29:57Z",
     "ttl": "2026-08-27T03:00:00.000Z",
     "streamerId": "narin_mikure"
   },
