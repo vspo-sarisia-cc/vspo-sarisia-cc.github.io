@@ -10,17 +10,5 @@
     "platform": "twitch",
     "ttl": "2026-08-20T22:36:32.000Z",
     "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "317478191716",
-    "channelId": "remiaaotsuki",
-    "title": "ELO gaining time w/ @sinisterdoodle @eliseleverne I Premier NA/EU",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/d62e987d0526e8575311_remiaaotsuki_317478191716_1786655091//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2845403994",
-    "scheduledStartTime": "2026-08-13T21:04:57Z",
-    "startTime": "2026-08-13T21:04:57Z",
-    "platform": "twitch",
-    "ttl": "2026-08-20T21:04:57.000Z",
-    "streamerId": "remia_aotsuki"
   }
 ]
