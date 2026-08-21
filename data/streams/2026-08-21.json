@@ -90,6 +90,17 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "Yox1tyXQRsE",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "SFL公式ホームページのQ&Aを見てギャルから学ぶエマ【ぶいすぽっ！/ 藍沢エマ/スト6】",
+    "thumbnail": "https://i.ytimg.com/vi/Yox1tyXQRsE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Yox1tyXQRsE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-21T22:00:00Z",
+    "ttl": "2026-08-28T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "n7r-QNgk-VQ",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】ところで平凡なエマよ 下を向いている暇はあるのか【ぶいすぽっ！/ 藍沢エマ】",
@@ -225,6 +236,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-21T13:00:00Z",
     "startTime": "2026-08-21T13:01:00Z",
+    "endTime": "2026-08-21T16:20:26Z",
     "ttl": "2026-08-28T13:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -237,6 +249,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-21T13:00:00Z",
     "startTime": "2026-08-21T13:01:11Z",
+    "endTime": "2026-08-21T16:22:55Z",
     "ttl": "2026-08-28T13:00:00.000Z",
     "streamerId": "riko_solari"
   },
