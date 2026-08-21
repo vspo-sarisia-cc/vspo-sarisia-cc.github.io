@@ -14,7 +14,7 @@
     "id": "J0XmcYXHDEc",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
     "title": "【Minecraft】打上花火装置の完成まで 【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/J0XmcYXHDEc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/J0XmcYXHDEc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=J0XmcYXHDEc",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-21T08:00:00Z",
@@ -31,6 +31,7 @@
     "url": "https://www.youtube.com/watch?v=Kcc0Ata40zg",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-21T11:30:00Z",
+    "startTime": "2026-08-21T11:39:18Z",
     "ttl": "2026-08-28T11:30:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -46,6 +47,17 @@
     "endTime": "2026-08-21T07:20:16Z",
     "ttl": "2026-08-28T04:30:00.000Z",
     "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "6vcR6lYsBJ0",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【 Escape from Tarkov 】あの、おぎゃりたいんでメンテ終わってもらっていいですか？【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/6vcR6lYsBJ0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=6vcR6lYsBJ0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-21T12:00:00Z",
+    "ttl": "2026-08-28T12:00:00.000Z",
+    "streamerId": "yakumo_beni"
   },
   {
     "id": "n7r-QNgk-VQ",
