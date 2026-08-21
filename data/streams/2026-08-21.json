@@ -23,6 +23,17 @@
     "streamerId": "tosaki_mimi"
   },
   {
+    "id": "Kcc0Ata40zg",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 Apex Legends 】 ひさびさ w/Ras,VDK【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/Kcc0Ata40zg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Kcc0Ata40zg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-21T11:30:00Z",
+    "ttl": "2026-08-28T11:30:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "cija35vQOWc",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Escape from Tarkov 】 昼コフ 25lv 【ぶいすぽっ！/橘ひなの】",
@@ -39,12 +50,24 @@
     "id": "tt8ujFj-iZ0",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【APEX】( ＞ω＜)⊃━☆ﾟ.*･ｱﾊﾞﾀｹﾀﾌﾞﾗ【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/tt8ujFj-iZ0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/tt8ujFj-iZ0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=tt8ujFj-iZ0",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-21T07:15:00Z",
     "startTime": "2026-08-21T07:16:25Z",
+    "endTime": "2026-08-21T09:55:10Z",
     "ttl": "2026-08-28T07:15:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "MPSTWzF2ZKU",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【Machine Party】大人のパーティゲーム【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/MPSTWzF2ZKU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=MPSTWzF2ZKU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-21T11:00:00Z",
+    "ttl": "2026-08-28T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
   {
@@ -71,6 +94,18 @@
     "endTime": "2026-08-21T08:19:07Z",
     "ttl": "2026-08-28T03:30:00.000Z",
     "streamerId": "komori_met"
+  },
+  {
+    "id": "rzHThntbANM",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "空色デイズ / covered by 夜乃くろむ【 #夜乃くろむ3D 】",
+    "thumbnail": "https://i.ytimg.com/vi/rzHThntbANM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=rzHThntbANM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-21T10:00:00Z",
+    "startTime": "2026-08-21T10:00:06Z",
+    "ttl": "2026-08-28T10:00:00.000Z",
+    "streamerId": "yano_kuromu"
   },
   {
     "id": "fg_msVOcBCU",
