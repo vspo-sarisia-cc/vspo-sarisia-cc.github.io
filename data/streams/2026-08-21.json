@@ -12,6 +12,18 @@
     "streamerId": "kaga_sumire"
   },
   {
+    "id": "eDo-MWOLFs0",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【Escape from Tarkov】バレバれいどぉｗ　【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/eDo-MWOLFs0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=eDo-MWOLFs0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-21T14:40:00Z",
+    "startTime": "2026-08-21T14:36:18Z",
+    "ttl": "2026-08-28T14:40:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "lu-tcVsUOsA",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【APEX】コフアプデ終わりませんでした【ぶいすぽ/一ノ瀬うるは】",
@@ -40,11 +52,12 @@
     "id": "Kcc0Ata40zg",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Apex Legends 】 ひさびさ w/Ras,VDK【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/Kcc0Ata40zg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Kcc0Ata40zg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Kcc0Ata40zg",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-21T11:30:00Z",
     "startTime": "2026-08-21T11:39:18Z",
+    "endTime": "2026-08-21T14:40:09Z",
     "ttl": "2026-08-28T11:30:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -85,6 +98,18 @@
     "endTime": "2026-08-21T13:57:58Z",
     "ttl": "2026-08-28T11:05:00.000Z",
     "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "ZaapB9RXZEk",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【  】迷い【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/ZaapB9RXZEk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ZaapB9RXZEk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-21T14:50:00Z",
+    "startTime": "2026-08-21T14:49:55Z",
+    "ttl": "2026-08-28T14:50:00.000Z",
+    "streamerId": "shinomiya_runa"
   },
   {
     "id": "MPSTWzF2ZKU",
