@@ -31,5 +31,16 @@
     "scheduledStartTime": "2026-08-22T22:00:00Z",
     "ttl": "2026-08-29T22:00:00.000Z",
     "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "9Dx-vLFiXyQ",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Insaniquarium◢ but its 2026 | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/9Dx-vLFiXyQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=9Dx-vLFiXyQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-22T13:00:00Z",
+    "ttl": "2026-08-29T13:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
