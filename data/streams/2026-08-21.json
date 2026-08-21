@@ -18,6 +18,7 @@
     "url": "https://www.youtube.com/watch?v=J0XmcYXHDEc",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-21T08:00:00Z",
+    "startTime": "2026-08-21T08:15:42Z",
     "ttl": "2026-08-28T08:00:00.000Z",
     "streamerId": "tosaki_mimi"
   },
@@ -47,14 +48,26 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "7T9Ua5oN-cA",
+    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
+    "title": "【 JSP3 | 日本事故物件監視協会3 】夏、事故物件を監視する with.ぷーさんを添えて～【 ぶいすぽっ！ / 小森めと 】",
+    "thumbnail": "https://i.ytimg.com/vi/7T9Ua5oN-cA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=7T9Ua5oN-cA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-21T09:00:00Z",
+    "ttl": "2026-08-28T09:00:00.000Z",
+    "streamerId": "komori_met"
+  },
+  {
     "id": "KqwTgJzXdn4",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 ゼルダの伝説 ブレワイ 】#4 余計なお世話ってのは ヒーローの本質なんだろ【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/KqwTgJzXdn4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/KqwTgJzXdn4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=KqwTgJzXdn4",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-21T03:30:00Z",
     "startTime": "2026-08-21T03:30:00Z",
+    "endTime": "2026-08-21T08:19:07Z",
     "ttl": "2026-08-28T03:30:00.000Z",
     "streamerId": "komori_met"
   },
