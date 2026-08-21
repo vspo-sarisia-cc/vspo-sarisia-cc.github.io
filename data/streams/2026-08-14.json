@@ -13,32 +13,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "mqN6bMf0ZPc",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "[HERROR] Gas Station Case  |  I just work here maam【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/mqN6bMf0ZPc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=mqN6bMf0ZPc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-14T13:05:00Z",
-    "startTime": "2026-08-14T13:06:41Z",
-    "endTime": "2026-08-14T15:16:13Z",
-    "ttl": "2026-08-21T13:05:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "cEU0kDWxNw4",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "Beyond The Way 『青月レミア  x 如月れん x 蝶屋はなび COVER』 #ぶいすぽっ #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/cEU0kDWxNw4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=cEU0kDWxNw4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-14T13:00:00Z",
-    "startTime": "2026-08-14T13:00:06Z",
-    "endTime": "2026-08-14T13:04:04Z",
-    "ttl": "2026-08-21T13:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
     "id": "q_gmkJE3U8Q",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves 2.6 part 1◢ FIRST LOOK w/ EYETRACKER (NO LOOK @ IUNO FEET) | #JunoUmezono #VSPOEN",
@@ -50,17 +24,5 @@
     "endTime": "2026-08-14T19:48:54Z",
     "ttl": "2026-08-21T14:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316372833267",
-    "channelId": "shinomiya_runa",
-    "title": "ジュリ戦いしよう",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/fdc21aa730878ee1a905_shinomiya_runa_316372833267_1786712348//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2845939583",
-    "scheduledStartTime": "2026-08-14T12:59:14Z",
-    "startTime": "2026-08-14T12:59:14Z",
-    "platform": "twitch",
-    "ttl": "2026-08-21T12:59:14.000Z",
-    "streamerId": "shinomiya_runa"
   }
 ]

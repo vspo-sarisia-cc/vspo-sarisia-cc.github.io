@@ -94,6 +94,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-21T11:00:00Z",
     "startTime": "2026-08-21T11:05:46Z",
+    "endTime": "2026-08-21T12:53:21Z",
     "ttl": "2026-08-28T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -111,10 +112,22 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "r6Lcl58SSq0",
+    "channelId": "UC61OwuYOVuKkpKnid-43Twg",
+    "title": "【キングダムハーツHD1.5+2.5】KINGDOM HEARTS II FINAL MIX ＃３【ぶいすぽ/白波らむね】",
+    "thumbnail": "https://i.ytimg.com/vi/r6Lcl58SSq0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=r6Lcl58SSq0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-21T13:00:00Z",
+    "startTime": "2026-08-21T13:04:13Z",
+    "ttl": "2026-08-28T13:00:00.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
     "id": "7T9Ua5oN-cA",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 JSP3 | 日本事故物件監視協会3 】夏、事故物件を監視する with.ぷーさんを添えて～【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/7T9Ua5oN-cA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/7T9Ua5oN-cA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=7T9Ua5oN-cA",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-21T09:15:00Z",
@@ -153,11 +166,12 @@
     "id": "qCWSwL_yttA",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  Machine Party ◢　先輩方とパーティゲームさせていただく！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/qCWSwL_yttA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/qCWSwL_yttA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=qCWSwL_yttA",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-21T11:00:00Z",
     "startTime": "2026-08-21T11:06:11Z",
+    "endTime": "2026-08-21T12:55:43Z",
     "ttl": "2026-08-28T11:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -180,6 +194,7 @@
     "url": "https://www.youtube.com/watch?v=ztdgx7iEtGk",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-21T13:00:00Z",
+    "startTime": "2026-08-21T13:01:00Z",
     "ttl": "2026-08-28T13:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -191,6 +206,7 @@
     "url": "https://www.youtube.com/watch?v=xt0-5OQrS60",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-21T13:00:00Z",
+    "startTime": "2026-08-21T13:01:11Z",
     "ttl": "2026-08-28T13:00:00.000Z",
     "streamerId": "riko_solari"
   },
@@ -202,31 +218,32 @@
     "url": "https://www.youtube.com/watch?v=6uA3_KB0LMU",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-21T13:00:00Z",
+    "startTime": "2026-08-21T13:01:29Z",
     "ttl": "2026-08-28T13:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316404208499",
-    "channelId": "akarindao",
-    "title": "ちゅな らむち ちーたまとデスゲーム",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-08-21T11:05:49Z",
-    "startTime": "2026-08-21T11:05:49Z",
-    "platform": "twitch",
-    "ttl": "2026-08-28T11:05:49.000Z",
-    "streamerId": "yumeno_akari"
   },
   {
     "id": "316337713521",
     "channelId": "ramuneshiranami",
     "title": "【Machine Party】初見すぎる w/あかりん つな ちーたま",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-08-21T11:06:44Z",
-    "startTime": "2026-08-21T11:06:44Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/711a774ae438c64263d5_ramuneshiranami_316337713521_1787310404//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2852257113",
+    "scheduledStartTime": "2026-08-21T11:06:49Z",
+    "startTime": "2026-08-21T11:06:49Z",
     "platform": "twitch",
-    "ttl": "2026-08-28T11:06:44.000Z",
+    "ttl": "2026-08-28T11:06:49.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316404208499",
+    "channelId": "akarindao",
+    "title": "ちゅな らむち ちーたまとデスゲーム",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/92358df4512b407e239c_akarindao_316404208499_1787310349//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2852256682",
+    "scheduledStartTime": "2026-08-21T11:05:55Z",
+    "startTime": "2026-08-21T11:05:55Z",
+    "platform": "twitch",
+    "ttl": "2026-08-28T11:05:55.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
