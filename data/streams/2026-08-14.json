@@ -1,31 +1,5 @@
 [
   {
-    "id": "5I76yedIiQk",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【Escape from Tarkov】とりまソロ！【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/5I76yedIiQk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=5I76yedIiQk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-14T12:30:00Z",
-    "startTime": "2026-08-14T12:29:41Z",
-    "endTime": "2026-08-14T17:21:12Z",
-    "ttl": "2026-08-21T12:30:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
-    "id": "znTvcm0PRjM",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【Supermarket Chaos】４人でお片付け🎶【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/znTvcm0PRjM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=znTvcm0PRjM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-14T12:10:00Z",
-    "startTime": "2026-08-14T12:12:56Z",
-    "endTime": "2026-08-14T15:42:46Z",
-    "ttl": "2026-08-21T12:10:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
     "id": "8ueBI6h8FPk",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "ぶいすぽメンバーのコーチになったナウマンに裏切られた(？)ツルギ【ぶいすぽっ！/ 藍沢エマ/ナウマン/柊ツルギ/スト6/STREET FIGHTER 6】",
@@ -37,19 +11,6 @@
     "endTime": "2026-08-14T22:23:22Z",
     "ttl": "2026-08-21T22:00:00.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "L_JKCi9Ov_k",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【Supermarket Chaos】この４人でチルゲーってできるのかな【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/L_JKCi9Ov_k/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=L_JKCi9Ov_k",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-14T12:10:00Z",
-    "startTime": "2026-08-14T12:13:00Z",
-    "endTime": "2026-08-14T15:44:33Z",
-    "ttl": "2026-08-21T12:10:00.000Z",
-    "streamerId": "nekota_tsuna"
   },
   {
     "id": "mqN6bMf0ZPc",
@@ -101,17 +62,5 @@
     "platform": "twitch",
     "ttl": "2026-08-21T12:59:14.000Z",
     "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "316307127537",
-    "channelId": "akarindao",
-    "title": "お片付け🎵お片付け🎵うるはさんとちゅなとらむちとお片付け🎵",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d237a756f732610ea458_akarindao_316307127537_1786709573//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2845915725",
-    "scheduledStartTime": "2026-08-14T12:12:59Z",
-    "startTime": "2026-08-14T12:12:59Z",
-    "platform": "twitch",
-    "ttl": "2026-08-21T12:12:59.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]

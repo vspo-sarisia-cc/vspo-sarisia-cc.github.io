@@ -7,8 +7,21 @@
     "url": "https://www.youtube.com/watch?v=VLVGMy93gMY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-21T12:00:00Z",
+    "startTime": "2026-08-21T12:07:34Z",
     "ttl": "2026-08-28T12:00:00.000Z",
     "streamerId": "kaga_sumire"
+  },
+  {
+    "id": "lu-tcVsUOsA",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【APEX】コフアプデ終わりませんでした【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/lu-tcVsUOsA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=lu-tcVsUOsA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-21T12:15:00Z",
+    "startTime": "2026-08-21T12:17:34Z",
+    "ttl": "2026-08-28T12:15:00.000Z",
+    "streamerId": "ichinose_uruha"
   },
   {
     "id": "J0XmcYXHDEc",
@@ -51,11 +64,12 @@
   {
     "id": "6vcR6lYsBJ0",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【 Escape from Tarkov 】あの、おぎゃりたいんでメンテ終わってもらっていいですか？【ぶいすぽ/八雲べに】",
+    "title": "【APEX】おぎゃりペクス w/ありさかうるは【ぶいすぽ/八雲べに】",
     "thumbnail": "https://i.ytimg.com/vi/6vcR6lYsBJ0/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=6vcR6lYsBJ0",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-21T12:00:00Z",
+    "startTime": "2026-08-21T12:17:27Z",
     "ttl": "2026-08-28T12:00:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -136,17 +150,6 @@
     "streamerId": "yano_kuromu"
   },
   {
-    "id": "BmMjHUJA5oY",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 Minecraft 〗眠い目こすって畑の様子を見に行く。🍉の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/BmMjHUJA5oY/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=BmMjHUJA5oY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-21T13:00:00Z",
-    "ttl": "2026-08-28T13:00:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
     "id": "qCWSwL_yttA",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  Machine Party ◢　先輩方とパーティゲームさせていただく！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
@@ -168,6 +171,17 @@
     "scheduledStartTime": "2026-08-21T14:00:00Z",
     "ttl": "2026-08-28T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "ztdgx7iEtGk",
+    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+    "title": "【PEAK】VSPOkawa: the movie【#VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/ztdgx7iEtGk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ztdgx7iEtGk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-21T13:00:00Z",
+    "ttl": "2026-08-28T13:00:00.000Z",
+    "streamerId": "jira_jisaki"
   },
   {
     "id": "xt0-5OQrS60",
