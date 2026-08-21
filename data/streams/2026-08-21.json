@@ -54,8 +54,9 @@
     "thumbnail": "https://i.ytimg.com/vi/7T9Ua5oN-cA/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=7T9Ua5oN-cA",
     "platform": "youtube",
-    "scheduledStartTime": "2026-08-21T09:00:00Z",
-    "ttl": "2026-08-28T09:00:00.000Z",
+    "scheduledStartTime": "2026-08-21T09:15:00Z",
+    "startTime": "2026-08-21T09:15:21Z",
+    "ttl": "2026-08-28T09:15:00.000Z",
     "streamerId": "komori_met"
   },
   {
