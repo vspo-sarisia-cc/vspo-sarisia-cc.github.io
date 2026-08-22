@@ -153,18 +153,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316342239089",
-    "channelId": "ramuneshiranami",
-    "title": "【valheim】バイオーム探索",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-08-22T10:20:37Z",
-    "startTime": "2026-08-22T10:20:37Z",
-    "platform": "twitch",
-    "ttl": "2026-08-29T10:20:37.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "318327406693",
     "channelId": "rikosolari",
     "title": "mutted stream, just grinding 👍",
@@ -175,5 +163,17 @@
     "platform": "twitch",
     "ttl": "2026-08-29T19:38:49.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "316342239089",
+    "channelId": "ramuneshiranami",
+    "title": "【valheim】バイオーム探索",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/2ee5bfa200f7719442b5_ramuneshiranami_316342239089_1787394037//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2853198040",
+    "scheduledStartTime": "2026-08-22T10:20:42Z",
+    "startTime": "2026-08-22T10:20:42Z",
+    "platform": "twitch",
+    "ttl": "2026-08-29T10:20:42.000Z",
+    "streamerId": "shiranami_ramune"
   }
 ]
