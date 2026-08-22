@@ -38,6 +38,17 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "GcNNm5_ygy8",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "【DrainSim】夏休みのチル水抜き掃除【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/GcNNm5_ygy8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=GcNNm5_ygy8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-22T14:30:00Z",
+    "ttl": "2026-08-29T14:30:00.000Z",
+    "streamerId": "asumi_sena"
+  },
+  {
     "id": "4Am1UysKwO8",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【Minecraft】内装完成をMEZASU【ぶいすぽっ！/ 藍沢エマ】",
@@ -132,17 +143,5 @@
     "platform": "twitch",
     "ttl": "2026-08-29T10:20:37.000Z",
     "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "315463667184",
-    "channelId": "jirajisaki",
-    "title": "くーーーー 6'7\" kaiju playing clash 💚 !youtube",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jirajisaki-320x180.jpg",
-    "url": "https://www.twitch.tv/jirajisaki",
-    "scheduledStartTime": "2026-08-22T10:24:32Z",
-    "startTime": "2026-08-22T10:24:32Z",
-    "platform": "twitch",
-    "ttl": "2026-08-29T10:24:32.000Z",
-    "streamerId": "jira_jisaki"
   }
 ]
