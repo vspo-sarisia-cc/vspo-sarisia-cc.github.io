@@ -50,6 +50,18 @@
     "streamerId": "asumi_sena"
   },
   {
+    "id": "YxbSEyL0r0s",
+    "channelId": "UCGWa1dMU_sDCaRQjdabsVgg",
+    "title": "【ダレカレ】深夜に突発でゲームやるやつ【ぶいすぽ/如月れん】",
+    "thumbnail": "https://i.ytimg.com/vi/YxbSEyL0r0s/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=YxbSEyL0r0s",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-22T15:59:43Z",
+    "startTime": "2026-08-22T16:05:54Z",
+    "ttl": "2026-08-29T15:59:43.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
     "id": "4Am1UysKwO8",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【Minecraft】内装完成をMEZASU【ぶいすぽっ！/ 藍沢エマ】",
@@ -119,6 +131,7 @@
     "url": "https://www.youtube.com/watch?v=WvOFTwXNYaY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-22T16:00:00Z",
+    "startTime": "2026-08-22T16:00:15Z",
     "ttl": "2026-08-29T16:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
