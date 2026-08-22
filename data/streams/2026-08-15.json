@@ -65,19 +65,6 @@
     "streamerId": "tosaki_mimi"
   },
   {
-    "id": "fsu-pUEWFP8",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【#橘ひなのワンマンライブ】Tachibana Hinano One-Man Live Progress / DAY1 冒頭無料配信",
-    "thumbnail": "https://i.ytimg.com/vi/fsu-pUEWFP8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=fsu-pUEWFP8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-15T08:40:00Z",
-    "startTime": "2026-08-15T08:40:27Z",
-    "endTime": "2026-08-15T09:16:24Z",
-    "ttl": "2026-08-22T08:40:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
     "id": "MYn94xOR8UI",
     "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
     "title": "【Minecraft】泥酔マイクラ【ぶいすぽっ！/英リサ】",
@@ -153,19 +140,6 @@
     "startTime": "2026-08-15T12:12:39Z",
     "endTime": "2026-08-15T15:49:37Z",
     "ttl": "2026-08-22T12:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "bP2kSh2DwAI",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【第3回】今夜の優勝ご飯、決めます。 今夜のつむおは何を食う#3【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/bP2kSh2DwAI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=bP2kSh2DwAI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-15T09:00:00Z",
-    "startTime": "2026-08-15T09:02:26Z",
-    "endTime": "2026-08-15T09:48:24Z",
-    "ttl": "2026-08-22T09:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
   {
