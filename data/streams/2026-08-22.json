@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=jgwjEA1auwA",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-22T10:00:00Z",
+    "startTime": "2026-08-22T10:09:58Z",
     "ttl": "2026-08-29T10:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -14,11 +15,12 @@
     "id": "shmH4EmA4QE",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【ほの暮しの庭】色々進展してきた【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/shmH4EmA4QE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/shmH4EmA4QE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=shmH4EmA4QE",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-22T07:00:00Z",
     "startTime": "2026-08-22T06:57:43Z",
+    "endTime": "2026-08-22T10:20:16Z",
     "ttl": "2026-08-29T07:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -50,11 +52,12 @@
     "id": "mMjpqIQwRJA",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【つむ飯】今週もみんなのご飯を見せてください🍚#4【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/mMjpqIQwRJA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/mMjpqIQwRJA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=mMjpqIQwRJA",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-22T09:00:00Z",
     "startTime": "2026-08-22T09:01:17Z",
+    "endTime": "2026-08-22T10:12:23Z",
     "ttl": "2026-08-29T09:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -90,5 +93,29 @@
     "scheduledStartTime": "2026-08-22T13:00:00Z",
     "ttl": "2026-08-29T13:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316342239089",
+    "channelId": "ramuneshiranami",
+    "title": "【valheim】バイオーム探索",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-08-22T10:20:37Z",
+    "startTime": "2026-08-22T10:20:37Z",
+    "platform": "twitch",
+    "ttl": "2026-08-29T10:20:37.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "315463667184",
+    "channelId": "jirajisaki",
+    "title": "くーーーー 6'7\" kaiju playing clash 💚 !youtube",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jirajisaki-320x180.jpg",
+    "url": "https://www.twitch.tv/jirajisaki",
+    "scheduledStartTime": "2026-08-22T10:24:32Z",
+    "startTime": "2026-08-22T10:24:32Z",
+    "platform": "twitch",
+    "ttl": "2026-08-29T10:24:32.000Z",
+    "streamerId": "jira_jisaki"
   }
 ]
