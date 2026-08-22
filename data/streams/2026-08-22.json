@@ -8,6 +8,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-22T10:00:00Z",
     "startTime": "2026-08-22T10:09:58Z",
+    "endTime": "2026-08-22T18:09:53Z",
     "ttl": "2026-08-29T10:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -41,11 +42,12 @@
     "id": "YxbSEyL0r0s",
     "channelId": "UCGWa1dMU_sDCaRQjdabsVgg",
     "title": "【ダレカレ】深夜に突発でゲームやるやつ【ぶいすぽ/如月れん】",
-    "thumbnail": "https://i.ytimg.com/vi/YxbSEyL0r0s/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/YxbSEyL0r0s/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=YxbSEyL0r0s",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-22T15:59:43Z",
     "startTime": "2026-08-22T16:05:54Z",
+    "endTime": "2026-08-22T18:14:56Z",
     "ttl": "2026-08-29T15:59:43.000Z",
     "streamerId": "kisaragi_ren"
   },
