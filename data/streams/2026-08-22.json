@@ -118,11 +118,12 @@
     "id": "WvOFTwXNYaY",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【Keep Talking and Nobody Explodes】  2 CS Pros try communicating 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/WvOFTwXNYaY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/WvOFTwXNYaY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=WvOFTwXNYaY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-22T16:00:00Z",
     "startTime": "2026-08-22T16:00:15Z",
+    "endTime": "2026-08-22T19:31:44Z",
     "ttl": "2026-08-29T16:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -162,5 +163,17 @@
     "platform": "twitch",
     "ttl": "2026-08-29T10:20:37.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "318327406693",
+    "channelId": "rikosolari",
+    "title": "mutted stream, just grinding 👍",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rikosolari-320x180.jpg",
+    "url": "https://www.twitch.tv/rikosolari",
+    "scheduledStartTime": "2026-08-22T19:38:49Z",
+    "startTime": "2026-08-22T19:38:49Z",
+    "platform": "twitch",
+    "ttl": "2026-08-29T19:38:49.000Z",
+    "streamerId": "riko_solari"
   }
 ]
