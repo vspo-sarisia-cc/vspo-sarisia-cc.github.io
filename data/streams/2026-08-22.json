@@ -132,7 +132,7 @@
     "id": "cSxi9wE64Cg",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【PEAK】고수팀 w. hebi isha【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/cSxi9wE64Cg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/cSxi9wE64Cg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=cSxi9wE64Cg",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-22T15:20:00Z",
@@ -165,17 +165,5 @@
     "platform": "twitch",
     "ttl": "2026-08-29T10:20:42.000Z",
     "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "318327406693",
-    "channelId": "rikosolari",
-    "title": "mutted stream, just grinding 👍",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/04412cd6dc9ed26921b3_rikosolari_318327406693_1787427529//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2853588899",
-    "scheduledStartTime": "2026-08-22T19:38:54Z",
-    "startTime": "2026-08-22T19:38:54Z",
-    "platform": "twitch",
-    "ttl": "2026-08-29T19:38:54.000Z",
-    "streamerId": "riko_solari"
   }
 ]
