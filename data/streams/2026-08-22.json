@@ -28,7 +28,7 @@
     "id": "ME8b5PlTWiM",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】おはよう諸君！ソロランクに行くぞ！【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/ME8b5PlTWiM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ME8b5PlTWiM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ME8b5PlTWiM",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-22T09:25:00Z",
@@ -38,14 +38,27 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "4Am1UysKwO8",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【Minecraft】内装完成をMEZASU【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/4Am1UysKwO8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=4Am1UysKwO8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-22T12:30:00Z",
+    "startTime": "2026-08-22T12:24:22Z",
+    "ttl": "2026-08-29T12:30:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "ucg0Qb7k0Es",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 #VCTWatchParty 〗涙のDFMWIN。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/ucg0Qb7k0Es/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ucg0Qb7k0Es/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ucg0Qb7k0Es",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-22T09:30:00Z",
     "startTime": "2026-08-22T09:26:06Z",
+    "endTime": "2026-08-22T12:03:16Z",
     "ttl": "2026-08-29T09:30:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -70,6 +83,7 @@
     "url": "https://www.youtube.com/watch?v=5c7vifmry3k",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-22T12:30:00Z",
+    "startTime": "2026-08-22T12:18:39Z",
     "ttl": "2026-08-29T12:30:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -91,8 +105,8 @@
     "thumbnail": "https://i.ytimg.com/vi/9Dx-vLFiXyQ/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=9Dx-vLFiXyQ",
     "platform": "youtube",
-    "scheduledStartTime": "2026-08-22T13:00:00Z",
-    "ttl": "2026-08-29T13:00:00.000Z",
+    "scheduledStartTime": "2026-08-22T13:30:00Z",
+    "ttl": "2026-08-29T13:30:00.000Z",
     "streamerId": "juno_umezono"
   },
   {
