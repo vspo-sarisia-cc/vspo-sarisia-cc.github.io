@@ -1,18 +1,5 @@
 [
   {
-    "id": "pAS0ruoaH-s",
-    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
-    "title": "【VALORANT】突然のカスタムがやってきた 【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/pAS0ruoaH-s/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=pAS0ruoaH-s",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-15T12:00:00Z",
-    "startTime": "2026-08-15T12:12:23Z",
-    "endTime": "2026-08-15T15:50:16Z",
-    "ttl": "2026-08-22T12:00:00.000Z",
-    "streamerId": "kaga_sumire"
-  },
-  {
     "id": "pUkqmk388qs",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【Escape from Tarkov】バレバレタルコフ【ぶいすぽ/花芽なずな】",
@@ -52,19 +39,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "eacUww85qG0",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【VALORANT】やる気あり、ラピトリなし、ＰＩＮＧ５０、数ヶ月ぶりのカスタム　w/概要欄【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/eacUww85qG0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=eacUww85qG0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-15T12:00:00Z",
-    "startTime": "2026-08-15T12:11:19Z",
-    "endTime": "2026-08-15T16:00:52Z",
-    "ttl": "2026-08-22T12:00:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
     "id": "WQnosweS3SQ",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 ニチアサ 】しゃべることしかできない奴【 ぶいすぽっ！ / 小森めと 】",
@@ -76,19 +50,6 @@
     "endTime": "2026-08-16T01:24:09Z",
     "ttl": "2026-08-22T23:00:00.000Z",
     "streamerId": "komori_met"
-  },
-  {
-    "id": "CmvKNSjQ3Xo",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【VALORANT】配信者ヴぁろカスタムだーーー！【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/CmvKNSjQ3Xo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=CmvKNSjQ3Xo",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-15T12:00:00Z",
-    "startTime": "2026-08-15T12:12:39Z",
-    "endTime": "2026-08-15T15:49:37Z",
-    "ttl": "2026-08-22T12:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "iK1EwZCJ3XM",
