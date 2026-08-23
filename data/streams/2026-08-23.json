@@ -1,5 +1,16 @@
 [
   {
+    "id": "SK2IqXOlZKk",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【雪葬】チラズさん新作雪かき体験(^^)/【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/SK2IqXOlZKk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=SK2IqXOlZKk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-23T12:00:00Z",
+    "ttl": "2026-08-30T12:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "Cj1vh5H782w",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】エッジ！もうすぐプラ２に上がる～【 ぶいすぽっ！胡桃のあ 】",
@@ -23,6 +34,18 @@
     "startTime": "2026-08-23T06:52:03Z",
     "ttl": "2026-08-30T06:45:00.000Z",
     "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "wSe34KEVQDM",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 モンハンストーリーズ３ 】巣穴のたまごいただきます#２【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/wSe34KEVQDM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=wSe34KEVQDM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-23T09:00:00Z",
+    "startTime": "2026-08-23T09:03:46Z",
+    "ttl": "2026-08-30T09:00:00.000Z",
+    "streamerId": "shinomiya_runa"
   },
   {
     "id": "WisyFISTjWs",
@@ -56,6 +79,7 @@
     "url": "https://www.youtube.com/watch?v=V3flEWSErEM",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-23T09:00:00Z",
+    "startTime": "2026-08-23T09:05:05Z",
     "ttl": "2026-08-30T09:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
