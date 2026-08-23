@@ -1,18 +1,5 @@
 [
   {
-    "id": "I5vfgLiKwus",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【Escape from Tarkov】お金稼ぎとハイドアウトの物あつめたい　１９才【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/I5vfgLiKwus/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=I5vfgLiKwus",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-16T12:50:00Z",
-    "startTime": "2026-08-16T12:50:38Z",
-    "endTime": "2026-08-16T20:00:48Z",
-    "ttl": "2026-08-23T12:50:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "iJGCpjGdnMg",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【ほの暮しの庭】ほんのり明るく生きています【ぶいすぽ/一ノ瀬うるは】",
@@ -39,32 +26,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "6YUhZ-itUuE",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【VALORANT】残り3日・・・レート−200・・・【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/6YUhZ-itUuE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=6YUhZ-itUuE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-16T12:30:00Z",
-    "startTime": "2026-08-16T12:34:53Z",
-    "endTime": "2026-08-17T00:46:35Z",
-    "ttl": "2026-08-23T12:30:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "9iV6577ELa4",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤ Overwatch ◢　激浅ウォーバーウォッチ部きたああ   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/9iV6577ELa4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=9iV6577ELa4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-16T12:30:00Z",
-    "startTime": "2026-08-16T12:41:13Z",
-    "endTime": "2026-08-16T15:10:03Z",
-    "ttl": "2026-08-23T12:30:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
     "id": "HeHf9BXZ8nw",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【Zatsudan/Just Chatting】Guessing your CS2 RATING!! 【#VSPOEN #RemiaAotsuki】",
@@ -89,17 +50,5 @@
     "endTime": "2026-08-16T16:40:32Z",
     "ttl": "2026-08-23T13:00:00.000Z",
     "streamerId": "riko_solari"
-  },
-  {
-    "id": "316382415219",
-    "channelId": "ren_kisaragi__",
-    "title": "あまりにも暇すぎて寝転がってたら誘ってもらった",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/def6e2d3cc04149db5bf_ren_kisaragi___316382415219_1786884096//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2847795755",
-    "scheduledStartTime": "2026-08-16T12:41:41Z",
-    "startTime": "2026-08-16T12:41:41Z",
-    "platform": "twitch",
-    "ttl": "2026-08-23T12:41:41.000Z",
-    "streamerId": "kisaragi_ren"
   }
 ]

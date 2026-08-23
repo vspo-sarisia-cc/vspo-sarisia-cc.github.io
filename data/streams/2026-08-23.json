@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=SK2IqXOlZKk",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-23T12:00:00Z",
+    "startTime": "2026-08-23T12:02:50Z",
     "ttl": "2026-08-30T12:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -31,6 +32,7 @@
     "url": "https://www.youtube.com/watch?v=mavnx_ntFtE",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-23T12:00:00Z",
+    "startTime": "2026-08-23T12:00:47Z",
     "ttl": "2026-08-30T12:00:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -86,7 +88,7 @@
     "id": "kvAsk9cf4n4",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VALORANT】大切なのは、やめるタイミング・・・【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/kvAsk9cf4n4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/kvAsk9cf4n4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=kvAsk9cf4n4",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-23T07:15:00Z",
@@ -99,11 +101,12 @@
     "id": "eSr1Y9FWI08",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】帰ってきたよーーーーーーーーーーん！【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/eSr1Y9FWI08/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/eSr1Y9FWI08/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=eSr1Y9FWI08",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-23T09:50:00Z",
     "startTime": "2026-08-23T09:49:51Z",
+    "endTime": "2026-08-23T12:09:36Z",
     "ttl": "2026-08-30T09:50:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -165,6 +168,18 @@
     "scheduledStartTime": "2026-08-23T16:00:00Z",
     "ttl": "2026-08-30T16:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316414352499",
+    "channelId": "akarindao",
+    "title": "はい、先生。復学しました(^^)/豚笑楽",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-08-23T12:03:37Z",
+    "startTime": "2026-08-23T12:03:37Z",
+    "platform": "twitch",
+    "ttl": "2026-08-30T12:03:37.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "321003775961",
