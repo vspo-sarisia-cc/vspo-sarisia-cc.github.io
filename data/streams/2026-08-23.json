@@ -172,11 +172,12 @@
     "id": "UIJTrl349PE",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【ZATSU】let's catch up~!!【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/UIJTrl349PE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/UIJTrl349PE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=UIJTrl349PE",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-23T20:30:00Z",
     "startTime": "2026-08-23T20:30:52Z",
+    "endTime": "2026-08-23T22:44:36Z",
     "ttl": "2026-08-30T20:30:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -218,18 +219,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "321178444763",
-    "channelId": "aryakuroha",
-    "title": "✦ let's catch up !!",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-08-23T20:30:17Z",
-    "startTime": "2026-08-23T20:30:17Z",
-    "platform": "twitch",
-    "ttl": "2026-08-30T20:30:17.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
     "id": "316414352499",
     "channelId": "akarindao",
     "title": "はい、先生。復学しました(^^)/豚笑楽",
@@ -240,6 +229,18 @@
     "platform": "twitch",
     "ttl": "2026-08-30T12:03:42.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "321178444763",
+    "channelId": "aryakuroha",
+    "title": "✦ let's catch up !!",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/854d02bc9fdc45df7106_aryakuroha_321178444763_1787517017//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2854588591",
+    "scheduledStartTime": "2026-08-23T20:30:23Z",
+    "startTime": "2026-08-23T20:30:23Z",
+    "platform": "twitch",
+    "ttl": "2026-08-30T20:30:23.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "321003775961",
