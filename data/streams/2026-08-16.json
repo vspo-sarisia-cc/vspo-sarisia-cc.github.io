@@ -208,18 +208,6 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "316324252530",
-    "channelId": "asumisena",
-    "title": "TFTやるよ～",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/3a9e2a53351db140c376_asumisena_316324252530_1786861447//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2847627159",
-    "scheduledStartTime": "2026-08-16T06:24:12Z",
-    "startTime": "2026-08-16T06:24:12Z",
-    "platform": "twitch",
-    "ttl": "2026-08-23T06:24:12.000Z",
-    "streamerId": "asumi_sena"
-  },
-  {
     "id": "316382415219",
     "channelId": "ren_kisaragi__",
     "title": "あまりにも暇すぎて寝転がってたら誘ってもらった",
@@ -230,17 +218,5 @@
     "platform": "twitch",
     "ttl": "2026-08-23T12:41:41.000Z",
     "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316324188786",
-    "channelId": "ramuneshiranami",
-    "title": "【Valheim】ボスいけんのか",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/2623be54121994be45e8_ramuneshiranami_316324188786_1786860318//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2847618659",
-    "scheduledStartTime": "2026-08-16T06:05:24Z",
-    "startTime": "2026-08-16T06:05:24Z",
-    "platform": "twitch",
-    "ttl": "2026-08-23T06:05:24.000Z",
-    "streamerId": "shiranami_ramune"
   }
 ]
