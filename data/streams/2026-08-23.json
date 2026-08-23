@@ -66,6 +66,7 @@
     "url": "https://www.youtube.com/watch?v=D8BY4cXGha8",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-23T11:45:00Z",
+    "startTime": "2026-08-23T11:52:50Z",
     "ttl": "2026-08-30T11:45:00.000Z",
     "streamerId": "shiranami_ramune"
   },
@@ -90,6 +91,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-23T07:15:00Z",
     "startTime": "2026-08-23T07:14:19Z",
+    "endTime": "2026-08-23T11:51:36Z",
     "ttl": "2026-08-30T07:15:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
