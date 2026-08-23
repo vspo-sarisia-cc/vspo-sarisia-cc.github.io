@@ -3,11 +3,12 @@
     "id": "Cj1vh5H782w",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】エッジ！もうすぐプラ２に上がる～【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/Cj1vh5H782w/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Cj1vh5H782w/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Cj1vh5H782w",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-23T03:25:00Z",
     "startTime": "2026-08-23T03:26:04Z",
+    "endTime": "2026-08-23T05:44:12Z",
     "ttl": "2026-08-30T03:25:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -18,8 +19,8 @@
     "thumbnail": "https://i.ytimg.com/vi/WisyFISTjWs/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=WisyFISTjWs",
     "platform": "youtube",
-    "scheduledStartTime": "2026-08-23T09:00:00Z",
-    "ttl": "2026-08-30T09:00:00.000Z",
+    "scheduledStartTime": "2026-08-23T08:00:00Z",
+    "ttl": "2026-08-30T08:00:00.000Z",
     "streamerId": "yano_kuromu"
   },
   {
@@ -42,6 +43,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-23T01:00:00Z",
     "startTime": "2026-08-23T01:00:27Z",
+    "endTime": "2026-08-23T06:01:36Z",
     "ttl": "2026-08-30T01:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -71,12 +73,12 @@
     "id": "321003775961",
     "channelId": "aryakuroha",
     "title": "✦ NEW OUTFIT REVEAL ! It's time to clock in !!",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-08-23T01:00:13Z",
-    "startTime": "2026-08-23T01:00:13Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/43f76333fb7b26505ba1_aryakuroha_321003775961_1787446813//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2853847434",
+    "scheduledStartTime": "2026-08-23T01:00:22Z",
+    "startTime": "2026-08-23T01:00:22Z",
     "platform": "twitch",
-    "ttl": "2026-08-30T01:00:13.000Z",
+    "ttl": "2026-08-30T01:00:22.000Z",
     "streamerId": "arya_kuroha"
   }
 ]
