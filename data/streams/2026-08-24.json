@@ -9,5 +9,16 @@
     "scheduledStartTime": "2026-08-24T12:00:00Z",
     "ttl": "2026-08-31T12:00:00.000Z",
     "streamerId": "yano_kuromu"
+  },
+  {
+    "id": "AvU3KBkcm5Q",
+    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
+    "title": "【Counter-Strike 2】 SoloQing in 22K  |  Premier 【#VSPOEN #RemiaAotsuki】",
+    "thumbnail": "https://i.ytimg.com/vi/AvU3KBkcm5Q/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=AvU3KBkcm5Q",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-24T14:00:00Z",
+    "ttl": "2026-08-31T14:00:00.000Z",
+    "streamerId": "remia_aotsuki"
   }
 ]
