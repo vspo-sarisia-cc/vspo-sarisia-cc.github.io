@@ -81,7 +81,7 @@
     "id": "wSe34KEVQDM",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 モンハンストーリーズ３ 】巣穴のたまごいただきます#２【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/wSe34KEVQDM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/wSe34KEVQDM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=wSe34KEVQDM",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-23T09:00:00Z",
@@ -176,6 +176,7 @@
     "url": "https://www.youtube.com/watch?v=UIJTrl349PE",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-23T20:30:00Z",
+    "startTime": "2026-08-23T20:30:52Z",
     "ttl": "2026-08-30T20:30:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -195,7 +196,7 @@
   {
     "id": "FKKbe1I3dxQ",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Wuthering Waves 2.7◢ mother? | #JunoUmezono #VSPOEN",
+    "title": "◤Wuthering Waves 2.7 part 1◢ best tummy in solaris? | #JunoUmezono #VSPOEN",
     "thumbnail": "https://i.ytimg.com/vi/FKKbe1I3dxQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=FKKbe1I3dxQ",
     "platform": "youtube",
@@ -215,6 +216,18 @@
     "scheduledStartTime": "2026-08-23T16:00:00Z",
     "ttl": "2026-08-30T16:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "321178444763",
+    "channelId": "aryakuroha",
+    "title": "✦ let's catch up !!",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-08-23T20:30:17Z",
+    "startTime": "2026-08-23T20:30:17Z",
+    "platform": "twitch",
+    "ttl": "2026-08-30T20:30:17.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "316414352499",
