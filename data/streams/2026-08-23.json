@@ -1,5 +1,17 @@
 [
   {
+    "id": "biLNRUTNosI",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【Escape from Tarkov】お金集めたりできるタスクがんばゆ　【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/biLNRUTNosI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=biLNRUTNosI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-23T13:15:00Z",
+    "startTime": "2026-08-23T13:16:03Z",
+    "ttl": "2026-08-30T13:15:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "SK2IqXOlZKk",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【雪葬】チラズさん新作雪かき体験(^^)/【ぶいすぽ/一ノ瀬うるは】",
@@ -28,11 +40,12 @@
     "id": "mavnx_ntFtE",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【雑談】紡木こかげと電話【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/mavnx_ntFtE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/mavnx_ntFtE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=mavnx_ntFtE",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-23T12:00:00Z",
     "startTime": "2026-08-23T12:00:47Z",
+    "endTime": "2026-08-23T13:05:55Z",
     "ttl": "2026-08-30T12:00:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -40,11 +53,12 @@
     "id": "oH4JN3aR4mQ",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【アークナイツ：エンドフィールド】また会えるのかアルダシル…【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/oH4JN3aR4mQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/oH4JN3aR4mQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=oH4JN3aR4mQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-23T06:45:00Z",
     "startTime": "2026-08-23T06:52:03Z",
+    "endTime": "2026-08-23T13:00:49Z",
     "ttl": "2026-08-30T06:45:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -76,11 +90,12 @@
     "id": "WisyFISTjWs",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 #VCTWatchParty 〗🤫サイレントといっしょにDFMWIN。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/WisyFISTjWs/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/WisyFISTjWs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=WisyFISTjWs",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-23T08:00:00Z",
     "startTime": "2026-08-23T07:54:02Z",
+    "endTime": "2026-08-23T13:02:26Z",
     "ttl": "2026-08-30T08:00:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -119,6 +134,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-23T09:00:00Z",
     "startTime": "2026-08-23T09:05:05Z",
+    "endTime": "2026-08-23T13:23:22Z",
     "ttl": "2026-08-30T09:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
