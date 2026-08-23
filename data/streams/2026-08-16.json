@@ -1,18 +1,5 @@
 [
   {
-    "id": "iJGCpjGdnMg",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【ほの暮しの庭】ほんのり明るく生きています【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/iJGCpjGdnMg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=iJGCpjGdnMg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-16T14:00:00Z",
-    "startTime": "2026-08-16T14:03:19Z",
-    "endTime": "2026-08-16T17:04:54Z",
-    "ttl": "2026-08-23T14:00:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
     "id": "xKUAV7Hnhzg",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "まだ日曜日",
@@ -24,18 +11,5 @@
     "endTime": "2026-08-16T18:02:06Z",
     "ttl": "2026-08-23T15:26:05.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "HeHf9BXZ8nw",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "【Zatsudan/Just Chatting】Guessing your CS2 RATING!! 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/HeHf9BXZ8nw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=HeHf9BXZ8nw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-16T14:00:00Z",
-    "startTime": "2026-08-16T14:00:27Z",
-    "endTime": "2026-08-16T16:46:14Z",
-    "ttl": "2026-08-23T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
   }
 ]
