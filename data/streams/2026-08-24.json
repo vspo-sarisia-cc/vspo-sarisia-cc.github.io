@@ -68,11 +68,12 @@
     "id": "Py2_W3xJSTM",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】( ˘ω˘ )【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/Py2_W3xJSTM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Py2_W3xJSTM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Py2_W3xJSTM",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-24T14:59:13Z",
     "startTime": "2026-08-24T15:14:53Z",
+    "endTime": "2026-08-24T18:06:07Z",
     "ttl": "2026-08-31T14:59:13.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -122,6 +123,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-24T14:00:00Z",
     "startTime": "2026-08-24T14:00:21Z",
+    "endTime": "2026-08-24T18:21:36Z",
     "ttl": "2026-08-31T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
