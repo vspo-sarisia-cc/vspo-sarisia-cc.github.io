@@ -181,17 +181,5 @@
     "platform": "twitch",
     "ttl": "2026-08-31T11:00:37.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "315435962222",
-    "channelId": "erissuzukami",
-    "title": "stop talking to me i'm working",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
-    "url": "https://www.twitch.tv/erissuzukami",
-    "scheduledStartTime": "2026-08-24T10:07:21Z",
-    "startTime": "2026-08-24T10:07:21Z",
-    "platform": "twitch",
-    "ttl": "2026-08-31T10:07:21.000Z",
-    "streamerId": "eris_suzukami"
   }
 ]
