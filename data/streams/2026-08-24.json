@@ -16,7 +16,7 @@
     "id": "ErRi_8Ld2M0",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【マインクラフト】夏祭り準備！ととちと【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/ErRi_8Ld2M0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ErRi_8Ld2M0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ErRi_8Ld2M0",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-24T07:15:00Z",
@@ -29,7 +29,7 @@
     "id": "OXKSKEz4Siw",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 Minecraft 】なずちゃんと花芽家を完成させます【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/OXKSKEz4Siw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/OXKSKEz4Siw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=OXKSKEz4Siw",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-24T07:30:00Z",
@@ -129,5 +129,29 @@
     "scheduledStartTime": "2026-08-24T11:00:00Z",
     "ttl": "2026-08-31T11:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316418196083",
+    "channelId": "ramuneshiranami",
+    "title": "【valheim】最前線攻略",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-08-24T10:22:14Z",
+    "startTime": "2026-08-24T10:22:14Z",
+    "platform": "twitch",
+    "ttl": "2026-08-31T10:22:14.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "315435962222",
+    "channelId": "erissuzukami",
+    "title": "stop talking to me i'm working",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
+    "url": "https://www.twitch.tv/erissuzukami",
+    "scheduledStartTime": "2026-08-24T10:07:21Z",
+    "startTime": "2026-08-24T10:07:21Z",
+    "platform": "twitch",
+    "ttl": "2026-08-31T10:07:21.000Z",
+    "streamerId": "eris_suzukami"
   }
 ]
