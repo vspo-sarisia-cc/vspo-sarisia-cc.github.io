@@ -46,6 +46,7 @@
     "url": "https://www.youtube.com/watch?v=RADvLYO9_-c",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-24T12:00:00Z",
+    "startTime": "2026-08-24T12:13:11Z",
     "ttl": "2026-08-31T12:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -83,6 +84,7 @@
     "url": "https://www.youtube.com/watch?v=isvnQM3CvT0",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-24T12:00:00Z",
+    "startTime": "2026-08-24T12:00:41Z",
     "ttl": "2026-08-31T12:00:00.000Z",
     "streamerId": "yano_kuromu"
   },

@@ -65,19 +65,6 @@
     "streamerId": "shinomiya_runa"
   },
   {
-    "id": "aPpLLPlKmn4",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "【Counter-Strike 2】 SoloQing in 21K  |  Premier 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/aPpLLPlKmn4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=aPpLLPlKmn4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-17T12:00:00Z",
-    "startTime": "2026-08-17T12:16:17Z",
-    "endTime": "2026-08-17T14:45:55Z",
-    "ttl": "2026-08-24T12:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
     "id": "ykeWsdILdi8",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【APEX LEGENDS】apepepepe!!!【#VSPOEN #RikoSolari】",
@@ -112,18 +99,6 @@
     "startTime": "2026-08-17T14:51:51Z",
     "platform": "twitch",
     "ttl": "2026-08-24T14:51:51.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
-    "id": "316330172658",
-    "channelId": "ramuneshiranami",
-    "title": "【Valorant】笑なしフルパ w/アバンさん エイトさん コーカサスオオカブトさん 宇佐さん",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/5ddb58512f5d9a2f882b_ramuneshiranami_316330172658_1786969272//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2848675707",
-    "scheduledStartTime": "2026-08-17T12:21:18Z",
-    "startTime": "2026-08-17T12:21:18Z",
-    "platform": "twitch",
-    "ttl": "2026-08-24T12:21:18.000Z",
     "streamerId": "shiranami_ramune"
   }
 ]
