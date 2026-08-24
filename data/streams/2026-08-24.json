@@ -21,6 +21,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-24T07:15:00Z",
     "startTime": "2026-08-24T07:16:59Z",
+    "endTime": "2026-08-24T09:57:20Z",
     "ttl": "2026-08-31T07:15:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -33,6 +34,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-24T07:30:00Z",
     "startTime": "2026-08-24T07:30:11Z",
+    "endTime": "2026-08-24T10:02:35Z",
     "ttl": "2026-08-31T07:30:00.000Z",
     "streamerId": "kogara_toto"
   },
