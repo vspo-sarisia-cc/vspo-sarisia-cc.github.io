@@ -9,5 +9,16 @@
     "scheduledStartTime": "2026-08-25T03:00:00Z",
     "ttl": "2026-09-01T03:00:00.000Z",
     "streamerId": "narin_mikure"
+  },
+  {
+    "id": "4A8hH2Wjt3k",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【2ND ANNIVERSARY】Come celebrate with me!!! #RikoTurnsTwo【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/4A8hH2Wjt3k/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=4A8hH2Wjt3k",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-25T12:00:00Z",
+    "ttl": "2026-09-01T12:00:00.000Z",
+    "streamerId": "riko_solari"
   }
 ]
