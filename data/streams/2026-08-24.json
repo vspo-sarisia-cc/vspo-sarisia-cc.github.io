@@ -77,18 +77,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "isvnQM3CvT0",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "歌枠。アーカイブはメン限💀",
-    "thumbnail": "https://i.ytimg.com/vi/isvnQM3CvT0/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=isvnQM3CvT0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-24T12:00:00Z",
-    "startTime": "2026-08-24T12:00:41Z",
-    "ttl": "2026-08-31T12:00:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
     "id": "oKr3RCCsB78",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  League of Legends  ◢　夏だ！海だ！ソロランクだ！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
@@ -108,6 +96,7 @@
     "url": "https://www.youtube.com/watch?v=AvU3KBkcm5Q",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-24T14:00:00Z",
+    "startTime": "2026-08-24T14:00:21Z",
     "ttl": "2026-08-31T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
