@@ -39,6 +39,17 @@
     "streamerId": "kogara_toto"
   },
   {
+    "id": "RADvLYO9_-c",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【VALORANT】aimさんと仲直りしたい【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/RADvLYO9_-c/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=RADvLYO9_-c",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-24T12:00:00Z",
+    "ttl": "2026-08-31T12:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "37mjoA0JV_Q",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】朝からエペするイカれたメンバーを紹介するぜ！/シノさん、ツクモくん【 ぶいすぽっ！胡桃のあ 】",
@@ -129,6 +140,7 @@
     "url": "https://www.youtube.com/watch?v=1lgJeSleT2s",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-24T11:00:00Z",
+    "startTime": "2026-08-24T11:24:08Z",
     "ttl": "2026-08-31T11:00:00.000Z",
     "streamerId": "riko_solari"
   },
