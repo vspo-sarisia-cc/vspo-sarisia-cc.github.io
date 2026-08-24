@@ -76,6 +76,18 @@
     "streamerId": "yano_kuromu"
   },
   {
+    "id": "oKr3RCCsB78",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　夏だ！海だ！ソロランクだ！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/oKr3RCCsB78/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=oKr3RCCsB78",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-24T11:00:00Z",
+    "startTime": "2026-08-24T11:00:58Z",
+    "ttl": "2026-08-31T11:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
+  },
+  {
     "id": "AvU3KBkcm5Q",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【Counter-Strike 2】 SoloQing in 22K  |  Premier 【#VSPOEN #RemiaAotsuki】",
@@ -105,6 +117,7 @@
     "url": "https://www.youtube.com/watch?v=V-IT64B_VS8",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-24T11:00:00Z",
+    "startTime": "2026-08-24T11:09:07Z",
     "ttl": "2026-08-31T11:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -127,6 +140,7 @@
     "url": "https://www.youtube.com/watch?v=x_fSaGukeIU",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-24T11:00:00Z",
+    "startTime": "2026-08-24T11:05:17Z",
     "ttl": "2026-08-31T11:00:00.000Z",
     "streamerId": "juno_umezono"
   },
@@ -141,6 +155,18 @@
     "platform": "twitch",
     "ttl": "2026-08-31T10:22:14.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316361663602",
+    "channelId": "akarindao",
+    "title": "CRリバイブ 練習最終日",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-08-24T11:00:37Z",
+    "startTime": "2026-08-24T11:00:37Z",
+    "platform": "twitch",
+    "ttl": "2026-08-31T11:00:37.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "315435962222",
