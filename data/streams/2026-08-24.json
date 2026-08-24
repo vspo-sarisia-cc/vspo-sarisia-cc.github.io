@@ -71,6 +71,7 @@
     "url": "https://www.youtube.com/watch?v=Py2_W3xJSTM",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-24T14:59:13Z",
+    "startTime": "2026-08-24T15:14:53Z",
     "ttl": "2026-08-31T14:59:13.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -164,11 +165,12 @@
     "id": "x_fSaGukeIU",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Big Walk part 2◢ 5 vtubers and 1 bald dude | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/x_fSaGukeIU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/x_fSaGukeIU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=x_fSaGukeIU",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-24T11:00:00Z",
     "startTime": "2026-08-24T11:05:17Z",
+    "endTime": "2026-08-24T15:10:03Z",
     "ttl": "2026-08-31T11:00:00.000Z",
     "streamerId": "juno_umezono"
   },
