@@ -65,6 +65,18 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "AcQ_AbrkMAk",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "産まれた時からこの声のエマに格差だと嘆くうるは【ぶいすぽっ！/ 藍沢エマ/一ノ瀬うるは/蝶屋はなび/APEX】",
+    "thumbnail": "https://i.ytimg.com/vi/AcQ_AbrkMAk/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=AcQ_AbrkMAk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-24T22:00:00Z",
+    "startTime": "2026-08-24T22:00:06Z",
+    "ttl": "2026-08-31T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "Py2_W3xJSTM",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】( ˘ω˘ )【ぶいすぽっ！/ 藍沢エマ】",
@@ -75,17 +87,6 @@
     "startTime": "2026-08-24T15:14:53Z",
     "endTime": "2026-08-24T18:06:07Z",
     "ttl": "2026-08-31T14:59:13.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "AcQ_AbrkMAk",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "産まれた時からこの声のエマに格差だと嘆くうるは【ぶいすぽっ！/ 藍沢エマ/一ノ瀬うるは/蝶屋はなび/APEX】",
-    "thumbnail": "https://i.ytimg.com/vi/AcQ_AbrkMAk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=AcQ_AbrkMAk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-24T22:00:00Z",
-    "ttl": "2026-08-31T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
