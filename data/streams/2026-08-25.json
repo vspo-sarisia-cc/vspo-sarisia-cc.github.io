@@ -8,6 +8,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-25T12:15:00Z",
     "startTime": "2026-08-25T12:16:56Z",
+    "endTime": "2026-08-25T15:19:28Z",
     "ttl": "2026-09-01T12:15:00.000Z",
     "streamerId": "kaga_sumire"
   },
@@ -106,6 +107,7 @@
     "url": "https://www.youtube.com/watch?v=0pitye9RDaE",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-25T14:45:00Z",
+    "startTime": "2026-08-25T14:41:43Z",
     "ttl": "2026-09-01T14:45:00.000Z",
     "streamerId": "aizawa_ema"
   },
