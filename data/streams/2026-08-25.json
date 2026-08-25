@@ -29,13 +29,14 @@
     "url": "https://www.youtube.com/watch?v=ug4y0TAi_gQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-25T00:00:00Z",
+    "startTime": "2026-08-25T00:00:31Z",
     "ttl": "2026-09-01T00:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
   {
     "id": "oYirzOgu20g",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
-    "title": "【2ND ANNIVERSARY】 it's only the beginning 🎆 【#VSPOEN #NarinMikure】",
+    "title": "【2ND ANNIVERSARY】 it's only the beginning :'3 🎆 【#VSPOEN #NarinMikure】",
     "thumbnail": "https://i.ytimg.com/vi/oYirzOgu20g/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=oYirzOgu20g",
     "platform": "youtube",
@@ -53,5 +54,17 @@
     "scheduledStartTime": "2026-08-25T12:00:00Z",
     "ttl": "2026-09-01T12:00:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "321198553563",
+    "channelId": "aryakuroha",
+    "title": "✦ finale with diana !! (contains spoilers)",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-08-25T00:00:14Z",
+    "startTime": "2026-08-25T00:00:14Z",
+    "platform": "twitch",
+    "ttl": "2026-09-01T00:00:14.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
