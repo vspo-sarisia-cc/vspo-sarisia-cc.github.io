@@ -3,7 +3,7 @@
     "id": "Vgfhs7-cRbM",
     "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
     "title": "【VALORANT】でゅおランク～～～‼️【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/Vgfhs7-cRbM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Vgfhs7-cRbM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Vgfhs7-cRbM",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-25T12:15:00Z",
@@ -108,6 +108,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-25T14:45:00Z",
     "startTime": "2026-08-25T14:41:43Z",
+    "endTime": "2026-08-25T15:46:15Z",
     "ttl": "2026-09-01T14:45:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -141,7 +142,7 @@
     "id": "BmMjHUJA5oY",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 Minecraft 〗ついに畑の様子を見に行く。🍉の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/BmMjHUJA5oY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/BmMjHUJA5oY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=BmMjHUJA5oY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-25T12:00:00Z",
@@ -183,6 +184,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-25T12:30:00Z",
     "startTime": "2026-08-25T12:30:40Z",
+    "endTime": "2026-08-25T15:59:27Z",
     "ttl": "2026-09-01T12:30:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
