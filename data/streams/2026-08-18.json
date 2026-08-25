@@ -1,18 +1,5 @@
 [
   {
-    "id": "wXb2OICXZ7M",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【Minecraft】すぐおわるかもしれない夏祭り準備【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/wXb2OICXZ7M/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=wXb2OICXZ7M",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-18T14:15:00Z",
-    "startTime": "2026-08-18T14:08:29Z",
-    "endTime": "2026-08-18T16:57:28Z",
-    "ttl": "2026-08-25T14:15:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
     "id": "RTXsGng9ncI",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VALORANT】【ぶいすぽっ！ / 紡木こかげ】",
@@ -37,19 +24,6 @@
     "endTime": "2026-08-19T00:14:22Z",
     "ttl": "2026-08-25T22:00:00.000Z",
     "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "-g9Fqsp9TF8",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "【Counter-Strike 2】Suffering in 22K  |  Premier  【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/-g9Fqsp9TF8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=-g9Fqsp9TF8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-18T14:00:00Z",
-    "startTime": "2026-08-18T14:11:03Z",
-    "endTime": "2026-08-18T18:55:20Z",
-    "ttl": "2026-08-25T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
   },
   {
     "id": "8etk_7uF8rw",

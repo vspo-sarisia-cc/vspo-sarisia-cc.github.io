@@ -99,6 +99,17 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "0pitye9RDaE",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】ちょと指のストレッチ【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/0pitye9RDaE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=0pitye9RDaE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-25T14:45:00Z",
+    "ttl": "2026-09-01T14:45:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "HxNnd94ivj8",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【APEX】ワールドエッジだー！　w/ボドカ、ととち【ぶいすぽ / 猫汰つな】",
@@ -133,18 +144,20 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-25T12:00:00Z",
     "startTime": "2026-08-25T11:57:37Z",
+    "endTime": "2026-08-25T13:56:04Z",
     "ttl": "2026-09-01T12:00:00.000Z",
     "streamerId": "yano_kuromu"
   },
   {
     "id": "vS72rInSZcE",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【ストリートファイターリーグ: Pro-JP 2026】　Div.S 第1節ミラー配信！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/vS72rInSZcE/mqdefault_live.jpg",
+    "title": "【ストリートファイターリーグ JAPAN 2026】　Div.S 第1節ミラー配信！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/vS72rInSZcE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=vS72rInSZcE",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-25T09:40:00Z",
     "startTime": "2026-08-25T09:37:28Z",
+    "endTime": "2026-08-25T13:46:44Z",
     "ttl": "2026-09-01T09:40:00.000Z",
     "streamerId": "choya_hanabi"
   },
