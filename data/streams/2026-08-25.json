@@ -252,18 +252,6 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "316367485170",
-    "channelId": "sendo_yuuhi",
-    "title": "ド深夜メイヘム",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sendo_yuuhi-320x180.jpg",
-    "url": "https://www.twitch.tv/sendo_yuuhi",
-    "scheduledStartTime": "2026-08-25T16:20:05Z",
-    "startTime": "2026-08-25T16:20:05Z",
-    "platform": "twitch",
-    "ttl": "2026-09-01T16:20:05.000Z",
-    "streamerId": "sendo_yuuhi"
-  },
-  {
     "id": "316366295538",
     "channelId": "ramuneshiranami",
     "title": "【valheim】新しいバイオーム探検",
@@ -274,6 +262,18 @@
     "platform": "twitch",
     "ttl": "2026-09-01T12:00:15.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316367485170",
+    "channelId": "sendo_yuuhi",
+    "title": "ド深夜メイヘム",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/da790f6c4b984bd60d75_sendo_yuuhi_316367485170_1787674805//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2856137784",
+    "scheduledStartTime": "2026-08-25T16:20:10Z",
+    "startTime": "2026-08-25T16:20:10Z",
+    "platform": "twitch",
+    "ttl": "2026-09-01T16:20:10.000Z",
+    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "321198553563",
