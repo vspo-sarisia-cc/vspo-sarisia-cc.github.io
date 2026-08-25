@@ -156,6 +156,18 @@
     "streamerId": "yano_kuromu"
   },
   {
+    "id": "823grweE1Lg",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【朝活雑談】　オハヨ＆ただいま！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/823grweE1Lg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=823grweE1Lg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-25T22:00:00Z",
+    "startTime": "2026-08-25T22:00:27Z",
+    "ttl": "2026-09-01T22:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "vS72rInSZcE",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【ストリートファイターリーグ JAPAN 2026】　Div.S 第1節ミラー配信！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -166,17 +178,6 @@
     "startTime": "2026-08-25T09:37:28Z",
     "endTime": "2026-08-25T13:46:44Z",
     "ttl": "2026-09-01T09:40:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "823grweE1Lg",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【朝活雑談】　オハヨ＆ただいま！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/823grweE1Lg/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=823grweE1Lg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-25T22:00:00Z",
-    "ttl": "2026-09-01T22:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -212,6 +213,7 @@
     "url": "https://www.youtube.com/watch?v=BOPVUdgtbjI",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-25T22:00:00Z",
+    "startTime": "2026-08-25T22:00:54Z",
     "ttl": "2026-09-01T22:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -253,6 +255,18 @@
     "endTime": "2026-08-25T16:53:11Z",
     "ttl": "2026-09-01T12:00:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "321212752987",
+    "channelId": "aryakuroha",
+    "title": "✦ signing anniversary postcards !",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-08-25T22:00:12Z",
+    "startTime": "2026-08-25T22:00:12Z",
+    "platform": "twitch",
+    "ttl": "2026-09-01T22:00:12.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "316366295538",
