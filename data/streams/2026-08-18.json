@@ -1,31 +1,5 @@
 [
   {
-    "id": "Z2eWc1CFWDU",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【Escape from Tarkov】疲れを感じているので今日は少しだけソロ【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/Z2eWc1CFWDU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Z2eWc1CFWDU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-18T13:00:00Z",
-    "startTime": "2026-08-18T12:56:32Z",
-    "endTime": "2026-08-18T16:31:36Z",
-    "ttl": "2026-08-25T13:00:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
-    "id": "01H60MvAqvg",
-    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
-    "title": "【DrainSim】夏休みだし水掃除で安眠導入【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/01H60MvAqvg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=01H60MvAqvg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-18T13:30:00Z",
-    "startTime": "2026-08-18T13:34:08Z",
-    "endTime": "2026-08-18T16:33:50Z",
-    "ttl": "2026-08-25T13:30:00.000Z",
-    "streamerId": "asumi_sena"
-  },
-  {
     "id": "wXb2OICXZ7M",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【Minecraft】すぐおわるかもしれない夏祭り準備【ぶいすぽっ！/ 藍沢エマ】",
@@ -76,19 +50,6 @@
     "endTime": "2026-08-18T18:55:20Z",
     "ttl": "2026-08-25T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "Z6TAGrXUk3E",
-    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
-    "title": "【RED DEAD REDEMPTION 2】more cowboy shenanigans【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/Z6TAGrXUk3E/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Z6TAGrXUk3E",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-18T13:00:00Z",
-    "startTime": "2026-08-18T13:05:34Z",
-    "endTime": "2026-08-18T17:12:16Z",
-    "ttl": "2026-08-25T13:00:00.000Z",
-    "streamerId": "riko_solari"
   },
   {
     "id": "8etk_7uF8rw",
