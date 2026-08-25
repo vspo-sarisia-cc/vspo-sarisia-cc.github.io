@@ -127,17 +127,5 @@
     "platform": "twitch",
     "ttl": "2026-08-25T17:32:53.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316324673137",
-    "channelId": "akarindao",
-    "title": "雑談→栄冠 初の甲子園を目指して。",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/557e6a62a8bfc2c1c60e_akarindao_316324673137_1787052295//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2849544457",
-    "scheduledStartTime": "2026-08-18T11:25:00Z",
-    "startTime": "2026-08-18T11:25:00Z",
-    "platform": "twitch",
-    "ttl": "2026-08-25T11:25:00.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
