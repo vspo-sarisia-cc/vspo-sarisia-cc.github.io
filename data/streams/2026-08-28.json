@@ -20,5 +20,16 @@
     "scheduledStartTime": "2026-08-28T21:00:00Z",
     "ttl": "2026-09-04T21:00:00.000Z",
     "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "0rNpj_axApY",
+    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
+    "title": "【Teamfight Tactics】 new magical set!! 【#VSPOEN #NarinMikure】",
+    "thumbnail": "https://i.ytimg.com/vi/0rNpj_axApY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=0rNpj_axApY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-28T03:00:00Z",
+    "ttl": "2026-09-04T03:00:00.000Z",
+    "streamerId": "narin_mikure"
   }
 ]

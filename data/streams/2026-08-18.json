@@ -268,17 +268,5 @@
     "platform": "twitch",
     "ttl": "2026-08-25T11:25:00.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316323454449",
-    "channelId": "akarindao",
-    "title": "高めあいDUO",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/3510f374626b566c7859_akarindao_316323454449_1787030237//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2849407789",
-    "scheduledStartTime": "2026-08-18T05:17:23Z",
-    "startTime": "2026-08-18T05:17:23Z",
-    "platform": "twitch",
-    "ttl": "2026-08-25T05:17:23.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
