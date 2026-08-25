@@ -1,5 +1,17 @@
 [
   {
+    "id": "Vgfhs7-cRbM",
+    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
+    "title": "【VALORANT】でゅおランク～～～‼️【ぶいすぽっ！/花芽すみれ】",
+    "thumbnail": "https://i.ytimg.com/vi/Vgfhs7-cRbM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Vgfhs7-cRbM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-25T12:15:00Z",
+    "startTime": "2026-08-25T12:16:56Z",
+    "ttl": "2026-09-01T12:15:00.000Z",
+    "streamerId": "kaga_sumire"
+  },
+  {
     "id": "AA6aj5-h4vk",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【Escape from Tarkov】八雲先生に成長した姿をみせないと！　【ぶいすぽ/花芽なずな】",
@@ -101,7 +113,7 @@
     "id": "XykzYZWco3A",
     "channelId": "UC61OwuYOVuKkpKnid-43Twg",
     "title": "【#白波らむね4周年】めでたい日ですいつもありがとうございます【ぶいすぽ/白波らむね】",
-    "thumbnail": "https://i.ytimg.com/vi/XykzYZWco3A/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/XykzYZWco3A/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=XykzYZWco3A",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-25T10:00:00Z",
@@ -118,6 +130,7 @@
     "url": "https://www.youtube.com/watch?v=BmMjHUJA5oY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-25T12:00:00Z",
+    "startTime": "2026-08-25T11:57:37Z",
     "ttl": "2026-09-01T12:00:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -143,6 +156,18 @@
     "scheduledStartTime": "2026-08-25T22:00:00Z",
     "ttl": "2026-09-01T22:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "n1HOyFgHf0M",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  日本事故物件監視協会3 -JSP3-   ◢　間違い探しは得意です   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/n1HOyFgHf0M/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=n1HOyFgHf0M",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-25T12:30:00Z",
+    "startTime": "2026-08-25T12:30:40Z",
+    "ttl": "2026-09-01T12:30:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "BOPVUdgtbjI",
@@ -189,20 +214,21 @@
     "url": "https://www.youtube.com/watch?v=4A8hH2Wjt3k",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-25T12:00:00Z",
+    "startTime": "2026-08-25T12:01:36Z",
     "ttl": "2026-09-01T12:00:00.000Z",
     "streamerId": "riko_solari"
   },
   {
-    "id": "315438838254",
-    "channelId": "erissuzukami",
-    "title": "1 hr yap sesh rawr",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
-    "url": "https://www.twitch.tv/erissuzukami",
-    "scheduledStartTime": "2026-08-25T10:56:50Z",
-    "startTime": "2026-08-25T10:56:50Z",
+    "id": "316366295538",
+    "channelId": "ramuneshiranami",
+    "title": "【valheim】新しいバイオーム探検",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-08-25T12:00:15Z",
+    "startTime": "2026-08-25T12:00:15Z",
     "platform": "twitch",
-    "ttl": "2026-09-01T10:56:50.000Z",
-    "streamerId": "eris_suzukami"
+    "ttl": "2026-09-01T12:00:15.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "321198553563",
