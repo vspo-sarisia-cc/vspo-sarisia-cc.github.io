@@ -1,5 +1,16 @@
 [
   {
+    "id": "S-uHJLWhgZo",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "【 #ぶいすぽ歌枠リレー 】ボカロ歌うぞー！！【 ぶいすぽ / 小雀とと 】",
+    "thumbnail": "https://i.ytimg.com/vi/S-uHJLWhgZo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=S-uHJLWhgZo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-26T10:25:00Z",
+    "ttl": "2026-09-02T10:25:00.000Z",
+    "streamerId": "kogara_toto"
+  },
+  {
     "id": "-t2GO0LVAac",
     "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
     "title": "【Minecraft】絶対に、今日で終わらせる【ぶいすぽっ！/英リサ】",
@@ -10,6 +21,18 @@
     "startTime": "2026-08-26T05:36:07Z",
     "ttl": "2026-09-02T05:30:00.000Z",
     "streamerId": "hanabusa_lisa"
+  },
+  {
+    "id": "5a7j6FgVuVU",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【雑談】🏝旅行ロス談🌺【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/5a7j6FgVuVU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=5a7j6FgVuVU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-26T08:00:00Z",
+    "startTime": "2026-08-26T08:02:29Z",
+    "ttl": "2026-09-02T08:00:00.000Z",
+    "streamerId": "yakumo_beni"
   },
   {
     "id": "71SnC4H-G1Q",
