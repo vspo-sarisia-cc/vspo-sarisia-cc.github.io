@@ -12,6 +12,28 @@
     "streamerId": "hanabusa_lisa"
   },
   {
+    "id": "71SnC4H-G1Q",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【＃ぶいすぽ歌枠リレー】懐かしいボカロ曲！！歌います！！【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/71SnC4H-G1Q/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=71SnC4H-G1Q",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-26T10:00:00Z",
+    "ttl": "2026-09-02T10:00:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "H8I8jFjowTM",
+    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
+    "title": "【 みんゴル 】( ＾O＾ )ノイエー！【 ぶいすぽっ！ / 小森めと 】",
+    "thumbnail": "https://i.ytimg.com/vi/H8I8jFjowTM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=H8I8jFjowTM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-26T11:00:00Z",
+    "ttl": "2026-09-02T11:00:00.000Z",
+    "streamerId": "komori_met"
+  },
+  {
     "id": "IxFzGAtgXdY",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【  歌枠  】　ぶいすぽっ！ボカロ歌枠リレー！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -65,5 +87,29 @@
     "scheduledStartTime": "2026-08-26T13:00:00Z",
     "ttl": "2026-09-02T13:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316359658993",
+    "channelId": "akarindao",
+    "title": "めあたむとレオン代表RUST鯖に向けてちょっと触る～",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-08-26T07:08:33Z",
+    "startTime": "2026-08-26T07:08:33Z",
+    "platform": "twitch",
+    "ttl": "2026-09-02T07:08:33.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316369603570",
+    "channelId": "ramuneshiranami",
+    "title": "【LOL】メイヘムLEGENDUS 顔合わせ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-08-26T07:07:35Z",
+    "startTime": "2026-08-26T07:07:35Z",
+    "platform": "twitch",
+    "ttl": "2026-09-02T07:07:35.000Z",
+    "streamerId": "shiranami_ramune"
   }
 ]
