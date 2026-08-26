@@ -3,11 +3,12 @@
     "id": "S-uHJLWhgZo",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 #ぶいすぽ歌枠リレー 】ボカロ歌うぞー！！【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/S-uHJLWhgZo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/S-uHJLWhgZo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=S-uHJLWhgZo",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-26T10:25:00Z",
     "startTime": "2026-08-26T10:22:25Z",
+    "endTime": "2026-08-26T10:53:36Z",
     "ttl": "2026-09-02T10:25:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -61,11 +62,12 @@
     "id": "5a7j6FgVuVU",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【雑談】🏝旅行ロス談🌺【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/5a7j6FgVuVU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/5a7j6FgVuVU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=5a7j6FgVuVU",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-26T08:00:00Z",
     "startTime": "2026-08-26T08:02:29Z",
+    "endTime": "2026-08-26T10:44:28Z",
     "ttl": "2026-09-02T08:00:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -77,6 +79,7 @@
     "url": "https://www.youtube.com/watch?v=cOBJyGvn4oY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-26T11:00:00Z",
+    "startTime": "2026-08-26T11:00:58Z",
     "ttl": "2026-09-02T11:00:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -96,11 +99,12 @@
   {
     "id": "H8I8jFjowTM",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
-    "title": "【 みんゴル 】( ＾O＾ )ノイエー！【 ぶいすぽっ！ / 小森めと 】",
+    "title": "【 みんゴル | VCC GOLF 】( ＾O＾ )ノイエー！【 ぶいすぽっ！ / 小森めと 】",
     "thumbnail": "https://i.ytimg.com/vi/H8I8jFjowTM/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=H8I8jFjowTM",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-26T11:00:00Z",
+    "startTime": "2026-08-26T10:45:08Z",
     "ttl": "2026-09-02T11:00:00.000Z",
     "streamerId": "komori_met"
   },
@@ -136,6 +140,7 @@
     "url": "https://www.youtube.com/watch?v=IxFzGAtgXdY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-26T10:50:00Z",
+    "startTime": "2026-08-26T10:49:15Z",
     "ttl": "2026-09-02T10:50:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -184,27 +189,39 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316359658993",
-    "channelId": "akarindao",
-    "title": "めあたむとレオン代表RUST鯖に向けてちょっと触る～",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-08-26T07:08:33Z",
-    "startTime": "2026-08-26T07:08:33Z",
+    "id": "316427065971",
+    "channelId": "ren_kisaragi__",
+    "title": "VCCゴルフを嗜む",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-08-26T11:02:03Z",
+    "startTime": "2026-08-26T11:02:03Z",
     "platform": "twitch",
-    "ttl": "2026-09-02T07:08:33.000Z",
-    "streamerId": "yumeno_akari"
+    "ttl": "2026-09-02T11:02:03.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316369603570",
     "channelId": "ramuneshiranami",
     "title": "【LOL】メイヘムLEGENDUS 顔合わせ",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-08-26T07:07:35Z",
-    "startTime": "2026-08-26T07:07:35Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/9029fa27571358db99e8_ramuneshiranami_316369603570_1787728055//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2856756102",
+    "scheduledStartTime": "2026-08-26T07:07:40Z",
+    "startTime": "2026-08-26T07:07:40Z",
     "platform": "twitch",
-    "ttl": "2026-09-02T07:07:35.000Z",
+    "ttl": "2026-09-02T07:07:40.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316359658993",
+    "channelId": "akarindao",
+    "title": "めあたむとレオン代表RUST鯖に向けてちょっと触る～",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/2c1c289d3e3e2c3d984b_akarindao_316359658993_1787728113//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2856756478",
+    "scheduledStartTime": "2026-08-26T07:08:38Z",
+    "startTime": "2026-08-26T07:08:38Z",
+    "platform": "twitch",
+    "ttl": "2026-09-02T07:08:38.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
