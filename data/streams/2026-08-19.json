@@ -52,19 +52,6 @@
     "streamerId": "hanabusa_lisa"
   },
   {
-    "id": "fOpcZcH-Ap8",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【 Escape from Tarkov 】ただいまタルコフ！22歳女性 w/rassya【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/fOpcZcH-Ap8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=fOpcZcH-Ap8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-19T09:15:00Z",
-    "startTime": "2026-08-19T09:03:50Z",
-    "endTime": "2026-08-19T14:59:58Z",
-    "ttl": "2026-08-26T09:15:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
     "id": "g_nxycdoiE0",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】寝る前のリラックスタイム（少しだけ）【ぶいすぽっ！/ 藍沢エマ】",
@@ -76,32 +63,6 @@
     "endTime": "2026-08-19T17:36:13Z",
     "ttl": "2026-08-26T15:50:00.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "qwGpxqTBVVs",
-    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
-    "title": "【 スト６】ちょい【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/qwGpxqTBVVs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=qwGpxqTBVVs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-19T09:45:00Z",
-    "startTime": "2026-08-19T09:51:39Z",
-    "endTime": "2026-08-19T11:28:20Z",
-    "ttl": "2026-08-26T09:45:00.000Z",
-    "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "IWJl9KFGCs4",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【VALORANT】新ACTきたお【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/IWJl9KFGCs4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=IWJl9KFGCs4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-19T09:15:00Z",
-    "startTime": "2026-08-19T09:10:25Z",
-    "endTime": "2026-08-19T13:10:11Z",
-    "ttl": "2026-08-26T09:15:00.000Z",
-    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "I7T9kxwQs6c",
