@@ -45,6 +45,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-26T11:40:00Z",
     "startTime": "2026-08-26T11:36:55Z",
+    "endTime": "2026-08-26T12:07:09Z",
     "ttl": "2026-09-02T11:40:00.000Z",
     "streamerId": "hanabusa_lisa"
   },
@@ -189,6 +190,7 @@
     "url": "https://www.youtube.com/watch?v=BJB0oQm19qs",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-26T12:00:00Z",
+    "startTime": "2026-08-26T12:01:48Z",
     "ttl": "2026-09-02T12:00:00.000Z",
     "streamerId": "riko_solari"
   },
