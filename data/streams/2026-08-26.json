@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=S-uHJLWhgZo",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-26T10:25:00Z",
+    "startTime": "2026-08-26T10:22:25Z",
     "ttl": "2026-09-02T10:25:00.000Z",
     "streamerId": "kogara_toto"
   },
@@ -28,8 +29,8 @@
     "thumbnail": "https://i.ytimg.com/vi/Pm7QF0gu4w0/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=Pm7QF0gu4w0",
     "platform": "youtube",
-    "scheduledStartTime": "2026-08-26T11:40:00Z",
-    "ttl": "2026-09-02T11:40:00.000Z",
+    "scheduledStartTime": "2026-08-26T11:15:00Z",
+    "ttl": "2026-09-02T11:15:00.000Z",
     "streamerId": "tachibana_hinano"
   },
   {
@@ -69,13 +70,26 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "cOBJyGvn4oY",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 みんなのGOLF WORLD 】VCC GOLFきたーーー！！砂に入ったらまずいらしい【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/cOBJyGvn4oY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=cOBJyGvn4oY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-26T11:00:00Z",
+    "ttl": "2026-09-02T11:00:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
     "id": "71SnC4H-G1Q",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【＃ぶいすぽ歌枠リレー】懐かしいボカロ曲！！歌います！！【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/71SnC4H-G1Q/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/71SnC4H-G1Q/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=71SnC4H-G1Q",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-26T10:00:00Z",
+    "startTime": "2026-08-26T10:00:10Z",
+    "endTime": "2026-08-26T10:25:52Z",
     "ttl": "2026-09-02T10:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -91,6 +105,18 @@
     "streamerId": "komori_met"
   },
   {
+    "id": "BR5S3dShT4U",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【Minecraft】やぐらの仕上げと、なんか準備したい！【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/BR5S3dShT4U/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=BR5S3dShT4U",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-26T10:30:00Z",
+    "startTime": "2026-08-26T10:31:51Z",
+    "ttl": "2026-09-02T10:30:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "5aaPTMj3IQ4",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【League of Legends】なんか新しいレオカス！！！！！！！！！！【 ぶいすぽっ！ / 千燈ゆうひ 】",
@@ -98,6 +124,7 @@
     "url": "https://www.youtube.com/watch?v=5aaPTMj3IQ4",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-26T10:00:00Z",
+    "startTime": "2026-08-26T10:00:15Z",
     "ttl": "2026-09-02T10:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
