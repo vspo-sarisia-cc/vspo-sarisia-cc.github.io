@@ -11,6 +11,28 @@
     "streamerId": "kogara_toto"
   },
   {
+    "id": "K7qi8LXmYoM",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【Minecraft】闘技場仕上げ！【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/K7qi8LXmYoM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=K7qi8LXmYoM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-26T12:30:00Z",
+    "ttl": "2026-09-02T12:30:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "Pm7QF0gu4w0",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【＃ぶいすぽ歌枠リレー】ボカロ歌うょ～～🌟🌟【ぶいすぽ / 橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/Pm7QF0gu4w0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Pm7QF0gu4w0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-26T11:40:00Z",
+    "ttl": "2026-09-02T11:40:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "-t2GO0LVAac",
     "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
     "title": "【Minecraft】絶対に、今日で終わらせる【ぶいすぽっ！/英リサ】",
@@ -19,6 +41,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-26T05:30:00Z",
     "startTime": "2026-08-26T05:36:07Z",
+    "endTime": "2026-08-26T09:08:27Z",
     "ttl": "2026-09-02T05:30:00.000Z",
     "streamerId": "hanabusa_lisa"
   },
@@ -59,7 +82,7 @@
   {
     "id": "IxFzGAtgXdY",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【  歌枠  】　ぶいすぽっ！ボカロ歌枠リレー！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "title": "【  #ぶいすぽ歌枠リレー  】　ボカロ歌枠リレー！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
     "thumbnail": "https://i.ytimg.com/vi/IxFzGAtgXdY/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=IxFzGAtgXdY",
     "platform": "youtube",
@@ -70,7 +93,7 @@
   {
     "id": "VRvto8Fx2HQ",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【 Minecraft 】　夏祭りにむけて闘技場完成させるぞ！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "title": "【 Minecraft 】　夏祭りにむけてみんなで闘技場完成させるぞ！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
     "thumbnail": "https://i.ytimg.com/vi/VRvto8Fx2HQ/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=VRvto8Fx2HQ",
     "platform": "youtube",

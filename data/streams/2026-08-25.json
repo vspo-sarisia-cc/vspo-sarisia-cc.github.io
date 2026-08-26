@@ -260,18 +260,6 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "321212752987",
-    "channelId": "aryakuroha",
-    "title": "✦ signing anniversary postcards !",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-08-25T22:00:12Z",
-    "startTime": "2026-08-25T22:00:12Z",
-    "platform": "twitch",
-    "ttl": "2026-09-01T22:00:12.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
     "id": "316366295538",
     "channelId": "ramuneshiranami",
     "title": "【valheim】新しいバイオーム探検",
@@ -294,6 +282,18 @@
     "platform": "twitch",
     "ttl": "2026-09-01T16:20:10.000Z",
     "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "321212752987",
+    "channelId": "aryakuroha",
+    "title": "✦ signing anniversary postcards !",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/b4012527b86fe0e608bb_aryakuroha_321212752987_1787695212//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2856406871",
+    "scheduledStartTime": "2026-08-25T22:00:21Z",
+    "startTime": "2026-08-25T22:00:21Z",
+    "platform": "twitch",
+    "ttl": "2026-09-01T22:00:21.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "321198553563",
