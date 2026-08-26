@@ -27,10 +27,12 @@
     "id": "Pm7QF0gu4w0",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【＃ぶいすぽ歌枠リレー】ボカロ歌うょ～～🌟🌟【ぶいすぽ / 橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/Pm7QF0gu4w0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Pm7QF0gu4w0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Pm7QF0gu4w0",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-26T11:15:00Z",
+    "startTime": "2026-08-26T11:15:05Z",
+    "endTime": "2026-08-26T11:40:29Z",
     "ttl": "2026-09-02T11:15:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -42,6 +44,7 @@
     "url": "https://www.youtube.com/watch?v=Uy7wU-K1SCY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-26T11:40:00Z",
+    "startTime": "2026-08-26T11:36:55Z",
     "ttl": "2026-09-02T11:40:00.000Z",
     "streamerId": "hanabusa_lisa"
   },
@@ -57,6 +60,17 @@
     "endTime": "2026-08-26T09:08:27Z",
     "ttl": "2026-09-02T05:30:00.000Z",
     "streamerId": "hanabusa_lisa"
+  },
+  {
+    "id": "XMn03QGnRvU",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【Minecraft】 闘技場建設、仕上げるぞーーーー！！🔥【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/XMn03QGnRvU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=XMn03QGnRvU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-26T12:30:00Z",
+    "ttl": "2026-09-02T12:30:00.000Z",
+    "streamerId": "yakumo_beni"
   },
   {
     "id": "5a7j6FgVuVU",
@@ -136,11 +150,12 @@
     "id": "IxFzGAtgXdY",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 #ぶいすぽ歌枠リレー 】　ボカロ歌枠リレー！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/IxFzGAtgXdY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/IxFzGAtgXdY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=IxFzGAtgXdY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-26T10:50:00Z",
     "startTime": "2026-08-26T10:49:15Z",
+    "endTime": "2026-08-26T11:15:57Z",
     "ttl": "2026-09-02T10:50:00.000Z",
     "streamerId": "choya_hanabi"
   },
