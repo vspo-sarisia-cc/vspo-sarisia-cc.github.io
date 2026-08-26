@@ -3,11 +3,12 @@
     "id": "JNX-Ji0nAFg",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【マインクラフト】ぶいすぽなちゅまちゅり！【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/JNX-Ji0nAFg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/JNX-Ji0nAFg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=JNX-Ji0nAFg",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-26T12:45:00Z",
     "startTime": "2026-08-26T12:45:19Z",
+    "endTime": "2026-08-26T16:09:25Z",
     "ttl": "2026-09-02T12:45:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -148,6 +149,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-26T13:00:00Z",
     "startTime": "2026-08-26T13:06:39Z",
+    "endTime": "2026-08-26T16:39:46Z",
     "ttl": "2026-09-02T13:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -181,11 +183,12 @@
     "id": "BR5S3dShT4U",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【Minecraft】やぐらの仕上げと、なんか準備したい！【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/BR5S3dShT4U/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/BR5S3dShT4U/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=BR5S3dShT4U",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-26T10:30:00Z",
     "startTime": "2026-08-26T10:31:51Z",
+    "endTime": "2026-08-26T16:00:20Z",
     "ttl": "2026-09-02T10:30:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -232,11 +235,12 @@
     "id": "ClLgwV2H6DY",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【Counter-Strike 2】DOGGO is back.. w/ @MukuMamai   |  Premier  【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/ClLgwV2H6DY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ClLgwV2H6DY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ClLgwV2H6DY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-26T14:00:00Z",
     "startTime": "2026-08-26T13:59:46Z",
+    "endTime": "2026-08-26T16:12:29Z",
     "ttl": "2026-09-02T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -251,6 +255,18 @@
     "startTime": "2026-08-26T12:59:53Z",
     "ttl": "2026-09-02T13:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "315456369519",
+    "channelId": "erissuzukami",
+    "title": "30 min yap",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
+    "url": "https://www.twitch.tv/erissuzukami",
+    "scheduledStartTime": "2026-08-26T16:25:38Z",
+    "startTime": "2026-08-26T16:25:38Z",
+    "platform": "twitch",
+    "ttl": "2026-09-02T16:25:38.000Z",
+    "streamerId": "eris_suzukami"
   },
   {
     "id": "316427065971",
