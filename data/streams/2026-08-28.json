@@ -11,6 +11,17 @@
     "streamerId": "yano_kuromu"
   },
   {
+    "id": "NzM1qZh-8iI",
+    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
+    "title": "【A WAY OUT】   Mum and Dad escaping from JAIL 【#VSPOEN #RemiaAotsuki】",
+    "thumbnail": "https://i.ytimg.com/vi/NzM1qZh-8iI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=NzM1qZh-8iI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-28T21:00:00Z",
+    "ttl": "2026-09-04T21:00:00.000Z",
+    "streamerId": "remia_aotsuki"
+  },
+  {
     "id": "g0eZNZ00rV0",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【A WAY OUT】ESCAPING PRISON WITH A BADDIE !!【#VSPOEN #AryaKuroha】",
@@ -31,5 +42,16 @@
     "scheduledStartTime": "2026-08-28T03:00:00Z",
     "ttl": "2026-09-04T03:00:00.000Z",
     "streamerId": "narin_mikure"
+  },
+  {
+    "id": "F4uMtwEVofs",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤The Closing Shift◢ FIRST SOLO HORROR HELP ME | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/F4uMtwEVofs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=F4uMtwEVofs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-28T14:00:00Z",
+    "ttl": "2026-09-04T14:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
