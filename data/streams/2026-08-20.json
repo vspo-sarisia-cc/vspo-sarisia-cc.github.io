@@ -1,18 +1,5 @@
 [
   {
-    "id": "4uNo7ULfC3k",
-    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
-    "title": "【 VALORANT 】なんだこのメンツ？！ w/てとちゃん、或世くん、立川さん、あやちゃん【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/4uNo7ULfC3k/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=4uNo7ULfC3k",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-20T11:00:00Z",
-    "startTime": "2026-08-20T11:03:59Z",
-    "endTime": "2026-08-20T14:41:42Z",
-    "ttl": "2026-08-27T11:00:00.000Z",
-    "streamerId": "kogara_toto"
-  },
-  {
     "id": "T-eWF7WjaAg",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【ほの暮しの庭】秋だーーーーー！！！【ぶいすぽ/一ノ瀬うるは】",
@@ -24,45 +11,6 @@
     "endTime": "2026-08-20T18:22:14Z",
     "ttl": "2026-08-27T14:00:00.000Z",
     "streamerId": "ichinose_uruha"
-  },
-  {
-    "id": "Ngk9P6hAQDM",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【APEX】ねこーたうるーか【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/Ngk9P6hAQDM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Ngk9P6hAQDM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-20T10:00:00Z",
-    "startTime": "2026-08-20T10:02:40Z",
-    "endTime": "2026-08-20T13:04:12Z",
-    "ttl": "2026-08-27T10:00:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
-    "id": "o40eCOGtLwU",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】ワールズエッジ！GOGO！！【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/o40eCOGtLwU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=o40eCOGtLwU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-20T07:05:00Z",
-    "startTime": "2026-08-20T07:06:42Z",
-    "endTime": "2026-08-20T09:33:57Z",
-    "ttl": "2026-08-27T07:05:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
-    "id": "TRP7I1wiP-E",
-    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
-    "title": "【Minecraft】めんどくさい回路を終わらせたい【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/TRP7I1wiP-E/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=TRP7I1wiP-E",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-20T10:00:00Z",
-    "startTime": "2026-08-20T09:59:41Z",
-    "endTime": "2026-08-20T12:56:32Z",
-    "ttl": "2026-08-27T10:00:00.000Z",
-    "streamerId": "tosaki_mimi"
   },
   {
     "id": "RpKnUSC_gaM",
@@ -78,32 +26,6 @@
     "streamerId": "asumi_sena"
   },
   {
-    "id": "c-03Fk8BkdI",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【APEX】つなうるうるでエペ　w/うるはうるか【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/c-03Fk8BkdI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=c-03Fk8BkdI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-20T10:00:00Z",
-    "startTime": "2026-08-20T10:02:39Z",
-    "endTime": "2026-08-20T13:09:58Z",
-    "ttl": "2026-08-27T10:00:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "OVAe4vNR-1I",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 #VCTWatchParty 〗消えるな日本チーム。涙のDFMWIN。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/OVAe4vNR-1I/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=OVAe4vNR-1I",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-20T07:45:00Z",
-    "startTime": "2026-08-20T07:42:03Z",
-    "endTime": "2026-08-20T13:10:25Z",
-    "ttl": "2026-08-27T07:45:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
     "id": "u39MpTzPzIk",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "Greedy Greedy / covered by 夜乃くろむ【 #夜乃くろむ3D 】",
@@ -115,32 +37,6 @@
     "endTime": "2026-08-20T13:04:10Z",
     "ttl": "2026-08-27T13:00:00.000Z",
     "streamerId": "yano_kuromu"
-  },
-  {
-    "id": "3omRQ6igBbM",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  ELDEN RING ◢　＃15 新しいところいくぞ！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/3omRQ6igBbM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=3omRQ6igBbM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-20T10:00:00Z",
-    "startTime": "2026-08-20T10:00:53Z",
-    "endTime": "2026-08-20T21:24:33Z",
-    "ttl": "2026-08-27T10:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
-    "id": "icNdnOL8hiY",
-    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
-    "title": "【VALORANT】 diamond 2 80rr 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/icNdnOL8hiY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=icNdnOL8hiY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-20T03:00:00Z",
-    "startTime": "2026-08-20T03:01:25Z",
-    "endTime": "2026-08-20T05:29:57Z",
-    "ttl": "2026-08-27T03:00:00.000Z",
-    "streamerId": "narin_mikure"
   },
   {
     "id": "fdTxqKje5kM",
@@ -178,18 +74,6 @@
     "platform": "twitch",
     "ttl": "2026-08-27T12:03:38.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316341666290",
-    "channelId": "saineginjo",
-    "title": "久しぶりすぎませんかそろきゅー",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/911c1618b33dce13c685_saineginjo_316341666290_1787201226//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2851207393",
-    "scheduledStartTime": "2026-08-20T04:47:11Z",
-    "startTime": "2026-08-20T04:47:11Z",
-    "platform": "twitch",
-    "ttl": "2026-08-27T04:47:11.000Z",
-    "streamerId": "ginjo_saine"
   },
   {
     "id": "317506587746",
