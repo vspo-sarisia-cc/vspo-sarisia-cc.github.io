@@ -11,6 +11,17 @@
     "streamerId": "yano_kuromu"
   },
   {
+    "id": "oAPB8DZE-So",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】カが欲しい【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/oAPB8DZE-So/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=oAPB8DZE-So",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-28T05:30:00Z",
+    "ttl": "2026-09-04T05:30:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "NzM1qZh-8iI",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【A WAY OUT】   Mum and Dad escaping from JAIL 【#VSPOEN #RemiaAotsuki】",
@@ -36,10 +47,12 @@
     "id": "0rNpj_axApY",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
     "title": "【Teamfight Tactics】 new magical set!! 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/0rNpj_axApY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/0rNpj_axApY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=0rNpj_axApY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-28T03:00:00Z",
+    "startTime": "2026-08-28T03:04:16Z",
+    "endTime": "2026-08-28T05:14:37Z",
     "ttl": "2026-09-04T03:00:00.000Z",
     "streamerId": "narin_mikure"
   },
@@ -53,5 +66,17 @@
     "scheduledStartTime": "2026-08-28T14:00:00Z",
     "ttl": "2026-09-04T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316434810995",
+    "channelId": "asumisena",
+    "title": "TFTやるよ～",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asumisena-320x180.jpg",
+    "url": "https://www.twitch.tv/asumisena",
+    "scheduledStartTime": "2026-08-28T04:35:01Z",
+    "startTime": "2026-08-28T04:35:01Z",
+    "platform": "twitch",
+    "ttl": "2026-09-04T04:35:01.000Z",
+    "streamerId": "asumi_sena"
   }
 ]
