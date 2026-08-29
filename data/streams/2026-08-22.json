@@ -1,31 +1,5 @@
 [
   {
-    "id": "jgwjEA1auwA",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【Escape from Tarkov】本日もうぉうぉれいどぉと　【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/jgwjEA1auwA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=jgwjEA1auwA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-22T10:00:00Z",
-    "startTime": "2026-08-22T10:09:58Z",
-    "endTime": "2026-08-22T18:09:53Z",
-    "ttl": "2026-08-29T10:00:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
-    "id": "ME8b5PlTWiM",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】おはよう諸君！ソロランクに行くぞ！【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/ME8b5PlTWiM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ME8b5PlTWiM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-22T09:25:00Z",
-    "startTime": "2026-08-22T09:28:13Z",
-    "endTime": "2026-08-22T11:58:14Z",
-    "ttl": "2026-08-29T09:25:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "YxbSEyL0r0s",
     "channelId": "UCGWa1dMU_sDCaRQjdabsVgg",
     "title": "【ダレカレ】深夜に突発でゲームやるやつ【ぶいすぽ/如月れん】",
@@ -39,19 +13,6 @@
     "streamerId": "kisaragi_ren"
   },
   {
-    "id": "4Am1UysKwO8",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【Minecraft】内装完成をMEZASU【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/4Am1UysKwO8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=4Am1UysKwO8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-22T12:30:00Z",
-    "startTime": "2026-08-22T12:24:22Z",
-    "endTime": "2026-08-22T16:54:32Z",
-    "ttl": "2026-08-29T12:30:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
     "id": "5p8Y6n6j3Gg",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 ニチアサ 】ぴょ~~~~！！！【 ぶいすぽっ！ / 小森めと 】",
@@ -63,45 +24,6 @@
     "endTime": "2026-08-23T01:17:02Z",
     "ttl": "2026-08-29T23:00:00.000Z",
     "streamerId": "komori_met"
-  },
-  {
-    "id": "ucg0Qb7k0Es",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 #VCTWatchParty 〗涙のDFMWIN。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/ucg0Qb7k0Es/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ucg0Qb7k0Es",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-22T09:30:00Z",
-    "startTime": "2026-08-22T09:26:06Z",
-    "endTime": "2026-08-22T12:03:16Z",
-    "ttl": "2026-08-29T09:30:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
-    "id": "mMjpqIQwRJA",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【つむ飯】今週もみんなのご飯を見せてください🍚#4【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/mMjpqIQwRJA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=mMjpqIQwRJA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-22T09:00:00Z",
-    "startTime": "2026-08-22T09:01:17Z",
-    "endTime": "2026-08-22T10:12:23Z",
-    "ttl": "2026-08-29T09:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "5c7vifmry3k",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【League of Legends】LEGENDUSメイヘム顔合わせ！【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/5c7vifmry3k/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=5c7vifmry3k",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-22T12:30:00Z",
-    "startTime": "2026-08-22T12:18:39Z",
-    "endTime": "2026-08-22T15:32:16Z",
-    "ttl": "2026-08-29T12:30:00.000Z",
-    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "WvOFTwXNYaY",
@@ -128,30 +50,5 @@
     "endTime": "2026-08-22T23:08:23Z",
     "ttl": "2026-08-29T15:20:00.000Z",
     "streamerId": "jira_jisaki"
-  },
-  {
-    "id": "9Dx-vLFiXyQ",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Insaniquarium◢ but its 2026 | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/9Dx-vLFiXyQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=9Dx-vLFiXyQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-22T13:30:00Z",
-    "startTime": "2026-08-22T13:30:44Z",
-    "endTime": "2026-08-22T15:46:42Z",
-    "ttl": "2026-08-29T13:30:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316342239089",
-    "channelId": "ramuneshiranami",
-    "title": "【valheim】バイオーム探索",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/2ee5bfa200f7719442b5_ramuneshiranami_316342239089_1787394037//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2853198040",
-    "scheduledStartTime": "2026-08-22T10:20:42Z",
-    "startTime": "2026-08-22T10:20:42Z",
-    "platform": "twitch",
-    "ttl": "2026-08-29T10:20:42.000Z",
-    "streamerId": "shiranami_ramune"
   }
 ]
