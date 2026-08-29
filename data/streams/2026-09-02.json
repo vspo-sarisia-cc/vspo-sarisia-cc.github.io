@@ -9,5 +9,16 @@
     "scheduledStartTime": "2026-09-02T11:00:00Z",
     "ttl": "2026-09-09T11:00:00.000Z",
     "streamerId": "yano_kuromu"
+  },
+  {
+    "id": "UDYbQbK4QRM",
+    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
+    "title": "【BOMBANANA!】   Clear Comms ONLY!! 【#VSPOEN #RemiaAotsuki】",
+    "thumbnail": "https://i.ytimg.com/vi/UDYbQbK4QRM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=UDYbQbK4QRM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-02T15:00:00Z",
+    "ttl": "2026-09-09T15:00:00.000Z",
+    "streamerId": "remia_aotsuki"
   }
 ]
