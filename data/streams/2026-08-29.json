@@ -42,5 +42,27 @@
     "scheduledStartTime": "2026-08-29T14:00:00Z",
     "ttl": "2026-09-05T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "2_cEucRFreQ",
+    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
+    "title": "【APEX LEGENDS】Wingmen Custom Viewer Games !!【#VSPOEN #AryaKuroha】",
+    "thumbnail": "https://i.ytimg.com/vi/2_cEucRFreQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=2_cEucRFreQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-29T22:00:00Z",
+    "ttl": "2026-09-05T22:00:00.000Z",
+    "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "ZPHTsPGA_6I",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Wuthering Waves 2.7 part 2◢ FINALE ! DEFEATING THE LEVIATHAN | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/ZPHTsPGA_6I/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ZPHTsPGA_6I",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-29T14:00:00Z",
+    "ttl": "2026-09-05T14:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
