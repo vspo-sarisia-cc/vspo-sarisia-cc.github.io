@@ -1,18 +1,5 @@
 [
   {
-    "id": "YxbSEyL0r0s",
-    "channelId": "UCGWa1dMU_sDCaRQjdabsVgg",
-    "title": "【ダレカレ】深夜に突発でゲームやるやつ【ぶいすぽ/如月れん】",
-    "thumbnail": "https://i.ytimg.com/vi/YxbSEyL0r0s/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=YxbSEyL0r0s",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-22T15:59:43Z",
-    "startTime": "2026-08-22T16:05:54Z",
-    "endTime": "2026-08-22T18:14:56Z",
-    "ttl": "2026-08-29T15:59:43.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "5p8Y6n6j3Gg",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 ニチアサ 】ぴょ~~~~！！！【 ぶいすぽっ！ / 小森めと 】",
@@ -24,31 +11,5 @@
     "endTime": "2026-08-23T01:17:02Z",
     "ttl": "2026-08-29T23:00:00.000Z",
     "streamerId": "komori_met"
-  },
-  {
-    "id": "WvOFTwXNYaY",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "【Keep Talking and Nobody Explodes】  2 CS Pros try communicating 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/WvOFTwXNYaY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=WvOFTwXNYaY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-22T16:00:00Z",
-    "startTime": "2026-08-22T16:00:15Z",
-    "endTime": "2026-08-22T19:31:44Z",
-    "ttl": "2026-08-29T16:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "cSxi9wE64Cg",
-    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
-    "title": "【PEAK】고수팀 w. hebi isha【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/cSxi9wE64Cg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=cSxi9wE64Cg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-22T15:20:00Z",
-    "startTime": "2026-08-22T15:25:22Z",
-    "endTime": "2026-08-22T23:08:23Z",
-    "ttl": "2026-08-29T15:20:00.000Z",
-    "streamerId": "jira_jisaki"
   }
 ]

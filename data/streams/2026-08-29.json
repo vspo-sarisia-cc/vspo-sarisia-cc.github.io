@@ -3,7 +3,7 @@
     "id": "XOKi9GKj0Mw",
     "channelId": "UCuI5XaO-6VkOEhHao6ij7JA",
     "title": "【無料パート＆挑戦者同時視聴配信】ノンデリ王2026【#ぶいすぽ激ロー】",
-    "thumbnail": "https://i.ytimg.com/vi/XOKi9GKj0Mw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/XOKi9GKj0Mw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=XOKi9GKj0Mw",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-29T10:50:00Z",
@@ -16,11 +16,12 @@
     "id": "HH_cQO8CN44",
     "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
     "title": "【RUST】PVP EVENT DEATH GAMEに参加する【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/HH_cQO8CN44/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/HH_cQO8CN44/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=HH_cQO8CN44",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-29T04:45:00Z",
     "startTime": "2026-08-29T04:40:49Z",
+    "endTime": "2026-08-29T16:05:30Z",
     "ttl": "2026-09-05T04:45:00.000Z",
     "streamerId": "kaga_sumire"
   },
@@ -35,6 +36,18 @@
     "startTime": "2026-08-29T13:26:53Z",
     "ttl": "2026-09-05T13:30:00.000Z",
     "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "GCCEC0anuEc",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【RUST】レオラスに参戦！内政大臣になりたい！！！【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/GCCEC0anuEc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=GCCEC0anuEc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-29T14:00:00Z",
+    "startTime": "2026-08-29T13:48:18Z",
+    "ttl": "2026-09-05T14:00:00.000Z",
+    "streamerId": "ichinose_uruha"
   },
   {
     "id": "PEfUaGjDE90",
@@ -53,10 +66,12 @@
     "id": "sbbsqPqv26s",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 夜ふかし雑談 】#88 1時間かけて角煮作ったらまじでうまかったぞ！【ぶいすぽっ！胡桃のあ】",
-    "thumbnail": "https://i.ytimg.com/vi/sbbsqPqv26s/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/sbbsqPqv26s/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=sbbsqPqv26s",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-29T14:00:00Z",
+    "startTime": "2026-08-29T14:03:08Z",
+    "endTime": "2026-08-29T16:48:09Z",
     "ttl": "2026-09-05T14:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -74,6 +89,30 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "nE2tAt4NsNY",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "【ほの暮らしの庭】完全初見✨深夜の夏休みスローライフを味見【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/nE2tAt4NsNY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=nE2tAt4NsNY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-29T15:30:00Z",
+    "startTime": "2026-08-29T15:32:39Z",
+    "ttl": "2026-09-05T15:30:00.000Z",
+    "streamerId": "asumi_sena"
+  },
+  {
+    "id": "KsCU2mru7Gs",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 RUST 】レオラスいきます！2【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/KsCU2mru7Gs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=KsCU2mru7Gs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-29T16:30:00Z",
+    "startTime": "2026-08-29T16:31:10Z",
+    "ttl": "2026-09-05T16:30:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "LJVsRZxICcc",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 RUST 】レオラスいきます！【ぶいすぽっ！/橘ひなの】",
@@ -82,6 +121,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-29T05:00:00Z",
     "startTime": "2026-08-29T05:07:53Z",
+    "endTime": "2026-08-29T16:30:18Z",
     "ttl": "2026-09-05T05:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -126,12 +166,24 @@
     "id": "YmapJNL4BaM",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 Escape from Tarkov 】いつまでも、赤ちゃん /w はなびちゃん エニ【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/YmapJNL4BaM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/YmapJNL4BaM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=YmapJNL4BaM",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-29T11:00:00Z",
     "startTime": "2026-08-29T11:02:07Z",
+    "endTime": "2026-08-29T15:48:45Z",
     "ttl": "2026-09-05T11:00:00.000Z",
+    "streamerId": "komori_met"
+  },
+  {
+    "id": "quU80LMQuQc",
+    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
+    "title": "【 ニチアサ 】よおおおおおおおおお【 ぶいすぽっ！ / 小森めと 】",
+    "thumbnail": "https://i.ytimg.com/vi/quU80LMQuQc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=quU80LMQuQc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-29T23:00:00Z",
+    "ttl": "2026-09-05T23:00:00.000Z",
     "streamerId": "komori_met"
   },
   {
@@ -177,11 +229,12 @@
     "id": "7-q4eL7iE-Q",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Escape from TARKOV 】　たるこふいくぞーーーー！！！？！w/エニ、めと先輩【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/7-q4eL7iE-Q/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/7-q4eL7iE-Q/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=7-q4eL7iE-Q",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-29T11:00:00Z",
     "startTime": "2026-08-29T11:01:54Z",
+    "endTime": "2026-08-29T15:50:04Z",
     "ttl": "2026-09-05T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -219,6 +272,7 @@
     "url": "https://www.youtube.com/watch?v=Kqc-3-UpsYI",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-29T13:45:00Z",
+    "startTime": "2026-08-29T13:43:23Z",
     "ttl": "2026-09-05T13:45:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -256,6 +310,7 @@
     "url": "https://www.youtube.com/watch?v=ZWBNFJ4TnJY",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-29T15:00:00Z",
+    "startTime": "2026-08-29T15:00:43Z",
     "ttl": "2026-09-05T15:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -293,6 +348,18 @@
     "platform": "twitch",
     "ttl": "2026-09-05T13:31:04.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "315464220271",
+    "channelId": "erissuzukami",
+    "title": "30 min yap",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
+    "url": "https://www.twitch.tv/erissuzukami",
+    "scheduledStartTime": "2026-08-29T16:29:11Z",
+    "startTime": "2026-08-29T16:29:11Z",
+    "platform": "twitch",
+    "ttl": "2026-09-05T16:29:11.000Z",
+    "streamerId": "eris_suzukami"
   },
   {
     "id": "316382706290",
