@@ -29,11 +29,12 @@
     "id": "PcmmpYsUmww",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【Escape from Tarkov】初めてのライトハウスに行きたいの！バレバレイドあじゃじゃ【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/PcmmpYsUmww/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/PcmmpYsUmww/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=PcmmpYsUmww",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-29T13:30:00Z",
     "startTime": "2026-08-29T13:26:53Z",
+    "endTime": "2026-08-29T20:42:47Z",
     "ttl": "2026-09-05T13:30:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -336,7 +337,7 @@
     "id": "SyMvkqlWIn0",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【WORK STREAM】so much work to do....【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/SyMvkqlWIn0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/SyMvkqlWIn0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=SyMvkqlWIn0",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-29T13:15:00Z",
@@ -346,16 +347,16 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "315464220271",
-    "channelId": "erissuzukami",
-    "title": "30 min yap",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
-    "url": "https://www.twitch.tv/erissuzukami",
-    "scheduledStartTime": "2026-08-29T16:29:11Z",
-    "startTime": "2026-08-29T16:29:11Z",
+    "id": "316386050290",
+    "channelId": "ren_kisaragi__",
+    "title": "WCSみるぞ～～～～～",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-08-29T20:31:59Z",
+    "startTime": "2026-08-29T20:31:59Z",
     "platform": "twitch",
-    "ttl": "2026-09-05T16:29:11.000Z",
-    "streamerId": "eris_suzukami"
+    "ttl": "2026-09-05T20:31:59.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316382706290",
