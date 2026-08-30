@@ -24,6 +24,31 @@
     "streamerId": "ichinose_uruha"
   },
   {
+    "id": "7Y29tHwi4VM",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】ちきちきどんどんちきどんどん【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/7Y29tHwi4VM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=7Y29tHwi4VM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-30T10:30:00Z",
+    "startTime": "2026-08-30T10:36:48Z",
+    "ttl": "2026-09-06T10:30:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "pgjz49AXmvo",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "【雑】夏休みキッズの為の自由配信α【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/pgjz49AXmvo/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=pgjz49AXmvo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-30T07:30:00Z",
+    "startTime": "2026-08-30T07:30:12Z",
+    "endTime": "2026-08-30T10:10:11Z",
+    "ttl": "2026-09-06T07:30:00.000Z",
+    "streamerId": "asumi_sena"
+  },
+  {
     "id": "vcGV5UbnCxY",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 RUST 】レオラス二日目【ぶいすぽっ！/橘ひなの】",
@@ -36,14 +61,38 @@
     "streamerId": "tachibana_hinano"
   },
   {
+    "id": "unc4r6fiPHA",
+    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
+    "title": "【RUST】レオラス2日目　死にたくないです/ワタル、デュク氏、うるは先輩【ぶいすぽっ！/英リサ】",
+    "thumbnail": "https://i.ytimg.com/vi/unc4r6fiPHA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=unc4r6fiPHA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-30T06:15:00Z",
+    "startTime": "2026-08-30T06:21:42Z",
+    "ttl": "2026-09-06T06:15:00.000Z",
+    "streamerId": "hanabusa_lisa"
+  },
+  {
+    "id": "dpob7VRum2U",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【VALORANT】ひっっっさびさヴァロ👉フルパ【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/dpob7VRum2U/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=dpob7VRum2U",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-30T12:15:00Z",
+    "ttl": "2026-09-06T12:15:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
     "id": "GV9qB42ysdQ",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【原神】#65 魔神任務 第九幕 空月の歌 身土壊空、五蘊識転【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/GV9qB42ysdQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/GV9qB42ysdQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=GV9qB42ysdQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-30T05:00:00Z",
     "startTime": "2026-08-30T05:05:50Z",
+    "endTime": "2026-08-30T10:02:55Z",
     "ttl": "2026-09-06T05:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -55,29 +104,70 @@
     "url": "https://www.youtube.com/watch?v=TcCz2V_JX4s",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-30T09:00:00Z",
+    "startTime": "2026-08-30T09:00:06Z",
+    "endTime": "2026-08-30T09:06:16Z",
     "ttl": "2026-09-06T09:00:00.000Z",
     "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "gSed_e3d27s",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【RUST】レオラス二日目！レイド起きるかなー 　w/niru、こはく、dtto．　【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/gSed_e3d27s/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=gSed_e3d27s",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-30T09:00:00Z",
+    "startTime": "2026-08-30T09:01:00Z",
+    "ttl": "2026-09-06T09:00:00.000Z",
+    "streamerId": "nekota_tsuna"
   },
   {
     "id": "vj7bWzuiyBs",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VALORANT】なんか今日微妙そうだから弱かったらちゃんとやめようとは思っていますが少しだけでもやりたいのでやります【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/vj7bWzuiyBs/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/vj7bWzuiyBs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=vj7bWzuiyBs",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-30T06:00:00Z",
+    "startTime": "2026-08-30T06:03:09Z",
+    "endTime": "2026-08-30T10:10:03Z",
     "ttl": "2026-09-06T06:00:00.000Z",
     "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "wEPFVOObUCs",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【#WatchPartyLCP】TSW vs CFO | LCP 2026 Split 3 Grand Final【ぶいすぽっ！/千燈ゆうひ】",
+    "thumbnail": "https://i.ytimg.com/vi/wEPFVOObUCs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=wEPFVOObUCs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-30T08:00:00Z",
+    "startTime": "2026-08-30T07:57:45Z",
+    "ttl": "2026-09-06T08:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "KAyPgPrCkH0",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【 #マイクラなつにっき 】　まったり夏休みをたのしむぞおおお！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/KAyPgPrCkH0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=KAyPgPrCkH0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-30T09:30:00Z",
+    "startTime": "2026-08-30T09:31:08Z",
+    "ttl": "2026-09-06T09:30:00.000Z",
+    "streamerId": "choya_hanabi"
   },
   {
     "id": "kJ5Ui1-ME_c",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 青鬼 】　完全初見３０万人記念青鬼！！AI曰く２時間で終わるらしい！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/kJ5Ui1-ME_c/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/kJ5Ui1-ME_c/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=kJ5Ui1-ME_c",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-30T04:30:00Z",
     "startTime": "2026-08-30T04:30:44Z",
+    "endTime": "2026-08-30T08:58:23Z",
     "ttl": "2026-09-06T04:30:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -116,6 +206,18 @@
     "startTime": "2026-08-30T05:02:28Z",
     "ttl": "2026-09-06T05:00:00.000Z",
     "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "TN5bXnL_qWg",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　200LPもってこーーーい！！！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/TN5bXnL_qWg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=TN5bXnL_qWg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-30T08:30:00Z",
+    "startTime": "2026-08-30T08:30:49Z",
+    "ttl": "2026-09-06T08:30:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "2_cEucRFreQ",
