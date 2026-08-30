@@ -31,5 +31,16 @@
     "scheduledStartTime": "2026-08-31T07:00:00Z",
     "ttl": "2026-09-07T07:00:00.000Z",
     "streamerId": "narin_mikure"
+  },
+  {
+    "id": "atqopUxKBT4",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【R.E.P.O.】fun collab :D【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/atqopUxKBT4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=atqopUxKBT4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-31T07:00:00Z",
+    "ttl": "2026-09-07T07:00:00.000Z",
+    "streamerId": "riko_solari"
   }
 ]
