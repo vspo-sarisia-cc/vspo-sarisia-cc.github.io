@@ -42,5 +42,16 @@
     "scheduledStartTime": "2026-08-31T07:00:00Z",
     "ttl": "2026-09-07T07:00:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "wQpJhP0mwx0",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤DOTA 2◢ NOT TOXIC PIPINO 5 STACK (RARE) | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/wQpJhP0mwx0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=wQpJhP0mwx0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-31T12:00:00Z",
+    "ttl": "2026-09-07T12:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]

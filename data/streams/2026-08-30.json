@@ -16,11 +16,12 @@
     "id": "Y8ugW-SmtJg",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【Escape from Tarkov】スナのタスクをしていきたいですね　wれいどくうん【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/Y8ugW-SmtJg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Y8ugW-SmtJg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Y8ugW-SmtJg",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-30T12:35:00Z",
     "startTime": "2026-08-30T12:36:02Z",
+    "endTime": "2026-08-30T19:27:22Z",
     "ttl": "2026-09-06T12:35:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -54,11 +55,12 @@
     "id": "_WsU66bRJRQ",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【DrainSim】夏休み終盤。深夜のチル睡眠導入【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/_WsU66bRJRQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/_WsU66bRJRQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=_WsU66bRJRQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-30T15:30:00Z",
     "startTime": "2026-08-30T15:33:54Z",
+    "endTime": "2026-08-30T20:07:20Z",
     "ttl": "2026-09-06T15:30:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -271,6 +273,18 @@
     "streamerId": "amayui_moka"
   },
   {
+    "id": "DAokhV7TJ44",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【雑談】いつぶりですか？まだ夏ですか？【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/DAokhV7TJ44/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=DAokhV7TJ44",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-30T21:00:00Z",
+    "startTime": "2026-08-30T21:02:56Z",
+    "ttl": "2026-09-06T21:00:00.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
     "id": "KeZTxEMhKd0",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【RUST DAY2】PVPする覚悟はあんのかって ／ けんきさん、わきをさん、すみれ先輩【ぶいすぽっ！ #銀城サイネ 】",
@@ -310,28 +324,29 @@
     "streamerId": "arya_kuroha"
   },
   {
+    "id": "_TW07pQDLrk",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【WORK STREAM】late night workge【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/_TW07pQDLrk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=_TW07pQDLrk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-30T20:00:00Z",
+    "startTime": "2026-08-30T20:01:08Z",
+    "ttl": "2026-09-06T20:00:00.000Z",
+    "streamerId": "riko_solari"
+  },
+  {
     "id": "ZPHTsPGA_6I",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves 2.7 part 2◢ FINALE ! DEFEATING THE LEVIATHAN | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/ZPHTsPGA_6I/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ZPHTsPGA_6I/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ZPHTsPGA_6I",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-30T15:00:00Z",
     "startTime": "2026-08-30T15:01:09Z",
+    "endTime": "2026-08-30T19:28:10Z",
     "ttl": "2026-09-06T15:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "315466733551",
-    "channelId": "erissuzukami",
-    "title": "ummmmmmmmm tft?",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
-    "url": "https://www.twitch.tv/erissuzukami",
-    "scheduledStartTime": "2026-08-30T15:38:48Z",
-    "startTime": "2026-08-30T15:38:48Z",
-    "platform": "twitch",
-    "ttl": "2026-09-06T15:38:48.000Z",
-    "streamerId": "eris_suzukami"
   },
   {
     "id": "316387384178",
