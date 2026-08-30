@@ -169,6 +169,18 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "quU80LMQuQc",
+    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
+    "title": "【 ニチアサ 】よおおおおおおおおお【 ぶいすぽっ！ / 小森めと 】",
+    "thumbnail": "https://i.ytimg.com/vi/quU80LMQuQc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=quU80LMQuQc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-29T23:00:00Z",
+    "startTime": "2026-08-29T23:08:25Z",
+    "ttl": "2026-09-05T23:00:00.000Z",
+    "streamerId": "komori_met"
+  },
+  {
     "id": "YmapJNL4BaM",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 Escape from Tarkov 】いつまでも、赤ちゃん /w はなびちゃん エニ【 ぶいすぽっ！ / 小森めと 】",
@@ -179,17 +191,6 @@
     "startTime": "2026-08-29T11:02:07Z",
     "endTime": "2026-08-29T15:48:45Z",
     "ttl": "2026-09-05T11:00:00.000Z",
-    "streamerId": "komori_met"
-  },
-  {
-    "id": "quU80LMQuQc",
-    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
-    "title": "【 ニチアサ 】よおおおおおおおおお【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/quU80LMQuQc/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=quU80LMQuQc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-29T23:00:00Z",
-    "ttl": "2026-09-05T23:00:00.000Z",
     "streamerId": "komori_met"
   },
   {
@@ -321,17 +322,6 @@
     "endTime": "2026-08-29T18:05:49Z",
     "ttl": "2026-09-05T15:00:00.000Z",
     "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "2_cEucRFreQ",
-    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-    "title": "【APEX LEGENDS】Wingmen Custom Viewer Games !!【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/2_cEucRFreQ/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=2_cEucRFreQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-29T22:00:00Z",
-    "ttl": "2026-09-05T22:00:00.000Z",
-    "streamerId": "arya_kuroha"
   },
   {
     "id": "SyMvkqlWIn0",

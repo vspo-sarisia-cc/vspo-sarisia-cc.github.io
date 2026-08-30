@@ -33,14 +33,38 @@
     "streamerId": "choya_hanabi"
   },
   {
+    "id": "2_cEucRFreQ",
+    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
+    "title": "【APEX LEGENDS】Wingmen Custom Viewer Games !!【#VSPOEN #AryaKuroha】",
+    "thumbnail": "https://i.ytimg.com/vi/2_cEucRFreQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=2_cEucRFreQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-08-30T00:00:00Z",
+    "startTime": "2026-08-30T00:01:22Z",
+    "ttl": "2026-09-06T00:00:00.000Z",
+    "streamerId": "arya_kuroha"
+  },
+  {
     "id": "ZPHTsPGA_6I",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves 2.7 part 2◢ FINALE ! DEFEATING THE LEVIATHAN | #JunoUmezono #VSPOEN",
     "thumbnail": "https://i.ytimg.com/vi/ZPHTsPGA_6I/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=ZPHTsPGA_6I",
     "platform": "youtube",
-    "scheduledStartTime": "2026-08-30T14:00:00Z",
-    "ttl": "2026-09-06T14:00:00.000Z",
+    "scheduledStartTime": "2026-08-30T15:00:00Z",
+    "ttl": "2026-09-06T15:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "321286180955",
+    "channelId": "aryakuroha",
+    "title": "✦ wingmen custom viewer games !!",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-08-30T00:01:05Z",
+    "startTime": "2026-08-30T00:01:05Z",
+    "platform": "twitch",
+    "ttl": "2026-09-06T00:01:05.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
