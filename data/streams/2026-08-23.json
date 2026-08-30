@@ -26,19 +26,6 @@
     "streamerId": "ichinose_uruha"
   },
   {
-    "id": "Cj1vh5H782w",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】エッジ！もうすぐプラ２に上がる～【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/Cj1vh5H782w/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Cj1vh5H782w",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-23T03:25:00Z",
-    "startTime": "2026-08-23T03:26:04Z",
-    "endTime": "2026-08-23T05:44:12Z",
-    "ttl": "2026-08-30T03:25:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "mavnx_ntFtE",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【雑談】紡木こかげと電話【空澄セナ/ぶいすぽっ！】",
@@ -182,19 +169,6 @@
     "streamerId": "arya_kuroha"
   },
   {
-    "id": "xsg0oRdOCUE",
-    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-    "title": "【NEW OUTFIT REVEAL】it's time to clock in ! #aryaatwork【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/xsg0oRdOCUE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=xsg0oRdOCUE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-23T01:00:00Z",
-    "startTime": "2026-08-23T01:00:27Z",
-    "endTime": "2026-08-23T06:01:36Z",
-    "ttl": "2026-08-30T01:00:00.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
     "id": "FKKbe1I3dxQ",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves 2.7 part 1◢ best tummy in solaris? | #JunoUmezono #VSPOEN",
@@ -229,18 +203,6 @@
     "startTime": "2026-08-23T20:30:23Z",
     "platform": "twitch",
     "ttl": "2026-08-30T20:30:23.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "321003775961",
-    "channelId": "aryakuroha",
-    "title": "✦ NEW OUTFIT REVEAL ! It's time to clock in !!",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/43f76333fb7b26505ba1_aryakuroha_321003775961_1787446813//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2853847434",
-    "scheduledStartTime": "2026-08-23T01:00:22Z",
-    "startTime": "2026-08-23T01:00:22Z",
-    "platform": "twitch",
-    "ttl": "2026-08-30T01:00:22.000Z",
     "streamerId": "arya_kuroha"
   }
 ]

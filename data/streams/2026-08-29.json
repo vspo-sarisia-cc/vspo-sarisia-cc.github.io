@@ -172,11 +172,12 @@
     "id": "quU80LMQuQc",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 ニチアサ 】よおおおおおおおおお【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/quU80LMQuQc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/quU80LMQuQc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=quU80LMQuQc",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-29T23:00:00Z",
     "startTime": "2026-08-29T23:08:25Z",
+    "endTime": "2026-08-30T01:21:33Z",
     "ttl": "2026-09-05T23:00:00.000Z",
     "streamerId": "komori_met"
   },
@@ -337,18 +338,6 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "316386050290",
-    "channelId": "ren_kisaragi__",
-    "title": "WCSみるぞ～～～～～",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-08-29T20:31:59Z",
-    "startTime": "2026-08-29T20:31:59Z",
-    "platform": "twitch",
-    "ttl": "2026-09-05T20:31:59.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "316382706290",
     "channelId": "hinanotachiba7",
     "title": "RUSTrennsyu",
@@ -359,6 +348,18 @@
     "platform": "twitch",
     "ttl": "2026-09-05T05:06:46.000Z",
     "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "316386050290",
+    "channelId": "ren_kisaragi__",
+    "title": "WCSみるぞ～～～～～",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/f6a36c811324b2a6f11b_ren_kisaragi___316386050290_1788035519//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2860029414",
+    "scheduledStartTime": "2026-08-29T20:32:04Z",
+    "startTime": "2026-08-29T20:32:04Z",
+    "platform": "twitch",
+    "ttl": "2026-09-05T20:32:04.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316372896113",
