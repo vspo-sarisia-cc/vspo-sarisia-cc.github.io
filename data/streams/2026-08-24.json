@@ -1,18 +1,5 @@
 [
   {
-    "id": "Ltvkn7Nir28",
-    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
-    "title": "【Minecraft】おはよ！全ロス後の絶望ログイン🥹【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/Ltvkn7Nir28/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Ltvkn7Nir28",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-24T02:00:00Z",
-    "startTime": "2026-08-24T02:01:59Z",
-    "endTime": "2026-08-24T04:56:48Z",
-    "ttl": "2026-08-31T02:00:00.000Z",
-    "streamerId": "kaga_sumire"
-  },
-  {
     "id": "ErRi_8Ld2M0",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【マインクラフト】夏祭り準備！ととちと【ぶいすぽ/花芽なずな】",
@@ -50,19 +37,6 @@
     "endTime": "2026-08-24T17:22:46Z",
     "ttl": "2026-08-31T12:00:00.000Z",
     "streamerId": "ichinose_uruha"
-  },
-  {
-    "id": "37mjoA0JV_Q",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】朝からエペするイカれたメンバーを紹介するぜ！/シノさん、ツクモくん【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/37mjoA0JV_Q/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=37mjoA0JV_Q",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-24T01:45:00Z",
-    "startTime": "2026-08-24T01:59:07Z",
-    "endTime": "2026-08-24T06:03:40Z",
-    "ttl": "2026-08-31T01:45:00.000Z",
-    "streamerId": "kurumi_noah"
   },
   {
     "id": "AcQ_AbrkMAk",
