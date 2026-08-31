@@ -9,5 +9,16 @@
     "scheduledStartTime": "2026-09-04T21:00:00Z",
     "ttl": "2026-09-11T21:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "st_10TLw4cQ",
+    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
+    "title": "【VALORANT】 diamond 3 10rr 【#VSPOEN #NarinMikure】",
+    "thumbnail": "https://i.ytimg.com/vi/st_10TLw4cQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=st_10TLw4cQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-04T03:00:00Z",
+    "ttl": "2026-09-11T03:00:00.000Z",
+    "streamerId": "narin_mikure"
   }
 ]
