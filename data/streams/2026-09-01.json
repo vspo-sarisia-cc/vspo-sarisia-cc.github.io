@@ -235,11 +235,12 @@
     "id": "Y_XS5PsJd7Y",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Apex Legends◢ SOLO IN TOKYO | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/Y_XS5PsJd7Y/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Y_XS5PsJd7Y/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Y_XS5PsJd7Y",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-01T15:11:00Z",
     "startTime": "2026-09-01T15:12:59Z",
+    "endTime": "2026-09-01T21:10:17Z",
     "ttl": "2026-09-08T15:11:00.000Z",
     "streamerId": "juno_umezono"
   },
