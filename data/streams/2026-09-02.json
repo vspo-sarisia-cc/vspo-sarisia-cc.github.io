@@ -20,5 +20,16 @@
     "scheduledStartTime": "2026-09-02T15:00:00Z",
     "ttl": "2026-09-09T15:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "Tl2-YOkQMMs",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【MINECRAFT】been a while since the last time on the server!【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/Tl2-YOkQMMs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Tl2-YOkQMMs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-02T10:00:00Z",
+    "ttl": "2026-09-09T10:00:00.000Z",
+    "streamerId": "riko_solari"
   }
 ]

@@ -120,11 +120,12 @@
     "id": "h5gzZkssz-w",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "朝から〇しはできない...Chillゲーする🌱【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/h5gzZkssz-w/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/h5gzZkssz-w/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=h5gzZkssz-w",
     "platform": "youtube",
     "scheduledStartTime": "2026-08-31T20:30:00Z",
     "startTime": "2026-08-31T20:31:34Z",
+    "endTime": "2026-08-31T23:56:42Z",
     "ttl": "2026-09-07T20:30:00.000Z",
     "streamerId": "kaminari_qpi"
   },
@@ -150,6 +151,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-08-31T22:00:00Z",
     "startTime": "2026-08-31T22:00:06Z",
+    "endTime": "2026-08-31T22:21:21Z",
     "ttl": "2026-09-07T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },

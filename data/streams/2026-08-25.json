@@ -221,19 +221,6 @@
     "streamerId": "arya_kuroha"
   },
   {
-    "id": "ug4y0TAi_gQ",
-    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-    "title": "【PRAGMATA】finale with diana ?! (contains spoilers)【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/ug4y0TAi_gQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ug4y0TAi_gQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-25T00:00:00Z",
-    "startTime": "2026-08-25T00:00:31Z",
-    "endTime": "2026-08-25T02:12:37Z",
-    "ttl": "2026-09-01T00:00:00.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
     "id": "oYirzOgu20g",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
     "title": "【2ND ANNIVERSARY】 it's only the beginning :'3 🎆 【#VSPOEN #NarinMikure】",
@@ -293,18 +280,6 @@
     "startTime": "2026-08-25T22:00:21Z",
     "platform": "twitch",
     "ttl": "2026-09-01T22:00:21.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "321198553563",
-    "channelId": "aryakuroha",
-    "title": "✦ finale with diana !! (contains spoilers)",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/63c6036066acd2011cac_aryakuroha_321198553563_1787616014//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2855614107",
-    "scheduledStartTime": "2026-08-25T00:00:21Z",
-    "startTime": "2026-08-25T00:00:21Z",
-    "platform": "twitch",
-    "ttl": "2026-09-01T00:00:21.000Z",
     "streamerId": "arya_kuroha"
   }
 ]
