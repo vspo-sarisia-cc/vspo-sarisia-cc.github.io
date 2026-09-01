@@ -1,5 +1,17 @@
 [
   {
+    "id": "_kKvSS9TTc8",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】ワールズエッジ！？元気出てきた。【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/_kKvSS9TTc8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=_kKvSS9TTc8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-01T03:15:00Z",
+    "startTime": "2026-09-01T03:19:46Z",
+    "ttl": "2026-09-08T03:15:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "b4NNTio-LDo",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【ストリートファイターリーグ JAPAN 2026】Div.S 第2節ミラー&インタビュー配信👊【ぶいすぽっ！/神成きゅぴ】",
@@ -11,14 +23,38 @@
     "streamerId": "kaminari_qpi"
   },
   {
+    "id": "cpClptAW-mg",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】ゴゴゴゴゴゴ【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/cpClptAW-mg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=cpClptAW-mg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-01T06:45:00Z",
+    "ttl": "2026-09-08T06:45:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "oPhJQsQ9rLQ",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【League of Legends】言っとくが俺はソロだ【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/oPhJQsQ9rLQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=oPhJQsQ9rLQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-01T03:00:00Z",
+    "startTime": "2026-09-01T03:01:41Z",
+    "ttl": "2026-09-08T03:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
     "id": "cV3T3uDMgKw",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Euro Truck Simulator 2 】　みなさまを送っていくマスわよ！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/cV3T3uDMgKw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/cV3T3uDMgKw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=cV3T3uDMgKw",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-01T01:00:00Z",
     "startTime": "2026-09-01T01:00:39Z",
+    "endTime": "2026-09-01T03:42:29Z",
     "ttl": "2026-09-08T01:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -32,6 +68,18 @@
     "scheduledStartTime": "2026-09-01T22:00:00Z",
     "ttl": "2026-09-08T22:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "bZux3ZXw8Wg",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【スト6】夏といえば水着 水着といえばハラショー【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/bZux3ZXw8Wg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=bZux3ZXw8Wg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-01T06:00:00Z",
+    "startTime": "2026-09-01T06:04:23Z",
+    "ttl": "2026-09-08T06:00:00.000Z",
+    "streamerId": "ginjo_saine"
   },
   {
     "id": "V_KyjvuMO_s",
@@ -48,10 +96,12 @@
     "id": "9sXuFIRMGR0",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【APEX LEGENDS】Unwashing with two cuties !!【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/9sXuFIRMGR0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/9sXuFIRMGR0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=9sXuFIRMGR0",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-01T02:00:00Z",
+    "startTime": "2026-09-01T01:55:53Z",
+    "endTime": "2026-09-01T03:59:38Z",
     "ttl": "2026-09-08T02:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -76,5 +126,29 @@
     "scheduledStartTime": "2026-09-01T13:00:00Z",
     "ttl": "2026-09-08T13:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316453423731",
+    "channelId": "saineginjo",
+    "title": "RUST終了したのでソロランクしますか",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/bc99597b897e39820e97_saineginjo_316453423731_1788242610//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2862233520",
+    "scheduledStartTime": "2026-09-01T06:03:35Z",
+    "startTime": "2026-09-01T06:03:35Z",
+    "platform": "twitch",
+    "ttl": "2026-09-08T06:03:35.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "321217390426",
+    "channelId": "aryakuroha",
+    "title": "✦ unwashing with two cuties !!",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/cf614b74d4c34a3dd057_aryakuroha_321217390426_1788227730//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2862103157",
+    "scheduledStartTime": "2026-09-01T01:55:37Z",
+    "startTime": "2026-09-01T01:55:37Z",
+    "platform": "twitch",
+    "ttl": "2026-09-08T01:55:37.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
