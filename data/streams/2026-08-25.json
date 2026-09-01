@@ -1,44 +1,5 @@
 [
   {
-    "id": "Vgfhs7-cRbM",
-    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
-    "title": "【VALORANT】でゅおランク～～～‼️【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/Vgfhs7-cRbM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Vgfhs7-cRbM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-25T12:15:00Z",
-    "startTime": "2026-08-25T12:16:56Z",
-    "endTime": "2026-08-25T15:19:28Z",
-    "ttl": "2026-09-01T12:15:00.000Z",
-    "streamerId": "kaga_sumire"
-  },
-  {
-    "id": "0pitye9RDaE",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】ちょと指のストレッチ【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/0pitye9RDaE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=0pitye9RDaE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-25T14:45:00Z",
-    "startTime": "2026-08-25T14:41:43Z",
-    "endTime": "2026-08-25T15:46:15Z",
-    "ttl": "2026-09-01T14:45:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "BmMjHUJA5oY",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 Minecraft 〗ついに畑の様子を見に行く。🍉の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/BmMjHUJA5oY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=BmMjHUJA5oY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-25T12:00:00Z",
-    "startTime": "2026-08-25T11:57:37Z",
-    "endTime": "2026-08-25T13:56:04Z",
-    "ttl": "2026-09-01T12:00:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
     "id": "823grweE1Lg",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【朝活雑談】　オハヨ＆ただいま！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -65,19 +26,6 @@
     "streamerId": "ginjo_saine"
   },
   {
-    "id": "n1HOyFgHf0M",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  日本事故物件監視協会3 -JSP3-   ◢　間違い探しは得意です   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/n1HOyFgHf0M/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=n1HOyFgHf0M",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-25T12:30:00Z",
-    "startTime": "2026-08-25T12:30:40Z",
-    "endTime": "2026-08-25T15:59:27Z",
-    "ttl": "2026-09-01T12:30:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
     "id": "BOPVUdgtbjI",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【ZATSU】signing anniversary postcards !【#VSPOEN #AryaKuroha】",
@@ -89,31 +37,6 @@
     "endTime": "2026-08-26T04:12:49Z",
     "ttl": "2026-09-01T22:00:00.000Z",
     "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "4A8hH2Wjt3k",
-    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
-    "title": "【2ND ANNIVERSARY】Come celebrate with me!!! #RikoTurnsTwo【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/4A8hH2Wjt3k/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=4A8hH2Wjt3k",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-25T12:00:00Z",
-    "startTime": "2026-08-25T12:01:36Z",
-    "endTime": "2026-08-25T16:53:11Z",
-    "ttl": "2026-09-01T12:00:00.000Z",
-    "streamerId": "riko_solari"
-  },
-  {
-    "id": "316366295538",
-    "channelId": "ramuneshiranami",
-    "title": "【valheim】新しいバイオーム探検",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/53f6bce81106a191a9c7_ramuneshiranami_316366295538_1787659215//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2855975857",
-    "scheduledStartTime": "2026-08-25T12:00:20Z",
-    "startTime": "2026-08-25T12:00:20Z",
-    "platform": "twitch",
-    "ttl": "2026-09-01T12:00:20.000Z",
-    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316367485170",
