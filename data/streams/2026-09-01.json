@@ -156,6 +156,18 @@
     "streamerId": "sendo_yuuhi"
   },
   {
+    "id": "VmOF9uma7JM",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【朝活雑談】　もう９月！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/VmOF9uma7JM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=VmOF9uma7JM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-01T22:00:00Z",
+    "startTime": "2026-09-01T22:00:15Z",
+    "ttl": "2026-09-08T22:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "cV3T3uDMgKw",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Euro Truck Simulator 2 】　みなさまを送っていくマスわよ！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -166,17 +178,6 @@
     "startTime": "2026-09-01T01:00:39Z",
     "endTime": "2026-09-01T03:42:29Z",
     "ttl": "2026-09-08T01:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "VmOF9uma7JM",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【朝活雑談】　もう９月！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/VmOF9uma7JM/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=VmOF9uma7JM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-01T22:00:00Z",
-    "ttl": "2026-09-08T22:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {

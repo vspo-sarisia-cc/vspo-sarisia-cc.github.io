@@ -53,5 +53,16 @@
     "scheduledStartTime": "2026-09-02T10:00:00Z",
     "ttl": "2026-09-09T10:00:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "MQAxKHvtS2E",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Minecraft◢ EXPLORING MY DREAMS IN VSPO! | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/MQAxKHvtS2E/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=MQAxKHvtS2E",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-02T10:30:00Z",
+    "ttl": "2026-09-09T10:30:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
