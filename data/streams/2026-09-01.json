@@ -3,11 +3,12 @@
     "id": "RrYawHLDsuw",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【Escape from Tarkov】夏休み終わっちゃったねw. rpr うぉうぉ　【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/RrYawHLDsuw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/RrYawHLDsuw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=RrYawHLDsuw",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-01T11:00:00Z",
     "startTime": "2026-09-01T11:05:53Z",
+    "endTime": "2026-09-01T17:08:39Z",
     "ttl": "2026-09-08T11:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -195,11 +196,12 @@
     "id": "V_KyjvuMO_s",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【OUTLAST TRIALS】  First time group d-d-date...!  【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/V_KyjvuMO_s/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/V_KyjvuMO_s/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=V_KyjvuMO_s",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-01T13:00:00Z",
     "startTime": "2026-09-01T13:05:05Z",
+    "endTime": "2026-09-01T16:39:28Z",
     "ttl": "2026-09-08T13:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -242,18 +244,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316398337650",
-    "channelId": "akarindao",
-    "title": "寝りの前の雑談",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-09-01T14:36:41Z",
-    "startTime": "2026-09-01T14:36:41Z",
-    "platform": "twitch",
-    "ttl": "2026-09-08T14:36:41.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316453770995",
     "channelId": "asumisena",
     "title": "TFTやるよ～",
@@ -276,6 +266,18 @@
     "platform": "twitch",
     "ttl": "2026-09-08T10:32:25.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316398337650",
+    "channelId": "akarindao",
+    "title": "寝りの前の雑談",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/4891db096654dd25f0b9_akarindao_316398337650_1788273401//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2862450681",
+    "scheduledStartTime": "2026-09-01T14:36:47Z",
+    "startTime": "2026-09-01T14:36:47Z",
+    "platform": "twitch",
+    "ttl": "2026-09-08T14:36:47.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316397201266",
