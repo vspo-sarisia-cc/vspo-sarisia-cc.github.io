@@ -156,6 +156,19 @@
     "streamerId": "tatsumaki_chise"
   },
   {
+    "id": "ikuf97yGro4",
+    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+    "title": "【Pratfall】땅파자 님들 w. hebi isha【#VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/ikuf97yGro4/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=ikuf97yGro4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-03T11:00:00Z",
+    "startTime": "2026-09-03T11:01:29Z",
+    "endTime": "2026-09-03T14:51:34Z",
+    "ttl": "2026-09-10T11:00:00.000Z",
+    "streamerId": "jira_jisaki"
+  },
+  {
     "id": "IqOi9WdijLQ",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【OVERWATCH】coming back to this game after my detox LAWL【#VSPOEN #RikoSolari】",
@@ -163,6 +176,7 @@
     "url": "https://www.youtube.com/watch?v=IqOi9WdijLQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-03T19:30:00Z",
+    "startTime": "2026-09-03T19:31:23Z",
     "ttl": "2026-09-10T19:30:00.000Z",
     "streamerId": "riko_solari"
   },
