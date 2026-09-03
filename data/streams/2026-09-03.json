@@ -172,13 +172,26 @@
     "id": "IqOi9WdijLQ",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【OVERWATCH】coming back to this game after my detox LAWL【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/IqOi9WdijLQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/IqOi9WdijLQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=IqOi9WdijLQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-03T19:30:00Z",
     "startTime": "2026-09-03T19:31:23Z",
+    "endTime": "2026-09-03T21:54:19Z",
     "ttl": "2026-09-10T19:30:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "316398518385",
+    "channelId": "shinomiya_runa",
+    "title": "おはよー",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinomiya_runa-320x180.jpg",
+    "url": "https://www.twitch.tv/shinomiya_runa",
+    "scheduledStartTime": "2026-09-03T23:14:54Z",
+    "startTime": "2026-09-03T23:14:54Z",
+    "platform": "twitch",
+    "ttl": "2026-09-10T23:14:54.000Z",
+    "streamerId": "shinomiya_runa"
   },
   {
     "id": "316405413362",
@@ -203,6 +216,18 @@
     "platform": "twitch",
     "ttl": "2026-09-10T13:07:30.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316398517745",
+    "channelId": "shinomiya_runa",
+    "title": "おはよー",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/55069767edd9e99da712_shinomiya_runa_316398517745_1788477261//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2864554330",
+    "scheduledStartTime": "2026-09-03T23:14:27Z",
+    "startTime": "2026-09-03T23:14:27Z",
+    "platform": "twitch",
+    "ttl": "2026-09-10T23:14:27.000Z",
+    "streamerId": "shinomiya_runa"
   },
   {
     "id": "316405945074",
