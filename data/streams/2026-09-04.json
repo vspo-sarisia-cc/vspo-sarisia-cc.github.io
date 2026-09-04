@@ -18,6 +18,7 @@
     "url": "https://www.youtube.com/watch?v=aFvDQ_bbL1w",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-04T00:00:00Z",
+    "startTime": "2026-09-04T00:00:37Z",
     "ttl": "2026-09-11T00:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -42,5 +43,17 @@
     "scheduledStartTime": "2026-09-04T03:00:00Z",
     "ttl": "2026-09-11T03:00:00.000Z",
     "streamerId": "narin_mikure"
+  },
+  {
+    "id": "321259096026",
+    "channelId": "aryakuroha",
+    "title": "✦ lil chat before i go !!",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-09-04T00:00:22Z",
+    "startTime": "2026-09-04T00:00:22Z",
+    "platform": "twitch",
+    "ttl": "2026-09-11T00:00:22.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
