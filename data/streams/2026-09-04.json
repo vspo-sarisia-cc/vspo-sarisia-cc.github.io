@@ -3,13 +3,38 @@
     "id": "XX2tIDDGBRg",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】げきねむで失礼【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/XX2tIDDGBRg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/XX2tIDDGBRg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=XX2tIDDGBRg",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-04T04:30:00Z",
     "startTime": "2026-09-04T04:30:19Z",
+    "endTime": "2026-09-04T06:44:25Z",
     "ttl": "2026-09-11T04:30:00.000Z",
     "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "LAHOgFXIt8g",
+    "channelId": "UC61OwuYOVuKkpKnid-43Twg",
+    "title": "【キングダムハーツHD1.5+2.5】KINGDOM HEARTS II FINAL MIX ＃５【ぶいすぽ/白波らむね】",
+    "thumbnail": "https://i.ytimg.com/vi/LAHOgFXIt8g/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=LAHOgFXIt8g",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-04T07:30:00Z",
+    "startTime": "2026-09-04T07:33:36Z",
+    "ttl": "2026-09-11T07:30:00.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "nkOAe_rmowc",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　本日も気合ソロランク   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/nkOAe_rmowc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=nkOAe_rmowc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-04T06:30:00Z",
+    "startTime": "2026-09-04T06:35:59Z",
+    "ttl": "2026-09-11T06:30:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "SL1mhkpVsXE",
@@ -58,6 +83,18 @@
     "endTime": "2026-09-04T05:11:51Z",
     "ttl": "2026-09-11T01:45:00.000Z",
     "streamerId": "narin_mikure"
+  },
+  {
+    "id": "316400229105",
+    "channelId": "ren_kisaragi__",
+    "title": "ストリートファイターリーグJAPAN 2026 DivisionF 第2節 ミラー配信w/もか、2BASSAくん",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-09-04T09:40:25Z",
+    "startTime": "2026-09-04T09:40:25Z",
+    "platform": "twitch",
+    "ttl": "2026-09-11T09:40:25.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "321259096026",
