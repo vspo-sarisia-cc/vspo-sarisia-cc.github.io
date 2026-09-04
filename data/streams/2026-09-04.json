@@ -21,8 +21,20 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-09-04T13:30:00Z",
     "startTime": "2026-09-04T13:34:07Z",
+    "endTime": "2026-09-04T14:53:53Z",
     "ttl": "2026-09-11T13:30:00.000Z",
     "streamerId": "kaminari_qpi"
+  },
+  {
+    "id": "SEpGlvELWKE",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "エマのクラッチに感動するらっだぁ【ぶいすぽっ！/ 藍沢エマ/絲依とい/ぺいんと/ちーの/らっだぁ/VALORANT/救急隊】",
+    "thumbnail": "https://i.ytimg.com/vi/SEpGlvELWKE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=SEpGlvELWKE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-04T22:00:00Z",
+    "ttl": "2026-09-11T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "XX2tIDDGBRg",
@@ -51,26 +63,15 @@
     "streamerId": "shiranami_ramune"
   },
   {
-    "id": "IMO8aIVGI_o",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "うたうヶﾛ🐸アーカイブはメン限🐸",
-    "thumbnail": "https://i.ytimg.com/vi/IMO8aIVGI_o/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=IMO8aIVGI_o",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-04T12:40:00Z",
-    "startTime": "2026-09-04T12:39:23Z",
-    "ttl": "2026-09-11T12:40:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
     "id": "JR2fSwNZVU4",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【ストリートファイター6】今日は俺がチャレンジャー、尻で黙らせる 銀城サイネと10先【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/JR2fSwNZVU4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/JR2fSwNZVU4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=JR2fSwNZVU4",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-04T13:30:00Z",
     "startTime": "2026-09-04T13:34:02Z",
+    "endTime": "2026-09-04T15:51:31Z",
     "ttl": "2026-09-11T13:30:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -78,13 +79,27 @@
     "id": "OLY6a8hDWGw",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【スト6】ケツドスコイVSノンデリハラショー10先 ／ゆうひ先輩【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/OLY6a8hDWGw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/OLY6a8hDWGw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=OLY6a8hDWGw",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-04T13:30:00Z",
     "startTime": "2026-09-04T13:34:05Z",
+    "endTime": "2026-09-04T15:51:37Z",
     "ttl": "2026-09-11T13:30:00.000Z",
     "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "3mza7OwQBFM",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  マシュマロ怖い話  ◢　寝る前に読ませていただく   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/3mza7OwQBFM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=3mza7OwQBFM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-04T15:00:00Z",
+    "startTime": "2026-09-04T15:03:38Z",
+    "endTime": "2026-09-04T16:35:15Z",
+    "ttl": "2026-09-11T15:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "nkOAe_rmowc",
@@ -150,18 +165,6 @@
     "streamerId": "narin_mikure"
   },
   {
-    "id": "316401602673",
-    "channelId": "ren_kisaragi__",
-    "title": "ようこそ！Mヴァイパー",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-09-04T14:03:13Z",
-    "startTime": "2026-09-04T14:03:13Z",
-    "platform": "twitch",
-    "ttl": "2026-09-11T14:03:13.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "316401188849",
     "channelId": "akarindao",
     "title": "とあるファミレスでの出来事。チルゲーで寝なさい",
@@ -174,16 +177,16 @@
     "streamerId": "yumeno_akari"
   },
   {
-    "id": "315499180784",
-    "channelId": "erissuzukami",
-    "title": "10 min yap",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
-    "url": "https://www.twitch.tv/erissuzukami",
-    "scheduledStartTime": "2026-09-04T12:45:54Z",
-    "startTime": "2026-09-04T12:45:54Z",
+    "id": "316401602673",
+    "channelId": "ren_kisaragi__",
+    "title": "ようこそ！Mヴァイパー",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/f95f638cc8c432b5db3d_ren_kisaragi___316401602673_1788530593//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2865012896",
+    "scheduledStartTime": "2026-09-04T14:03:18Z",
+    "startTime": "2026-09-04T14:03:18Z",
     "platform": "twitch",
-    "ttl": "2026-09-11T12:45:54.000Z",
-    "streamerId": "eris_suzukami"
+    "ttl": "2026-09-11T14:03:18.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316400229105",

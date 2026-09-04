@@ -1,18 +1,5 @@
 [
   {
-    "id": "Kn2LRc53CzM",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【RUST】sasa先生の教えをフルで活かす建築士【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/Kn2LRc53CzM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Kn2LRc53CzM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-28T14:45:00Z",
-    "startTime": "2026-08-28T14:44:06Z",
-    "endTime": "2026-08-28T21:16:47Z",
-    "ttl": "2026-09-04T14:45:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
     "id": "A4zoUqlRqAA",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "〇✕クイズに苦戦するメンバーをみてご満悦なエマ【ぶいすぽっ！/ 藍沢エマ/空澄セナ/八雲べに/甘結もか/蝶屋はなび/#ぶいすぽマイクラ夏祭り2026】",
@@ -52,19 +39,6 @@
     "streamerId": "arya_kuroha"
   },
   {
-    "id": "ahR1o0GOuYc",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Machine Party◢ juno make friends in not friendly game | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/ahR1o0GOuYc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ahR1o0GOuYc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-28T17:00:00Z",
-    "startTime": "2026-08-28T17:05:09Z",
-    "endTime": "2026-08-28T18:58:29Z",
-    "ttl": "2026-09-04T17:00:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
     "id": "316371088753",
     "channelId": "hinanotachiba7",
     "title": "RUSTrennsyu",
@@ -75,30 +49,6 @@
     "platform": "twitch",
     "ttl": "2026-09-04T17:56:24.000Z",
     "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "316370608241",
-    "channelId": "hinanotachiba7",
-    "title": "RUSTrennsyu",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/1f7dabc0b8dcc966bed6_hinanotachiba7_316370608241_1787929898//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2858791920",
-    "scheduledStartTime": "2026-08-28T15:11:43Z",
-    "startTime": "2026-08-28T15:11:43Z",
-    "platform": "twitch",
-    "ttl": "2026-09-04T15:11:43.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "316380575986",
-    "channelId": "ren_kisaragi__",
-    "title": "WCSをみるぞ～～～～～～～～",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/1cbda5194158c3da59c6_ren_kisaragi___316380575986_1787931081//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2858804694",
-    "scheduledStartTime": "2026-08-28T15:31:26Z",
-    "startTime": "2026-08-28T15:31:26Z",
-    "platform": "twitch",
-    "ttl": "2026-09-04T15:31:26.000Z",
-    "streamerId": "kisaragi_ren"
   },
   {
     "id": "321158137434",
