@@ -182,18 +182,6 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "316398518385",
-    "channelId": "shinomiya_runa",
-    "title": "おはよー",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinomiya_runa-320x180.jpg",
-    "url": "https://www.twitch.tv/shinomiya_runa",
-    "scheduledStartTime": "2026-09-03T23:14:54Z",
-    "startTime": "2026-09-03T23:14:54Z",
-    "platform": "twitch",
-    "ttl": "2026-09-10T23:14:54.000Z",
-    "streamerId": "shinomiya_runa"
-  },
-  {
     "id": "316405413362",
     "channelId": "asumisena",
     "title": "寝起きTFT",
@@ -216,6 +204,18 @@
     "platform": "twitch",
     "ttl": "2026-09-10T13:07:30.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316398518385",
+    "channelId": "shinomiya_runa",
+    "title": "おはよー",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/1da987925074bc356d55_shinomiya_runa_316398518385_1788477294//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2864554740",
+    "scheduledStartTime": "2026-09-03T23:14:59Z",
+    "startTime": "2026-09-03T23:14:59Z",
+    "platform": "twitch",
+    "ttl": "2026-09-10T23:14:59.000Z",
+    "streamerId": "shinomiya_runa"
   },
   {
     "id": "316398517745",

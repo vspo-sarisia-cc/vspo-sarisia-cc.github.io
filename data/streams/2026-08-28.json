@@ -104,19 +104,6 @@
     "streamerId": "yano_kuromu"
   },
   {
-    "id": "oAPB8DZE-So",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【VALORANT】カが欲しい【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/oAPB8DZE-So/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=oAPB8DZE-So",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-28T06:00:00Z",
-    "startTime": "2026-08-28T06:02:11Z",
-    "endTime": "2026-08-28T10:09:08Z",
-    "ttl": "2026-09-04T06:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
     "id": "hLbV_1c5e_s",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【League of Legends】LEGENDUSメイヘム本番やー！！！【 ぶいすぽっ！ / 千燈ゆうひ 】",
@@ -182,19 +169,6 @@
     "streamerId": "arya_kuroha"
   },
   {
-    "id": "0rNpj_axApY",
-    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
-    "title": "【Teamfight Tactics】 new magical set!! 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/0rNpj_axApY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=0rNpj_axApY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-28T03:00:00Z",
-    "startTime": "2026-08-28T03:04:16Z",
-    "endTime": "2026-08-28T05:14:37Z",
-    "ttl": "2026-09-04T03:00:00.000Z",
-    "streamerId": "narin_mikure"
-  },
-  {
     "id": "ahR1o0GOuYc",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Machine Party◢ juno make friends in not friendly game | #JunoUmezono #VSPOEN",
@@ -219,18 +193,6 @@
     "endTime": "2026-08-28T16:35:47Z",
     "ttl": "2026-09-04T14:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316434810995",
-    "channelId": "asumisena",
-    "title": "TFTやるよ～",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/7bf7a6278fbaf2f4029d_asumisena_316434810995_1787891701//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2858505330",
-    "scheduledStartTime": "2026-08-28T04:35:07Z",
-    "startTime": "2026-08-28T04:35:07Z",
-    "platform": "twitch",
-    "ttl": "2026-09-04T04:35:07.000Z",
-    "streamerId": "asumi_sena"
   },
   {
     "id": "316371088753",

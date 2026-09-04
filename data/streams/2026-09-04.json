@@ -1,5 +1,17 @@
 [
   {
+    "id": "XX2tIDDGBRg",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】げきねむで失礼【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/XX2tIDDGBRg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=XX2tIDDGBRg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-04T04:30:00Z",
+    "startTime": "2026-09-04T04:30:19Z",
+    "ttl": "2026-09-11T04:30:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "SL1mhkpVsXE",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【Counter-Strike 2】   Doggo & Doodle  |  Premier  【#VSPOEN #RemiaAotsuki】",
@@ -14,11 +26,12 @@
     "id": "aFvDQ_bbL1w",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【ZATSU】before i go~!!【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/aFvDQ_bbL1w/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/aFvDQ_bbL1w/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=aFvDQ_bbL1w",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-04T00:00:00Z",
     "startTime": "2026-09-04T00:00:37Z",
+    "endTime": "2026-09-04T02:01:09Z",
     "ttl": "2026-09-11T00:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -37,23 +50,25 @@
     "id": "st_10TLw4cQ",
     "channelId": "UCKSpM183c85d5V2cW5qaUjA",
     "title": "【VALORANT】 diamond 3 10rr 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/st_10TLw4cQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/st_10TLw4cQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=st_10TLw4cQ",
     "platform": "youtube",
-    "scheduledStartTime": "2026-09-04T03:00:00Z",
-    "ttl": "2026-09-11T03:00:00.000Z",
+    "scheduledStartTime": "2026-09-04T01:45:00Z",
+    "startTime": "2026-09-04T02:43:59Z",
+    "endTime": "2026-09-04T05:11:51Z",
+    "ttl": "2026-09-11T01:45:00.000Z",
     "streamerId": "narin_mikure"
   },
   {
     "id": "321259096026",
     "channelId": "aryakuroha",
     "title": "✦ lil chat before i go !!",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-09-04T00:00:22Z",
-    "startTime": "2026-09-04T00:00:22Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/c0e120fbf1a4c4591fa8_aryakuroha_321259096026_1788480022//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2864590350",
+    "scheduledStartTime": "2026-09-04T00:00:29Z",
+    "startTime": "2026-09-04T00:00:29Z",
     "platform": "twitch",
-    "ttl": "2026-09-11T00:00:22.000Z",
+    "ttl": "2026-09-11T00:00:29.000Z",
     "streamerId": "arya_kuroha"
   }
 ]
