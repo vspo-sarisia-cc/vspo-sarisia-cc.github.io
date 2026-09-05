@@ -11,6 +11,17 @@
     "streamerId": "kaga_nazuna"
   },
   {
+    "id": "2E11pDZv-24",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "やほやほ　（イカゲームの話もしたい）【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/2E11pDZv-24/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=2E11pDZv-24",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-05T04:30:00Z",
+    "ttl": "2026-09-12T04:30:00.000Z",
+    "streamerId": "amayui_moka"
+  },
+  {
     "id": "KVI5yOzbjXg",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【BOTchi CS2 Tournament】  May the best BOTchi win!   【#VSPOEN #RemiaAotsuki】",
@@ -20,5 +31,17 @@
     "scheduledStartTime": "2026-09-05T13:30:00Z",
     "ttl": "2026-09-12T13:30:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "316413439858",
+    "channelId": "akarindao",
+    "title": "CR REVIVE本番！！！いくわよー！#crruts #Revive",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-09-05T02:23:54Z",
+    "startTime": "2026-09-05T02:23:54Z",
+    "platform": "twitch",
+    "ttl": "2026-09-12T02:23:54.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
