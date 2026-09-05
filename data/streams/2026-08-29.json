@@ -1,44 +1,5 @@
 [
   {
-    "id": "PcmmpYsUmww",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【Escape from Tarkov】初めてのライトハウスに行きたいの！バレバレイドあじゃじゃ【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/PcmmpYsUmww/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=PcmmpYsUmww",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-29T13:30:00Z",
-    "startTime": "2026-08-29T13:26:53Z",
-    "endTime": "2026-08-29T20:42:47Z",
-    "ttl": "2026-09-05T13:30:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
-    "id": "GCCEC0anuEc",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【RUST】レオラスに参戦！内政大臣になりたい！！！【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/GCCEC0anuEc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=GCCEC0anuEc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-29T14:00:00Z",
-    "startTime": "2026-08-29T13:48:18Z",
-    "endTime": "2026-08-29T18:03:17Z",
-    "ttl": "2026-09-05T14:00:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
-    "id": "sbbsqPqv26s",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 夜ふかし雑談 】#88 1時間かけて角煮作ったらまじでうまかったぞ！【ぶいすぽっ！胡桃のあ】",
-    "thumbnail": "https://i.ytimg.com/vi/sbbsqPqv26s/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=sbbsqPqv26s",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-29T14:00:00Z",
-    "startTime": "2026-08-29T14:03:08Z",
-    "endTime": "2026-08-29T16:48:09Z",
-    "ttl": "2026-09-05T14:00:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "nE2tAt4NsNY",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【ほの暮らしの庭】完全初見✨深夜の夏休みスローライフを味見【空澄セナ/ぶいすぽっ！】",
@@ -78,19 +39,6 @@
     "streamerId": "komori_met"
   },
   {
-    "id": "Kqc-3-UpsYI",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【レオカスRUST】ガチPVP1日目後半戦 ／ けんきさん、わきをさん、すみれ先輩【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/Kqc-3-UpsYI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Kqc-3-UpsYI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-29T13:45:00Z",
-    "startTime": "2026-08-29T13:43:23Z",
-    "endTime": "2026-08-29T18:02:16Z",
-    "ttl": "2026-09-05T13:45:00.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
     "id": "ZWBNFJ4TnJY",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【PEAK】  Can we reach the peak? New update! 【#VSPOEN #RemiaAotsuki】",
@@ -104,19 +52,6 @@
     "streamerId": "remia_aotsuki"
   },
   {
-    "id": "SyMvkqlWIn0",
-    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
-    "title": "【WORK STREAM】so much work to do....【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/SyMvkqlWIn0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=SyMvkqlWIn0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-29T13:15:00Z",
-    "startTime": "2026-08-29T13:27:25Z",
-    "endTime": "2026-08-29T19:34:59Z",
-    "ttl": "2026-09-05T13:15:00.000Z",
-    "streamerId": "riko_solari"
-  },
-  {
     "id": "316386050290",
     "channelId": "ren_kisaragi__",
     "title": "WCSみるぞ～～～～～",
@@ -127,17 +62,5 @@
     "platform": "twitch",
     "ttl": "2026-09-05T20:32:04.000Z",
     "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316384759922",
-    "channelId": "akarindao",
-    "title": "この世の全てのスクラップを集める",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/aed58e3a47887bdf5a2e_akarindao_316384759922_1788010264//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2859682632",
-    "scheduledStartTime": "2026-08-29T13:31:09Z",
-    "startTime": "2026-08-29T13:31:09Z",
-    "platform": "twitch",
-    "ttl": "2026-09-05T13:31:09.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]

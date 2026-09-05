@@ -19,17 +19,32 @@
     "url": "https://www.youtube.com/watch?v=4y5GiQpgJgo",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-05T12:00:00Z",
+    "startTime": "2026-09-05T12:04:29Z",
     "ttl": "2026-09-12T12:00:00.000Z",
     "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "sQM_byCQThk",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 夜ふかし雑談 】#88 たいちょうがわるい！【ぶいすぽっ！胡桃のあ】",
+    "thumbnail": "https://i.ytimg.com/vi/sQM_byCQThk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=sQM_byCQThk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-05T14:00:00Z",
+    "startTime": "2026-09-05T14:02:08Z",
+    "ttl": "2026-09-12T14:00:00.000Z",
+    "streamerId": "kurumi_noah"
   },
   {
     "id": "blY6cuyNjrs",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【Machine Party】ぶいすぽメンバーと不穏なゲームw/小森めと.龍巻ちせ.蝶屋はなび【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/blY6cuyNjrs/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/blY6cuyNjrs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=blY6cuyNjrs",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-05T12:00:00Z",
+    "startTime": "2026-09-05T11:59:40Z",
+    "endTime": "2026-09-05T14:01:55Z",
     "ttl": "2026-09-12T12:00:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -41,6 +56,7 @@
     "url": "https://www.youtube.com/watch?v=M2XtRJIZTlw",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-05T12:00:00Z",
+    "startTime": "2026-09-05T12:04:30Z",
     "ttl": "2026-09-12T12:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -58,6 +74,18 @@
     "streamerId": "tachibana_hinano"
   },
   {
+    "id": "N8DHlyHsm30",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【APEX】OTBNぺっくす w/うるはひなーの【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/N8DHlyHsm30/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=N8DHlyHsm30",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-05T12:00:00Z",
+    "startTime": "2026-09-05T12:04:20Z",
+    "ttl": "2026-09-12T12:00:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
     "id": "cD8LeEpGvt0",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【雑談】９月こんにちは【ぶいすぽ/八雲べに】",
@@ -71,36 +99,39 @@
     "streamerId": "yakumo_beni"
   },
   {
-    "id": "N8DHlyHsm30",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【APEX】OTBNぺっくす w/うるはひなーの【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/N8DHlyHsm30/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=N8DHlyHsm30",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-05T12:00:00Z",
-    "ttl": "2026-09-12T12:00:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
     "id": "nr0Xbq8bzGk",
     "channelId": "UC61OwuYOVuKkpKnid-43Twg",
     "title": "【キングダムハーツHD1.5+2.5】KINGDOM HEARTS II FINAL MIX ＃６【ぶいすぽ/白波らむね】",
-    "thumbnail": "https://i.ytimg.com/vi/nr0Xbq8bzGk/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/nr0Xbq8bzGk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=nr0Xbq8bzGk",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-05T10:00:00Z",
     "startTime": "2026-09-05T10:00:29Z",
+    "endTime": "2026-09-05T14:12:36Z",
     "ttl": "2026-09-12T10:00:00.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "Iyr1AzGVtZU",
+    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
+    "title": "【 ニチアサ 】花粉やばいよね？【 ぶいすぽっ！ / 小森めと 】",
+    "thumbnail": "https://i.ytimg.com/vi/Iyr1AzGVtZU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Iyr1AzGVtZU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-05T23:00:00Z",
+    "ttl": "2026-09-12T23:00:00.000Z",
+    "streamerId": "komori_met"
   },
   {
     "id": "NMWE8FEfxCQ",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 Machine Party 今日こそ、勝たねば / w セナちゃん ちーたま はなびちゃん【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/NMWE8FEfxCQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/NMWE8FEfxCQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=NMWE8FEfxCQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-05T12:00:00Z",
+    "startTime": "2026-09-05T12:01:07Z",
+    "endTime": "2026-09-05T14:02:40Z",
     "ttl": "2026-09-12T12:00:00.000Z",
     "streamerId": "komori_met"
   },
@@ -118,6 +149,19 @@
     "streamerId": "sendo_yuuhi"
   },
   {
+    "id": "Yf7ZJ5pHU60",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【 Machine Party  】　ぶいすぽメンバーとおもろそうなゲームを！！！！！！！！！w/セナ先輩、めと先輩、ちーたま　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/Yf7ZJ5pHU60/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Yf7ZJ5pHU60",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-05T12:00:00Z",
+    "startTime": "2026-09-05T11:59:55Z",
+    "endTime": "2026-09-05T14:03:51Z",
+    "ttl": "2026-09-12T12:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "DeLwgUdPSUs",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 日本事故物件監視協会2 -JSP2-  】　絶対に霊の侵入をゆるさない！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -128,17 +172,6 @@
     "startTime": "2026-09-05T05:44:30Z",
     "endTime": "2026-09-05T07:39:29Z",
     "ttl": "2026-09-12T05:45:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "Yf7ZJ5pHU60",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【 Machine Party  】　ぶいすぽメンバーとおもろそうなゲームを！！！！！！！！！w/セナ先輩、めと先輩、ちーたま　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/Yf7ZJ5pHU60/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=Yf7ZJ5pHU60",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-05T12:00:00Z",
-    "ttl": "2026-09-12T12:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -158,11 +191,12 @@
     "id": "GUARWYcJML0",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【スト6】昨日の学びを活かしたい！な！【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/GUARWYcJML0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/GUARWYcJML0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=GUARWYcJML0",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-05T08:30:00Z",
     "startTime": "2026-09-05T08:31:50Z",
+    "endTime": "2026-09-05T12:46:48Z",
     "ttl": "2026-09-12T08:30:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -170,10 +204,12 @@
     "id": "nzix0S3Wj1M",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  Machine Party ◢　パーティゲームきたああ！！先輩方とやらせていただく！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/nzix0S3Wj1M/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/nzix0S3Wj1M/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=nzix0S3Wj1M",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-05T12:00:00Z",
+    "startTime": "2026-09-05T12:01:19Z",
+    "endTime": "2026-09-05T14:04:19Z",
     "ttl": "2026-09-12T12:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -185,6 +221,7 @@
     "url": "https://www.youtube.com/watch?v=KVI5yOzbjXg",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-05T13:30:00Z",
+    "startTime": "2026-09-05T13:28:00Z",
     "ttl": "2026-09-12T13:30:00.000Z",
     "streamerId": "remia_aotsuki"
   },
