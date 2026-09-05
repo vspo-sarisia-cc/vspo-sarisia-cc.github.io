@@ -1,31 +1,5 @@
 [
   {
-    "id": "nE2tAt4NsNY",
-    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
-    "title": "【ほの暮らしの庭】完全初見✨深夜の夏休みスローライフを味見【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/nE2tAt4NsNY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=nE2tAt4NsNY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-29T15:30:00Z",
-    "startTime": "2026-08-29T15:32:39Z",
-    "endTime": "2026-08-29T19:05:00Z",
-    "ttl": "2026-09-05T15:30:00.000Z",
-    "streamerId": "asumi_sena"
-  },
-  {
-    "id": "KsCU2mru7Gs",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 RUST 】レオラスいきます！2【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/KsCU2mru7Gs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=KsCU2mru7Gs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-29T16:30:00Z",
-    "startTime": "2026-08-29T16:31:10Z",
-    "endTime": "2026-08-29T18:06:46Z",
-    "ttl": "2026-09-05T16:30:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
     "id": "quU80LMQuQc",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 ニチアサ 】よおおおおおおおおお【 ぶいすぽっ！ / 小森めと 】",
@@ -37,19 +11,6 @@
     "endTime": "2026-08-30T01:21:33Z",
     "ttl": "2026-09-05T23:00:00.000Z",
     "streamerId": "komori_met"
-  },
-  {
-    "id": "ZWBNFJ4TnJY",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "【PEAK】  Can we reach the peak? New update! 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/ZWBNFJ4TnJY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ZWBNFJ4TnJY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-29T15:00:00Z",
-    "startTime": "2026-08-29T15:00:43Z",
-    "endTime": "2026-08-29T18:05:49Z",
-    "ttl": "2026-09-05T15:00:00.000Z",
-    "streamerId": "remia_aotsuki"
   },
   {
     "id": "316386050290",
