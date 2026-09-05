@@ -1,18 +1,5 @@
 [
   {
-    "id": "XOKi9GKj0Mw",
-    "channelId": "UCuI5XaO-6VkOEhHao6ij7JA",
-    "title": "【無料パート＆挑戦者同時視聴配信】ノンデリ王2026【#ぶいすぽ激ロー】",
-    "thumbnail": "https://i.ytimg.com/vi/XOKi9GKj0Mw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=XOKi9GKj0Mw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-29T10:50:00Z",
-    "startTime": "2026-08-29T10:50:13Z",
-    "endTime": "2026-08-29T13:25:50Z",
-    "ttl": "2026-09-05T10:50:00.000Z",
-    "streamerId": "vspo_official"
-  },
-  {
     "id": "PcmmpYsUmww",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【Escape from Tarkov】初めてのライトハウスに行きたいの！バレバレイドあじゃじゃ【ぶいすぽ/花芽なずな】",
@@ -78,19 +65,6 @@
     "streamerId": "tachibana_hinano"
   },
   {
-    "id": "1XzI6ZH-KjU",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【RUST】レオラス一日目！チームapex 　w/niru、こはく、dtto．　【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/1XzI6ZH-KjU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=1XzI6ZH-KjU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-29T09:00:00Z",
-    "startTime": "2026-08-29T09:00:48Z",
-    "endTime": "2026-08-29T18:09:24Z",
-    "ttl": "2026-09-05T09:00:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
     "id": "quU80LMQuQc",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 ニチアサ 】よおおおおおおおおお【 ぶいすぽっ！ / 小森めと 】",
@@ -102,45 +76,6 @@
     "endTime": "2026-08-30T01:21:33Z",
     "ttl": "2026-09-05T23:00:00.000Z",
     "streamerId": "komori_met"
-  },
-  {
-    "id": "YmapJNL4BaM",
-    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
-    "title": "【 Escape from Tarkov 】いつまでも、赤ちゃん /w はなびちゃん エニ【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/YmapJNL4BaM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=YmapJNL4BaM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-29T11:00:00Z",
-    "startTime": "2026-08-29T11:02:07Z",
-    "endTime": "2026-08-29T15:48:45Z",
-    "ttl": "2026-09-05T11:00:00.000Z",
-    "streamerId": "komori_met"
-  },
-  {
-    "id": "9r7QBE2gvLI",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【つむ飯】みんな、今週は何作ったー？🍚#５【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/9r7QBE2gvLI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=9r7QBE2gvLI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-29T09:00:00Z",
-    "startTime": "2026-08-29T09:01:26Z",
-    "endTime": "2026-08-29T10:02:25Z",
-    "ttl": "2026-09-05T09:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "7-q4eL7iE-Q",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【 Escape from TARKOV 】　たるこふいくぞーーーー！！！？！w/エニ、めと先輩【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/7-q4eL7iE-Q/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=7-q4eL7iE-Q",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-29T11:00:00Z",
-    "startTime": "2026-08-29T11:01:54Z",
-    "endTime": "2026-08-29T15:50:04Z",
-    "ttl": "2026-09-05T11:00:00.000Z",
-    "streamerId": "choya_hanabi"
   },
   {
     "id": "Kqc-3-UpsYI",
