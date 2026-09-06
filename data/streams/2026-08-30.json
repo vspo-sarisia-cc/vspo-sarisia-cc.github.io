@@ -1,31 +1,5 @@
 [
   {
-    "id": "_WsU66bRJRQ",
-    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
-    "title": "【DrainSim】夏休み終盤。深夜のチル睡眠導入【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/_WsU66bRJRQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=_WsU66bRJRQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-30T15:30:00Z",
-    "startTime": "2026-08-30T15:33:54Z",
-    "endTime": "2026-08-30T20:07:20Z",
-    "ttl": "2026-09-06T15:30:00.000Z",
-    "streamerId": "asumi_sena"
-  },
-  {
-    "id": "ebINXp5ik9o",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【雑談】カルピスは自分で作るのがすきですな【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/ebINXp5ik9o/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ebINXp5ik9o",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-30T14:30:00Z",
-    "startTime": "2026-08-30T14:40:59Z",
-    "endTime": "2026-08-30T17:53:05Z",
-    "ttl": "2026-09-06T14:30:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
     "id": "DAokhV7TJ44",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【雑談】いつぶりですか？まだ夏ですか？【ぶいすぽっ！ #銀城サイネ 】",
@@ -50,18 +24,5 @@
     "endTime": "2026-08-30T22:40:36Z",
     "ttl": "2026-09-06T20:00:00.000Z",
     "streamerId": "riko_solari"
-  },
-  {
-    "id": "ZPHTsPGA_6I",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Wuthering Waves 2.7 part 2◢ FINALE ! DEFEATING THE LEVIATHAN | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/ZPHTsPGA_6I/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ZPHTsPGA_6I",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-30T15:00:00Z",
-    "startTime": "2026-08-30T15:01:09Z",
-    "endTime": "2026-08-30T19:28:10Z",
-    "ttl": "2026-09-06T15:00:00.000Z",
-    "streamerId": "juno_umezono"
   }
 ]
