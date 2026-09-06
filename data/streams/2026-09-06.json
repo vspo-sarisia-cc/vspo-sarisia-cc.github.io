@@ -7,8 +7,34 @@
     "url": "https://www.youtube.com/watch?v=YOLIy6yVd2M",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-06T09:30:00Z",
+    "startTime": "2026-09-06T09:30:06Z",
+    "endTime": "2026-09-06T09:39:08Z",
     "ttl": "2026-09-13T09:30:00.000Z",
     "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "ZOuVk1avhpQ",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【ポケモン剣盾】またさ、旅に出ようよ【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/ZOuVk1avhpQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ZOuVk1avhpQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-06T10:30:00Z",
+    "startTime": "2026-09-06T10:31:00Z",
+    "ttl": "2026-09-13T10:30:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "pSg1aoP6N3k",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】小柳ロウさんとハセシンとフルパいくぞ～🐺【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/pSg1aoP6N3k/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=pSg1aoP6N3k",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-06T11:00:00Z",
+    "startTime": "2026-09-06T11:02:22Z",
+    "ttl": "2026-09-13T11:00:00.000Z",
+    "streamerId": "kurumi_noah"
   },
   {
     "id": "Nu0z_y62ZCM",
@@ -24,14 +50,27 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "xk2GeIpeQyc",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 ゼルダの伝説 風のタクト 】#1 完全初見風のタクト！【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/xk2GeIpeQyc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=xk2GeIpeQyc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-06T10:00:00Z",
+    "startTime": "2026-09-06T10:00:45Z",
+    "ttl": "2026-09-13T10:00:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
     "id": "sMwK75Tsizo",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【 Escape from Tarkov 】昼樽 w/麻婆豆腐、dexyuku【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/sMwK75Tsizo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/sMwK75Tsizo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=sMwK75Tsizo",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-06T04:30:00Z",
     "startTime": "2026-09-06T04:37:17Z",
+    "endTime": "2026-09-06T10:13:09Z",
     "ttl": "2026-09-13T04:30:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -61,16 +100,53 @@
     "streamerId": "shiranami_ramune"
   },
   {
+    "id": "KQZA-5FOgWQ",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "腹痛カエル",
+    "thumbnail": "https://i.ytimg.com/vi/KQZA-5FOgWQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=KQZA-5FOgWQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-06T11:05:00Z",
+    "startTime": "2026-09-06T11:05:47Z",
+    "ttl": "2026-09-13T11:05:00.000Z",
+    "streamerId": "yano_kuromu"
+  },
+  {
     "id": "MgopQQWE05o",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "LJL 2026 SUMMER CHAMPIONSHIP GRAND FINALS 公式ウォッチパーティー！【ぶいすぽっ！/千燈ゆうひ】",
-    "thumbnail": "https://i.ytimg.com/vi/MgopQQWE05o/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/MgopQQWE05o/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=MgopQQWE05o",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-06T03:00:00Z",
     "startTime": "2026-09-06T02:59:58Z",
+    "endTime": "2026-09-06T11:00:02Z",
     "ttl": "2026-09-13T03:00:00.000Z",
     "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "poEAyZJC-gA",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【スト6】ザンギの何とやらを教えてくださるらしいです ／ しんじさん【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/poEAyZJC-gA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=poEAyZJC-gA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-06T10:00:00Z",
+    "startTime": "2026-09-06T10:04:56Z",
+    "ttl": "2026-09-13T10:00:00.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "IejEgp6JN3w",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　300LPいくぞ！うぉい！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/IejEgp6JN3w/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=IejEgp6JN3w",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-06T12:00:00Z",
+    "startTime": "2026-09-06T12:02:58Z",
+    "ttl": "2026-09-13T12:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "bSQPAhI2Tsk",
