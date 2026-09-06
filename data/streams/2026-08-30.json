@@ -11,18 +11,5 @@
     "endTime": "2026-08-30T22:23:37Z",
     "ttl": "2026-09-06T21:00:00.000Z",
     "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "_TW07pQDLrk",
-    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
-    "title": "【WORK STREAM】late night workge【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/_TW07pQDLrk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=_TW07pQDLrk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-30T20:00:00Z",
-    "startTime": "2026-08-30T20:01:08Z",
-    "endTime": "2026-08-30T22:40:36Z",
-    "ttl": "2026-09-06T20:00:00.000Z",
-    "streamerId": "riko_solari"
   }
 ]
