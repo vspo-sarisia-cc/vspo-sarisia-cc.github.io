@@ -312,19 +312,6 @@
     "streamerId": "tatsumaki_chise"
   },
   {
-    "id": "2_cEucRFreQ",
-    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-    "title": "【APEX LEGENDS】Wingmen Custom Viewer Games !!【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/2_cEucRFreQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=2_cEucRFreQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-30T00:00:00Z",
-    "startTime": "2026-08-30T00:01:22Z",
-    "endTime": "2026-08-30T02:51:41Z",
-    "ttl": "2026-09-06T00:00:00.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
     "id": "_TW07pQDLrk",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【WORK STREAM】late night workge【#VSPOEN #RikoSolari】",
@@ -361,17 +348,5 @@
     "platform": "twitch",
     "ttl": "2026-09-06T05:01:18.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "321286180955",
-    "channelId": "aryakuroha",
-    "title": "✦ wingmen custom viewer games !!",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/eaf86eb319bb97d92d85_aryakuroha_321286180955_1788048065//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2860193110",
-    "scheduledStartTime": "2026-08-30T00:01:14Z",
-    "startTime": "2026-08-30T00:01:14Z",
-    "platform": "twitch",
-    "ttl": "2026-09-06T00:01:14.000Z",
-    "streamerId": "arya_kuroha"
   }
 ]

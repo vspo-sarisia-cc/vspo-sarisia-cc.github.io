@@ -104,6 +104,18 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "2RX7YYXYhOo",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 雑談 】周回しながらしゃべる【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/2RX7YYXYhOo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=2RX7YYXYhOo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-05T22:55:00Z",
+    "startTime": "2026-09-05T23:00:24Z",
+    "ttl": "2026-09-12T22:55:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
     "id": "nr0Xbq8bzGk",
     "channelId": "UC61OwuYOVuKkpKnid-43Twg",
     "title": "【キングダムハーツHD1.5+2.5】KINGDOM HEARTS II FINAL MIX ＃６【ぶいすぽ/白波らむね】",
@@ -124,6 +136,7 @@
     "url": "https://www.youtube.com/watch?v=Iyr1AzGVtZU",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-05T23:00:00Z",
+    "startTime": "2026-09-05T23:00:16Z",
     "ttl": "2026-09-12T23:00:00.000Z",
     "streamerId": "komori_met"
   },
