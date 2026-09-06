@@ -169,6 +169,18 @@
     "streamerId": "sendo_yuuhi"
   },
   {
+    "id": "mYRq8F2TDn4",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【雑談】月曜日の朝に起きれてえらい【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/mYRq8F2TDn4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=mYRq8F2TDn4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-06T21:45:00Z",
+    "startTime": "2026-09-06T21:46:16Z",
+    "ttl": "2026-09-13T21:45:00.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
     "id": "poEAyZJC-gA",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【スト6】ザンギの何とやらを教えてくださるらしいです ／ しんじさん【ぶいすぽっ！ #銀城サイネ 】",
@@ -211,12 +223,12 @@
     "id": "316478318067",
     "channelId": "akarindao",
     "title": "1万年ぶりのスト6。キャラかえて１から始める",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-09-06T14:31:54Z",
-    "startTime": "2026-09-06T14:31:54Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/b7750f131dccdab7576c_akarindao_316478318067_1788705114//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2866925504",
+    "scheduledStartTime": "2026-09-06T14:31:59Z",
+    "startTime": "2026-09-06T14:31:59Z",
     "platform": "twitch",
-    "ttl": "2026-09-13T14:31:54.000Z",
+    "ttl": "2026-09-13T14:31:59.000Z",
     "streamerId": "yumeno_akari"
   }
 ]
