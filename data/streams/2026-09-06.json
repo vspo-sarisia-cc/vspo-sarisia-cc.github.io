@@ -1,13 +1,25 @@
 [
   {
+    "id": "YOLIy6yVd2M",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【Escape from Tarkov】なずぴ成長記録２日目☆初めてのソロ脱出に挑戦！PMCに挑む！【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/YOLIy6yVd2M/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=YOLIy6yVd2M",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-06T09:30:00Z",
+    "ttl": "2026-09-13T09:30:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "Nu0z_y62ZCM",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】シノさん、ゴリちゃんとフルパ～🍌【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/Nu0z_y62ZCM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Nu0z_y62ZCM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Nu0z_y62ZCM",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-06T04:55:00Z",
     "startTime": "2026-09-06T04:57:03Z",
+    "endTime": "2026-09-06T08:00:33Z",
     "ttl": "2026-09-13T04:55:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -27,7 +39,7 @@
     "id": "4W12C-nJm20",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【OVERWATCH】CR Revive 本番！勝つぞ！　【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/4W12C-nJm20/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/4W12C-nJm20/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4W12C-nJm20",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-06T02:30:00Z",
@@ -35,6 +47,18 @@
     "endTime": "2026-09-06T04:06:42Z",
     "ttl": "2026-09-13T02:30:00.000Z",
     "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "OZjJpDbk4gA",
+    "channelId": "UC61OwuYOVuKkpKnid-43Twg",
+    "title": "【キングダムハーツHD1.5+2.5】KINGDOM HEARTS II FINAL MIX ＃７【ぶいすぽ/白波らむね】",
+    "thumbnail": "https://i.ytimg.com/vi/OZjJpDbk4gA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=OZjJpDbk4gA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-06T08:00:00Z",
+    "startTime": "2026-09-06T08:03:38Z",
+    "ttl": "2026-09-13T08:00:00.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "MgopQQWE05o",
