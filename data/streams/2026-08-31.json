@@ -1,18 +1,5 @@
 [
   {
-    "id": "Iu89aYnSXVE",
-    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
-    "title": "【RUST】PVP EVENT DEATH GAMEに参加する 最終日【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/Iu89aYnSXVE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Iu89aYnSXVE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-31T05:30:00Z",
-    "startTime": "2026-08-31T05:41:55Z",
-    "endTime": "2026-08-31T13:13:17Z",
-    "ttl": "2026-09-07T05:30:00.000Z",
-    "streamerId": "kaga_sumire"
-  },
-  {
     "id": "qgdhjK9Gfyg",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【Escape from Tarkov】今日もタルコフするぞお　Rioくん　【ぶいすぽ/花芽なずな】",
@@ -52,19 +39,6 @@
     "streamerId": "kogara_toto"
   },
   {
-    "id": "TD9JWCapwgs",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【RUST】レオラス最終日　行く末【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/TD9JWCapwgs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=TD9JWCapwgs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-31T06:30:00Z",
-    "startTime": "2026-08-31T06:21:33Z",
-    "endTime": "2026-08-31T15:20:04Z",
-    "ttl": "2026-09-07T06:30:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
     "id": "NwxVa65_P1I",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】今日はソロで少しだけ…！【 ぶいすぽっ！胡桃のあ 】",
@@ -89,32 +63,6 @@
     "endTime": "2026-08-31T16:58:35Z",
     "ttl": "2026-09-07T15:10:00.000Z",
     "streamerId": "asumi_sena"
-  },
-  {
-    "id": "7meVyjTNXZw",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 RUST 】レオラス最終日！【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/7meVyjTNXZw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=7meVyjTNXZw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-31T05:10:00Z",
-    "startTime": "2026-08-31T05:17:30Z",
-    "endTime": "2026-08-31T17:44:10Z",
-    "ttl": "2026-09-07T05:10:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "flZ89YVLAVg",
-    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
-    "title": "【RUST】レオラス最終日　レイドできるのか/ワタル、デュク氏、うるは先輩【ぶいすぽっ！/英リサ】",
-    "thumbnail": "https://i.ytimg.com/vi/flZ89YVLAVg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=flZ89YVLAVg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-31T05:15:00Z",
-    "startTime": "2026-08-31T05:24:35Z",
-    "endTime": "2026-08-31T15:34:51Z",
-    "ttl": "2026-09-07T05:15:00.000Z",
-    "streamerId": "hanabusa_lisa"
   },
   {
     "id": "h5gzZkssz-w",
@@ -156,32 +104,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "sHBYemXGwAA",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【RUST】レオラス三日目！最終日だああああ 　w/niru、こはく、dtto．　【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/sHBYemXGwAA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=sHBYemXGwAA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-31T09:30:00Z",
-    "startTime": "2026-08-31T09:24:37Z",
-    "endTime": "2026-08-31T17:05:36Z",
-    "ttl": "2026-09-07T09:30:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "7YEzyhsDxzw",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【ストリートファイター6】昼にやるストといえば…【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/7YEzyhsDxzw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=7YEzyhsDxzw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-31T07:00:00Z",
-    "startTime": "2026-08-31T07:00:27Z",
-    "endTime": "2026-08-31T09:02:34Z",
-    "ttl": "2026-09-07T07:00:00.000Z",
-    "streamerId": "sendo_yuuhi"
-  },
-  {
     "id": "fRk6k7kaj4c",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 閉店事件 】　３０万人記念企画のホラゲその３！！ラストだああああ！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -208,19 +130,6 @@
     "streamerId": "amayui_moka"
   },
   {
-    "id": "SXNuNCPd4AE",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【RUST 最終日】やる側なのかやられる側なのか ／ けんきさん、わきをさん、すみれ先輩【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/SXNuNCPd4AE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=SXNuNCPd4AE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-31T05:30:00Z",
-    "startTime": "2026-08-31T05:44:16Z",
-    "endTime": "2026-08-31T12:55:06Z",
-    "ttl": "2026-09-07T05:30:00.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
     "id": "eCVC5W_DqRQ",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【Counter-Strike 2】 23K doom   |  Premier  【#VSPOEN #RemiaAotsuki】",
@@ -232,32 +141,6 @@
     "endTime": "2026-08-31T15:40:38Z",
     "ttl": "2026-09-07T12:00:00.000Z",
     "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "SBIk6yWrT4U",
-    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
-    "title": "【R.E.P.O】 suber excited!! 【#VSPOEN #NarinMikure】",
-    "thumbnail": "https://i.ytimg.com/vi/SBIk6yWrT4U/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=SBIk6yWrT4U",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-31T07:00:00Z",
-    "startTime": "2026-08-31T07:05:39Z",
-    "endTime": "2026-08-31T09:04:11Z",
-    "ttl": "2026-09-07T07:00:00.000Z",
-    "streamerId": "narin_mikure"
-  },
-  {
-    "id": "atqopUxKBT4",
-    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
-    "title": "【R.E.P.O.】fun collab :D【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/atqopUxKBT4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=atqopUxKBT4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-08-31T07:00:00Z",
-    "startTime": "2026-08-31T07:03:27Z",
-    "endTime": "2026-08-31T09:41:33Z",
-    "ttl": "2026-09-07T07:00:00.000Z",
-    "streamerId": "riko_solari"
   },
   {
     "id": "wQpJhP0mwx0",
