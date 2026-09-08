@@ -112,6 +112,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-09-07T22:00:00Z",
     "startTime": "2026-09-07T22:00:06Z",
+    "endTime": "2026-09-07T22:19:45Z",
     "ttl": "2026-09-14T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -298,18 +299,6 @@
     "streamerId": "remia_aotsuki"
   },
   {
-    "id": "316425878258",
-    "channelId": "akarindao",
-    "title": "ｱｶｲﾝグリッド２日目",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-09-07T15:01:27Z",
-    "startTime": "2026-09-07T15:01:27Z",
-    "platform": "twitch",
-    "ttl": "2026-09-14T15:01:27.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316426150514",
     "channelId": "ren_kisaragi__",
     "title": "ぶいすぽ対戦会",
@@ -332,5 +321,17 @@
     "platform": "twitch",
     "ttl": "2026-09-14T11:20:52.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316425878258",
+    "channelId": "akarindao",
+    "title": "ｱｶｲﾝグリッド２日目",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/461057d7b44d65a60725_akarindao_316425878258_1788793287//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2867825388",
+    "scheduledStartTime": "2026-09-07T15:01:32Z",
+    "startTime": "2026-09-07T15:01:32Z",
+    "platform": "twitch",
+    "ttl": "2026-09-14T15:01:32.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
