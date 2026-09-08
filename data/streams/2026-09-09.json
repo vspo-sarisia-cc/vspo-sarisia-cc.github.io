@@ -9,5 +9,16 @@
     "scheduledStartTime": "2026-09-09T13:30:00Z",
     "ttl": "2026-09-16T13:30:00.000Z",
     "streamerId": "asumi_sena"
+  },
+  {
+    "id": "kmYPHmOAM3c",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Dota 2◢ valo practice trust | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/kmYPHmOAM3c/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=kmYPHmOAM3c",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-09T13:00:00Z",
+    "ttl": "2026-09-16T13:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
