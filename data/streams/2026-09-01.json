@@ -11,30 +11,5 @@
     "endTime": "2026-09-02T00:15:56Z",
     "ttl": "2026-09-08T22:00:00.000Z",
     "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "Y_XS5PsJd7Y",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Apex Legends◢ SOLO IN TOKYO | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/Y_XS5PsJd7Y/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Y_XS5PsJd7Y",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-01T15:11:00Z",
-    "startTime": "2026-09-01T15:12:59Z",
-    "endTime": "2026-09-01T21:10:17Z",
-    "ttl": "2026-09-08T15:11:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316398337650",
-    "channelId": "akarindao",
-    "title": "寝りの前の雑談",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/4891db096654dd25f0b9_akarindao_316398337650_1788273401//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2862450681",
-    "scheduledStartTime": "2026-09-01T14:36:47Z",
-    "startTime": "2026-09-01T14:36:47Z",
-    "platform": "twitch",
-    "ttl": "2026-09-08T14:36:47.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
