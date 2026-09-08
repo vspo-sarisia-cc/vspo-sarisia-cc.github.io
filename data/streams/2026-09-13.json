@@ -9,5 +9,16 @@
     "scheduledStartTime": "2026-09-13T14:00:00Z",
     "ttl": "2026-09-20T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "yK62q7V_JvE",
+    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
+    "title": "interstellar watchparty w/ eris!! da big space 🔭",
+    "thumbnail": "https://i.ytimg.com/vi/yK62q7V_JvE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=yK62q7V_JvE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-13T03:00:00Z",
+    "ttl": "2026-09-20T03:00:00.000Z",
+    "streamerId": "narin_mikure"
   }
 ]
