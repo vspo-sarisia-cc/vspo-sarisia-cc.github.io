@@ -39,19 +39,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "RTieM4dfn4E",
-    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
-    "title": "【#ぶいすぽマイクラ夏祭り2026】ENメンバーを案内するよ～ 【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/RTieM4dfn4E/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=RTieM4dfn4E",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-02T10:00:00Z",
-    "startTime": "2026-09-02T10:06:57Z",
-    "endTime": "2026-09-02T12:51:02Z",
-    "ttl": "2026-09-09T10:00:00.000Z",
-    "streamerId": "tosaki_mimi"
-  },
-  {
     "id": "3xaO1hdKXtc",
     "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
     "title": "【BOMBANANA!】見えない、言えない、聞こえない/つむぎちゃん、うるは先輩【ぶいすぽっ！/英リサ】",
@@ -75,19 +62,6 @@
     "startTime": "2026-09-02T13:32:43Z",
     "endTime": "2026-09-02T15:35:30Z",
     "ttl": "2026-09-09T13:30:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "7qW450cLjbA",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】ｽﾞｷｭｳｳｳﾝ【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/7qW450cLjbA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=7qW450cLjbA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-02T06:15:00Z",
-    "startTime": "2026-09-02T06:12:06Z",
-    "endTime": "2026-09-02T09:53:02Z",
-    "ttl": "2026-09-09T06:15:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -206,45 +180,6 @@
     "endTime": "2026-09-02T17:42:12Z",
     "ttl": "2026-09-09T15:00:00.000Z",
     "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "IKiYQ-uZcD0",
-    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
-    "title": "【Minecraft】exploring the VSPO! server~【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/IKiYQ-uZcD0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=IKiYQ-uZcD0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-02T10:00:00Z",
-    "startTime": "2026-09-02T10:00:28Z",
-    "endTime": "2026-09-02T13:35:37Z",
-    "ttl": "2026-09-09T10:00:00.000Z",
-    "streamerId": "jira_jisaki"
-  },
-  {
-    "id": "Tl2-YOkQMMs",
-    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
-    "title": "【MINECRAFT】been a while since the last time on the server!【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/Tl2-YOkQMMs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Tl2-YOkQMMs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-02T10:00:00Z",
-    "startTime": "2026-09-02T10:03:14Z",
-    "endTime": "2026-09-02T13:36:07Z",
-    "ttl": "2026-09-09T10:00:00.000Z",
-    "streamerId": "riko_solari"
-  },
-  {
-    "id": "MQAxKHvtS2E",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Minecraft◢ FIRST TIME IN VSPO SERVER ! | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/MQAxKHvtS2E/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=MQAxKHvtS2E",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-02T10:00:00Z",
-    "startTime": "2026-09-02T09:58:49Z",
-    "endTime": "2026-09-02T14:12:26Z",
-    "ttl": "2026-09-09T10:00:00.000Z",
-    "streamerId": "juno_umezono"
   },
   {
     "id": "316401610994",
