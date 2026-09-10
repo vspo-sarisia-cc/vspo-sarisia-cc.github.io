@@ -172,11 +172,12 @@
     "id": "sl6aExi6B-M",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【7 Days to Die】師匠ズと弟子ズでサバイバルするらしい ／ ちーたま、ガリさん、ワタル【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/sl6aExi6B-M/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/sl6aExi6B-M/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=sl6aExi6B-M",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-10T12:05:00Z",
     "startTime": "2026-09-10T12:17:52Z",
+    "endTime": "2026-09-10T19:48:56Z",
     "ttl": "2026-09-17T12:05:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -197,11 +198,12 @@
     "id": "GwDKUrRIyvY",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤   7 Days to Die ◢　4人でサバイバルするってｺﾄ？   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/GwDKUrRIyvY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/GwDKUrRIyvY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=GwDKUrRIyvY",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-10T12:00:00Z",
     "startTime": "2026-09-10T12:18:14Z",
+    "endTime": "2026-09-10T19:17:18Z",
     "ttl": "2026-09-17T12:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -232,30 +234,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316495196787",
-    "channelId": "akarindao",
-    "title": "夜活パンチ",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-09-10T11:27:20Z",
-    "startTime": "2026-09-10T11:27:20Z",
-    "platform": "twitch",
-    "ttl": "2026-09-17T11:27:20.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "315496371183",
-    "channelId": "erissuzukami",
-    "title": "vspo!en",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
-    "url": "https://www.twitch.tv/erissuzukami",
-    "scheduledStartTime": "2026-09-10T17:44:01Z",
-    "startTime": "2026-09-10T17:44:01Z",
-    "platform": "twitch",
-    "ttl": "2026-09-17T17:44:01.000Z",
-    "streamerId": "eris_suzukami"
-  },
-  {
     "id": "316437777266",
     "channelId": "ren_kisaragi__",
     "title": "リモメロれんでBOMBANANA！",
@@ -278,5 +256,17 @@
     "platform": "twitch",
     "ttl": "2026-09-17T11:27:24.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316495196787",
+    "channelId": "akarindao",
+    "title": "最高ランクダイヤ CRカップやる気あります",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/bdfd9256b3a079660a2f_akarindao_316495196787_1789039640//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2870300563",
+    "scheduledStartTime": "2026-09-10T11:27:25Z",
+    "startTime": "2026-09-10T11:27:25Z",
+    "platform": "twitch",
+    "ttl": "2026-09-17T11:27:25.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
