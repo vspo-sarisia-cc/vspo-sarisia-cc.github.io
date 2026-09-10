@@ -29,11 +29,12 @@
     "id": "_ZRW_AWvMuw",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【太鼓の達人】ほぼ音フェチ配信 - タタコンです。【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/_ZRW_AWvMuw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/_ZRW_AWvMuw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=_ZRW_AWvMuw",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-10T13:30:00Z",
     "startTime": "2026-09-10T13:29:17Z",
+    "endTime": "2026-09-10T15:35:47Z",
     "ttl": "2026-09-17T13:30:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -54,11 +55,12 @@
     "id": "_3Y72hyx1eE",
     "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
     "title": "【PUBG】とうとう来たな・・・・・・・・・・【ぶいすぽっ！/英リサ】",
-    "thumbnail": "https://i.ytimg.com/vi/_3Y72hyx1eE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/_3Y72hyx1eE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=_3Y72hyx1eE",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-10T12:10:00Z",
     "startTime": "2026-09-10T12:10:01Z",
+    "endTime": "2026-09-10T16:52:29Z",
     "ttl": "2026-09-17T12:10:00.000Z",
     "streamerId": "hanabusa_lisa"
   },
@@ -102,18 +104,6 @@
     "streamerId": "shinomiya_runa"
   },
   {
-    "id": "pPpeMo8AuIE",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【歌枠】疲れた体に効くかもしれないです【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/pPpeMo8AuIE/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=pPpeMo8AuIE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-10T12:45:00Z",
-    "startTime": "2026-09-10T12:48:38Z",
-    "ttl": "2026-09-17T12:45:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
     "id": "hB9F3dXaOA0",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【APEX】どーも、あれるでーーーす（自認）　w/渋ハル、うるーか【ぶいすぽ / 猫汰つな】",
@@ -130,10 +120,12 @@
     "id": "rzXrmymiZqg",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【絨毯を洗うゲーム】深夜のまったりお掃除【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/rzXrmymiZqg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/rzXrmymiZqg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=rzXrmymiZqg",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-10T15:00:00Z",
+    "startTime": "2026-09-10T14:56:21Z",
+    "endTime": "2026-09-10T17:13:53Z",
     "ttl": "2026-09-17T15:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -154,11 +146,12 @@
     "id": "XzuxFOsDS3o",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【ZETA RUST:SAVOGE】最終日！1位取るぞおおお！！！！！！！【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/XzuxFOsDS3o/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/XzuxFOsDS3o/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=XzuxFOsDS3o",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-10T08:00:00Z",
     "startTime": "2026-09-10T07:57:35Z",
+    "endTime": "2026-09-10T16:08:51Z",
     "ttl": "2026-09-17T08:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -166,11 +159,12 @@
     "id": "gkDspiEGuSA",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "#2【 BIOHAZARD RE:4 】　これはどういう世界なんやドキドキ！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/gkDspiEGuSA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/gkDspiEGuSA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=gkDspiEGuSA",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-10T10:30:00Z",
     "startTime": "2026-09-10T10:30:26Z",
+    "endTime": "2026-09-10T15:44:42Z",
     "ttl": "2026-09-17T10:30:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -240,7 +234,7 @@
   {
     "id": "316495196787",
     "channelId": "akarindao",
-    "title": "最高ランクダイヤ CRカップやる気あります",
+    "title": "夜活パンチ",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
     "url": "https://www.twitch.tv/akarindao",
     "scheduledStartTime": "2026-09-10T11:27:20Z",
@@ -250,16 +244,16 @@
     "streamerId": "yumeno_akari"
   },
   {
-    "id": "316495196531",
-    "channelId": "ramuneshiranami",
-    "title": "【APEX】不人気キャラ使えるようになる予定です伸び代あります w/あかりん つるぎ",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-09-10T11:27:19Z",
-    "startTime": "2026-09-10T11:27:19Z",
+    "id": "315496371183",
+    "channelId": "erissuzukami",
+    "title": "vspo!en",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
+    "url": "https://www.twitch.tv/erissuzukami",
+    "scheduledStartTime": "2026-09-10T17:44:01Z",
+    "startTime": "2026-09-10T17:44:01Z",
     "platform": "twitch",
-    "ttl": "2026-09-17T11:27:19.000Z",
-    "streamerId": "shiranami_ramune"
+    "ttl": "2026-09-17T17:44:01.000Z",
+    "streamerId": "eris_suzukami"
   },
   {
     "id": "316437777266",
@@ -274,15 +268,15 @@
     "streamerId": "kisaragi_ren"
   },
   {
-    "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozN30=",
-    "channelId": "remiaaotsuki",
-    "title": "EU faceit elo gain?",
-    "thumbnail": "",
-    "url": "https://www.twitch.tv/remiaaotsuki",
-    "scheduledStartTime": "2026-09-10T14:00:00Z",
-    "startTime": "2026-09-10T14:00:00Z",
+    "id": "316495196531",
+    "channelId": "ramuneshiranami",
+    "title": "【APEX】不人気キャラ使えるようになる予定です伸び代あります w/あかりん つるぎ",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/bcebfa72414c9a5fe3a2_ramuneshiranami_316495196531_1789039639//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2870300559",
+    "scheduledStartTime": "2026-09-10T11:27:24Z",
+    "startTime": "2026-09-10T11:27:24Z",
     "platform": "twitch",
-    "ttl": "2026-09-17T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
+    "ttl": "2026-09-17T11:27:24.000Z",
+    "streamerId": "shiranami_ramune"
   }
 ]
