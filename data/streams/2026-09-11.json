@@ -1,5 +1,27 @@
 [
   {
+    "id": "kGnRCo3fgmE",
+    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
+    "title": "ひさしぶり、だね【ぶいすぽっ！/花芽すみれ】",
+    "thumbnail": "https://i.ytimg.com/vi/kGnRCo3fgmE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=kGnRCo3fgmE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-11T12:00:00Z",
+    "ttl": "2026-09-18T12:00:00.000Z",
+    "streamerId": "kaga_sumire"
+  },
+  {
+    "id": "8PaQVrbQjnA",
+    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
+    "title": "🎀『カウントダウンラブ』 / ぶいすぽっ！【Cover】",
+    "thumbnail": "https://i.ytimg.com/vi/8PaQVrbQjnA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=8PaQVrbQjnA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-11T10:00:00Z",
+    "ttl": "2026-09-18T10:00:00.000Z",
+    "streamerId": "kaga_sumire"
+  },
+  {
     "id": "SfK8uHW_P1U",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【BOMBANANA!】   CS2 Players SPEED Defusing 【#VSPOEN #RemiaAotsuki】",
@@ -20,5 +42,16 @@
     "scheduledStartTime": "2026-09-11T03:00:00Z",
     "ttl": "2026-09-18T03:00:00.000Z",
     "streamerId": "narin_mikure"
+  },
+  {
+    "id": "qMEZNnV11lE",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Wuthering Waves 2.8◢ potential girl meets potential girl | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/qMEZNnV11lE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=qMEZNnV11lE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-11T14:00:00Z",
+    "ttl": "2026-09-18T14:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
