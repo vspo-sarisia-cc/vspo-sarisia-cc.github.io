@@ -78,6 +78,19 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "esfT8I1_cxc",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "貞子があまりにも怖すぎてガチ絶叫するエマ【ぶいすぽっ！/ 藍沢エマ/胡桃のあ/橘ひなの/紫宮るな/Dead by Daylight】",
+    "thumbnail": "https://i.ytimg.com/vi/esfT8I1_cxc/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=esfT8I1_cxc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-11T22:00:00Z",
+    "startTime": "2026-09-11T22:00:06Z",
+    "endTime": "2026-09-11T22:21:49Z",
+    "ttl": "2026-09-18T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "aTuAd2rLabY",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】もうよるだ【ぶいすぽっ！/ 藍沢エマ】",
@@ -88,17 +101,6 @@
     "startTime": "2026-09-11T14:11:15Z",
     "endTime": "2026-09-11T16:57:32Z",
     "ttl": "2026-09-18T14:05:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "esfT8I1_cxc",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "貞子があまりにも怖すぎてガチ絶叫するエマ【ぶいすぽっ！/ 藍沢エマ/胡桃のあ/橘ひなの/紫宮るな/Dead by Daylight】",
-    "thumbnail": "https://i.ytimg.com/vi/esfT8I1_cxc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=esfT8I1_cxc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-11T22:00:00Z",
-    "ttl": "2026-09-18T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -187,6 +189,7 @@
     "url": "https://www.youtube.com/watch?v=SfK8uHW_P1U",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-11T21:00:00Z",
+    "startTime": "2026-09-11T21:09:44Z",
     "ttl": "2026-09-18T21:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -220,12 +223,12 @@
     "id": "316444232434",
     "channelId": "ren_kisaragi__",
     "title": "こんな時間から始めるM-C",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-09-11T19:03:21Z",
-    "startTime": "2026-09-11T19:03:21Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/e6c1aacb54dbf2a15732_ren_kisaragi___316444232434_1789153401//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2871466854",
+    "scheduledStartTime": "2026-09-11T19:03:26Z",
+    "startTime": "2026-09-11T19:03:26Z",
     "platform": "twitch",
-    "ttl": "2026-09-18T19:03:21.000Z",
+    "ttl": "2026-09-18T19:03:26.000Z",
     "streamerId": "kisaragi_ren"
   },
   {
