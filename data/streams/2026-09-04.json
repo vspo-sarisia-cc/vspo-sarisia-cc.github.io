@@ -143,19 +143,6 @@
     "streamerId": "remia_aotsuki"
   },
   {
-    "id": "aFvDQ_bbL1w",
-    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-    "title": "【ZATSU】before i go~!!【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/aFvDQ_bbL1w/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=aFvDQ_bbL1w",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-04T00:00:00Z",
-    "startTime": "2026-09-04T00:00:37Z",
-    "endTime": "2026-09-04T02:01:09Z",
-    "ttl": "2026-09-11T00:00:00.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
     "id": "V9IYlHqfnY4",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【League of Legends】DIA IKUZOOOOOOOOOOO【#VSPOEN #JiraJisaki】",
@@ -216,17 +203,5 @@
     "platform": "twitch",
     "ttl": "2026-09-11T12:53:33.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "321259096026",
-    "channelId": "aryakuroha",
-    "title": "✦ lil chat before i go !!",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/c0e120fbf1a4c4591fa8_aryakuroha_321259096026_1788480022//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2864590350",
-    "scheduledStartTime": "2026-09-04T00:00:29Z",
-    "startTime": "2026-09-04T00:00:29Z",
-    "platform": "twitch",
-    "ttl": "2026-09-11T00:00:29.000Z",
-    "streamerId": "arya_kuroha"
   }
 ]
