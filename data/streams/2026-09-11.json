@@ -42,11 +42,12 @@
     "id": "dISnUtLtHDc",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 ゼルダの伝説 風のタクト 】#4 完全初見 GCコンが届いた女のゼルダ【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/dISnUtLtHDc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/dISnUtLtHDc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=dISnUtLtHDc",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-11T10:15:00Z",
     "startTime": "2026-09-11T10:19:43Z",
+    "endTime": "2026-09-11T18:26:37Z",
     "ttl": "2026-09-18T10:15:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -214,6 +215,18 @@
     "endTime": "2026-09-11T10:55:32Z",
     "ttl": "2026-09-18T07:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316444232434",
+    "channelId": "ren_kisaragi__",
+    "title": "こんな時間から始めるM-C",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-09-11T19:03:21Z",
+    "startTime": "2026-09-11T19:03:21Z",
+    "platform": "twitch",
+    "ttl": "2026-09-18T19:03:21.000Z",
+    "streamerId": "kisaragi_ren"
   },
   {
     "id": "316499034099",
