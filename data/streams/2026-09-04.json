@@ -1,31 +1,5 @@
 [
   {
-    "id": "6xlyspMaXcE",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】体調不良に負けるな【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/6xlyspMaXcE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=6xlyspMaXcE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-04T11:00:00Z",
-    "startTime": "2026-09-04T11:03:16Z",
-    "endTime": "2026-09-04T13:21:03Z",
-    "ttl": "2026-09-11T11:00:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
-    "id": "dNrTm5vFLzk",
-    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
-    "title": "【STREET FIGHTER 6】千燈VS銀城 10先を観戦【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/dNrTm5vFLzk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=dNrTm5vFLzk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-04T13:30:00Z",
-    "startTime": "2026-09-04T13:34:07Z",
-    "endTime": "2026-09-04T14:53:53Z",
-    "ttl": "2026-09-11T13:30:00.000Z",
-    "streamerId": "kaminari_qpi"
-  },
-  {
     "id": "SEpGlvELWKE",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "エマのクラッチに感動するらっだぁ【ぶいすぽっ！/ 藍沢エマ/絲依とい/ぺいんと/ちーの/らっだぁ/VALORANT/救急隊】",
@@ -52,32 +26,6 @@
     "streamerId": "nekota_tsuna"
   },
   {
-    "id": "JR2fSwNZVU4",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【ストリートファイター6】今日は俺がチャレンジャー、尻で黙らせる 銀城サイネと10先【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/JR2fSwNZVU4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=JR2fSwNZVU4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-04T13:30:00Z",
-    "startTime": "2026-09-04T13:34:02Z",
-    "endTime": "2026-09-04T15:51:31Z",
-    "ttl": "2026-09-11T13:30:00.000Z",
-    "streamerId": "sendo_yuuhi"
-  },
-  {
-    "id": "OLY6a8hDWGw",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【スト6】ケツドスコイVSノンデリハラショー10先 ／ゆうひ先輩【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/OLY6a8hDWGw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=OLY6a8hDWGw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-04T13:30:00Z",
-    "startTime": "2026-09-04T13:34:05Z",
-    "endTime": "2026-09-04T15:51:37Z",
-    "ttl": "2026-09-11T13:30:00.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
     "id": "3mza7OwQBFM",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  マシュマロ怖い話  ◢　寝る前に読ませていただく   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
@@ -102,42 +50,5 @@
     "endTime": "2026-09-05T00:27:16Z",
     "ttl": "2026-09-11T21:00:00.000Z",
     "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "V9IYlHqfnY4",
-    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
-    "title": "【League of Legends】DIA IKUZOOOOOOOOOOO【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/V9IYlHqfnY4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=V9IYlHqfnY4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-04T11:00:00Z",
-    "startTime": "2026-09-04T11:01:09Z",
-    "endTime": "2026-09-04T13:59:26Z",
-    "ttl": "2026-09-11T11:00:00.000Z",
-    "streamerId": "jira_jisaki"
-  },
-  {
-    "id": "316401602673",
-    "channelId": "ren_kisaragi__",
-    "title": "ようこそ！Mヴァイパー",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/f95f638cc8c432b5db3d_ren_kisaragi___316401602673_1788530593//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2865012896",
-    "scheduledStartTime": "2026-09-04T14:03:18Z",
-    "startTime": "2026-09-04T14:03:18Z",
-    "platform": "twitch",
-    "ttl": "2026-09-11T14:03:18.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316401188849",
-    "channelId": "akarindao",
-    "title": "とあるファミレスでの出来事。チルゲーで寝なさい",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/763f256e5462dbcadf45_akarindao_316401188849_1788526408//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2864970765",
-    "scheduledStartTime": "2026-09-04T12:53:33Z",
-    "startTime": "2026-09-04T12:53:33Z",
-    "platform": "twitch",
-    "ttl": "2026-09-11T12:53:33.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
