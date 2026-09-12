@@ -1,18 +1,5 @@
 [
   {
-    "id": "_PSFU4fpqDA",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【50万人記念配信】私の好きなFPS全部勝つまで終わりません【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/_PSFU4fpqDA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=_PSFU4fpqDA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-05T09:00:00Z",
-    "startTime": "2026-09-05T09:12:01Z",
-    "endTime": "2026-09-05T18:43:46Z",
-    "ttl": "2026-09-12T09:00:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
     "id": "4y5GiQpgJgo",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【APEX】やるぞやるぞやるぞ～【ぶいすぽ/一ノ瀬うるは】",
@@ -104,19 +91,6 @@
     "streamerId": "yakumo_beni"
   },
   {
-    "id": "qjv4TzYQNMM",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【原神】#67 夏イベ「帰夏！映影？千霊祭！」やる！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/qjv4TzYQNMM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=qjv4TzYQNMM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-05T06:00:00Z",
-    "startTime": "2026-09-05T06:00:41Z",
-    "endTime": "2026-09-05T10:48:06Z",
-    "ttl": "2026-09-12T06:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
     "id": "2RX7YYXYhOo",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 雑談 】周回しながらしゃべる【 ぶいすぽっ！/紫宮るな 】",
@@ -180,32 +154,6 @@
     "endTime": "2026-09-05T14:03:51Z",
     "ttl": "2026-09-12T12:00:00.000Z",
     "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "DeLwgUdPSUs",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【 日本事故物件監視協会2 -JSP2-  】　絶対に霊の侵入をゆるさない！！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/DeLwgUdPSUs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=DeLwgUdPSUs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-05T05:45:00Z",
-    "startTime": "2026-09-05T05:44:30Z",
-    "endTime": "2026-09-05T07:39:29Z",
-    "ttl": "2026-09-12T05:45:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "GUARWYcJML0",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【スト6】昨日の学びを活かしたい！な！【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/GUARWYcJML0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=GUARWYcJML0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-05T08:30:00Z",
-    "startTime": "2026-09-05T08:31:50Z",
-    "endTime": "2026-09-05T12:46:48Z",
-    "ttl": "2026-09-12T08:30:00.000Z",
-    "streamerId": "ginjo_saine"
   },
   {
     "id": "nzix0S3Wj1M",
