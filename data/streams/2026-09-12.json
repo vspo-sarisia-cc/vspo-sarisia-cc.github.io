@@ -55,11 +55,12 @@
     "id": "sOpMZCFHJPM",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【VALORANT】この時間に？！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/sOpMZCFHJPM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/sOpMZCFHJPM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=sOpMZCFHJPM",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-12T16:36:13Z",
     "startTime": "2026-09-12T16:44:16Z",
+    "endTime": "2026-09-12T18:35:19Z",
     "ttl": "2026-09-19T16:36:13.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -93,13 +94,27 @@
     "id": "hMIgKgj65sA",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 スト６】金色ほしいな【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/hMIgKgj65sA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/hMIgKgj65sA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=hMIgKgj65sA",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-12T16:00:00Z",
     "startTime": "2026-09-12T16:06:22Z",
+    "endTime": "2026-09-12T19:49:08Z",
     "ttl": "2026-09-19T16:00:00.000Z",
     "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "Ra3T31swSB4",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【APEX】無限エーペックス編　w/渋ハル、うるーか【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/Ra3T31swSB4/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Ra3T31swSB4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-12T15:20:00Z",
+    "startTime": "2026-09-12T15:21:01Z",
+    "endTime": "2026-09-12T19:46:34Z",
+    "ttl": "2026-09-19T15:20:00.000Z",
+    "streamerId": "nekota_tsuna"
   },
   {
     "id": "W83tVBSOA4s",
@@ -112,18 +127,6 @@
     "startTime": "2026-09-12T06:28:00Z",
     "endTime": "2026-09-12T15:19:52Z",
     "ttl": "2026-09-19T06:30:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "Ra3T31swSB4",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【APEX】無限エーペックス編　w/渋ハル、うるーか【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/Ra3T31swSB4/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=Ra3T31swSB4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-12T15:20:00Z",
-    "startTime": "2026-09-12T15:21:01Z",
-    "ttl": "2026-09-19T15:20:00.000Z",
     "streamerId": "nekota_tsuna"
   },
   {
@@ -242,18 +245,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316505084403",
-    "channelId": "hinanotachiba7",
-    "title": "まつたり",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hinanotachiba7-320x180.jpg",
-    "url": "https://www.twitch.tv/hinanotachiba7",
-    "scheduledStartTime": "2026-09-12T13:52:17Z",
-    "startTime": "2026-09-12T13:52:17Z",
-    "platform": "twitch",
-    "ttl": "2026-09-19T13:52:17.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
     "id": "316437333489",
     "channelId": "akarindao",
     "title": "ｱｶｲﾝグリッドでダイヤに行く",
@@ -264,6 +255,30 @@
     "platform": "twitch",
     "ttl": "2026-09-19T12:36:38.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316448920178",
+    "channelId": "shinomiya_runa",
+    "title": "最近の熱いスキンは",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinomiya_runa-320x180.jpg",
+    "url": "https://www.twitch.tv/shinomiya_runa",
+    "scheduledStartTime": "2026-09-12T19:49:35Z",
+    "startTime": "2026-09-12T19:49:35Z",
+    "platform": "twitch",
+    "ttl": "2026-09-19T19:49:35.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "316505084403",
+    "channelId": "hinanotachiba7",
+    "title": "まつたり",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/c63ea86add717e41d17e_hinanotachiba7_316505084403_1789221137//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2872176416",
+    "scheduledStartTime": "2026-09-12T13:52:22Z",
+    "startTime": "2026-09-12T13:52:22Z",
+    "platform": "twitch",
+    "ttl": "2026-09-19T13:52:22.000Z",
+    "streamerId": "tachibana_hinano"
   },
   {
     "id": "316504223347",

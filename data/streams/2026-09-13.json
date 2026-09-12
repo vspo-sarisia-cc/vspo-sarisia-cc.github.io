@@ -20,5 +20,16 @@
     "scheduledStartTime": "2026-09-13T06:00:00Z",
     "ttl": "2026-09-20T06:00:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "BJ5J19gX4Xw",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Valorant ^_^◢ PCute Custom Tournament Day ! | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/BJ5J19gX4Xw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=BJ5J19gX4Xw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-13T03:30:00Z",
+    "ttl": "2026-09-20T03:30:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
