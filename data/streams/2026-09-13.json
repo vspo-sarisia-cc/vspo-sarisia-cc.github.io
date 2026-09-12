@@ -9,5 +9,16 @@
     "scheduledStartTime": "2026-09-13T14:00:00Z",
     "ttl": "2026-09-20T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "Ad1swg6A6z0",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【APEX LEGENDS】chill apex from japan!!!!!【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/Ad1swg6A6z0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Ad1swg6A6z0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-13T06:00:00Z",
+    "ttl": "2026-09-20T06:00:00.000Z",
+    "streamerId": "riko_solari"
   }
 ]

@@ -1,18 +1,5 @@
 [
   {
-    "id": "sQM_byCQThk",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 夜ふかし雑談 】#88 たいちょうがわるい！【ぶいすぽっ！胡桃のあ】",
-    "thumbnail": "https://i.ytimg.com/vi/sQM_byCQThk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=sQM_byCQThk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-05T14:00:00Z",
-    "startTime": "2026-09-05T14:02:08Z",
-    "endTime": "2026-09-05T17:26:39Z",
-    "ttl": "2026-09-12T14:00:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "2RX7YYXYhOo",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 雑談 】周回しながらしゃべる【 ぶいすぽっ！/紫宮るな 】",
@@ -37,18 +24,5 @@
     "endTime": "2026-09-06T01:05:14Z",
     "ttl": "2026-09-12T23:00:00.000Z",
     "streamerId": "komori_met"
-  },
-  {
-    "id": "KVI5yOzbjXg",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "【BOTchi CS2 Tournament】  May the best BOTchi win!   【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/KVI5yOzbjXg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=KVI5yOzbjXg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-05T13:30:00Z",
-    "startTime": "2026-09-05T13:28:00Z",
-    "endTime": "2026-09-05T19:17:05Z",
-    "ttl": "2026-09-12T13:30:00.000Z",
-    "streamerId": "remia_aotsuki"
   }
 ]
