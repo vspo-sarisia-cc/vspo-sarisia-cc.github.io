@@ -245,30 +245,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316437333489",
-    "channelId": "akarindao",
-    "title": "ｱｶｲﾝグリッドでダイヤに行く",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-09-12T12:36:38Z",
-    "startTime": "2026-09-12T12:36:38Z",
-    "platform": "twitch",
-    "ttl": "2026-09-19T12:36:38.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316448920178",
-    "channelId": "shinomiya_runa",
-    "title": "最近の熱いスキンは",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinomiya_runa-320x180.jpg",
-    "url": "https://www.twitch.tv/shinomiya_runa",
-    "scheduledStartTime": "2026-09-12T19:49:35Z",
-    "startTime": "2026-09-12T19:49:35Z",
-    "platform": "twitch",
-    "ttl": "2026-09-19T19:49:35.000Z",
-    "streamerId": "shinomiya_runa"
-  },
-  {
     "id": "316505084403",
     "channelId": "hinanotachiba7",
     "title": "まつたり",
@@ -281,6 +257,18 @@
     "streamerId": "tachibana_hinano"
   },
   {
+    "id": "316448920178",
+    "channelId": "shinomiya_runa",
+    "title": "おはよー",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/16effc3e2b4abbfd4b82_shinomiya_runa_316448920178_1789242575//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2872472742",
+    "scheduledStartTime": "2026-09-12T19:49:40Z",
+    "startTime": "2026-09-12T19:49:40Z",
+    "platform": "twitch",
+    "ttl": "2026-09-19T19:49:40.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
     "id": "316504223347",
     "channelId": "ramuneshiranami",
     "title": "【スト6】暇なジェイミーとケン募集※対戦じゃないです",
@@ -291,5 +279,17 @@
     "platform": "twitch",
     "ttl": "2026-09-19T11:14:24.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316437333489",
+    "channelId": "akarindao",
+    "title": "ｱｶｲﾝグリッドでダイヤに行く",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/87024173f1c1ae7bc070_akarindao_316437333489_1789216598//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2872127791",
+    "scheduledStartTime": "2026-09-12T12:36:43Z",
+    "startTime": "2026-09-12T12:36:43Z",
+    "platform": "twitch",
+    "ttl": "2026-09-19T12:36:43.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
