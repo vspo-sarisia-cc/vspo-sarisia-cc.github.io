@@ -3,11 +3,12 @@
     "id": "YoBONoC4GZ0",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【Escape from Tarkov】シュタボか～？ラボか～？　w. あじゃ　レイド　【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/YoBONoC4GZ0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/YoBONoC4GZ0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=YoBONoC4GZ0",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-12T11:00:00Z",
     "startTime": "2026-09-12T11:08:00Z",
+    "endTime": "2026-09-12T17:39:40Z",
     "ttl": "2026-09-19T11:00:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -41,13 +42,26 @@
     "id": "qqif65URJwo",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【飲酒雑談】1番好きなお酒「噛むお酒」飲み比べ🍷深夜にしっぽりと。【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/qqif65URJwo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/qqif65URJwo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=qqif65URJwo",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-12T14:50:00Z",
     "startTime": "2026-09-12T14:52:04Z",
+    "endTime": "2026-09-12T16:28:02Z",
     "ttl": "2026-09-19T14:50:00.000Z",
     "streamerId": "asumi_sena"
+  },
+  {
+    "id": "sOpMZCFHJPM",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【VALORANT】この時間に？！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/sOpMZCFHJPM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=sOpMZCFHJPM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-12T16:36:13Z",
+    "startTime": "2026-09-12T16:44:16Z",
+    "ttl": "2026-09-19T16:36:13.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "mOSyNGXZZbw",
@@ -88,18 +102,6 @@
     "streamerId": "shinomiya_runa"
   },
   {
-    "id": "Ra3T31swSB4",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【APEX】無限エーペックス編　w/渋ハル、うるーか【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/Ra3T31swSB4/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=Ra3T31swSB4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-12T15:20:00Z",
-    "startTime": "2026-09-12T15:21:01Z",
-    "ttl": "2026-09-19T15:20:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
     "id": "W83tVBSOA4s",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【APEX】今日もやりますよ～　w/渋ハル、うるーか【ぶいすぽ / 猫汰つな】",
@@ -110,6 +112,18 @@
     "startTime": "2026-09-12T06:28:00Z",
     "endTime": "2026-09-12T15:19:52Z",
     "ttl": "2026-09-19T06:30:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "Ra3T31swSB4",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【APEX】無限エーペックス編　w/渋ハル、うるーか【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/Ra3T31swSB4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Ra3T31swSB4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-12T15:20:00Z",
+    "startTime": "2026-09-12T15:21:01Z",
+    "ttl": "2026-09-19T15:20:00.000Z",
     "streamerId": "nekota_tsuna"
   },
   {
@@ -140,11 +154,12 @@
     "id": "98bA5KLfiug",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【絨毯を洗うゲーム】寝る前に少しだけお掃除ゲーム🧹【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/98bA5KLfiug/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/98bA5KLfiug/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=98bA5KLfiug",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-12T15:23:00Z",
     "startTime": "2026-09-12T15:22:53Z",
+    "endTime": "2026-09-12T17:36:19Z",
     "ttl": "2026-09-19T15:23:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -203,12 +218,13 @@
   {
     "id": "qMEZNnV11lE",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Wuthering Waves 2.8◢ potential girl of VSPO! meets THE potential girl | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/qMEZNnV11lE/mqdefault_live.jpg",
+    "title": "◤Wuthering Waves 2.8 part 1◢ potential girl of VSPO! meets THE potential girl | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/qMEZNnV11lE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=qMEZNnV11lE",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-12T15:00:00Z",
     "startTime": "2026-09-12T15:06:25Z",
+    "endTime": "2026-09-12T16:46:08Z",
     "ttl": "2026-09-19T15:00:00.000Z",
     "streamerId": "juno_umezono"
   },
