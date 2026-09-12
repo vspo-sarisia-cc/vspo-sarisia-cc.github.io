@@ -1,9 +1,33 @@
 [
   {
+    "id": "YoBONoC4GZ0",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【Escape from Tarkov】シュタボか～？ラボか～？　w. あじゃ　レイド　【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/YoBONoC4GZ0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=YoBONoC4GZ0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-12T11:00:00Z",
+    "startTime": "2026-09-12T11:08:00Z",
+    "ttl": "2026-09-19T11:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "6YnpAARgSsI",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【ポケモン剣盾】チャンピオンカップどんなもん【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/6YnpAARgSsI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=6YnpAARgSsI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-12T10:30:00Z",
+    "startTime": "2026-09-12T10:29:39Z",
+    "ttl": "2026-09-19T10:30:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "zjGooQm83Uc",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 雑談 】雑に【ぶいすぽっ！胡桃のあ】",
-    "thumbnail": "https://i.ytimg.com/vi/zjGooQm83Uc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/zjGooQm83Uc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=zjGooQm83Uc",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-12T07:00:00Z",
@@ -13,18 +37,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "s9T7Pxi8lmk",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】ねむい完凸しました【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/s9T7Pxi8lmk/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=s9T7Pxi8lmk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-12T07:15:00Z",
-    "startTime": "2026-09-12T07:25:37Z",
-    "ttl": "2026-09-19T07:15:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
     "id": "mOSyNGXZZbw",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【原神】Ver.7.1「冥府へのレクイエム」予告番組 ミラーする！【ぶいすぽっ！/ 藍沢エマ】",
@@ -32,7 +44,21 @@
     "url": "https://www.youtube.com/watch?v=mOSyNGXZZbw",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-12T11:00:00Z",
+    "startTime": "2026-09-12T11:01:14Z",
     "ttl": "2026-09-19T11:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "s9T7Pxi8lmk",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】ねむい完凸しました【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/s9T7Pxi8lmk/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=s9T7Pxi8lmk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-12T07:15:00Z",
+    "startTime": "2026-09-12T07:25:37Z",
+    "endTime": "2026-09-12T10:14:12Z",
+    "ttl": "2026-09-19T07:15:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -48,14 +74,26 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "ZNEIsFJUuuw",
+    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
+    "title": "【 ニチアサ 】なにもしてないを、している。【 ぶいすぽっ！ / 小森めと 】",
+    "thumbnail": "https://i.ytimg.com/vi/ZNEIsFJUuuw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ZNEIsFJUuuw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-12T23:00:00Z",
+    "ttl": "2026-09-19T23:00:00.000Z",
+    "streamerId": "komori_met"
+  },
+  {
     "id": "so7laPELqf4",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【つむ飯】 今夜1番食べたいご飯を決める🍚#６【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/so7laPELqf4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/so7laPELqf4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=so7laPELqf4",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-12T09:00:00Z",
     "startTime": "2026-09-12T08:59:37Z",
+    "endTime": "2026-09-12T10:03:35Z",
     "ttl": "2026-09-19T09:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -67,6 +105,7 @@
     "url": "https://www.youtube.com/watch?v=26wiUgE6_CI",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-12T12:00:00Z",
+    "startTime": "2026-09-12T12:01:32Z",
     "ttl": "2026-09-19T12:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -78,6 +117,7 @@
     "url": "https://www.youtube.com/watch?v=y9w3Pn8CoLs",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-12T11:00:00Z",
+    "startTime": "2026-09-12T11:01:33Z",
     "ttl": "2026-09-19T11:00:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -85,11 +125,12 @@
     "id": "RKbbg33f38U",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  League of Legends  ◢　今日こそ300LPいくぞ！！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/RKbbg33f38U/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/RKbbg33f38U/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=RKbbg33f38U",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-12T07:00:00Z",
     "startTime": "2026-09-12T07:04:47Z",
+    "endTime": "2026-09-12T10:19:59Z",
     "ttl": "2026-09-19T07:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -101,6 +142,7 @@
     "url": "https://www.youtube.com/watch?v=0pzKvYeLENs",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-12T11:00:00Z",
+    "startTime": "2026-09-12T11:01:14Z",
     "ttl": "2026-09-19T11:00:00.000Z",
     "streamerId": "juno_umezono"
   },
@@ -114,5 +156,29 @@
     "scheduledStartTime": "2026-09-12T14:00:00Z",
     "ttl": "2026-09-19T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316437333489",
+    "channelId": "akarindao",
+    "title": "ｱｶｲﾝグリッドでダイヤに行く",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-09-12T12:36:38Z",
+    "startTime": "2026-09-12T12:36:38Z",
+    "platform": "twitch",
+    "ttl": "2026-09-19T12:36:38.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316504223347",
+    "channelId": "ramuneshiranami",
+    "title": "【スト6】暇なジェイミーとケン募集※対戦じゃないです",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-09-12T11:14:19Z",
+    "startTime": "2026-09-12T11:14:19Z",
+    "platform": "twitch",
+    "ttl": "2026-09-19T11:14:19.000Z",
+    "streamerId": "shiranami_ramune"
   }
 ]
