@@ -1,13 +1,26 @@
 [
   {
+    "id": "vhdTWvX106A",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【歌枠】日曜日が恒例になりつつあるアニソン歌枠【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/vhdTWvX106A/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=vhdTWvX106A",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-13T13:00:00Z",
+    "startTime": "2026-09-13T13:03:23Z",
+    "ttl": "2026-09-20T13:00:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "gr5xCaB36CQ",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【ポケモン剣盾】ここを通してもらおう【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/gr5xCaB36CQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/gr5xCaB36CQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=gr5xCaB36CQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-13T09:00:00Z",
     "startTime": "2026-09-13T09:02:09Z",
+    "endTime": "2026-09-13T10:58:14Z",
     "ttl": "2026-09-20T09:00:00.000Z",
     "streamerId": "ichinose_uruha"
   },
@@ -15,13 +28,26 @@
     "id": "SLvx7r_uBPI",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】完全復活ってことにしたい【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/SLvx7r_uBPI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/SLvx7r_uBPI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=SLvx7r_uBPI",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-13T06:30:00Z",
     "startTime": "2026-09-13T06:35:49Z",
+    "endTime": "2026-09-13T11:03:01Z",
     "ttl": "2026-09-20T06:30:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "2BzmkYBYxLk",
+    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
+    "title": "【VALORANT 】りはびり夜の部【ぶいすぽ/兎咲ミミ】",
+    "thumbnail": "https://i.ytimg.com/vi/2BzmkYBYxLk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=2BzmkYBYxLk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-13T13:20:00Z",
+    "startTime": "2026-09-13T13:22:30Z",
+    "ttl": "2026-09-20T13:20:00.000Z",
+    "streamerId": "tosaki_mimi"
   },
   {
     "id": "lnSx5hco3xk",
@@ -40,10 +66,12 @@
     "id": "YWHHQlYuiGI",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 愉悦視点 】ぶいすぽGG 橘ひなの presents ~愉悦~【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/YWHHQlYuiGI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/YWHHQlYuiGI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=YWHHQlYuiGI",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-13T11:00:00Z",
+    "startTime": "2026-09-13T11:01:36Z",
+    "endTime": "2026-09-13T13:59:41Z",
     "ttl": "2026-09-20T11:00:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -51,11 +79,12 @@
     "id": "YDkNurDpREU",
     "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
     "title": "【APEX】 参加者は誰一人来ませんでした【ぶいすぽっ！/英リサ】",
-    "thumbnail": "https://i.ytimg.com/vi/YDkNurDpREU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/YDkNurDpREU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=YDkNurDpREU",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-13T08:30:00Z",
     "startTime": "2026-09-13T08:27:57Z",
+    "endTime": "2026-09-13T11:12:34Z",
     "ttl": "2026-09-20T08:30:00.000Z",
     "streamerId": "hanabusa_lisa"
   },
@@ -63,11 +92,12 @@
     "id": "tHkCp7bVU-4",
     "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
     "title": "【ALGS Year6 Split2 Regional Finals】見守りギャル、ただいま戻りましたウォチパ👀【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/tHkCp7bVU-4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/tHkCp7bVU-4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=tHkCp7bVU-4",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-13T07:45:00Z",
     "startTime": "2026-09-13T07:51:00Z",
+    "endTime": "2026-09-13T12:13:56Z",
     "ttl": "2026-09-20T07:45:00.000Z",
     "streamerId": "kaminari_qpi"
   },
@@ -79,6 +109,7 @@
     "url": "https://www.youtube.com/watch?v=LGx87G7fnrI",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-13T10:45:00Z",
+    "startTime": "2026-09-13T10:48:10Z",
     "ttl": "2026-09-20T10:45:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -96,6 +127,18 @@
     "streamerId": "aizawa_ema"
   },
   {
+    "id": "sGD7QrjmfHA",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【APEX】上手くなりたいのだ　w/渋ハル、うるーか【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/sGD7QrjmfHA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=sGD7QrjmfHA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-13T13:45:00Z",
+    "startTime": "2026-09-13T13:35:57Z",
+    "ttl": "2026-09-20T13:45:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
     "id": "mJU26rTqzKw",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【APEX】マスター行くぞ～　w/渋ハル、うるーか【ぶいすぽ / 猫汰つな】",
@@ -107,6 +150,19 @@
     "endTime": "2026-09-13T08:31:13Z",
     "ttl": "2026-09-20T04:45:00.000Z",
     "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "7rMWAC9xhqs",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【橘ひなの presents ~愉悦~】ちょっと先輩VSちょっと後輩 つむおじ視点 #ぶいすぽGG【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/7rMWAC9xhqs/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=7rMWAC9xhqs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-13T11:00:00Z",
+    "startTime": "2026-09-13T11:00:57Z",
+    "endTime": "2026-09-13T14:00:13Z",
+    "ttl": "2026-09-20T11:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "mOZAJJIAdHg",
@@ -122,13 +178,28 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "Lp69XSkQL48",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【 #ぶいすぽGG 】ぶいすぽGG 橘ひなの presents ~愉悦~ の~愉悦される側~【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/Lp69XSkQL48/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Lp69XSkQL48",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-13T11:00:00Z",
+    "startTime": "2026-09-13T11:01:36Z",
+    "endTime": "2026-09-13T14:02:45Z",
+    "ttl": "2026-09-20T11:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
     "id": "SpuFNMhBM-g",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 #ぶいすぽGG　橘ひなの presents ~愉悦~  】　ちょっと後輩チームいくぞ！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/SpuFNMhBM-g/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/SpuFNMhBM-g/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=SpuFNMhBM-g",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-13T11:00:00Z",
+    "startTime": "2026-09-13T11:01:22Z",
+    "endTime": "2026-09-13T14:03:18Z",
     "ttl": "2026-09-20T11:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -149,10 +220,12 @@
     "id": "x1l_OzUGcao",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【#ぶいすぽGG/もか視点】橘ひなの presents ~愉悦~　ちょっと後輩チーム　【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/x1l_OzUGcao/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/x1l_OzUGcao/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=x1l_OzUGcao",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-13T11:00:00Z",
+    "startTime": "2026-09-13T11:01:35Z",
+    "endTime": "2026-09-13T13:58:52Z",
     "ttl": "2026-09-20T11:00:00.000Z",
     "streamerId": "amayui_moka"
   },
@@ -170,6 +243,19 @@
     "streamerId": "ginjo_saine"
   },
   {
+    "id": "i84EgXc1WWY",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  #ぶいすぽGG：ちせ視点  ◢  橘ひなの presents ~愉悦~ ちょっと後輩チームでやらせていただきます！ ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/i84EgXc1WWY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=i84EgXc1WWY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-13T11:00:00Z",
+    "startTime": "2026-09-13T11:01:43Z",
+    "endTime": "2026-09-13T14:01:06Z",
+    "ttl": "2026-09-20T11:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
+  },
+  {
     "id": "c97X2J6hOeI",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【Just Chatting】   Let's talk about the BOTchi Tournament! 【#VSPOEN #RemiaAotsuki】",
@@ -177,6 +263,7 @@
     "url": "https://www.youtube.com/watch?v=c97X2J6hOeI",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-13T14:00:00Z",
+    "startTime": "2026-09-13T14:16:21Z",
     "ttl": "2026-09-20T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -197,13 +284,26 @@
     "id": "BJ5J19gX4Xw",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Valorant ^_^◢ PCute Custom Tournament Day ! | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/BJ5J19gX4Xw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/BJ5J19gX4Xw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=BJ5J19gX4Xw",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-13T03:30:00Z",
     "startTime": "2026-09-13T03:33:59Z",
+    "endTime": "2026-09-13T10:59:10Z",
     "ttl": "2026-09-20T03:30:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "315523991536",
+    "channelId": "erissuzukami",
+    "title": "relaxing zatsu time",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
+    "url": "https://www.twitch.tv/erissuzukami",
+    "scheduledStartTime": "2026-09-13T13:50:15Z",
+    "startTime": "2026-09-13T13:50:15Z",
+    "platform": "twitch",
+    "ttl": "2026-09-20T13:50:15.000Z",
+    "streamerId": "eris_suzukami"
   },
   {
     "id": "316508138099",
@@ -216,5 +316,17 @@
     "platform": "twitch",
     "ttl": "2026-09-20T07:58:43.000Z",
     "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "316508762099",
+    "channelId": "akarindao",
+    "title": "ぶいすぽGG 橘ひなの presents ~愉悦~ チームひねもいくよ",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/01b3fd2788f30e0f4f18_akarindao_316508762099_1789297292//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2873033236",
+    "scheduledStartTime": "2026-09-13T11:01:37Z",
+    "startTime": "2026-09-13T11:01:37Z",
+    "platform": "twitch",
+    "ttl": "2026-09-20T11:01:37.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]

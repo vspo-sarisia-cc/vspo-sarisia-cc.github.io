@@ -1,44 +1,5 @@
 [
   {
-    "id": "Zj-4E3-bi0E",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【歌枠】寝る前にどうです？アニソンいっぱい【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/Zj-4E3-bi0E/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Zj-4E3-bi0E",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-06T14:15:00Z",
-    "startTime": "2026-09-06T14:16:25Z",
-    "endTime": "2026-09-06T17:10:28Z",
-    "ttl": "2026-09-13T14:15:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
-    "id": "ZOuVk1avhpQ",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【ポケモン剣盾】またさ、旅に出ようよ【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/ZOuVk1avhpQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ZOuVk1avhpQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-06T10:30:00Z",
-    "startTime": "2026-09-06T10:31:00Z",
-    "endTime": "2026-09-06T15:21:17Z",
-    "ttl": "2026-09-13T10:30:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
-    "id": "pSg1aoP6N3k",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】小柳ロウさんとハセシンとフルパいくぞ～🐺【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/pSg1aoP6N3k/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=pSg1aoP6N3k",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-06T11:00:00Z",
-    "startTime": "2026-09-06T11:02:22Z",
-    "endTime": "2026-09-06T15:11:49Z",
-    "ttl": "2026-09-13T11:00:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "N84CycFBFn4",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【深夜雑談】おやすみ前のチル。【空澄セナ/ぶいすぽっ！】",
@@ -65,19 +26,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "KQZA-5FOgWQ",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "腹痛カエル",
-    "thumbnail": "https://i.ytimg.com/vi/KQZA-5FOgWQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=KQZA-5FOgWQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-06T11:05:00Z",
-    "startTime": "2026-09-06T11:05:47Z",
-    "endTime": "2026-09-06T13:09:15Z",
-    "ttl": "2026-09-13T11:05:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
     "id": "mYRq8F2TDn4",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【雑談】月曜日の朝に起きれてえらい【ぶいすぽっ！ #銀城サイネ 】",
@@ -91,19 +39,6 @@
     "streamerId": "ginjo_saine"
   },
   {
-    "id": "IejEgp6JN3w",
-    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  League of Legends  ◢　300LPいくぞ！うぉい！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/IejEgp6JN3w/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=IejEgp6JN3w",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-06T12:00:00Z",
-    "startTime": "2026-09-06T12:02:58Z",
-    "endTime": "2026-09-06T16:57:56Z",
-    "ttl": "2026-09-13T12:00:00.000Z",
-    "streamerId": "tatsumaki_chise"
-  },
-  {
     "id": "316479540211",
     "channelId": "asumisena",
     "title": "寝てない朝があったっていいTFT",
@@ -114,17 +49,5 @@
     "platform": "twitch",
     "ttl": "2026-09-13T23:10:48.000Z",
     "streamerId": "asumi_sena"
-  },
-  {
-    "id": "316478318067",
-    "channelId": "akarindao",
-    "title": "1万年ぶりのスト6。キャラかえて１から始める",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/b7750f131dccdab7576c_akarindao_316478318067_1788705114//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2866925504",
-    "scheduledStartTime": "2026-09-06T14:31:59Z",
-    "startTime": "2026-09-06T14:31:59Z",
-    "platform": "twitch",
-    "ttl": "2026-09-13T14:31:59.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
