@@ -31,5 +31,17 @@
     "scheduledStartTime": "2026-09-13T03:30:00Z",
     "ttl": "2026-09-20T03:30:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "315522401392",
+    "channelId": "erissuzukami",
+    "title": "hey remember that one time i couldn't sleep so i just waited for it to come take me on stream",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
+    "url": "https://www.twitch.tv/erissuzukami",
+    "scheduledStartTime": "2026-09-13T00:21:04Z",
+    "startTime": "2026-09-13T00:21:04Z",
+    "platform": "twitch",
+    "ttl": "2026-09-20T00:21:04.000Z",
+    "streamerId": "eris_suzukami"
   }
 ]
