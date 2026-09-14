@@ -46,6 +46,8 @@
     "url": "https://www.youtube.com/watch?v=seZKLPQycCI",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-14T22:00:00Z",
+    "startTime": "2026-09-14T22:00:06Z",
+    "endTime": "2026-09-14T22:21:39Z",
     "ttl": "2026-09-21T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -66,12 +68,26 @@
     "id": "dSHOAaCEvEY",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【APEX】マスターまであと少し！　w/渋ハル、うるーか【ぶいす / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/dSHOAaCEvEY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/dSHOAaCEvEY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=dSHOAaCEvEY",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-14T09:00:00Z",
     "startTime": "2026-09-14T08:53:59Z",
+    "endTime": "2026-09-14T20:44:43Z",
     "ttl": "2026-09-21T09:00:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "CTEO8fJoN2E",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【APEX】マスターまであとすこし　w/渋ハル、うるーか【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/CTEO8fJoN2E/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=CTEO8fJoN2E",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-14T20:45:00Z",
+    "startTime": "2026-09-14T20:49:49Z",
+    "endTime": "2026-09-14T21:22:28Z",
+    "ttl": "2026-09-21T20:45:00.000Z",
     "streamerId": "nekota_tsuna"
   },
   {
