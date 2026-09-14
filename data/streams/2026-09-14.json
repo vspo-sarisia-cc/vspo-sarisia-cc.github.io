@@ -16,11 +16,12 @@
     "id": "dw3RUtdn3-8",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【深夜】TFTをのんびり深夜嗜む会  w/白那しずく.とおこ【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/dw3RUtdn3-8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/dw3RUtdn3-8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=dw3RUtdn3-8",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-14T14:35:00Z",
     "startTime": "2026-09-14T14:38:01Z",
+    "endTime": "2026-09-14T19:31:25Z",
     "ttl": "2026-09-21T14:35:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -36,6 +37,17 @@
     "endTime": "2026-09-14T04:20:11Z",
     "ttl": "2026-09-21T02:00:00.000Z",
     "streamerId": "asumi_sena"
+  },
+  {
+    "id": "seZKLPQycCI",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "清楚三姉妹での会話の内容から清楚を疑われるエマ【ぶいすぽっ！/ 藍沢エマ/兎咲ミミ/英リサ/神成きゅぴ/八雲べに/小森めと/ARK】",
+    "thumbnail": "https://i.ytimg.com/vi/seZKLPQycCI/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=seZKLPQycCI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-14T22:00:00Z",
+    "ttl": "2026-09-21T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "mX2hZcFAz1c",
@@ -139,18 +151,6 @@
     "endTime": "2026-09-14T14:38:34Z",
     "ttl": "2026-09-21T11:00:00.000Z",
     "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "O96EZtcpNCg",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "【Counter-Strike 2】 10 eur keyboard = 10k gaming  |  Premier 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/O96EZtcpNCg/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=O96EZtcpNCg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-14T13:00:00Z",
-    "startTime": "2026-09-14T13:06:05Z",
-    "ttl": "2026-09-21T13:00:00.000Z",
-    "streamerId": "remia_aotsuki"
   },
   {
     "id": "316455845362",

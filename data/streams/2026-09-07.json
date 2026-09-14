@@ -1,18 +1,5 @@
 [
   {
-    "id": "seZvn7zCsAE",
-    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
-    "title": "４時だってよ",
-    "thumbnail": "https://i.ytimg.com/vi/seZvn7zCsAE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=seZvn7zCsAE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-07T19:45:00Z",
-    "startTime": "2026-09-07T19:42:11Z",
-    "endTime": "2026-09-07T21:22:48Z",
-    "ttl": "2026-09-14T19:45:00.000Z",
-    "streamerId": "hanabusa_lisa"
-  },
-  {
     "id": "hd8k8PRa654",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "カップルみたいなハセボドエピソードに大喜びのエマ【ぶいすぽっ！/ 藍沢エマ/ハセシン/ありさか/APEX】",
@@ -24,17 +11,5 @@
     "endTime": "2026-09-07T22:19:45Z",
     "ttl": "2026-09-14T22:00:00.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "316426150514",
-    "channelId": "ren_kisaragi__",
-    "title": "ぶいすぽ対戦会",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/913658eb78686fa78149_ren_kisaragi___316426150514_1788798492//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2867892590",
-    "scheduledStartTime": "2026-09-07T16:28:17Z",
-    "startTime": "2026-09-07T16:28:17Z",
-    "platform": "twitch",
-    "ttl": "2026-09-14T16:28:17.000Z",
-    "streamerId": "kisaragi_ren"
   }
 ]
