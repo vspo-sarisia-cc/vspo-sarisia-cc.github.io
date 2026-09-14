@@ -52,19 +52,6 @@
     "streamerId": "kurumi_noah"
   },
   {
-    "id": "RCTZHb8TiKA",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】今日もフルパ！ダイヤ１に戻したい！/ハルくん、ぽぽ【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/RCTZHb8TiKA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=RCTZHb8TiKA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-07T08:00:00Z",
-    "startTime": "2026-09-07T08:05:25Z",
-    "endTime": "2026-09-07T10:56:35Z",
-    "ttl": "2026-09-14T08:00:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "jXl8ddM9Jvs",
     "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
     "title": "【BOMBANANA!】絶対おもろいｗｗｗｗｗ【ぶいすぽ/兎咲ミミ】",
@@ -130,71 +117,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "7oSMisFmQTM",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】壁が高い【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/7oSMisFmQTM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=7oSMisFmQTM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-07T07:00:00Z",
-    "startTime": "2026-09-07T06:55:16Z",
-    "endTime": "2026-09-07T10:11:58Z",
-    "ttl": "2026-09-14T07:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "RjTkoPPPRn4",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【APEX】したくなっちゃったね、ＡＰＥＸ！【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/RjTkoPPPRn4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=RjTkoPPPRn4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-07T06:30:00Z",
-    "startTime": "2026-09-07T06:31:59Z",
-    "endTime": "2026-09-07T12:00:46Z",
-    "ttl": "2026-09-14T06:30:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "2XSqRrGcukE",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 OW 〗いざすすめ。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/2XSqRrGcukE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=2XSqRrGcukE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-07T05:15:00Z",
-    "startTime": "2026-09-07T05:16:56Z",
-    "endTime": "2026-09-07T07:55:53Z",
-    "ttl": "2026-09-14T05:15:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
-    "id": "ev20kMg55ZA",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【VALORANT】ひ、ひさしブリ【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/ev20kMg55ZA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ev20kMg55ZA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-07T09:20:00Z",
-    "startTime": "2026-09-07T09:23:07Z",
-    "endTime": "2026-09-07T14:58:35Z",
-    "ttl": "2026-09-14T09:20:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "hvKBoHe55o8",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【ZETA RUST:SAVOGE】さぼおじｷﾀ━━━━(ﾟ∀ﾟ)━━━━!!【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/hvKBoHe55o8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=hvKBoHe55o8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-07T08:00:00Z",
-    "startTime": "2026-09-07T07:55:09Z",
-    "endTime": "2026-09-07T17:16:10Z",
-    "ttl": "2026-09-14T08:00:00.000Z",
-    "streamerId": "sendo_yuuhi"
-  },
-  {
     "id": "ugFHbp-0AsY",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "#1【 BIOHAZARD RE:4 】　この神ゲーにかえってきてもうた！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -218,19 +140,6 @@
     "startTime": "2026-09-07T11:02:57Z",
     "endTime": "2026-09-07T13:52:41Z",
     "ttl": "2026-09-14T11:00:00.000Z",
-    "streamerId": "amayui_moka"
-  },
-  {
-    "id": "VJzrbRSNcY4",
-    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
-    "title": "【スト6】も・・・【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/VJzrbRSNcY4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=VJzrbRSNcY4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-07T07:54:00Z",
-    "startTime": "2026-09-07T07:54:23Z",
-    "endTime": "2026-09-07T10:42:08Z",
-    "ttl": "2026-09-14T07:54:00.000Z",
     "streamerId": "amayui_moka"
   },
   {

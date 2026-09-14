@@ -1,5 +1,17 @@
 [
   {
+    "id": "2-end4-u31o",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】オルターの練習がしたいんだ【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/2-end4-u31o/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=2-end4-u31o",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-14T07:20:00Z",
+    "startTime": "2026-09-14T07:23:17Z",
+    "ttl": "2026-09-21T07:20:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "KvLUKfP14hw",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【鬼武者 Way of the Sword】新作！儚い「鬼武者」参ります！！！【空澄セナ/ぶいすぽっ！】",
@@ -13,14 +25,27 @@
     "streamerId": "asumi_sena"
   },
   {
+    "id": "dSHOAaCEvEY",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【APEX】マスターまであと少し！　w/渋ハル、うるーか【ぶいす / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/dSHOAaCEvEY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=dSHOAaCEvEY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-14T09:00:00Z",
+    "startTime": "2026-09-14T08:53:59Z",
+    "ttl": "2026-09-21T09:00:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
     "id": "hA4gr6LPUYY",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 ゼルダの伝説 ブレワイ 】#5 おはようのゼルダ【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/hA4gr6LPUYY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/hA4gr6LPUYY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=hA4gr6LPUYY",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-14T00:30:00Z",
     "startTime": "2026-09-14T00:23:48Z",
+    "endTime": "2026-09-14T08:06:10Z",
     "ttl": "2026-09-21T00:30:00.000Z",
     "streamerId": "komori_met"
   },
@@ -28,11 +53,12 @@
     "id": "05Ok6gmU664",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 OW 〗ルセラコラボきた？の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/05Ok6gmU664/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/05Ok6gmU664/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=05Ok6gmU664",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-14T04:15:00Z",
     "startTime": "2026-09-14T04:12:59Z",
+    "endTime": "2026-09-14T06:41:53Z",
     "ttl": "2026-09-21T04:15:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -46,6 +72,29 @@
     "scheduledStartTime": "2026-09-14T11:00:00Z",
     "ttl": "2026-09-21T11:00:00.000Z",
     "streamerId": "yano_kuromu"
+  },
+  {
+    "id": "xo4R9bUQlyE",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】4.5戦くらい！【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/xo4R9bUQlyE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=xo4R9bUQlyE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-14T07:20:00Z",
+    "startTime": "2026-09-14T07:30:03Z",
+    "ttl": "2026-09-21T07:20:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "nrfsU8V2fUk",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【Super Battle Golf】しゃらくせー2次会！！【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/nrfsU8V2fUk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=nrfsU8V2fUk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-14T11:00:00Z",
+    "ttl": "2026-09-21T11:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "wX0EKT1yM5U",
@@ -68,5 +117,29 @@
     "scheduledStartTime": "2026-09-14T13:00:00Z",
     "ttl": "2026-09-21T13:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "316455845362",
+    "channelId": "ren_kisaragi__",
+    "title": "ヴァイパー",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/ac5e895824d9a14fee34_ren_kisaragi___316455845362_1789374153//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2873849690",
+    "scheduledStartTime": "2026-09-14T08:22:38Z",
+    "startTime": "2026-09-14T08:22:38Z",
+    "platform": "twitch",
+    "ttl": "2026-09-21T08:22:38.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316455578226",
+    "channelId": "emtsmaru",
+    "title": "みじんこだけ",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d7d30feed16d528174df_emtsmaru_316455578226_1789368751//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2873822324",
+    "scheduledStartTime": "2026-09-14T06:52:36Z",
+    "startTime": "2026-09-14T06:52:36Z",
+    "platform": "twitch",
+    "ttl": "2026-09-21T06:52:36.000Z",
+    "streamerId": "aizawa_ema"
   }
 ]
