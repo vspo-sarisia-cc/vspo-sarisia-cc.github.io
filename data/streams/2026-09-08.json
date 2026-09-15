@@ -1,18 +1,5 @@
 [
   {
-    "id": "2CmHM4DLqvQ",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【ポケモン剣盾】ついに揃う・・・のか？【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/2CmHM4DLqvQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=2CmHM4DLqvQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-08T11:00:00Z",
-    "startTime": "2026-09-08T11:01:49Z",
-    "endTime": "2026-09-08T15:16:48Z",
-    "ttl": "2026-09-15T11:00:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
     "id": "9vYKUMPkkKc",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 HER TREES : PUZZLE DREAM 】もう寝ましょうよ【 ぶいすぽっ！胡桃のあ 】",
@@ -23,19 +10,6 @@
     "startTime": "2026-09-08T15:26:56Z",
     "endTime": "2026-09-08T17:20:37Z",
     "ttl": "2026-09-15T15:30:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
-    "id": "ROuWlQwCe20",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】ちきたっぴとランクに行こう【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/ROuWlQwCe20/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ROuWlQwCe20",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-08T12:00:00Z",
-    "startTime": "2026-09-08T12:02:03Z",
-    "endTime": "2026-09-08T15:20:32Z",
-    "ttl": "2026-09-15T12:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
   {
@@ -63,71 +37,6 @@
     "endTime": "2026-09-08T16:02:45Z",
     "ttl": "2026-09-15T13:45:00.000Z",
     "streamerId": "asumi_sena"
-  },
-  {
-    "id": "rk5RvJnk1cc",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 ゼルダの伝説 風のタクト 】#3 完全初見 いざ魔獣島へ！【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/rk5RvJnk1cc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=rk5RvJnk1cc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-08T10:20:00Z",
-    "startTime": "2026-09-08T10:23:29Z",
-    "endTime": "2026-09-08T18:32:34Z",
-    "ttl": "2026-09-15T10:20:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "0eZy8h7dl0w",
-    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
-    "title": "【APEX】えぺですか＾＾ w/ツルギsqla【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/0eZy8h7dl0w/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=0eZy8h7dl0w",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-08T11:00:00Z",
-    "startTime": "2026-09-08T11:04:30Z",
-    "endTime": "2026-09-08T16:28:07Z",
-    "ttl": "2026-09-15T11:00:00.000Z",
-    "streamerId": "yakumo_beni"
-  },
-  {
-    "id": "2m9N5_KnRDE",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【ストリートファイターリーグ JAPAN 2026】Division S 第3節ミラー配信【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/2m9N5_KnRDE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=2m9N5_KnRDE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-08T09:35:00Z",
-    "startTime": "2026-09-08T09:34:37Z",
-    "endTime": "2026-09-08T13:45:45Z",
-    "ttl": "2026-09-15T09:35:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "3BFw52kiPWg",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【VALORANT】最近ずっと足踏みしているソロコンペ【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/3BFw52kiPWg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=3BFw52kiPWg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-08T08:10:00Z",
-    "startTime": "2026-09-08T08:17:31Z",
-    "endTime": "2026-09-08T16:46:01Z",
-    "ttl": "2026-09-15T08:10:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "IX-Zhfs7mTw",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【ZETA RUST:SAVOGE】お手上げ団～すぐC～ 2日目 咳まみれ【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/IX-Zhfs7mTw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=IX-Zhfs7mTw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-08T08:00:00Z",
-    "startTime": "2026-09-08T07:59:49Z",
-    "endTime": "2026-09-08T18:04:29Z",
-    "ttl": "2026-09-15T08:00:00.000Z",
-    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "NbXyMzp4Y7I",

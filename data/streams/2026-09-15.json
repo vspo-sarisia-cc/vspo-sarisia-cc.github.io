@@ -1,25 +1,73 @@
 [
   {
+    "id": "Er6LOVseM_I",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "【 Pratfall 】お久しちーたるは穴掘りをするらしいです【 ぶいすぽ / 小雀とと 】",
+    "thumbnail": "https://i.ytimg.com/vi/Er6LOVseM_I/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Er6LOVseM_I",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-15T11:00:00Z",
+    "startTime": "2026-09-15T11:03:01Z",
+    "ttl": "2026-09-22T11:00:00.000Z",
+    "streamerId": "kogara_toto"
+  },
+  {
+    "id": "j6Hlk9cY9LQ",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【APEX】弾を打ってみます【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/j6Hlk9cY9LQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=j6Hlk9cY9LQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-15T12:15:00Z",
+    "ttl": "2026-09-22T12:15:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "TNnLUwO6Ozc",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX 】ダイヤに落ちてもエペが楽しいぞい【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/TNnLUwO6Ozc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/TNnLUwO6Ozc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=TNnLUwO6Ozc",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-15T03:45:00Z",
     "startTime": "2026-09-15T03:49:44Z",
+    "endTime": "2026-09-15T08:14:50Z",
     "ttl": "2026-09-22T03:45:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "DGXE91TzlJM",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【STREET FIGHTER 6】対戦会があるって聞きました【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/DGXE91TzlJM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=DGXE91TzlJM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-15T08:00:00Z",
+    "startTime": "2026-09-15T08:15:04Z",
+    "ttl": "2026-09-22T08:00:00.000Z",
+    "streamerId": "kaminari_qpi"
+  },
+  {
+    "id": "uIITVGxozoE",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【APEX】エペランドいくぞーー🎡🎠 w/うるはひなーの【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/uIITVGxozoE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=uIITVGxozoE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-15T12:30:00Z",
+    "ttl": "2026-09-22T12:30:00.000Z",
+    "streamerId": "yakumo_beni"
   },
   {
     "id": "CiL7_mMDRbA",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】寝てはならぬ【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/CiL7_mMDRbA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/CiL7_mMDRbA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=CiL7_mMDRbA",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-15T06:45:00Z",
     "startTime": "2026-09-15T06:37:32Z",
+    "endTime": "2026-09-15T07:56:27Z",
     "ttl": "2026-09-22T06:45:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -31,8 +79,21 @@
     "url": "https://www.youtube.com/watch?v=NhZF17QPKi8",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-15T10:00:00Z",
+    "startTime": "2026-09-15T10:00:05Z",
     "ttl": "2026-09-22T10:00:00.000Z",
     "streamerId": "yano_kuromu"
+  },
+  {
+    "id": "Lhw6IidOUkk",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "#4【 BIOHAZARD RE:4 】　ぜっっっっっっったい守るんだ！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/Lhw6IidOUkk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Lhw6IidOUkk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-15T10:00:00Z",
+    "startTime": "2026-09-15T09:59:36Z",
+    "ttl": "2026-09-22T10:00:00.000Z",
+    "streamerId": "choya_hanabi"
   },
   {
     "id": "uSU8nB7ZFN4",
@@ -46,26 +107,41 @@
     "streamerId": "choya_hanabi"
   },
   {
-    "id": "Lhw6IidOUkk",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "#4【 BIOHAZARD RE:4 】　ぜっっっっっっったい守るんだ！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/Lhw6IidOUkk/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=Lhw6IidOUkk",
+    "id": "U5aKIvkpLw4",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【雑談してからスト６なきがする全てのゲームをやりたい気がする】ル【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/U5aKIvkpLw4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=U5aKIvkpLw4",
     "platform": "youtube",
-    "scheduledStartTime": "2026-09-15T10:00:00Z",
-    "ttl": "2026-09-22T10:00:00.000Z",
-    "streamerId": "choya_hanabi"
+    "scheduledStartTime": "2026-09-15T09:50:00Z",
+    "startTime": "2026-09-15T09:49:42Z",
+    "ttl": "2026-09-22T09:50:00.000Z",
+    "streamerId": "amayui_moka"
   },
   {
     "id": "scpfyaRAlpY",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【#⁠コアラマットレス】えっ！？マットレスで寝ていいんですか！？【⁠#銀城サイネ】",
-    "thumbnail": "https://i.ytimg.com/vi/scpfyaRAlpY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/scpfyaRAlpY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=scpfyaRAlpY",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-15T10:00:00Z",
+    "startTime": "2026-09-15T10:00:47Z",
+    "endTime": "2026-09-15T11:10:44Z",
     "ttl": "2026-09-22T10:00:00.000Z",
     "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "IdhTCSkXsjE",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　まったりソロランクしる   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/IdhTCSkXsjE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=IdhTCSkXsjE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-15T09:45:00Z",
+    "startTime": "2026-09-15T09:50:51Z",
+    "ttl": "2026-09-22T09:45:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "vta_L36aeYA",
@@ -88,5 +164,41 @@
     "scheduledStartTime": "2026-09-15T14:00:00Z",
     "ttl": "2026-09-22T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316516510067",
+    "channelId": "ren_kisaragi__",
+    "title": "対戦会する",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
+    "url": "https://www.twitch.tv/ren_kisaragi__",
+    "scheduledStartTime": "2026-09-15T07:44:28Z",
+    "startTime": "2026-09-15T07:44:28Z",
+    "platform": "twitch",
+    "ttl": "2026-09-22T07:44:28.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316516621427",
+    "channelId": "sendo_yuuhi",
+    "title": "対戦会にぼこられにきてみた",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sendo_yuuhi-320x180.jpg",
+    "url": "https://www.twitch.tv/sendo_yuuhi",
+    "scheduledStartTime": "2026-09-15T08:23:33Z",
+    "startTime": "2026-09-15T08:23:33Z",
+    "platform": "twitch",
+    "ttl": "2026-09-22T08:23:33.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "316448852593",
+    "channelId": "hinanotachiba7",
+    "title": "夕方まで",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/7d6275a41d8930ebc396_hinanotachiba7_316448852593_1789455091//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2874655074",
+    "scheduledStartTime": "2026-09-15T06:51:36Z",
+    "startTime": "2026-09-15T06:51:36Z",
+    "platform": "twitch",
+    "ttl": "2026-09-22T06:51:36.000Z",
+    "streamerId": "tachibana_hinano"
   }
 ]
