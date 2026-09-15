@@ -104,32 +104,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "HDm3pIWu1QQ",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【APEX】この３人の平均ランクプラチナです【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/HDm3pIWu1QQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=HDm3pIWu1QQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-08T05:50:00Z",
-    "startTime": "2026-09-08T05:49:52Z",
-    "endTime": "2026-09-08T10:28:14Z",
-    "ttl": "2026-09-15T05:50:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "8fjp2_5oqHw",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 OW 〗すきまぢかん。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/8fjp2_5oqHw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=8fjp2_5oqHw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-08T05:30:00Z",
-    "startTime": "2026-09-08T05:33:53Z",
-    "endTime": "2026-09-08T06:59:09Z",
-    "ttl": "2026-09-15T05:30:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
     "id": "3BFw52kiPWg",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VALORANT】最近ずっと足踏みしているソロコンペ【ぶいすぽっ！ / 紡木こかげ】",
@@ -166,19 +140,6 @@
     "startTime": "2026-09-08T21:59:29Z",
     "endTime": "2026-09-08T23:56:53Z",
     "ttl": "2026-09-15T22:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "sppiv-cbDXQ",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【スト６】　Cマリーザ練習すんで！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/sppiv-cbDXQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=sppiv-cbDXQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-08T03:15:00Z",
-    "startTime": "2026-09-08T03:14:32Z",
-    "endTime": "2026-09-08T05:12:48Z",
-    "ttl": "2026-09-15T03:15:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
