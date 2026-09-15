@@ -94,11 +94,12 @@
     "id": "PwHJZrE7jtY",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 OVERWATCH 】ドクトリン使いたいCH【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/PwHJZrE7jtY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/PwHJZrE7jtY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=PwHJZrE7jtY",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-15T14:35:00Z",
     "startTime": "2026-09-15T14:39:00Z",
+    "endTime": "2026-09-15T18:07:38Z",
     "ttl": "2026-09-22T14:35:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -116,18 +117,6 @@
     "streamerId": "yano_kuromu"
   },
   {
-    "id": "6bibykyFRQY",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【絨毯を洗うゲーム】くそおもろくなってきた🧹【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/6bibykyFRQY/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=6bibykyFRQY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-15T16:30:00Z",
-    "startTime": "2026-09-15T16:45:43Z",
-    "ttl": "2026-09-22T16:30:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
     "id": "u7pY6yHpxXw",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VALORANT】弱かったらやめますよお【ぶいすぽっ！ / 紡木こかげ】",
@@ -138,6 +127,18 @@
     "startTime": "2026-09-15T13:04:01Z",
     "endTime": "2026-09-15T16:44:52Z",
     "ttl": "2026-09-22T13:10:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "6bibykyFRQY",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【絨毯を洗うゲーム】くそおもろくなってきた🧹【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/6bibykyFRQY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=6bibykyFRQY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-15T16:30:00Z",
+    "startTime": "2026-09-15T16:45:43Z",
+    "ttl": "2026-09-22T16:30:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
   {
@@ -193,12 +194,13 @@
   {
     "id": "IdhTCSkXsjE",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
-    "title": "◤  League of Legends  ◢　まったりソロランクしる   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/IdhTCSkXsjE/mqdefault_live.jpg",
+    "title": "◤  League of Legends  ◢　まったりソロランクしる→参加型メイヘム   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/IdhTCSkXsjE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=IdhTCSkXsjE",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-15T09:45:00Z",
     "startTime": "2026-09-15T09:50:51Z",
+    "endTime": "2026-09-15T17:19:59Z",
     "ttl": "2026-09-22T09:45:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -219,11 +221,12 @@
     "id": "gfmr1cNrvqI",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves 2.8 part 2◢ why is Chisa THE potential girl? | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/gfmr1cNrvqI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/gfmr1cNrvqI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=gfmr1cNrvqI",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-15T14:00:00Z",
     "startTime": "2026-09-15T14:01:12Z",
+    "endTime": "2026-09-15T17:55:28Z",
     "ttl": "2026-09-22T14:00:00.000Z",
     "streamerId": "juno_umezono"
   },
