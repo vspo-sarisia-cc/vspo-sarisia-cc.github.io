@@ -142,6 +142,18 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "uSU8nB7ZFN4",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【朝活雑談】　最近早起きおはよおおおおおおお！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/uSU8nB7ZFN4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=uSU8nB7ZFN4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-15T22:00:00Z",
+    "startTime": "2026-09-15T21:59:54Z",
+    "ttl": "2026-09-22T22:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "Lhw6IidOUkk",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "#4【 BIOHAZARD RE:4 】　ぜっっっっっっったい守るんだ！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -152,17 +164,6 @@
     "startTime": "2026-09-15T09:59:36Z",
     "endTime": "2026-09-15T13:14:59Z",
     "ttl": "2026-09-22T10:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "uSU8nB7ZFN4",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【朝活雑談】　最近早起きおはよおおおおおおお！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/uSU8nB7ZFN4/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=uSU8nB7ZFN4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-15T22:00:00Z",
-    "ttl": "2026-09-22T22:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -229,6 +230,18 @@
     "endTime": "2026-09-15T17:55:28Z",
     "ttl": "2026-09-22T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316519148915",
+    "channelId": "shinomiya_runa",
+    "title": "洗濯おわりまち",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinomiya_runa-320x180.jpg",
+    "url": "https://www.twitch.tv/shinomiya_runa",
+    "scheduledStartTime": "2026-09-15T20:45:59Z",
+    "startTime": "2026-09-15T20:45:59Z",
+    "platform": "twitch",
+    "ttl": "2026-09-22T20:45:59.000Z",
+    "streamerId": "shinomiya_runa"
   },
   {
     "id": "316448852593",
