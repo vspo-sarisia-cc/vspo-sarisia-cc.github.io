@@ -55,11 +55,12 @@
     "id": "tBGOmeFI5Yw",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【 Escape from Tarkov 】タルパきたあああ🐙  Lv40~ w/ rassya.ツルギ 【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/tBGOmeFI5Yw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/tBGOmeFI5Yw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=tBGOmeFI5Yw",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-16T11:15:00Z",
     "startTime": "2026-09-16T11:04:25Z",
+    "endTime": "2026-09-16T16:12:21Z",
     "ttl": "2026-09-23T11:15:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -132,37 +133,14 @@
     "id": "9esdAdIJm_U",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  雑談  ◢　お絵かきタイム  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/9esdAdIJm_U/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/9esdAdIJm_U/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=9esdAdIJm_U",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-16T12:00:00Z",
     "startTime": "2026-09-16T12:02:01Z",
+    "endTime": "2026-09-16T15:54:20Z",
     "ttl": "2026-09-23T12:00:00.000Z",
     "streamerId": "tatsumaki_chise"
-  },
-  {
-    "id": "xSCTNJ_CLtQ",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤zatsu◢ no more apex because juno tired... | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/xSCTNJ_CLtQ/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=xSCTNJ_CLtQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-16T14:00:00Z",
-    "startTime": "2026-09-16T14:02:51Z",
-    "ttl": "2026-09-23T14:00:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316464564722",
-    "channelId": "akarindao",
-    "title": "ｱｶｲﾝグリッドでダイヤ目指す",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-09-16T09:04:47Z",
-    "startTime": "2026-09-16T09:04:47Z",
-    "platform": "twitch",
-    "ttl": "2026-09-23T09:04:47.000Z",
-    "streamerId": "yumeno_akari"
   },
   {
     "id": "316520704627",
@@ -187,5 +165,17 @@
     "platform": "twitch",
     "ttl": "2026-09-23T10:01:20.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316464564722",
+    "channelId": "akarindao",
+    "title": "ｱｶｲﾝグリッドでダイヤ目指す",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/f3277247b24de36916ec_akarindao_316464564722_1789549487//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2875557071",
+    "scheduledStartTime": "2026-09-16T09:04:52Z",
+    "startTime": "2026-09-16T09:04:52Z",
+    "platform": "twitch",
+    "ttl": "2026-09-23T09:04:52.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
