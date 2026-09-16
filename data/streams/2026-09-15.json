@@ -117,6 +117,19 @@
     "streamerId": "yano_kuromu"
   },
   {
+    "id": "6bibykyFRQY",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【絨毯を洗うゲーム】くそおもろくなってきた🧹【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/6bibykyFRQY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=6bibykyFRQY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-15T16:30:00Z",
+    "startTime": "2026-09-15T16:45:43Z",
+    "endTime": "2026-09-15T23:02:42Z",
+    "ttl": "2026-09-22T16:30:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "u7pY6yHpxXw",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VALORANT】弱かったらやめますよお【ぶいすぽっ！ / 紡木こかげ】",
@@ -130,26 +143,15 @@
     "streamerId": "tsumugi_kokage"
   },
   {
-    "id": "6bibykyFRQY",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【絨毯を洗うゲーム】くそおもろくなってきた🧹【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/6bibykyFRQY/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=6bibykyFRQY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-15T16:30:00Z",
-    "startTime": "2026-09-15T16:45:43Z",
-    "ttl": "2026-09-22T16:30:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
     "id": "uSU8nB7ZFN4",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【朝活雑談】　最近早起きおはよおおおおおおお！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/uSU8nB7ZFN4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/uSU8nB7ZFN4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=uSU8nB7ZFN4",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-15T22:00:00Z",
     "startTime": "2026-09-15T21:59:54Z",
+    "endTime": "2026-09-16T00:04:41Z",
     "ttl": "2026-09-22T22:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -232,18 +234,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316519148915",
-    "channelId": "shinomiya_runa",
-    "title": "洗濯おわりまち",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinomiya_runa-320x180.jpg",
-    "url": "https://www.twitch.tv/shinomiya_runa",
-    "scheduledStartTime": "2026-09-15T20:45:59Z",
-    "startTime": "2026-09-15T20:45:59Z",
-    "platform": "twitch",
-    "ttl": "2026-09-22T20:45:59.000Z",
-    "streamerId": "shinomiya_runa"
-  },
-  {
     "id": "316448852593",
     "channelId": "hinanotachiba7",
     "title": "夕方まで",
@@ -266,6 +256,18 @@
     "platform": "twitch",
     "ttl": "2026-09-22T07:44:33.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316519148915",
+    "channelId": "shinomiya_runa",
+    "title": "最近の熱いスキンは",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/8bb6fe1076097bd8537b_shinomiya_runa_316519148915_1789505159//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2875125678",
+    "scheduledStartTime": "2026-09-15T20:46:04Z",
+    "startTime": "2026-09-15T20:46:04Z",
+    "platform": "twitch",
+    "ttl": "2026-09-22T20:46:04.000Z",
+    "streamerId": "shinomiya_runa"
   },
   {
     "id": "316516621427",
