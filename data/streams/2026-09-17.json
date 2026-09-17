@@ -144,11 +144,12 @@
     "id": "OxqjEQqgLSM",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【VALORANT】にゅーPCソロコンペ🍲【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/OxqjEQqgLSM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/OxqjEQqgLSM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=OxqjEQqgLSM",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-17T09:30:00Z",
     "startTime": "2026-09-17T09:36:38Z",
+    "endTime": "2026-09-17T16:56:07Z",
     "ttl": "2026-09-24T09:30:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -177,18 +178,6 @@
     "endTime": "2026-09-17T12:21:47Z",
     "ttl": "2026-09-24T09:00:00.000Z",
     "streamerId": "tatsumaki_chise"
-  },
-  {
-    "id": "318482541671",
-    "channelId": "remiaaotsuki",
-    "title": "spoooky ship tour with fish @erissuzukami",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_remiaaotsuki-320x180.jpg",
-    "url": "https://www.twitch.tv/remiaaotsuki",
-    "scheduledStartTime": "2026-09-17T14:26:39Z",
-    "startTime": "2026-09-17T14:26:39Z",
-    "platform": "twitch",
-    "ttl": "2026-09-24T14:26:39.000Z",
-    "streamerId": "remia_aotsuki"
   },
   {
     "id": "316457246961",
@@ -251,15 +240,15 @@
     "streamerId": "sendo_yuuhi"
   },
   {
-    "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOH0=",
+    "id": "318482541671",
     "channelId": "remiaaotsuki",
-    "title": "EU faceit elo gain?",
-    "thumbnail": "",
-    "url": "https://www.twitch.tv/remiaaotsuki",
-    "scheduledStartTime": "2026-09-17T14:00:00Z",
-    "startTime": "2026-09-17T14:00:00Z",
+    "title": "spoooky ship tour with fish @erissuzukami",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/094f933ef44d1efd337a_remiaaotsuki_318482541671_1789655199//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2876565875",
+    "scheduledStartTime": "2026-09-17T14:26:44Z",
+    "startTime": "2026-09-17T14:26:44Z",
     "platform": "twitch",
-    "ttl": "2026-09-24T14:00:00.000Z",
+    "ttl": "2026-09-24T14:26:44.000Z",
     "streamerId": "remia_aotsuki"
   }
 ]
