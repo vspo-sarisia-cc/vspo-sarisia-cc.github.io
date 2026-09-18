@@ -11,6 +11,52 @@
     "streamerId": "kaga_sumire"
   },
   {
+    "id": "r1Auz5Zxryg",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "【 Machine Party 】何やら危険なパーティーゲーム w/すーちゃん、ゆうひちゃん、はなびちゃん【 ぶいすぽ / 小雀とと 】",
+    "thumbnail": "https://i.ytimg.com/vi/r1Auz5Zxryg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=r1Auz5Zxryg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-18T12:00:00Z",
+    "ttl": "2026-09-25T12:00:00.000Z",
+    "streamerId": "kogara_toto"
+  },
+  {
+    "id": "QWThBiSGoyI",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】つなぽっぽとフルパ行くよ～【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/QWThBiSGoyI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=QWThBiSGoyI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-18T10:00:00Z",
+    "ttl": "2026-09-25T10:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "vNsmQSwEzmg",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】今日は涼しいな【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/vNsmQSwEzmg/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=vNsmQSwEzmg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-18T05:18:25Z",
+    "startTime": "2026-09-18T05:23:18Z",
+    "endTime": "2026-09-18T08:06:09Z",
+    "ttl": "2026-09-25T05:18:25.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "y6NsHlzSr3k",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【#藍沢エマ5周年】デビューして5年も経ったようです！🌟グッズ告知あり！後半はマシュマロ読みます！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/y6NsHlzSr3k/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=y6NsHlzSr3k",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-18T11:00:00Z",
+    "ttl": "2026-09-25T11:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "9c1HsRWJbOM",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Machine Party  】　４位の座を譲りにきた!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!w/すみー、とと先輩、うひまん　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -29,8 +75,21 @@
     "url": "https://www.youtube.com/watch?v=E_ZIlMiFZtA",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-18T09:00:00Z",
+    "startTime": "2026-09-18T09:00:24Z",
     "ttl": "2026-09-25T09:00:00.000Z",
     "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "4DZes1neLfg",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　400LP目指していく！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/4DZes1neLfg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=4DZes1neLfg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-18T06:00:00Z",
+    "startTime": "2026-09-18T06:03:02Z",
+    "ttl": "2026-09-25T06:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "X2wRKSx8f6A",
