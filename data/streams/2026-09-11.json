@@ -24,17 +24,5 @@
     "endTime": "2026-09-11T23:39:02Z",
     "ttl": "2026-09-18T21:00:00.000Z",
     "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "316444232434",
-    "channelId": "ren_kisaragi__",
-    "title": "こんな時間から始めるM-C",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/e6c1aacb54dbf2a15732_ren_kisaragi___316444232434_1789153401//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2871466854",
-    "scheduledStartTime": "2026-09-11T19:03:26Z",
-    "startTime": "2026-09-11T19:03:26Z",
-    "platform": "twitch",
-    "ttl": "2026-09-18T19:03:26.000Z",
-    "streamerId": "kisaragi_ren"
   }
 ]
