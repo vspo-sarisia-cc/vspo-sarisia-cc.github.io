@@ -7,8 +7,21 @@
     "url": "https://www.youtube.com/watch?v=zbCnj_ksyEI",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-18T12:00:00Z",
+    "startTime": "2026-09-18T12:03:01Z",
     "ttl": "2026-09-25T12:00:00.000Z",
     "streamerId": "kaga_sumire"
+  },
+  {
+    "id": "AaY_rUjU4-8",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【VALORANT】いつも久々感すごいヴぁろふるぱ　だいたいぶいすぽフルパ【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/AaY_rUjU4-8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=AaY_rUjU4-8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-18T12:30:00Z",
+    "startTime": "2026-09-18T12:27:41Z",
+    "ttl": "2026-09-25T12:30:00.000Z",
+    "streamerId": "kaga_nazuna"
   },
   {
     "id": "r1Auz5Zxryg",
@@ -18,8 +31,21 @@
     "url": "https://www.youtube.com/watch?v=r1Auz5Zxryg",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-18T12:00:00Z",
+    "startTime": "2026-09-18T12:01:04Z",
     "ttl": "2026-09-25T12:00:00.000Z",
     "streamerId": "kogara_toto"
+  },
+  {
+    "id": "Mlk5e3hBnb8",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【APEX】本日いただくのはこちら【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/Mlk5e3hBnb8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Mlk5e3hBnb8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-18T12:30:00Z",
+    "startTime": "2026-09-18T12:38:42Z",
+    "ttl": "2026-09-25T12:30:00.000Z",
+    "streamerId": "ichinose_uruha"
   },
   {
     "id": "QWThBiSGoyI",
@@ -29,8 +55,57 @@
     "url": "https://www.youtube.com/watch?v=QWThBiSGoyI",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-18T10:00:00Z",
+    "startTime": "2026-09-18T10:07:26Z",
     "ttl": "2026-09-25T10:00:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "c5yPh0jKSAw",
+    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
+    "title": "【VALORANT 】本日はふるぱー！【ぶいすぽ/兎咲ミミ】",
+    "thumbnail": "https://i.ytimg.com/vi/c5yPh0jKSAw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=c5yPh0jKSAw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-18T12:30:00Z",
+    "startTime": "2026-09-18T12:27:37Z",
+    "ttl": "2026-09-25T12:30:00.000Z",
+    "streamerId": "tosaki_mimi"
+  },
+  {
+    "id": "q27s_BFVpaw",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 Apex Legends 】 ぶいすぽえぺ部 w/うるは、あかりん【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/q27s_BFVpaw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=q27s_BFVpaw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-18T12:40:00Z",
+    "startTime": "2026-09-18T12:40:42Z",
+    "ttl": "2026-09-25T12:40:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "sG2Iiucc1VQ",
+    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
+    "title": "【VALORANT】うれしいふるﾍﾟ/ミミたや、なずちゃん、しのみや、さくらさん【ぶいすぽっ！/英リサ】",
+    "thumbnail": "https://i.ytimg.com/vi/sG2Iiucc1VQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=sG2Iiucc1VQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-18T12:30:00Z",
+    "startTime": "2026-09-18T12:27:37Z",
+    "ttl": "2026-09-25T12:30:00.000Z",
+    "streamerId": "hanabusa_lisa"
+  },
+  {
+    "id": "y6NsHlzSr3k",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【#藍沢エマ5周年】デビューして5年も経ったようです！🌟グッズ告知あり！後半はマシュマロ読みます！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/y6NsHlzSr3k/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=y6NsHlzSr3k",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-18T11:00:00Z",
+    "startTime": "2026-09-18T11:00:20Z",
+    "ttl": "2026-09-25T11:00:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "vNsmQSwEzmg",
@@ -46,15 +121,40 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "y6NsHlzSr3k",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【#藍沢エマ5周年】デビューして5年も経ったようです！🌟グッズ告知あり！後半はマシュマロ読みます！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/y6NsHlzSr3k/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=y6NsHlzSr3k",
+    "id": "f9t8vf3u6SI",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 VALORANT 】かかったな w/英リサ、兎咲ミミ、花芽なずな、SqLa【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/f9t8vf3u6SI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=f9t8vf3u6SI",
     "platform": "youtube",
-    "scheduledStartTime": "2026-09-18T11:00:00Z",
-    "ttl": "2026-09-25T11:00:00.000Z",
-    "streamerId": "aizawa_ema"
+    "scheduledStartTime": "2026-09-18T12:15:00Z",
+    "startTime": "2026-09-18T12:27:21Z",
+    "ttl": "2026-09-25T12:15:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "0dxrP15F4t0",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【APEX】新スプリットだと聞きました　w/のあ、ぽっぽ【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/0dxrP15F4t0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=0dxrP15F4t0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-18T10:00:00Z",
+    "startTime": "2026-09-18T10:07:24Z",
+    "ttl": "2026-09-25T10:00:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "2CJToEugdao",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【Machine Party】ぶいすぽフレッシュ＆大御所メンバーとましんぱ❓【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/2CJToEugdao/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=2CJToEugdao",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-18T12:00:00Z",
+    "startTime": "2026-09-18T12:02:39Z",
+    "ttl": "2026-09-25T12:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "9c1HsRWJbOM",
@@ -64,6 +164,7 @@
     "url": "https://www.youtube.com/watch?v=9c1HsRWJbOM",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-18T12:00:00Z",
+    "startTime": "2026-09-18T12:00:57Z",
     "ttl": "2026-09-25T12:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -80,14 +181,27 @@
     "streamerId": "ginjo_saine"
   },
   {
+    "id": "wY3q07-EkC0",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　フレックスランクいくぞ！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/wY3q07-EkC0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=wY3q07-EkC0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-18T12:00:00Z",
+    "startTime": "2026-09-18T12:00:09Z",
+    "ttl": "2026-09-25T12:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
+  },
+  {
     "id": "4DZes1neLfg",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  League of Legends  ◢　400LP目指していく！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/4DZes1neLfg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/4DZes1neLfg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4DZes1neLfg",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-18T06:00:00Z",
     "startTime": "2026-09-18T06:03:02Z",
+    "endTime": "2026-09-18T09:50:34Z",
     "ttl": "2026-09-25T06:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -99,7 +213,45 @@
     "url": "https://www.youtube.com/watch?v=X2wRKSx8f6A",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-18T12:00:00Z",
+    "startTime": "2026-09-18T12:01:05Z",
+    "endTime": "2026-09-18T13:34:44Z",
     "ttl": "2026-09-25T12:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "316530464499",
+    "channelId": "akarindao",
+    "title": "うるはさん&ひなのさん&ペクス",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-09-18T12:38:36Z",
+    "startTime": "2026-09-18T12:38:36Z",
+    "platform": "twitch",
+    "ttl": "2026-09-25T12:38:36.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316462076017",
+    "channelId": "hinanotachiba7",
+    "title": "yaruzooooooooooo",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/07d1dc18ee1f20245d99_hinanotachiba7_316462076017_1789725807//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2877308678",
+    "scheduledStartTime": "2026-09-18T10:03:32Z",
+    "startTime": "2026-09-18T10:03:32Z",
+    "platform": "twitch",
+    "ttl": "2026-09-25T10:03:32.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "316529917939",
+    "channelId": "shinomiya_runa",
+    "title": "appu",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/45a5497ac8998cf84869_shinomiya_runa_316529917939_1789728920//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2877327967",
+    "scheduledStartTime": "2026-09-18T10:55:25Z",
+    "startTime": "2026-09-18T10:55:25Z",
+    "platform": "twitch",
+    "ttl": "2026-09-25T10:55:25.000Z",
+    "streamerId": "shinomiya_runa"
   }
 ]
