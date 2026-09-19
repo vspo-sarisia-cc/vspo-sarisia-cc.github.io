@@ -22,6 +22,17 @@
     "streamerId": "vspo_official"
   },
   {
+    "id": "LawEOlittaY",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 VALORANT 】#ぶいすぽGG TGS2026に参加するぞ～！【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/LawEOlittaY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=LawEOlittaY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-20T06:00:00Z",
+    "ttl": "2026-09-27T06:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "8HoVOSWYk1I",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 #ぶいすぽGG 】TGSきたーーーー！！VALORANT部門 紫宮るな視点【 ぶいすぽっ！/紫宮るな 】",
@@ -31,6 +42,17 @@
     "scheduledStartTime": "2026-09-20T06:00:00Z",
     "ttl": "2026-09-27T06:00:00.000Z",
     "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "OmpAyAYKzE8",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【ぶいすぽGG】TGS2026✨わちゃわちゃVALORANT！ つむおじ視点【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/OmpAyAYKzE8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=OmpAyAYKzE8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-20T05:50:00Z",
+    "ttl": "2026-09-27T05:50:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "UIo_SBs9z2M",
