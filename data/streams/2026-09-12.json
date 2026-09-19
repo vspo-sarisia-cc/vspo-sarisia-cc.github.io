@@ -11,17 +11,5 @@
     "endTime": "2026-09-13T01:29:15Z",
     "ttl": "2026-09-19T23:00:00.000Z",
     "streamerId": "komori_met"
-  },
-  {
-    "id": "316448920178",
-    "channelId": "shinomiya_runa",
-    "title": "おはよー",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/16effc3e2b4abbfd4b82_shinomiya_runa_316448920178_1789242575//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2872472742",
-    "scheduledStartTime": "2026-09-12T19:49:40Z",
-    "startTime": "2026-09-12T19:49:40Z",
-    "platform": "twitch",
-    "ttl": "2026-09-19T19:49:40.000Z",
-    "streamerId": "shinomiya_runa"
   }
 ]
