@@ -11,25 +11,74 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "za7FXhBJonM",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "【TFT】僭越ながら指導側を務めます。本日の生徒：龍巻ちせ【空澄セナ/ぶいすぽっ！】",
+    "thumbnail": "https://i.ytimg.com/vi/za7FXhBJonM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=za7FXhBJonM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-19T09:00:00Z",
+    "startTime": "2026-09-19T09:04:22Z",
+    "ttl": "2026-09-26T09:00:00.000Z",
+    "streamerId": "asumi_sena"
+  },
+  {
+    "id": "sG7AhNhmvzQ",
+    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
+    "title": "【APEX】面白くなってきた 【ぶいすぽっ！/英リサ】",
+    "thumbnail": "https://i.ytimg.com/vi/sG7AhNhmvzQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=sG7AhNhmvzQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-19T07:50:00Z",
+    "startTime": "2026-09-19T07:51:57Z",
+    "ttl": "2026-09-26T07:50:00.000Z",
+    "streamerId": "hanabusa_lisa"
+  },
+  {
+    "id": "pkl8J82GbJY",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【 Escape from Tarkov 】  シーズンタスクやろうの会  Lv41~ 【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/pkl8J82GbJY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=pkl8J82GbJY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-19T09:15:00Z",
+    "ttl": "2026-09-26T09:15:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
     "id": "OeIawFJhiYE",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【MIRESI：視えない未来】可愛い女の子がいっぱいいると聞きましたW/へんでぃー TGS2026【ぶいすぽ / 猫汰つな】#PR",
-    "thumbnail": "https://i.ytimg.com/vi/OeIawFJhiYE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/OeIawFJhiYE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=OeIawFJhiYE",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-19T06:30:00Z",
+    "startTime": "2026-09-19T06:29:16Z",
+    "endTime": "2026-09-19T07:41:45Z",
     "ttl": "2026-09-26T06:30:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "tAlnZxT1Us0",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【アニモ】オープンワールドの冒険ゲーム！今日もやるど～　w/のあちゃん、うみんぐ【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/tAlnZxT1Us0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=tAlnZxT1Us0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-19T11:00:00Z",
+    "ttl": "2026-09-26T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
   {
     "id": "RttetWjRF28",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 ゼルダの伝説 ブレワイ 】#6 姫を救うためならなんだってする。【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/RttetWjRF28/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/RttetWjRF28/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=RttetWjRF28",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-19T01:50:00Z",
     "startTime": "2026-09-19T01:52:13Z",
+    "endTime": "2026-09-19T06:36:44Z",
     "ttl": "2026-09-26T01:50:00.000Z",
     "streamerId": "komori_met"
   },
@@ -45,6 +94,31 @@
     "streamerId": "yano_kuromu"
   },
   {
+    "id": "PrwxAeuroVQ",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【つむ飯】今夜は何を作ろうかな～～～？#７【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/PrwxAeuroVQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=PrwxAeuroVQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-19T09:00:00Z",
+    "startTime": "2026-09-19T09:04:05Z",
+    "ttl": "2026-09-26T09:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "cseWcLii4to",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】🌞ソロコンペ🌞【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/cseWcLii4to/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=cseWcLii4to",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-19T06:30:00Z",
+    "startTime": "2026-09-19T06:25:11Z",
+    "endTime": "2026-09-19T08:23:33Z",
+    "ttl": "2026-09-26T06:30:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "CNAmPNR6L4I",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【ドラゴンクエストVII Reimagined】千燈ゆうひあるある：RPG途中で間が空きがち #5【 ぶいすぽっ！ / 千燈ゆうひ 】",
@@ -55,6 +129,30 @@
     "startTime": "2026-09-19T01:31:02Z",
     "ttl": "2026-09-26T01:30:00.000Z",
     "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "oDowTwuYcK8",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【スト6】成長痛中？←これ言いづらい【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/oDowTwuYcK8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=oDowTwuYcK8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-19T07:00:00Z",
+    "startTime": "2026-09-19T07:00:54Z",
+    "ttl": "2026-09-26T07:00:00.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "qxW9ievHlbw",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  Teamfight Tactics  ◢　セナ先輩に教えていただくTFT！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/qxW9ievHlbw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=qxW9ievHlbw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-19T09:00:00Z",
+    "startTime": "2026-09-19T09:04:44Z",
+    "ttl": "2026-09-26T09:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "VKTRoUswuQQ",
