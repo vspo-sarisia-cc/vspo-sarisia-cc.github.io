@@ -86,6 +86,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-09-18T23:30:00Z",
     "startTime": "2026-09-18T23:33:48Z",
+    "endTime": "2026-09-19T04:46:15Z",
     "ttl": "2026-09-25T23:30:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -249,7 +250,7 @@
     "id": "X2wRKSx8f6A",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【Touhou Koumakyou】   This is nostalgic!  【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/X2wRKSx8f6A/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/X2wRKSx8f6A/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=X2wRKSx8f6A",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-18T12:00:00Z",
