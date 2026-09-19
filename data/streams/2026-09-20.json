@@ -31,5 +31,16 @@
     "scheduledStartTime": "2026-09-20T06:00:00Z",
     "ttl": "2026-09-27T06:00:00.000Z",
     "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "UIo_SBs9z2M",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Apex Legends◢ SOLO IN TOKYO (its been 3 weeks..) | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/UIo_SBs9z2M/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=UIo_SBs9z2M",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-20T13:00:00Z",
+    "ttl": "2026-09-27T13:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
