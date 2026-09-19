@@ -1,5 +1,29 @@
 [
   {
+    "id": "qOw8GUee2D0",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "【 Apex 】フルパえぺ！ w/ハセシンさん、アリアちゃん【 ぶいすぽ / 小雀とと 】",
+    "thumbnail": "https://i.ytimg.com/vi/qOw8GUee2D0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=qOw8GUee2D0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-19T11:00:00Z",
+    "startTime": "2026-09-19T11:04:34Z",
+    "ttl": "2026-09-26T11:00:00.000Z",
+    "streamerId": "kogara_toto"
+  },
+  {
+    "id": "p8GYpm8bELM",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "うお",
+    "thumbnail": "https://i.ytimg.com/vi/p8GYpm8bELM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=p8GYpm8bELM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-19T12:30:00Z",
+    "startTime": "2026-09-19T12:28:27Z",
+    "ttl": "2026-09-26T12:30:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "NrEWpd5yA8o",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 アニモ 】かわいいもふもふに囲まれたい！【 ぶいすぽっ！胡桃のあ 】",
@@ -7,18 +31,32 @@
     "url": "https://www.youtube.com/watch?v=NrEWpd5yA8o",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-19T11:00:00Z",
+    "startTime": "2026-09-19T11:00:32Z",
     "ttl": "2026-09-26T11:00:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "ouYcqv3-_EE",
+    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
+    "title": "【How to Fish】一緒にお酒を飲んでくれる神メンバーと飲酒釣り🎣【ぶいすぽ/兎咲ミミ】",
+    "thumbnail": "https://i.ytimg.com/vi/ouYcqv3-_EE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=ouYcqv3-_EE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-19T12:00:00Z",
+    "startTime": "2026-09-19T12:12:32Z",
+    "ttl": "2026-09-26T12:00:00.000Z",
+    "streamerId": "tosaki_mimi"
   },
   {
     "id": "za7FXhBJonM",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【TFT】僭越ながら指導側を務めます。本日の生徒：龍巻ちせ【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/za7FXhBJonM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/za7FXhBJonM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=za7FXhBJonM",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-19T09:00:00Z",
     "startTime": "2026-09-19T09:04:22Z",
+    "endTime": "2026-09-19T12:09:54Z",
     "ttl": "2026-09-26T09:00:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -26,13 +64,38 @@
     "id": "sG7AhNhmvzQ",
     "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
     "title": "【APEX】面白くなってきた 【ぶいすぽっ！/英リサ】",
-    "thumbnail": "https://i.ytimg.com/vi/sG7AhNhmvzQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/sG7AhNhmvzQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=sG7AhNhmvzQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-19T07:50:00Z",
     "startTime": "2026-09-19T07:51:57Z",
+    "endTime": "2026-09-19T10:33:49Z",
     "ttl": "2026-09-26T07:50:00.000Z",
     "streamerId": "hanabusa_lisa"
+  },
+  {
+    "id": "18-matxqeaU",
+    "channelId": "UCGWa1dMU_sDCaRQjdabsVgg",
+    "title": "【How to Fish】ぶいすぽ飲酒雑談釣り部【ぶいすぽ/如月れん】",
+    "thumbnail": "https://i.ytimg.com/vi/18-matxqeaU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=18-matxqeaU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-19T12:07:02Z",
+    "startTime": "2026-09-19T12:12:19Z",
+    "ttl": "2026-09-26T12:07:02.000Z",
+    "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "f0T43W8Srjg",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【How to Fish】ドカ飲み既プレイ愉悦視点🍻でも明日9:00起きレッツゴー🎣【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/f0T43W8Srjg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=f0T43W8Srjg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-19T12:00:00Z",
+    "startTime": "2026-09-19T12:12:25Z",
+    "ttl": "2026-09-26T12:00:00.000Z",
+    "streamerId": "kaminari_qpi"
   },
   {
     "id": "pkl8J82GbJY",
@@ -42,8 +105,21 @@
     "url": "https://www.youtube.com/watch?v=pkl8J82GbJY",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-19T09:15:00Z",
+    "startTime": "2026-09-19T09:09:30Z",
     "ttl": "2026-09-26T09:15:00.000Z",
     "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "tAlnZxT1Us0",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【アニモ】オープンワールドの冒険ゲーム！今日もやるど～　w/のあちゃん、うみんぐ【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/tAlnZxT1Us0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=tAlnZxT1Us0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-19T11:00:00Z",
+    "startTime": "2026-09-19T11:00:07Z",
+    "ttl": "2026-09-26T11:00:00.000Z",
+    "streamerId": "nekota_tsuna"
   },
   {
     "id": "OeIawFJhiYE",
@@ -59,15 +135,15 @@
     "streamerId": "nekota_tsuna"
   },
   {
-    "id": "tAlnZxT1Us0",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【アニモ】オープンワールドの冒険ゲーム！今日もやるど～　w/のあちゃん、うみんぐ【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/tAlnZxT1Us0/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=tAlnZxT1Us0",
+    "id": "giRtcC6ZhEM",
+    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
+    "title": "【 ニチアサ 】これが秋ってやつなのか？【 ぶいすぽっ！ / 小森めと 】",
+    "thumbnail": "https://i.ytimg.com/vi/giRtcC6ZhEM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=giRtcC6ZhEM",
     "platform": "youtube",
-    "scheduledStartTime": "2026-09-19T11:00:00Z",
-    "ttl": "2026-09-26T11:00:00.000Z",
-    "streamerId": "nekota_tsuna"
+    "scheduledStartTime": "2026-09-19T23:00:00Z",
+    "ttl": "2026-09-26T23:00:00.000Z",
+    "streamerId": "komori_met"
   },
   {
     "id": "RttetWjRF28",
@@ -90,6 +166,7 @@
     "url": "https://www.youtube.com/watch?v=OJyTvArCYoI",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-19T11:00:00Z",
+    "startTime": "2026-09-19T10:59:47Z",
     "ttl": "2026-09-26T11:00:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -97,11 +174,12 @@
     "id": "PrwxAeuroVQ",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【つむ飯】今夜は何を作ろうかな～～～？#７【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/PrwxAeuroVQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/PrwxAeuroVQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=PrwxAeuroVQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-19T09:00:00Z",
     "startTime": "2026-09-19T09:04:05Z",
+    "endTime": "2026-09-19T09:55:57Z",
     "ttl": "2026-09-26T09:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -122,11 +200,12 @@
     "id": "CNAmPNR6L4I",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【ドラゴンクエストVII Reimagined】千燈ゆうひあるある：RPG途中で間が空きがち #5【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/CNAmPNR6L4I/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/CNAmPNR6L4I/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=CNAmPNR6L4I",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-19T01:30:00Z",
     "startTime": "2026-09-19T01:31:02Z",
+    "endTime": "2026-09-19T10:14:37Z",
     "ttl": "2026-09-26T01:30:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -134,11 +213,12 @@
     "id": "oDowTwuYcK8",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【スト6】成長痛中？←これ言いづらい【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/oDowTwuYcK8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/oDowTwuYcK8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=oDowTwuYcK8",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-19T07:00:00Z",
     "startTime": "2026-09-19T07:00:54Z",
+    "endTime": "2026-09-19T09:13:54Z",
     "ttl": "2026-09-26T07:00:00.000Z",
     "streamerId": "ginjo_saine"
   },
@@ -146,11 +226,12 @@
     "id": "qxW9ievHlbw",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  Teamfight Tactics  ◢　セナ先輩に教えていただくTFT！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/qxW9ievHlbw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/qxW9ievHlbw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=qxW9ievHlbw",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-19T09:00:00Z",
     "startTime": "2026-09-19T09:04:44Z",
+    "endTime": "2026-09-19T12:06:30Z",
     "ttl": "2026-09-26T09:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -164,5 +245,41 @@
     "scheduledStartTime": "2026-09-19T14:30:00Z",
     "ttl": "2026-09-26T14:30:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316466887153",
+    "channelId": "hinanotachiba7",
+    "title": "フルパ w/スパイギア、うるか、すもも３、おじじ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hinanotachiba7-320x180.jpg",
+    "url": "https://www.twitch.tv/hinanotachiba7",
+    "scheduledStartTime": "2026-09-19T11:41:03Z",
+    "startTime": "2026-09-19T11:41:03Z",
+    "platform": "twitch",
+    "ttl": "2026-09-26T11:41:03.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "316534761075",
+    "channelId": "akarindao",
+    "title": "今日も,,飲んじゃおっカナ,,,?たや、きゅーちゃん、れんくん",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-09-19T12:12:19Z",
+    "startTime": "2026-09-19T12:12:19Z",
+    "platform": "twitch",
+    "ttl": "2026-09-26T12:12:19.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316478937970",
+    "channelId": "shinomiya_runa",
+    "title": "デスま雑談",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinomiya_runa-320x180.jpg",
+    "url": "https://www.twitch.tv/shinomiya_runa",
+    "scheduledStartTime": "2026-09-19T11:37:34Z",
+    "startTime": "2026-09-19T11:37:34Z",
+    "platform": "twitch",
+    "ttl": "2026-09-26T11:37:34.000Z",
+    "streamerId": "shinomiya_runa"
   }
 ]
