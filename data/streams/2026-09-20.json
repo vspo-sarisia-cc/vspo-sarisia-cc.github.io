@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=IS3a-1rbNnM",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-20T05:50:00Z",
+    "startTime": "2026-09-20T05:50:16Z",
     "ttl": "2026-09-27T05:50:00.000Z",
     "streamerId": "vspo_official"
   },
@@ -14,10 +15,12 @@
     "id": "4BwRdh6ruog",
     "channelId": "UCuI5XaO-6VkOEhHao6ij7JA",
     "title": "【本配信】#ぶいすぽGG TGS2026出張版 ストリートファイター6 Presented by GALLERIA",
-    "thumbnail": "https://i.ytimg.com/vi/4BwRdh6ruog/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/4BwRdh6ruog/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4BwRdh6ruog",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-20T03:20:00Z",
+    "startTime": "2026-09-20T03:20:11Z",
+    "endTime": "2026-09-20T05:01:57Z",
     "ttl": "2026-09-27T03:20:00.000Z",
     "streamerId": "vspo_official"
   },
@@ -29,6 +32,7 @@
     "url": "https://www.youtube.com/watch?v=LawEOlittaY",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-20T06:00:00Z",
+    "startTime": "2026-09-20T06:01:28Z",
     "ttl": "2026-09-27T06:00:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -40,6 +44,7 @@
     "url": "https://www.youtube.com/watch?v=8HoVOSWYk1I",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-20T06:00:00Z",
+    "startTime": "2026-09-20T06:01:15Z",
     "ttl": "2026-09-27T06:00:00.000Z",
     "streamerId": "shinomiya_runa"
   },
@@ -51,6 +56,7 @@
     "url": "https://www.youtube.com/watch?v=OmpAyAYKzE8",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-20T05:50:00Z",
+    "startTime": "2026-09-20T06:01:00Z",
     "ttl": "2026-09-27T05:50:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -64,5 +70,17 @@
     "scheduledStartTime": "2026-09-20T13:00:00Z",
     "ttl": "2026-09-27T13:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316470125809",
+    "channelId": "akarindao",
+    "title": "【 #ぶいすぽGG 】TGSでヴァロやるよ～❕",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-09-20T06:01:42Z",
+    "startTime": "2026-09-20T06:01:42Z",
+    "platform": "twitch",
+    "ttl": "2026-09-27T06:01:42.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
