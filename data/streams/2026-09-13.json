@@ -1,18 +1,5 @@
 [
   {
-    "id": "rhPagKIXwA8",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【雑談】よるざつ【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/rhPagKIXwA8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=rhPagKIXwA8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-13T14:50:00Z",
-    "startTime": "2026-09-13T14:53:00Z",
-    "endTime": "2026-09-13T17:32:28Z",
-    "ttl": "2026-09-20T14:50:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
     "id": "Q5XlD15s10E",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【雑談】天才の朝は早い【ぶいすぽっ！ #銀城サイネ 】",
@@ -24,17 +11,5 @@
     "endTime": "2026-09-13T22:30:27Z",
     "ttl": "2026-09-20T21:00:00.000Z",
     "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "316453362674",
-    "channelId": "akarindao",
-    "title": "夜活パンチ",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/011c16dd7ad924bd870f_akarindao_316453362674_1789311908//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2873186770",
-    "scheduledStartTime": "2026-09-13T15:05:13Z",
-    "startTime": "2026-09-13T15:05:13Z",
-    "platform": "twitch",
-    "ttl": "2026-09-20T15:05:13.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
