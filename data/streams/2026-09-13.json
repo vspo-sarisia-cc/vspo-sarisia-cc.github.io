@@ -1,31 +1,5 @@
 [
   {
-    "id": "vhdTWvX106A",
-    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-    "title": "【歌枠】日曜日が恒例になりつつあるアニソン歌枠【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/vhdTWvX106A/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=vhdTWvX106A",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-13T13:00:00Z",
-    "startTime": "2026-09-13T13:03:23Z",
-    "endTime": "2026-09-13T14:54:03Z",
-    "ttl": "2026-09-20T13:00:00.000Z",
-    "streamerId": "kaga_nazuna"
-  },
-  {
-    "id": "2BzmkYBYxLk",
-    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
-    "title": "【VALORANT 】りはびり夜の部【ぶいすぽ/兎咲ミミ】",
-    "thumbnail": "https://i.ytimg.com/vi/2BzmkYBYxLk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=2BzmkYBYxLk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-13T13:20:00Z",
-    "startTime": "2026-09-13T13:22:30Z",
-    "endTime": "2026-09-13T16:33:57Z",
-    "ttl": "2026-09-20T13:20:00.000Z",
-    "streamerId": "tosaki_mimi"
-  },
-  {
     "id": "rhPagKIXwA8",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【雑談】よるざつ【ぶいすぽっ！/ 藍沢エマ】",
@@ -39,32 +13,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "sGD7QrjmfHA",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【APEX】上手くなりたいのだ　w/渋ハル、うるーか【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/sGD7QrjmfHA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=sGD7QrjmfHA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-13T13:45:00Z",
-    "startTime": "2026-09-13T13:35:57Z",
-    "endTime": "2026-09-13T20:46:19Z",
-    "ttl": "2026-09-20T13:45:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "mm8WOWJjSlw",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【VALORANT】まけおわ（ガチ）【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/mm8WOWJjSlw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=mm8WOWJjSlw",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-13T14:45:00Z",
-    "startTime": "2026-09-13T14:44:55Z",
-    "endTime": "2026-09-13T17:34:28Z",
-    "ttl": "2026-09-20T14:45:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
     "id": "Q5XlD15s10E",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【雑談】天才の朝は早い【ぶいすぽっ！ #銀城サイネ 】",
@@ -76,31 +24,6 @@
     "endTime": "2026-09-13T22:30:27Z",
     "ttl": "2026-09-20T21:00:00.000Z",
     "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "c97X2J6hOeI",
-    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "【Just Chatting】   Let's talk about the BOTchi Tournament! 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/c97X2J6hOeI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=c97X2J6hOeI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-13T14:00:00Z",
-    "startTime": "2026-09-13T14:16:21Z",
-    "endTime": "2026-09-13T17:05:06Z",
-    "ttl": "2026-09-20T14:00:00.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "316442396145",
-    "channelId": "hinanotachiba7",
-    "title": "エメいくにょ～2",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/31f3f83323eb4e14ccd8_hinanotachiba7_316442396145_1789310450//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2873168209",
-    "scheduledStartTime": "2026-09-13T14:40:55Z",
-    "startTime": "2026-09-13T14:40:55Z",
-    "platform": "twitch",
-    "ttl": "2026-09-20T14:40:55.000Z",
-    "streamerId": "tachibana_hinano"
   },
   {
     "id": "316453362674",
