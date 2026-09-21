@@ -1,18 +1,5 @@
 [
   {
-    "id": "dw3RUtdn3-8",
-    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
-    "title": "【深夜】TFTをのんびり深夜嗜む会  w/白那しずく.とおこ【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/dw3RUtdn3-8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=dw3RUtdn3-8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-14T14:35:00Z",
-    "startTime": "2026-09-14T14:38:01Z",
-    "endTime": "2026-09-14T19:31:25Z",
-    "ttl": "2026-09-21T14:35:00.000Z",
-    "streamerId": "asumi_sena"
-  },
-  {
     "id": "seZKLPQycCI",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "清楚三姉妹での会話の内容から清楚を疑われるエマ【ぶいすぽっ！/ 藍沢エマ/兎咲ミミ/英リサ/神成きゅぴ/八雲べに/小森めと/ARK】",
@@ -37,56 +24,5 @@
     "endTime": "2026-09-14T21:22:28Z",
     "ttl": "2026-09-21T20:45:00.000Z",
     "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "Da8uS27x050",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 VALO 〗はなびづお。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/Da8uS27x050/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Da8uS27x050",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-14T11:00:00Z",
-    "startTime": "2026-09-14T11:43:50Z",
-    "endTime": "2026-09-14T14:40:54Z",
-    "ttl": "2026-09-21T11:00:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
-    "id": "nrfsU8V2fUk",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【Super Battle Golf】しゃらくせー2次会！！【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/nrfsU8V2fUk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=nrfsU8V2fUk",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-14T11:00:00Z",
-    "startTime": "2026-09-14T11:05:53Z",
-    "endTime": "2026-09-14T15:30:25Z",
-    "ttl": "2026-09-21T11:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "wX0EKT1yM5U",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【 VALORANT 】　定期　むーさん　と　ゔぁろ　だ！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/wX0EKT1yM5U/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=wX0EKT1yM5U",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-14T11:00:00Z",
-    "startTime": "2026-09-14T11:45:19Z",
-    "endTime": "2026-09-14T14:38:34Z",
-    "ttl": "2026-09-21T11:00:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "316513035379",
-    "channelId": "shinomiya_runa",
-    "title": "最近の熱いスキンは",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/66fd797297fb6ab5eea4_shinomiya_runa_316513035379_1789384309//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2873904745",
-    "scheduledStartTime": "2026-09-14T11:11:54Z",
-    "startTime": "2026-09-14T11:11:54Z",
-    "platform": "twitch",
-    "ttl": "2026-09-21T11:11:54.000Z",
-    "streamerId": "shinomiya_runa"
   }
 ]
