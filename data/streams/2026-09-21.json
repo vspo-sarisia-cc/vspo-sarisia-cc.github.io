@@ -7,8 +7,34 @@
     "url": "https://www.youtube.com/watch?v=i-klJdMd8_A",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-21T10:00:00Z",
+    "startTime": "2026-09-21T10:01:14Z",
     "ttl": "2026-09-28T10:00:00.000Z",
     "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "763TMQYZ2Us",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【APEX】悪天候の昼下がりランクいくど！【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/763TMQYZ2Us/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=763TMQYZ2Us",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-21T06:00:00Z",
+    "startTime": "2026-09-21T06:02:47Z",
+    "endTime": "2026-09-21T08:17:57Z",
+    "ttl": "2026-09-28T06:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "SVI_xr3TYCs",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】ハセシン、天月にいさんとフルパ！ワールズエッジ！【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/SVI_xr3TYCs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=SVI_xr3TYCs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-21T10:00:00Z",
+    "startTime": "2026-09-21T10:03:16Z",
+    "ttl": "2026-09-28T10:00:00.000Z",
+    "streamerId": "kurumi_noah"
   },
   {
     "id": "8KKBWOdxvL8",
@@ -20,6 +46,91 @@
     "scheduledStartTime": "2026-09-21T11:00:00Z",
     "ttl": "2026-09-28T11:00:00.000Z",
     "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "qjM5GRZzOsM",
+    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
+    "title": "【APEX】ぶいすぽプルパ/あかちゃん、八雲【ぶいすぽっ！/英リサ】",
+    "thumbnail": "https://i.ytimg.com/vi/qjM5GRZzOsM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=qjM5GRZzOsM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-21T10:15:00Z",
+    "startTime": "2026-09-21T10:28:15Z",
+    "ttl": "2026-09-28T10:15:00.000Z",
+    "streamerId": "hanabusa_lisa"
+  },
+  {
+    "id": "1jlXChfXaVo",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【APEX】ガチメンツapex🔥プラチナいくｚ！w/あかりんリサ【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/1jlXChfXaVo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=1jlXChfXaVo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-21T10:15:00Z",
+    "startTime": "2026-09-21T10:28:04Z",
+    "ttl": "2026-09-28T10:15:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "tPsdjKTTKA8",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】ドンさんからガイルの色々を学ぶ【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/tPsdjKTTKA8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=tPsdjKTTKA8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-21T10:00:00Z",
+    "startTime": "2026-09-21T10:01:27Z",
+    "ttl": "2026-09-28T10:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "PfcyoOk2YEI",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】ｂｂ【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/PfcyoOk2YEI/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=PfcyoOk2YEI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-21T06:08:00Z",
+    "startTime": "2026-09-21T06:12:19Z",
+    "endTime": "2026-09-21T08:50:34Z",
+    "ttl": "2026-09-28T06:08:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "Ie3hjUX_0w4",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【 BOMBANANA! 】見えません聞こえません喋れません【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/Ie3hjUX_0w4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Ie3hjUX_0w4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-21T10:00:00Z",
+    "startTime": "2026-09-21T10:00:49Z",
+    "ttl": "2026-09-28T10:00:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "oafJEgtlN70",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【スト６】　原点Mマリ！カスタム無限募！！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/oafJEgtlN70/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=oafJEgtlN70",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-21T06:30:00Z",
+    "startTime": "2026-09-21T06:30:05Z",
+    "endTime": "2026-09-21T08:38:46Z",
+    "ttl": "2026-09-28T06:30:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "NvY3aGMsASs",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【トルネコの大冒険 不思議のダンジョン　ちょっとステキなリマスター】はじめてやります✨️　ネタバレ注意【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/NvY3aGMsASs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=NvY3aGMsASs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-21T12:00:00Z",
+    "ttl": "2026-09-28T12:00:00.000Z",
+    "streamerId": "amayui_moka"
   },
   {
     "id": "YU9JDZiWjL8",
@@ -38,13 +149,26 @@
     "id": "X0dhDlmAJ1o",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【リングフィットアドベンチャー】リアルザンギになるために【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/X0dhDlmAJ1o/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/X0dhDlmAJ1o/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=X0dhDlmAJ1o",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-21T05:00:00Z",
     "startTime": "2026-09-21T05:03:04Z",
+    "endTime": "2026-09-21T06:47:09Z",
     "ttl": "2026-09-28T05:00:00.000Z",
     "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "l5LkAOBERIc",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　もれるとこまでいってみたい   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/l5LkAOBERIc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=l5LkAOBERIc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-21T07:00:00Z",
+    "startTime": "2026-09-21T07:06:22Z",
+    "ttl": "2026-09-28T07:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "FzYfPSvuUUA",
@@ -56,5 +180,41 @@
     "scheduledStartTime": "2026-09-21T11:00:00Z",
     "ttl": "2026-09-28T11:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316475319409",
+    "channelId": "akarindao",
+    "title": "APEX履歴書配信",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-09-21T10:28:11Z",
+    "startTime": "2026-09-21T10:28:11Z",
+    "platform": "twitch",
+    "ttl": "2026-09-28T10:28:11.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316486548210",
+    "channelId": "asumisena",
+    "title": "毎日やんねん",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/c1fe01fa8e9e1264f280_asumisena_316486548210_1789969650//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2879995654",
+    "scheduledStartTime": "2026-09-21T05:47:35Z",
+    "startTime": "2026-09-21T05:47:35Z",
+    "platform": "twitch",
+    "ttl": "2026-09-28T05:47:35.000Z",
+    "streamerId": "asumi_sena"
+  },
+  {
+    "id": "316486930546",
+    "channelId": "hinanotachiba7",
+    "title": "低気圧に負けすぎた女",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/bf944f2a4bed4031b9e2_hinanotachiba7_316486930546_1789976654//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2880033512",
+    "scheduledStartTime": "2026-09-21T07:44:19Z",
+    "startTime": "2026-09-21T07:44:19Z",
+    "platform": "twitch",
+    "ttl": "2026-09-28T07:44:19.000Z",
+    "streamerId": "tachibana_hinano"
   }
 ]

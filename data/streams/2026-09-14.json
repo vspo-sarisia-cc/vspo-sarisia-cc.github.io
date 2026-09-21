@@ -1,18 +1,5 @@
 [
   {
-    "id": "2-end4-u31o",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】オルターの練習がしたいんだ【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/2-end4-u31o/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=2-end4-u31o",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-14T07:20:00Z",
-    "startTime": "2026-09-14T07:23:17Z",
-    "endTime": "2026-09-14T10:55:25Z",
-    "ttl": "2026-09-21T07:20:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "dw3RUtdn3-8",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【深夜】TFTをのんびり深夜嗜む会  w/白那しずく.とおこ【空澄セナ/ぶいすぽっ！】",
@@ -37,32 +24,6 @@
     "endTime": "2026-09-14T22:21:39Z",
     "ttl": "2026-09-21T22:00:00.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "mX2hZcFAz1c",
-    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
-    "title": "【 Super Battle Golf 】CRcup二次会#しゃらくせー不動大人冗談２１WIN【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/mX2hZcFAz1c/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=mX2hZcFAz1c",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-14T10:50:00Z",
-    "startTime": "2026-09-14T11:14:00Z",
-    "endTime": "2026-09-14T15:30:33Z",
-    "ttl": "2026-09-21T10:50:00.000Z",
-    "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "dSHOAaCEvEY",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【APEX】マスターまであと少し！　w/渋ハル、うるーか【ぶいす / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/dSHOAaCEvEY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=dSHOAaCEvEY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-14T09:00:00Z",
-    "startTime": "2026-09-14T08:53:59Z",
-    "endTime": "2026-09-14T20:44:43Z",
-    "ttl": "2026-09-21T09:00:00.000Z",
-    "streamerId": "nekota_tsuna"
   },
   {
     "id": "CTEO8fJoN2E",
@@ -104,19 +65,6 @@
     "streamerId": "tsumugi_kokage"
   },
   {
-    "id": "xo4R9bUQlyE",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【VALORANT】4.5戦くらい！【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/xo4R9bUQlyE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=xo4R9bUQlyE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-14T07:20:00Z",
-    "startTime": "2026-09-14T07:30:03Z",
-    "endTime": "2026-09-14T10:18:54Z",
-    "ttl": "2026-09-21T07:20:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
     "id": "wX0EKT1yM5U",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 VALORANT 】　定期　むーさん　と　ゔぁろ　だ！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -128,30 +76,6 @@
     "endTime": "2026-09-14T14:38:34Z",
     "ttl": "2026-09-21T11:00:00.000Z",
     "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "316455845362",
-    "channelId": "ren_kisaragi__",
-    "title": "ヴァイパー",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/ac5e895824d9a14fee34_ren_kisaragi___316455845362_1789374153//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2873849690",
-    "scheduledStartTime": "2026-09-14T08:22:38Z",
-    "startTime": "2026-09-14T08:22:38Z",
-    "platform": "twitch",
-    "ttl": "2026-09-21T08:22:38.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
-    "id": "316455578226",
-    "channelId": "emtsmaru",
-    "title": "みじんこだけ",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d7d30feed16d528174df_emtsmaru_316455578226_1789368751//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2873822324",
-    "scheduledStartTime": "2026-09-14T06:52:36Z",
-    "startTime": "2026-09-14T06:52:36Z",
-    "platform": "twitch",
-    "ttl": "2026-09-21T06:52:36.000Z",
-    "streamerId": "aizawa_ema"
   },
   {
     "id": "316513035379",
