@@ -117,6 +117,19 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "an5EPlpwSLQ",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "イケメン,イケおじにつられてしまうエマたち【ぶいすぽっ！/ 藍沢エマ/神成きゅぴ/八雲べに/兎咲ミミ/ARK】",
+    "thumbnail": "https://i.ytimg.com/vi/an5EPlpwSLQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=an5EPlpwSLQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-21T22:00:00Z",
+    "startTime": "2026-09-21T22:00:08Z",
+    "endTime": "2026-09-21T22:21:04Z",
+    "ttl": "2026-09-28T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "tPsdjKTTKA8",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】ドンさんからガイルの色々を学ぶ【ぶいすぽっ！/ 藍沢エマ】",
@@ -127,17 +140,6 @@
     "startTime": "2026-09-21T10:01:27Z",
     "endTime": "2026-09-21T12:46:21Z",
     "ttl": "2026-09-28T10:00:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "an5EPlpwSLQ",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "イケメン,イケおじにつられてしまうエマたち【ぶいすぽっ！/ 藍沢エマ/神成きゅぴ/八雲べに/兎咲ミミ/ARK】",
-    "thumbnail": "https://i.ytimg.com/vi/an5EPlpwSLQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=an5EPlpwSLQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-21T22:00:00Z",
-    "ttl": "2026-09-28T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -282,6 +284,18 @@
     "endTime": "2026-09-21T14:46:44Z",
     "ttl": "2026-09-28T11:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "315527534703",
+    "channelId": "erissuzukami",
+    "title": "secret",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
+    "url": "https://www.twitch.tv/erissuzukami",
+    "scheduledStartTime": "2026-09-21T23:32:10Z",
+    "startTime": "2026-09-21T23:32:10Z",
+    "platform": "twitch",
+    "ttl": "2026-09-28T23:32:10.000Z",
+    "streamerId": "eris_suzukami"
   },
   {
     "id": "316486548210",
