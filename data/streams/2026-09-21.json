@@ -286,18 +286,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "315527534703",
-    "channelId": "erissuzukami",
-    "title": "secret",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
-    "url": "https://www.twitch.tv/erissuzukami",
-    "scheduledStartTime": "2026-09-21T23:32:10Z",
-    "startTime": "2026-09-21T23:32:10Z",
-    "platform": "twitch",
-    "ttl": "2026-09-28T23:32:10.000Z",
-    "streamerId": "eris_suzukami"
-  },
-  {
     "id": "316486548210",
     "channelId": "asumisena",
     "title": "毎日やんねん",
