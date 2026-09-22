@@ -26,19 +26,6 @@
     "streamerId": "ichinose_uruha"
   },
   {
-    "id": "TNnLUwO6Ozc",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】ダイヤに落ちてもエペが楽しいぞい【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/TNnLUwO6Ozc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=TNnLUwO6Ozc",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-15T03:45:00Z",
-    "startTime": "2026-09-15T03:49:44Z",
-    "endTime": "2026-09-15T08:14:50Z",
-    "ttl": "2026-09-22T03:45:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "If2g5U9-wsA",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Apex Legends 】 スプリット最後って、、、こと！？ w/uruha,beni【ぶいすぽっ！/橘ひなの】",
@@ -52,19 +39,6 @@
     "streamerId": "tachibana_hinano"
   },
   {
-    "id": "DGXE91TzlJM",
-    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
-    "title": "【STREET FIGHTER 6】対戦会があるって聞きました【ぶいすぽっ！/神成きゅぴ】",
-    "thumbnail": "https://i.ytimg.com/vi/DGXE91TzlJM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=DGXE91TzlJM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-15T08:00:00Z",
-    "startTime": "2026-09-15T08:15:04Z",
-    "endTime": "2026-09-15T13:44:20Z",
-    "ttl": "2026-09-22T08:00:00.000Z",
-    "streamerId": "kaminari_qpi"
-  },
-  {
     "id": "uIITVGxozoE",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【APEX】エペランドいくぞーー🎡🎠 w/うるはひなーの【ぶいすぽ/八雲べに】",
@@ -76,19 +50,6 @@
     "endTime": "2026-09-15T15:43:59Z",
     "ttl": "2026-09-22T12:30:00.000Z",
     "streamerId": "yakumo_beni"
-  },
-  {
-    "id": "CiL7_mMDRbA",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】寝てはならぬ【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/CiL7_mMDRbA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=CiL7_mMDRbA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-15T06:45:00Z",
-    "startTime": "2026-09-15T06:37:32Z",
-    "endTime": "2026-09-15T07:56:27Z",
-    "ttl": "2026-09-22T06:45:00.000Z",
-    "streamerId": "aizawa_ema"
   },
   {
     "id": "PwHJZrE7jtY",
@@ -234,30 +195,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316448852593",
-    "channelId": "hinanotachiba7",
-    "title": "夕方まで",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/7d6275a41d8930ebc396_hinanotachiba7_316448852593_1789455091//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2874655074",
-    "scheduledStartTime": "2026-09-15T06:51:36Z",
-    "startTime": "2026-09-15T06:51:36Z",
-    "platform": "twitch",
-    "ttl": "2026-09-22T06:51:36.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "316516510067",
-    "channelId": "ren_kisaragi__",
-    "title": "対戦会する",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d71f5eb973033700a6e9_ren_kisaragi___316516510067_1789458268//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2874671762",
-    "scheduledStartTime": "2026-09-15T07:44:33Z",
-    "startTime": "2026-09-15T07:44:33Z",
-    "platform": "twitch",
-    "ttl": "2026-09-22T07:44:33.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "316519148915",
     "channelId": "shinomiya_runa",
     "title": "最近の熱いスキンは",
@@ -268,17 +205,5 @@
     "platform": "twitch",
     "ttl": "2026-09-22T20:46:04.000Z",
     "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "316516621427",
-    "channelId": "sendo_yuuhi",
-    "title": "対戦会にぼこられにきてみた",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/a3df2b22b42bbc59a542_sendo_yuuhi_316516621427_1789460613//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2874683779",
-    "scheduledStartTime": "2026-09-15T08:23:38Z",
-    "startTime": "2026-09-15T08:23:38Z",
-    "platform": "twitch",
-    "ttl": "2026-09-22T08:23:38.000Z",
-    "streamerId": "sendo_yuuhi"
   }
 ]
