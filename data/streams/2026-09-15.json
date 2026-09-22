@@ -11,17 +11,5 @@
     "endTime": "2026-09-16T00:04:41Z",
     "ttl": "2026-09-22T22:00:00.000Z",
     "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "316519148915",
-    "channelId": "shinomiya_runa",
-    "title": "最近の熱いスキンは",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/8bb6fe1076097bd8537b_shinomiya_runa_316519148915_1789505159//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2875125678",
-    "scheduledStartTime": "2026-09-15T20:46:04Z",
-    "startTime": "2026-09-15T20:46:04Z",
-    "platform": "twitch",
-    "ttl": "2026-09-22T20:46:04.000Z",
-    "streamerId": "shinomiya_runa"
   }
 ]
