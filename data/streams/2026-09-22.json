@@ -211,11 +211,12 @@
     "id": "jQTsWAV3iIc",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【BIRTHDAY 2026】celebrating together ~ !! 【#VSPOEN #AryaKuroha #AryaBDay2026】",
-    "thumbnail": "https://i.ytimg.com/vi/jQTsWAV3iIc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/jQTsWAV3iIc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=jQTsWAV3iIc",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-22T22:00:00Z",
     "startTime": "2026-09-22T22:03:21Z",
+    "endTime": "2026-09-23T02:19:23Z",
     "ttl": "2026-09-29T22:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -246,18 +247,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "321659461723",
-    "channelId": "aryakuroha",
-    "title": "✦ BIRTHDAY BASH CELEBRATION !!",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-09-22T22:02:25Z",
-    "startTime": "2026-09-22T22:02:25Z",
-    "platform": "twitch",
-    "ttl": "2026-09-29T22:02:25.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
     "id": "316549175923",
     "channelId": "hinanotachiba7",
     "title": "yarimasu w/釈迦３",
@@ -280,6 +269,18 @@
     "platform": "twitch",
     "ttl": "2026-09-29T05:54:08.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "321659461723",
+    "channelId": "aryakuroha",
+    "title": "✦ BIRTHDAY BASH CELEBRATION !!",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/97b8d524be87e18ec24f_aryakuroha_321659461723_1790114545//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2881386433",
+    "scheduledStartTime": "2026-09-22T22:02:32Z",
+    "startTime": "2026-09-22T22:02:32Z",
+    "platform": "twitch",
+    "ttl": "2026-09-29T22:02:32.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "321650494427",

@@ -9,5 +9,17 @@
     "scheduledStartTime": "2026-09-23T11:00:00Z",
     "ttl": "2026-09-30T11:00:00.000Z",
     "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "yAroYS23cdI",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【テイルズ オブ ジ アビス】#7 テイルズシリーズ完全初見！少し時間が空いてしまった…！ TALES OF THE ABYSS【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/yAroYS23cdI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=yAroYS23cdI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-23T05:00:00Z",
+    "startTime": "2026-09-23T05:00:19Z",
+    "ttl": "2026-09-30T05:00:00.000Z",
+    "streamerId": "ginjo_saine"
   }
 ]
