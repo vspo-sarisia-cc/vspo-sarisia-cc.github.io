@@ -195,16 +195,41 @@
     "streamerId": "tatsumaki_chise"
   },
   {
+    "id": "FlwQf6wZfO8",
+    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
+    "title": "【MINECRAFT】visiting the vspo server in autumn !!【#VSPOEN #AryaKuroha】",
+    "thumbnail": "https://i.ytimg.com/vi/FlwQf6wZfO8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=FlwQf6wZfO8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-24T22:30:00Z",
+    "startTime": "2026-09-24T22:30:43Z",
+    "ttl": "2026-10-01T22:30:00.000Z",
+    "streamerId": "arya_kuroha"
+  },
+  {
     "id": "k5UF5gQxy0w",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤League of Legends◢ DUO WITH MY MOM/DAD? @DubsteP_ch  | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/k5UF5gQxy0w/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/k5UF5gQxy0w/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=k5UF5gQxy0w",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-24T13:00:00Z",
     "startTime": "2026-09-24T12:59:59Z",
+    "endTime": "2026-09-24T20:00:37Z",
     "ttl": "2026-10-01T13:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "321569823706",
+    "channelId": "aryakuroha",
+    "title": "✦ visiting the server in autumn !",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-09-24T22:30:26Z",
+    "startTime": "2026-09-24T22:30:26Z",
+    "platform": "twitch",
+    "ttl": "2026-10-01T22:30:26.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "316555961075",

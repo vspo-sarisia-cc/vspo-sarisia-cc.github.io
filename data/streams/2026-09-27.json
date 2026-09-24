@@ -9,5 +9,16 @@
     "scheduledStartTime": "2026-09-27T05:00:00Z",
     "ttl": "2026-10-04T05:00:00.000Z",
     "streamerId": "yano_kuromu"
+  },
+  {
+    "id": "bK6Kxcz6aR8",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Wuthering Waves◢ RESONATOR SHOWCASE FIRST TIME REACT ! | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/bK6Kxcz6aR8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=bK6Kxcz6aR8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-27T14:00:00Z",
+    "ttl": "2026-10-04T14:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
