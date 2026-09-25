@@ -203,6 +203,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-09-24T22:30:00Z",
     "startTime": "2026-09-24T22:30:43Z",
+    "endTime": "2026-09-25T00:58:38Z",
     "ttl": "2026-10-01T22:30:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -218,18 +219,6 @@
     "endTime": "2026-09-24T20:00:37Z",
     "ttl": "2026-10-01T13:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "321569823706",
-    "channelId": "aryakuroha",
-    "title": "✦ visiting the server in autumn !",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-09-24T22:30:26Z",
-    "startTime": "2026-09-24T22:30:26Z",
-    "platform": "twitch",
-    "ttl": "2026-10-01T22:30:26.000Z",
-    "streamerId": "arya_kuroha"
   },
   {
     "id": "316555961075",
@@ -290,5 +279,17 @@
     "platform": "twitch",
     "ttl": "2026-10-01T05:32:08.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "321569823706",
+    "channelId": "aryakuroha",
+    "title": "✦ visiting the server in autumn !",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/5390d96368ca3381e90e_aryakuroha_321569823706_1790289026//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2883117692",
+    "scheduledStartTime": "2026-09-24T22:30:34Z",
+    "startTime": "2026-09-24T22:30:34Z",
+    "platform": "twitch",
+    "ttl": "2026-10-01T22:30:34.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
