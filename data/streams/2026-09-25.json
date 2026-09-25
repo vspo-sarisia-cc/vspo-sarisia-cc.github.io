@@ -1,5 +1,16 @@
 [
   {
+    "id": "wW0MImopVAk",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【#八雲べに生誕記念2026】お誕生日✨！グッズ告知や凸待ちも！？🎂【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/wW0MImopVAk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=wW0MImopVAk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-25T11:00:00Z",
+    "ttl": "2026-10-02T11:00:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
     "id": "Mpv4L-mY2ZQ",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【APEX】英語はパッションで何とかなる　w/Riko、dashuさん【ぶいすぽ / 猫汰つな】",
@@ -11,6 +22,17 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "XKvplGKpZuI",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "#2【 鬼武者 Way of the Sword 】　今日もかっこいい刀さばきを世界へ！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/XKvplGKpZuI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=XKvplGKpZuI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-25T07:00:00Z",
+    "ttl": "2026-10-02T07:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "UTD1eqEo_Ac",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【ZATSU】tadaima!! japan yap!!【#VSPOEN #JiraJisaki】",
@@ -18,6 +40,7 @@
     "url": "https://www.youtube.com/watch?v=UTD1eqEo_Ac",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-25T03:00:00Z",
+    "startTime": "2026-09-25T03:01:29Z",
     "ttl": "2026-10-02T03:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -31,5 +54,17 @@
     "scheduledStartTime": "2026-09-25T09:00:00Z",
     "ttl": "2026-10-02T09:00:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "316503500658",
+    "channelId": "choyahanabi",
+    "title": "【スト６】マリーザひとつまみ！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/076ebcd1a31a5b1587c2_choyahanabi_316503500658_1790307764//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2883345443",
+    "scheduledStartTime": "2026-09-25T03:42:50Z",
+    "startTime": "2026-09-25T03:42:50Z",
+    "platform": "twitch",
+    "ttl": "2026-10-02T03:42:50.000Z",
+    "streamerId": "choya_hanabi"
   }
 ]
