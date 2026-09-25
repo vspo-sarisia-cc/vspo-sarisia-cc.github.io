@@ -55,7 +55,7 @@
     "id": "kB1eHEUXFJY",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Apex Legends 】 ダイヤ帯だって！！！！！！w/ハセシン、ローレン【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/kB1eHEUXFJY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/kB1eHEUXFJY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=kB1eHEUXFJY",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-25T11:00:00Z",
@@ -63,18 +63,6 @@
     "endTime": "2026-09-25T16:48:03Z",
     "ttl": "2026-10-02T11:00:00.000Z",
     "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "4TUmKRpPMxA",
-    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
-    "title": "【APEX】プラチナを走るフルパ/山P、八雲【ぶいすぽっ！/英リサ】",
-    "thumbnail": "https://i.ytimg.com/vi/4TUmKRpPMxA/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=4TUmKRpPMxA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-25T15:30:00Z",
-    "startTime": "2026-09-25T15:36:19Z",
-    "ttl": "2026-10-02T15:30:00.000Z",
-    "streamerId": "hanabusa_lisa"
   },
   {
     "id": "7dDu_7XnRMs",
@@ -87,6 +75,18 @@
     "startTime": "2026-09-25T13:12:19Z",
     "endTime": "2026-09-25T15:03:09Z",
     "ttl": "2026-10-02T13:10:00.000Z",
+    "streamerId": "hanabusa_lisa"
+  },
+  {
+    "id": "4TUmKRpPMxA",
+    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
+    "title": "【APEX】プラチナを走るフルパ/山P、八雲【ぶいすぽっ！/英リサ】",
+    "thumbnail": "https://i.ytimg.com/vi/4TUmKRpPMxA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=4TUmKRpPMxA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-25T15:30:00Z",
+    "startTime": "2026-09-25T15:36:19Z",
+    "ttl": "2026-10-02T15:30:00.000Z",
     "streamerId": "hanabusa_lisa"
   },
   {
@@ -118,12 +118,24 @@
     "id": "sjSTI8rfti4",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【APEX】休みといいましたねあれはフェイクです【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/sjSTI8rfti4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/sjSTI8rfti4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=sjSTI8rfti4",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-25T13:45:00Z",
     "startTime": "2026-09-25T13:46:12Z",
+    "endTime": "2026-09-25T18:34:08Z",
     "ttl": "2026-10-02T13:45:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "GdAH8ANJwlE",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "ドンさんにガイル対策を教わるもどぱがきすぎるエマ【ぶいすぽっ！/ 藍沢エマ/ドンピシャ/スト6】",
+    "thumbnail": "https://i.ytimg.com/vi/GdAH8ANJwlE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=GdAH8ANJwlE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-25T22:00:00Z",
+    "ttl": "2026-10-02T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -156,11 +168,12 @@
     "id": "z_XNWt1vdhY",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【ドラゴンクエストVII Reimagined】開始時間遅杉 #9【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/z_XNWt1vdhY/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/z_XNWt1vdhY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=z_XNWt1vdhY",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-25T14:55:00Z",
     "startTime": "2026-09-25T14:56:29Z",
+    "endTime": "2026-09-25T17:34:14Z",
     "ttl": "2026-10-02T14:55:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -207,11 +220,12 @@
     "id": "PxbKX7vB7yk",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【Minecraft】추석 마크!! w. hebi【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/PxbKX7vB7yk/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/PxbKX7vB7yk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=PxbKX7vB7yk",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-25T08:00:00Z",
     "startTime": "2026-09-25T08:12:09Z",
+    "endTime": "2026-09-25T18:41:44Z",
     "ttl": "2026-10-02T08:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
