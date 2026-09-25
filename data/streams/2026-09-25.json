@@ -65,6 +65,19 @@
     "streamerId": "tachibana_hinano"
   },
   {
+    "id": "4TUmKRpPMxA",
+    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
+    "title": "【APEX】プラチナを走るフルパ/山P、八雲【ぶいすぽっ！/英リサ】",
+    "thumbnail": "https://i.ytimg.com/vi/4TUmKRpPMxA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=4TUmKRpPMxA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-25T15:30:00Z",
+    "startTime": "2026-09-25T15:36:19Z",
+    "endTime": "2026-09-25T21:16:47Z",
+    "ttl": "2026-10-02T15:30:00.000Z",
+    "streamerId": "hanabusa_lisa"
+  },
+  {
     "id": "7dDu_7XnRMs",
     "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
     "title": "【VALORANT】色々新要素あるみたいじゃないですか【ぶいすぽっ！/英リサ】",
@@ -78,26 +91,15 @@
     "streamerId": "hanabusa_lisa"
   },
   {
-    "id": "4TUmKRpPMxA",
-    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
-    "title": "【APEX】プラチナを走るフルパ/山P、八雲【ぶいすぽっ！/英リサ】",
-    "thumbnail": "https://i.ytimg.com/vi/4TUmKRpPMxA/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=4TUmKRpPMxA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-25T15:30:00Z",
-    "startTime": "2026-09-25T15:36:19Z",
-    "ttl": "2026-10-02T15:30:00.000Z",
-    "streamerId": "hanabusa_lisa"
-  },
-  {
     "id": "v54XQ5C-nJ4",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【APEX】おぺっくすフルパ w/リサヘンディー【ぶいすぽ/八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/v54XQ5C-nJ4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/v54XQ5C-nJ4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=v54XQ5C-nJ4",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-25T15:30:00Z",
     "startTime": "2026-09-25T15:36:26Z",
+    "endTime": "2026-09-25T21:16:15Z",
     "ttl": "2026-10-02T15:30:00.000Z",
     "streamerId": "yakumo_beni"
   },
@@ -115,6 +117,19 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "GdAH8ANJwlE",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "ドンさんにガイル対策を教わるもどぱがきすぎるエマ【ぶいすぽっ！/ 藍沢エマ/ドンピシャ/スト6】",
+    "thumbnail": "https://i.ytimg.com/vi/GdAH8ANJwlE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=GdAH8ANJwlE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-25T22:00:00Z",
+    "startTime": "2026-09-25T22:00:08Z",
+    "endTime": "2026-09-25T22:25:03Z",
+    "ttl": "2026-10-02T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "sjSTI8rfti4",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【APEX】休みといいましたねあれはフェイクです【ぶいすぽっ！/ 藍沢エマ】",
@@ -125,17 +140,6 @@
     "startTime": "2026-09-25T13:46:12Z",
     "endTime": "2026-09-25T18:34:08Z",
     "ttl": "2026-10-02T13:45:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "GdAH8ANJwlE",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "ドンさんにガイル対策を教わるもどぱがきすぎるエマ【ぶいすぽっ！/ 藍沢エマ/ドンピシャ/スト6】",
-    "thumbnail": "https://i.ytimg.com/vi/GdAH8ANJwlE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=GdAH8ANJwlE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-25T22:00:00Z",
-    "ttl": "2026-10-02T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
