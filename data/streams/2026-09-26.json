@@ -16,11 +16,12 @@
     "id": "ub_20sqmiDU",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【Wardogs】ちょっとハマりかけか？少しだけ【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/ub_20sqmiDU/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ub_20sqmiDU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ub_20sqmiDU",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-26T14:30:00Z",
     "startTime": "2026-09-26T14:30:54Z",
+    "endTime": "2026-09-26T17:46:55Z",
     "ttl": "2026-10-03T14:30:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -54,11 +55,12 @@
     "id": "bYqwyNoeQ04",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 夜ふかし雑談 】#91 ドカ食い帰宅部即気絶【ぶいすぽっ！胡桃のあ】",
-    "thumbnail": "https://i.ytimg.com/vi/bYqwyNoeQ04/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/bYqwyNoeQ04/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=bYqwyNoeQ04",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-26T14:15:00Z",
     "startTime": "2026-09-26T14:14:19Z",
+    "endTime": "2026-09-26T16:30:04Z",
     "ttl": "2026-10-03T14:15:00.000Z",
     "streamerId": "kurumi_noah"
   },
@@ -242,11 +244,12 @@
     "id": "6jQzfDi0kO0",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤ デスゲームの報告書 ◢　名探偵ってとこ魅せちゃおうかな？   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/6jQzfDi0kO0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/6jQzfDi0kO0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=6jQzfDi0kO0",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-26T11:00:00Z",
     "startTime": "2026-09-26T11:00:42Z",
+    "endTime": "2026-09-26T16:27:54Z",
     "ttl": "2026-10-03T11:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -276,18 +279,6 @@
     "streamerId": "shiranami_ramune"
   },
   {
-    "id": "316497271921",
-    "channelId": "akarindao",
-    "title": "履歴書もそろそろ空白埋まってきましたか？",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-09-26T10:37:11Z",
-    "startTime": "2026-09-26T10:37:11Z",
-    "platform": "twitch",
-    "ttl": "2026-10-03T10:37:11.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316499077233",
     "channelId": "ren_kisaragi__",
     "title": "何も覚えてない",
@@ -310,5 +301,17 @@
     "platform": "twitch",
     "ttl": "2026-10-03T09:10:01.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316497271921",
+    "channelId": "akarindao",
+    "title": "履歴書もそろそろ空白埋まってきましたか？",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/8dc56b9456c0b849eda1_akarindao_316497271921_1790419031//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2884419460",
+    "scheduledStartTime": "2026-09-26T10:37:16Z",
+    "startTime": "2026-09-26T10:37:16Z",
+    "platform": "twitch",
+    "ttl": "2026-10-03T10:37:16.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
