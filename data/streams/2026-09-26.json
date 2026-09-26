@@ -1,15 +1,51 @@
 [
   {
+    "id": "mtQaZj3rDQ4",
+    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
+    "title": "【妹に運転を教える】DだのNだのPとかね。【ぶいすぽっ！/花芽すみれ】",
+    "thumbnail": "https://i.ytimg.com/vi/mtQaZj3rDQ4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=mtQaZj3rDQ4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-26T13:00:00Z",
+    "ttl": "2026-10-03T13:00:00.000Z",
+    "streamerId": "kaga_sumire"
+  },
+  {
     "id": "ia0k-HrRBn0",
     "channelId": "UCgTzsBI0DIRopMylJEDqnog",
     "title": "【 DBD 】2v8まだまだやるぞ！！！ w/顔芸さん【 ぶいすぽ / 小雀とと 】",
-    "thumbnail": "https://i.ytimg.com/vi/ia0k-HrRBn0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/ia0k-HrRBn0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ia0k-HrRBn0",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-26T05:00:00Z",
     "startTime": "2026-09-26T05:02:27Z",
+    "endTime": "2026-09-26T10:15:07Z",
     "ttl": "2026-10-03T05:00:00.000Z",
     "streamerId": "kogara_toto"
+  },
+  {
+    "id": "xyD8lqloAdo",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【APEX】aimさんと少しずつ仲直りできていますか？【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/xyD8lqloAdo/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=xyD8lqloAdo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-26T10:15:00Z",
+    "startTime": "2026-09-26T10:37:16Z",
+    "ttl": "2026-10-03T10:15:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "VZ4VwhwELcY",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 Apex Legends 】 マウスとマウスパッド新調したランク w/あるふぁくん、ぎーあ【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/VZ4VwhwELcY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=VZ4VwhwELcY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-26T10:30:00Z",
+    "startTime": "2026-09-26T10:38:00Z",
+    "ttl": "2026-10-03T10:30:00.000Z",
+    "streamerId": "tachibana_hinano"
   },
   {
     "id": "poN_g05WFPY",
@@ -19,8 +55,22 @@
     "url": "https://www.youtube.com/watch?v=poN_g05WFPY",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-26T09:00:00Z",
+    "startTime": "2026-09-26T09:00:07Z",
+    "endTime": "2026-09-26T09:15:51Z",
     "ttl": "2026-10-03T09:00:00.000Z",
     "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "sL6SZO48BoY",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【APEX】魔境プラチナRANK w/うるはあかりん【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/sL6SZO48BoY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=sL6SZO48BoY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-26T10:30:00Z",
+    "startTime": "2026-09-26T10:37:12Z",
+    "ttl": "2026-10-03T10:30:00.000Z",
+    "streamerId": "yakumo_beni"
   },
   {
     "id": "996-sJv58kI",
@@ -30,19 +80,10 @@
     "url": "https://www.youtube.com/watch?v=996-sJv58kI",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-26T08:00:00Z",
+    "startTime": "2026-09-26T07:57:27Z",
+    "endTime": "2026-09-26T12:03:33Z",
     "ttl": "2026-10-03T08:00:00.000Z",
     "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "Nh3KrUumaSs",
-    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
-    "title": "【 #紫宮るな5周年 】６年目のしのみやさんです【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/Nh3KrUumaSs/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=Nh3KrUumaSs",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-26T09:00:00Z",
-    "ttl": "2026-10-03T09:00:00.000Z",
-    "streamerId": "shinomiya_runa"
   },
   {
     "id": "CaYcxKktAuk",
@@ -52,19 +93,47 @@
     "url": "https://www.youtube.com/watch?v=CaYcxKktAuk",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-26T11:10:00Z",
+    "startTime": "2026-09-26T11:10:09Z",
+    "endTime": "2026-09-26T11:16:57Z",
     "ttl": "2026-10-03T11:10:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "Nh3KrUumaSs",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 #紫宮るな5周年 】６年目のしのみやさんです【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/Nh3KrUumaSs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Nh3KrUumaSs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-26T09:00:00Z",
+    "startTime": "2026-09-26T09:01:34Z",
+    "endTime": "2026-09-26T11:02:30Z",
+    "ttl": "2026-10-03T09:00:00.000Z",
     "streamerId": "shinomiya_runa"
   },
   {
     "id": "LlM5i6LOaP4",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【つむ飯】今日は何食べようかな🎵#８【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/LlM5i6LOaP4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/LlM5i6LOaP4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=LlM5i6LOaP4",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-26T09:00:00Z",
+    "startTime": "2026-09-26T09:02:08Z",
+    "endTime": "2026-09-26T10:07:57Z",
     "ttl": "2026-10-03T09:00:00.000Z",
     "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "Egj3NxuW5-c",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【Big Walk】デ　　カ　　歩　　き　　部　#2 【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/Egj3NxuW5-c/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Egj3NxuW5-c",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-26T13:00:00Z",
+    "ttl": "2026-10-03T13:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "gphX0wPOmqQ",
@@ -83,13 +152,26 @@
     "id": "LjWKojnfduI",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【スト6】ｵﾃﾞﾓﾀﾞｲﾔｲｷﾀｲ【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/LjWKojnfduI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/LjWKojnfduI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=LjWKojnfduI",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-26T05:00:00Z",
     "startTime": "2026-09-26T05:00:56Z",
+    "endTime": "2026-09-26T07:55:44Z",
     "ttl": "2026-10-03T05:00:00.000Z",
     "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "6jQzfDi0kO0",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤ デスゲームの報告書 ◢　名探偵ってとこ魅せちゃおうかな？   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/6jQzfDi0kO0/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=6jQzfDi0kO0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-26T11:00:00Z",
+    "startTime": "2026-09-26T11:00:42Z",
+    "ttl": "2026-10-03T11:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "H5W9UPPsF1k",
@@ -99,7 +181,32 @@
     "url": "https://www.youtube.com/watch?v=H5W9UPPsF1k",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-26T12:00:00Z",
+    "startTime": "2026-09-26T12:00:54Z",
     "ttl": "2026-10-03T12:00:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "316497271921",
+    "channelId": "akarindao",
+    "title": "履歴書もそろそろ空白埋まってきましたか？",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-09-26T10:37:11Z",
+    "startTime": "2026-09-26T10:37:11Z",
+    "platform": "twitch",
+    "ttl": "2026-10-03T10:37:11.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316508966258",
+    "channelId": "ren_kisaragi__",
+    "title": "シューティング（APEX）を頑張る会 w/あくあさん",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/95c214c5ee7c5ec8aa4a_ren_kisaragi___316508966258_1790413796//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2884383898",
+    "scheduledStartTime": "2026-09-26T09:10:01Z",
+    "startTime": "2026-09-26T09:10:01Z",
+    "platform": "twitch",
+    "ttl": "2026-10-03T09:10:01.000Z",
+    "streamerId": "kisaragi_ren"
   }
 ]
