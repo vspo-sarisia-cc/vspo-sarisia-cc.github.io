@@ -68,11 +68,12 @@
     "id": "W718e-CUu_8",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【深夜TFT】寝落ち推奨。睡眠導入ボイス3人。  w/白那しずく.とおこ【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/W718e-CUu_8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/W718e-CUu_8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=W718e-CUu_8",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-26T13:45:00Z",
     "startTime": "2026-09-26T14:01:34Z",
+    "endTime": "2026-09-26T19:33:59Z",
     "ttl": "2026-10-03T13:45:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -111,6 +112,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-09-26T15:35:00Z",
     "startTime": "2026-09-26T15:32:18Z",
+    "endTime": "2026-09-26T19:45:27Z",
     "ttl": "2026-10-03T15:35:00.000Z",
     "streamerId": "hanabusa_lisa"
   },
@@ -181,11 +183,12 @@
     "id": "JLTziMjDqZg",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【APEX】いつも久しぶりと言っているなエーペックス / リサ先輩、らむち【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/JLTziMjDqZg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/JLTziMjDqZg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=JLTziMjDqZg",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-26T15:30:00Z",
     "startTime": "2026-09-26T15:30:55Z",
+    "endTime": "2026-09-26T20:10:45Z",
     "ttl": "2026-10-03T15:30:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -206,11 +209,12 @@
     "id": "Egj3NxuW5-c",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【Big Walk】デ　　カ　　歩　　き　　部　#2 【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/Egj3NxuW5-c/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Egj3NxuW5-c/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Egj3NxuW5-c",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-26T13:00:00Z",
     "startTime": "2026-09-26T13:04:24Z",
+    "endTime": "2026-09-26T19:27:11Z",
     "ttl": "2026-10-03T13:00:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -267,27 +271,15 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "316509863794",
-    "channelId": "ramuneshiranami",
-    "title": "【スト６】腹パンるーく→【APEX】w/つむお,りささん",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-09-26T12:40:02Z",
-    "startTime": "2026-09-26T12:40:02Z",
-    "platform": "twitch",
-    "ttl": "2026-10-03T12:40:02.000Z",
-    "streamerId": "shiranami_ramune"
-  },
-  {
     "id": "316499077233",
     "channelId": "ren_kisaragi__",
     "title": "何も覚えてない",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ren_kisaragi__-320x180.jpg",
-    "url": "https://www.twitch.tv/ren_kisaragi__",
-    "scheduledStartTime": "2026-09-26T16:16:31Z",
-    "startTime": "2026-09-26T16:16:31Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/fe49491234e038610c64_ren_kisaragi___316499077233_1790439390//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2884639822",
+    "scheduledStartTime": "2026-09-26T16:16:36Z",
+    "startTime": "2026-09-26T16:16:36Z",
     "platform": "twitch",
-    "ttl": "2026-10-03T16:16:31.000Z",
+    "ttl": "2026-10-03T16:16:36.000Z",
     "streamerId": "kisaragi_ren"
   },
   {
@@ -301,6 +293,18 @@
     "platform": "twitch",
     "ttl": "2026-10-03T09:10:01.000Z",
     "streamerId": "kisaragi_ren"
+  },
+  {
+    "id": "316509863794",
+    "channelId": "ramuneshiranami",
+    "title": "【スト６】腹パンるーく",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/7e5673be0f3ef24f75ce_ramuneshiranami_316509863794_1790426402//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2884484865",
+    "scheduledStartTime": "2026-09-26T12:40:07Z",
+    "startTime": "2026-09-26T12:40:07Z",
+    "platform": "twitch",
+    "ttl": "2026-10-03T12:40:07.000Z",
+    "streamerId": "shiranami_ramune"
   },
   {
     "id": "316497271921",
