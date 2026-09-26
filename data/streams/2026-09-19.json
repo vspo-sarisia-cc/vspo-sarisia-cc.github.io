@@ -156,19 +156,6 @@
     "streamerId": "nekota_tsuna"
   },
   {
-    "id": "OeIawFJhiYE",
-    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
-    "title": "【MIRESI：視えない未来】可愛い女の子がいっぱいいると聞きましたW/へんでぃー TGS2026【ぶいすぽ / 猫汰つな】#PR",
-    "thumbnail": "https://i.ytimg.com/vi/OeIawFJhiYE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=OeIawFJhiYE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-19T06:30:00Z",
-    "startTime": "2026-09-19T06:29:16Z",
-    "endTime": "2026-09-19T07:41:45Z",
-    "ttl": "2026-09-26T06:30:00.000Z",
-    "streamerId": "nekota_tsuna"
-  },
-  {
     "id": "giRtcC6ZhEM",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 ニチアサ 】これが秋ってやつなのか？【 ぶいすぽっ！ / 小森めと 】",
@@ -179,19 +166,6 @@
     "startTime": "2026-09-20T00:08:23Z",
     "endTime": "2026-09-20T02:22:31Z",
     "ttl": "2026-09-26T23:00:00.000Z",
-    "streamerId": "komori_met"
-  },
-  {
-    "id": "RttetWjRF28",
-    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
-    "title": "【 ゼルダの伝説 ブレワイ 】#6 姫を救うためならなんだってする。【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/RttetWjRF28/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=RttetWjRF28",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-19T01:50:00Z",
-    "startTime": "2026-09-19T01:52:13Z",
-    "endTime": "2026-09-19T06:36:44Z",
-    "ttl": "2026-09-26T01:50:00.000Z",
     "streamerId": "komori_met"
   },
   {
@@ -219,32 +193,6 @@
     "endTime": "2026-09-19T09:55:57Z",
     "ttl": "2026-09-26T09:00:00.000Z",
     "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "cseWcLii4to",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【VALORANT】🌞ソロコンペ🌞【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/cseWcLii4to/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=cseWcLii4to",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-19T06:30:00Z",
-    "startTime": "2026-09-19T06:25:11Z",
-    "endTime": "2026-09-19T08:23:33Z",
-    "ttl": "2026-09-26T06:30:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "oDowTwuYcK8",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【スト6】成長痛中？←これ言いづらい【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/oDowTwuYcK8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=oDowTwuYcK8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-19T07:00:00Z",
-    "startTime": "2026-09-19T07:00:54Z",
-    "endTime": "2026-09-19T09:13:54Z",
-    "ttl": "2026-09-26T07:00:00.000Z",
-    "streamerId": "ginjo_saine"
   },
   {
     "id": "qxW9ievHlbw",
