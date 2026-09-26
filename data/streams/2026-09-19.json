@@ -1,44 +1,5 @@
 [
   {
-    "id": "p8GYpm8bELM",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "うお",
-    "thumbnail": "https://i.ytimg.com/vi/p8GYpm8bELM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=p8GYpm8bELM",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-19T12:30:00Z",
-    "startTime": "2026-09-19T12:28:27Z",
-    "endTime": "2026-09-19T16:17:48Z",
-    "ttl": "2026-09-26T12:30:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
-    "id": "Ay9PPw_hPeE",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 夜ふかし雑談 】#90 わ！もうねむいや！【ぶいすぽっ！胡桃のあ】",
-    "thumbnail": "https://i.ytimg.com/vi/Ay9PPw_hPeE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Ay9PPw_hPeE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-19T14:15:00Z",
-    "startTime": "2026-09-19T14:16:43Z",
-    "endTime": "2026-09-19T16:16:37Z",
-    "ttl": "2026-09-26T14:15:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
-    "id": "GWNyjY0y73w",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【スト6】づがれだ【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/GWNyjY0y73w/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=GWNyjY0y73w",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-19T15:40:00Z",
-    "startTime": "2026-09-19T15:47:05Z",
-    "endTime": "2026-09-19T18:00:58Z",
-    "ttl": "2026-09-26T15:40:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
     "id": "giRtcC6ZhEM",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 ニチアサ 】これが秋ってやつなのか？【 ぶいすぽっ！ / 小森めと 】",
@@ -50,18 +11,5 @@
     "endTime": "2026-09-20T02:22:31Z",
     "ttl": "2026-09-26T23:00:00.000Z",
     "streamerId": "komori_met"
-  },
-  {
-    "id": "VKTRoUswuQQ",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Wuthering Waves 3.0 part 1◢ TIME FOR LAHAI ROI ! JOURNEY WELLING | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/VKTRoUswuQQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=VKTRoUswuQQ",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-19T14:30:00Z",
-    "startTime": "2026-09-19T14:29:47Z",
-    "endTime": "2026-09-19T17:43:39Z",
-    "ttl": "2026-09-26T14:30:00.000Z",
-    "streamerId": "juno_umezono"
   }
 ]
