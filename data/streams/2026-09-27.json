@@ -11,6 +11,17 @@
     "streamerId": "asumi_sena"
   },
   {
+    "id": "Fle4jpJJOMI",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【崩壊:スターレイル】滑り込みアベンチュリンガチャ＆PV鑑賞！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/Fle4jpJJOMI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Fle4jpJJOMI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-27T06:00:00Z",
+    "ttl": "2026-10-04T06:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "JkBfMSz4kcQ",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 VALO 〗らーきんぐちゃんねる。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
@@ -18,6 +29,7 @@
     "url": "https://www.youtube.com/watch?v=JkBfMSz4kcQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-27T05:00:00Z",
+    "startTime": "2026-09-27T05:00:07Z",
     "ttl": "2026-10-04T05:00:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -29,6 +41,7 @@
     "url": "https://www.youtube.com/watch?v=6Msg_fkjYJ0",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-27T05:00:00Z",
+    "startTime": "2026-09-27T05:00:37Z",
     "ttl": "2026-10-04T05:00:00.000Z",
     "streamerId": "choya_hanabi"
   },

@@ -172,11 +172,12 @@
     "id": "HRimslvX3YM",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 ニチアサ 】夏、終わらせない。【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/HRimslvX3YM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/HRimslvX3YM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=HRimslvX3YM",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-26T23:00:00Z",
     "startTime": "2026-09-26T23:00:17Z",
+    "endTime": "2026-09-27T01:03:32Z",
     "ttl": "2026-10-03T23:00:00.000Z",
     "streamerId": "komori_met"
   },
