@@ -1,5 +1,29 @@
 [
   {
+    "id": "HDpRp9Ctfww",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【APEX】ブロです、か【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/HDpRp9Ctfww/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=HDpRp9Ctfww",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-27T09:30:00Z",
+    "startTime": "2026-09-27T09:32:47Z",
+    "ttl": "2026-10-04T09:30:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "E3z1gPNqr_o",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 JSP3 】オフコラボ！ミミちゃんが隣にいるから大丈夫・・・たぶん・・・【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/E3z1gPNqr_o/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=E3z1gPNqr_o",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-27T09:30:00Z",
+    "startTime": "2026-09-27T09:20:50Z",
+    "ttl": "2026-10-04T09:30:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "rzNX4BdrNhM",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【#空澄セナ新衣装】2年振り❗新しいお衣装見てください。【空澄セナ/ぶいすぽっ！】",
@@ -7,17 +31,55 @@
     "url": "https://www.youtube.com/watch?v=rzNX4BdrNhM",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-27T11:00:00Z",
+    "startTime": "2026-09-27T11:03:24Z",
     "ttl": "2026-10-04T11:00:00.000Z",
     "streamerId": "asumi_sena"
   },
   {
+    "id": "KqEu9ALMGjA",
+    "channelId": "UCF_U2GCKHvDz52jWdizppIA",
+    "title": "9/27  22:00公開",
+    "thumbnail": "https://i.ytimg.com/vi/KqEu9ALMGjA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=KqEu9ALMGjA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-27T13:05:00Z",
+    "ttl": "2026-10-04T13:05:00.000Z",
+    "streamerId": "asumi_sena"
+  },
+  {
+    "id": "-cyXVr_jg3M",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【APEX】大APEX時代🚢 w/うるはkamito【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/-cyXVr_jg3M/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=-cyXVr_jg3M",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-27T09:30:00Z",
+    "startTime": "2026-09-27T09:32:49Z",
+    "ttl": "2026-10-04T09:30:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "Go6FaEy_dUE",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】住民票移しにきました【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/Go6FaEy_dUE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Go6FaEy_dUE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-27T08:30:00Z",
+    "startTime": "2026-09-27T08:31:01Z",
+    "ttl": "2026-10-04T08:30:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "Fle4jpJJOMI",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【崩壊:スターレイル】滑り込みアベンチュリンガチャ＆PV鑑賞！【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/Fle4jpJJOMI/mqdefault_live.jpg",
+    "title": "【崩壊:スターレイル】滑り込みアベンチュリン完凸ガチャ＆PV鑑賞！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/Fle4jpJJOMI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Fle4jpJJOMI",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-27T06:00:00Z",
+    "startTime": "2026-09-27T06:01:33Z",
+    "endTime": "2026-09-27T07:57:54Z",
     "ttl": "2026-10-04T06:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -25,11 +87,12 @@
     "id": "JkBfMSz4kcQ",
     "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
     "title": "〖 VALO 〗らーきんぐちゃんねる。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/JkBfMSz4kcQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/JkBfMSz4kcQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=JkBfMSz4kcQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-27T05:00:00Z",
     "startTime": "2026-09-27T05:00:07Z",
+    "endTime": "2026-09-27T08:05:35Z",
     "ttl": "2026-10-04T05:00:00.000Z",
     "streamerId": "yano_kuromu"
   },
@@ -42,8 +105,21 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-09-27T05:00:00Z",
     "startTime": "2026-09-27T05:00:37Z",
+    "endTime": "2026-09-27T08:05:21Z",
     "ttl": "2026-10-04T05:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "Nfi2Behdzwg",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【テイルズ オブ ジ アビス】#9 テイルズシリーズ完全初見！『ごめんより、ありがとう』 TALES OF THE ABYSS【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/Nfi2Behdzwg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Nfi2Behdzwg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-27T06:45:00Z",
+    "startTime": "2026-09-27T06:45:35Z",
+    "ttl": "2026-10-04T06:45:00.000Z",
+    "streamerId": "ginjo_saine"
   },
   {
     "id": "gLZk78lDTig",
@@ -57,6 +133,17 @@
     "streamerId": "remia_aotsuki"
   },
   {
+    "id": "giumS9mdxpQ",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【OVERWATCH】chill(?) sunday rankge【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/giumS9mdxpQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=giumS9mdxpQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-27T13:00:00Z",
+    "ttl": "2026-10-04T13:00:00.000Z",
+    "streamerId": "riko_solari"
+  },
+  {
     "id": "bK6Kxcz6aR8",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves◢ RESONATOR SHOWCASE FIRST TIME REACT ! | #JunoUmezono #VSPOEN",
@@ -66,5 +153,29 @@
     "scheduledStartTime": "2026-09-27T14:00:00Z",
     "ttl": "2026-10-04T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316513787378",
+    "channelId": "sendo_yuuhi",
+    "title": "TFT特訓",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sendo_yuuhi-320x180.jpg",
+    "url": "https://www.twitch.tv/sendo_yuuhi",
+    "scheduledStartTime": "2026-09-27T09:58:50Z",
+    "startTime": "2026-09-27T09:58:50Z",
+    "platform": "twitch",
+    "ttl": "2026-10-04T09:58:50.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
+    "id": "315543067887",
+    "channelId": "erissuzukami",
+    "title": "anime girl plays stinky rat",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
+    "url": "https://www.twitch.tv/erissuzukami",
+    "scheduledStartTime": "2026-09-27T06:12:08Z",
+    "startTime": "2026-09-27T06:12:08Z",
+    "platform": "twitch",
+    "ttl": "2026-10-04T06:12:08.000Z",
+    "streamerId": "eris_suzukami"
   }
 ]
