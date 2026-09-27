@@ -3,11 +3,12 @@
     "id": "LsafXKi4N3I",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【APEX】深夜に急に呼ばれたんだ　あかりん　りさ【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/LsafXKi4N3I/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/LsafXKi4N3I/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=LsafXKi4N3I",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-27T19:10:00Z",
     "startTime": "2026-09-27T19:09:59Z",
+    "endTime": "2026-09-27T22:08:43Z",
     "ttl": "2026-10-04T19:10:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -72,6 +73,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-09-27T15:45:00Z",
     "startTime": "2026-09-27T15:46:41Z",
+    "endTime": "2026-09-27T22:07:57Z",
     "ttl": "2026-10-04T15:45:00.000Z",
     "streamerId": "hanabusa_lisa"
   },
@@ -170,11 +172,12 @@
     "id": "c9KPDMSGwW8",
     "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
     "title": "【APEX】エペムズイ【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/c9KPDMSGwW8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/c9KPDMSGwW8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=c9KPDMSGwW8",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-27T17:00:00Z",
     "startTime": "2026-09-27T16:53:08Z",
+    "endTime": "2026-09-27T19:47:07Z",
     "ttl": "2026-10-04T17:00:00.000Z",
     "streamerId": "tsumugi_kokage"
   },
@@ -195,13 +198,26 @@
     "id": "j5nhdK7f-Y4",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【トルネコの大冒険 不思議のダンジョン　ちょっとステキなリマスター】１クレ、いいですか？　ネタバレ注意【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/j5nhdK7f-Y4/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/j5nhdK7f-Y4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=j5nhdK7f-Y4",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-27T18:25:00Z",
     "startTime": "2026-09-27T18:24:19Z",
+    "endTime": "2026-09-27T21:24:17Z",
     "ttl": "2026-10-04T18:25:00.000Z",
     "streamerId": "amayui_moka"
+  },
+  {
+    "id": "UX8DWrX9cMs",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【雑談】オール明けの朝、清々しい朝【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/UX8DWrX9cMs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=UX8DWrX9cMs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-27T21:30:00Z",
+    "startTime": "2026-09-27T21:30:38Z",
+    "ttl": "2026-10-04T21:30:00.000Z",
+    "streamerId": "ginjo_saine"
   },
   {
     "id": "Nfi2Behdzwg",
@@ -256,18 +272,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316503438705",
-    "channelId": "akarindao",
-    "title": "本気のペクシュ",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-09-27T15:47:21Z",
-    "startTime": "2026-09-27T15:47:21Z",
-    "platform": "twitch",
-    "ttl": "2026-10-04T15:47:21.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
     "id": "316502632305",
     "channelId": "ramuneshiranami",
     "title": "【スト６】ダイヤの景色",
@@ -278,6 +282,18 @@
     "platform": "twitch",
     "ttl": "2026-10-04T12:25:04.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316503438705",
+    "channelId": "akarindao",
+    "title": "本気のペクシュ",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/b89bd22e725d18ada56d_akarindao_316503438705_1790524041//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2885572700",
+    "scheduledStartTime": "2026-09-27T15:47:26Z",
+    "startTime": "2026-09-27T15:47:26Z",
+    "platform": "twitch",
+    "ttl": "2026-10-04T15:47:26.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316513787378",
