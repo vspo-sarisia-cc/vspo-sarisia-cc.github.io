@@ -1,5 +1,17 @@
 [
   {
+    "id": "LsafXKi4N3I",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【APEX】深夜に急に呼ばれたんだ　あかりん　りさ【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/LsafXKi4N3I/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=LsafXKi4N3I",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-27T19:10:00Z",
+    "startTime": "2026-09-27T19:09:59Z",
+    "ttl": "2026-10-04T19:10:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
     "id": "HDpRp9Ctfww",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "【APEX】ブロです、か【ぶいすぽ/一ノ瀬うるは】",
@@ -59,6 +71,7 @@
     "url": "https://www.youtube.com/watch?v=gufZjFzU_BE",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-27T15:45:00Z",
+    "startTime": "2026-09-27T15:46:41Z",
     "ttl": "2026-10-04T15:45:00.000Z",
     "streamerId": "hanabusa_lisa"
   },
@@ -79,11 +92,12 @@
     "id": "mBPtv5LYV2Q",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【雑談】よるざッ【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/mBPtv5LYV2Q/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/mBPtv5LYV2Q/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=mBPtv5LYV2Q",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-27T14:50:00Z",
     "startTime": "2026-09-27T14:53:50Z",
+    "endTime": "2026-09-27T17:30:58Z",
     "ttl": "2026-10-04T14:50:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -117,13 +131,27 @@
     "id": "cCidd8wC3HA",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【APEX】WEしか勝たんのよ　 w/きなこさん、VDK【ぶいすぽ / 猫汰つな】",
-    "thumbnail": "https://i.ytimg.com/vi/cCidd8wC3HA/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/cCidd8wC3HA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=cCidd8wC3HA",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-27T12:30:00Z",
     "startTime": "2026-09-27T12:30:35Z",
+    "endTime": "2026-09-27T17:27:55Z",
     "ttl": "2026-10-04T12:30:00.000Z",
     "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "gB7ToJ6c4ak",
+    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
+    "title": "〖 OW 〗よふかし in the night。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
+    "thumbnail": "https://i.ytimg.com/vi/gB7ToJ6c4ak/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=gB7ToJ6c4ak",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-27T16:30:00Z",
+    "startTime": "2026-09-27T16:35:15Z",
+    "endTime": "2026-09-27T18:59:59Z",
+    "ttl": "2026-10-04T16:30:00.000Z",
+    "streamerId": "yano_kuromu"
   },
   {
     "id": "JkBfMSz4kcQ",
@@ -139,6 +167,18 @@
     "streamerId": "yano_kuromu"
   },
   {
+    "id": "c9KPDMSGwW8",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【APEX】エペムズイ【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/c9KPDMSGwW8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=c9KPDMSGwW8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-27T17:00:00Z",
+    "startTime": "2026-09-27T16:53:08Z",
+    "ttl": "2026-10-04T17:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "6Msg_fkjYJ0",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 VALORANT 】　むーーーーさんとヴァロやるぞおおお！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -150,6 +190,18 @@
     "endTime": "2026-09-27T08:05:21Z",
     "ttl": "2026-10-04T05:00:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "j5nhdK7f-Y4",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【トルネコの大冒険 不思議のダンジョン　ちょっとステキなリマスター】１クレ、いいですか？　ネタバレ注意【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/j5nhdK7f-Y4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=j5nhdK7f-Y4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-27T18:25:00Z",
+    "startTime": "2026-09-27T18:24:19Z",
+    "ttl": "2026-10-04T18:25:00.000Z",
+    "streamerId": "amayui_moka"
   },
   {
     "id": "Nfi2Behdzwg",
@@ -168,11 +220,12 @@
     "id": "8Kx9bnMlRCw",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  League of Legends  ◢　rank5v5お誘いいただきましたのでいきます   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
-    "thumbnail": "https://i.ytimg.com/vi/8Kx9bnMlRCw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/8Kx9bnMlRCw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=8Kx9bnMlRCw",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-27T12:00:00Z",
     "startTime": "2026-09-27T12:05:12Z",
+    "endTime": "2026-09-27T16:16:13Z",
     "ttl": "2026-10-04T12:00:00.000Z",
     "streamerId": "tatsumaki_chise"
   },
@@ -180,11 +233,12 @@
     "id": "giumS9mdxpQ",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【OVERWATCH】chill(?) sunday rankge【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/giumS9mdxpQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/giumS9mdxpQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=giumS9mdxpQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-27T13:00:00Z",
     "startTime": "2026-09-27T13:01:16Z",
+    "endTime": "2026-09-27T16:51:17Z",
     "ttl": "2026-10-04T13:00:00.000Z",
     "streamerId": "riko_solari"
   },
@@ -192,24 +246,37 @@
     "id": "bK6Kxcz6aR8",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves◢ RESONATOR SHOWCASE FIRST TIME REACT ! | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/bK6Kxcz6aR8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/bK6Kxcz6aR8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=bK6Kxcz6aR8",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-27T14:00:00Z",
     "startTime": "2026-09-27T14:00:42Z",
+    "endTime": "2026-09-27T17:20:38Z",
     "ttl": "2026-10-04T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316503438705",
+    "channelId": "akarindao",
+    "title": "本気のペクシュ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-09-27T15:47:21Z",
+    "startTime": "2026-09-27T15:47:21Z",
+    "platform": "twitch",
+    "ttl": "2026-10-04T15:47:21.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316502632305",
     "channelId": "ramuneshiranami",
     "title": "【スト６】ダイヤの景色",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
-    "url": "https://www.twitch.tv/ramuneshiranami",
-    "scheduledStartTime": "2026-09-27T12:24:59Z",
-    "startTime": "2026-09-27T12:24:59Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/a7b955c3c9faad7c6c74_ramuneshiranami_316502632305_1790511899//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2885429686",
+    "scheduledStartTime": "2026-09-27T12:25:04Z",
+    "startTime": "2026-09-27T12:25:04Z",
     "platform": "twitch",
-    "ttl": "2026-10-04T12:24:59.000Z",
+    "ttl": "2026-10-04T12:25:04.000Z",
     "streamerId": "shiranami_ramune"
   },
   {
