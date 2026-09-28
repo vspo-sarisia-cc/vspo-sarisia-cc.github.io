@@ -11,14 +11,39 @@
     "streamerId": "vspo_official"
   },
   {
+    "id": "2nz9F90qViE",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】美が呼んでいます【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/2nz9F90qViE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=2nz9F90qViE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-28T04:30:00Z",
+    "startTime": "2026-09-28T04:27:49Z",
+    "endTime": "2026-09-28T06:45:40Z",
+    "ttl": "2026-10-05T04:30:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "0q2IUb9FcsI",
+    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
+    "title": "【 APEX 】うおおおおおおお w/ すみー ぷーさん【 ぶいすぽっ！ / 小森めと 】",
+    "thumbnail": "https://i.ytimg.com/vi/0q2IUb9FcsI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=0q2IUb9FcsI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-28T08:00:00Z",
+    "ttl": "2026-10-05T08:00:00.000Z",
+    "streamerId": "komori_met"
+  },
+  {
     "id": "KvBiY7Bx-6c",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 Euro Truck Simulator 2 】　乗ってけ（免許なし）（サムネはあくまで未来）！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/KvBiY7Bx-6c/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/KvBiY7Bx-6c/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=KvBiY7Bx-6c",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-28T00:10:00Z",
     "startTime": "2026-09-28T00:09:47Z",
+    "endTime": "2026-09-28T02:58:18Z",
     "ttl": "2026-10-05T00:10:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -41,6 +66,7 @@
     "url": "https://www.youtube.com/watch?v=804fKIbHkXU",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-28T06:00:00Z",
+    "startTime": "2026-09-28T05:52:07Z",
     "ttl": "2026-10-05T06:00:00.000Z",
     "streamerId": "juno_umezono"
   }
