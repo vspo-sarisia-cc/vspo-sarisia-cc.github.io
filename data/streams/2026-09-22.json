@@ -65,19 +65,6 @@
     "streamerId": "tosaki_mimi"
   },
   {
-    "id": "eLsxNqhAleA",
-    "channelId": "UCvUc0m317LWTTPZoBQV479A",
-    "title": "【 Apex Legends 】 昼エペw/釈迦３、ボド【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/eLsxNqhAleA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=eLsxNqhAleA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-22T05:10:00Z",
-    "startTime": "2026-09-22T05:13:35Z",
-    "endTime": "2026-09-22T08:02:45Z",
-    "ttl": "2026-09-29T05:10:00.000Z",
-    "streamerId": "tachibana_hinano"
-  },
-  {
     "id": "pZN7d6viRGs",
     "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
     "title": "【 Escape from Tarkov 】おかねほしい   Lv42~ w/レイード 【ぶいすぽ/八雲べに】",
@@ -128,32 +115,6 @@
     "endTime": "2026-09-22T15:42:32Z",
     "ttl": "2026-09-29T11:00:00.000Z",
     "streamerId": "nekota_tsuna"
-  },
-  {
-    "id": "M2wj0Uw9NH4",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【VALORANT】300rrいきたいよーーーーーー【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/M2wj0Uw9NH4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=M2wj0Uw9NH4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-22T06:00:00Z",
-    "startTime": "2026-09-22T06:04:43Z",
-    "endTime": "2026-09-22T16:34:23Z",
-    "ttl": "2026-09-29T06:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
-    "id": "ijrrwYvbOJ4",
-    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-    "title": "【ドラゴンクエストVII Reimagined】やっとこフルパうおおおおお #7【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/ijrrwYvbOJ4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ijrrwYvbOJ4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-22T05:00:00Z",
-    "startTime": "2026-09-22T05:00:16Z",
-    "endTime": "2026-09-22T07:10:31Z",
-    "ttl": "2026-09-29T05:00:00.000Z",
-    "streamerId": "sendo_yuuhi"
   },
   {
     "id": "wuqkipbqC8w",
@@ -221,19 +182,6 @@
     "streamerId": "arya_kuroha"
   },
   {
-    "id": "awIw9HkZWvE",
-    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-    "title": "【ZATSU】SURPRISE !! I'M BACK !!【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/awIw9HkZWvE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=awIw9HkZWvE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-22T01:30:00Z",
-    "startTime": "2026-09-22T01:30:35Z",
-    "endTime": "2026-09-22T03:37:44Z",
-    "ttl": "2026-09-29T01:30:00.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
     "id": "XTsZ748K3s0",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves 3.0 part 2◢ i'm inlove with my professor?! | #JunoUmezono #VSPOEN",
@@ -259,18 +207,6 @@
     "streamerId": "tachibana_hinano"
   },
   {
-    "id": "316490918130",
-    "channelId": "ren_kisaragi__",
-    "title": "ﾇｱ~~~~~ﾝ",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/9756d0e9871ed65e4514_ren_kisaragi___316490918130_1790056443//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2880842794",
-    "scheduledStartTime": "2026-09-22T05:54:08Z",
-    "startTime": "2026-09-22T05:54:08Z",
-    "platform": "twitch",
-    "ttl": "2026-09-29T05:54:08.000Z",
-    "streamerId": "kisaragi_ren"
-  },
-  {
     "id": "321659461723",
     "channelId": "aryakuroha",
     "title": "✦ BIRTHDAY BASH CELEBRATION !!",
@@ -280,18 +216,6 @@
     "startTime": "2026-09-22T22:02:32Z",
     "platform": "twitch",
     "ttl": "2026-09-29T22:02:32.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "321650494427",
-    "channelId": "aryakuroha",
-    "title": "✦ SURPRISE !!! I'M BACK !!!",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/5ab4555215bfd65e6ce9_aryakuroha_321650494427_1790040614//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2880700852",
-    "scheduledStartTime": "2026-09-22T01:30:22Z",
-    "startTime": "2026-09-22T01:30:22Z",
-    "platform": "twitch",
-    "ttl": "2026-09-29T01:30:22.000Z",
     "streamerId": "arya_kuroha"
   }
 ]
