@@ -55,11 +55,12 @@
     "id": "bpiD6EQNSMc",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Apex Legends 】 やる【ぶいすぽっ！/橘ひなの】",
-    "thumbnail": "https://i.ytimg.com/vi/bpiD6EQNSMc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/bpiD6EQNSMc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=bpiD6EQNSMc",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-28T14:20:00Z",
     "startTime": "2026-09-28T14:18:42Z",
+    "endTime": "2026-09-28T21:50:39Z",
     "ttl": "2026-10-05T14:20:00.000Z",
     "streamerId": "tachibana_hinano"
   },
@@ -84,6 +85,8 @@
     "url": "https://www.youtube.com/watch?v=b4Jepe_orCw",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-28T22:00:00Z",
+    "startTime": "2026-09-28T22:00:08Z",
+    "endTime": "2026-09-28T22:25:15Z",
     "ttl": "2026-10-05T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
@@ -117,11 +120,12 @@
     "id": "tnobPgvaVBI",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【Big Walk】デ　　カ　　歩　　き　　部　#3 【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/tnobPgvaVBI/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/tnobPgvaVBI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=tnobPgvaVBI",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-28T13:10:00Z",
     "startTime": "2026-09-28T13:16:41Z",
+    "endTime": "2026-09-28T22:34:23Z",
     "ttl": "2026-10-05T13:10:00.000Z",
     "streamerId": "sendo_yuuhi"
   },
@@ -167,13 +171,13 @@
   {
     "id": "316506479857",
     "channelId": "akarindao",
-    "title": "面接に向けて",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-09-28T11:18:36Z",
-    "startTime": "2026-09-28T11:18:36Z",
+    "title": "【緊急で動画回してます】トゲブロで危険地帯に戦場カメラマンしにきてみた❕",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/3772cc377c4df92ca3cc_akarindao_316506479857_1790594316//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2886270654",
+    "scheduledStartTime": "2026-09-28T11:18:41Z",
+    "startTime": "2026-09-28T11:18:41Z",
     "platform": "twitch",
-    "ttl": "2026-10-05T11:18:36.000Z",
+    "ttl": "2026-10-05T11:18:41.000Z",
     "streamerId": "yumeno_akari"
   }
 ]

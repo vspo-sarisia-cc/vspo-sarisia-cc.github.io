@@ -9,5 +9,16 @@
     "scheduledStartTime": "2026-10-02T14:45:00Z",
     "ttl": "2026-10-09T14:45:00.000Z",
     "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "-BAwsfoqQAQ",
+    "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
+    "title": "【MACHINE PARTY】 party! party! games! gore party!! 【#VSPOEN #RemiaAotsuki】",
+    "thumbnail": "https://i.ytimg.com/vi/-BAwsfoqQAQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=-BAwsfoqQAQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-02T14:00:00Z",
+    "ttl": "2026-10-09T14:00:00.000Z",
+    "streamerId": "remia_aotsuki"
   }
 ]
