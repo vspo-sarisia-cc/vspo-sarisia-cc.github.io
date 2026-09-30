@@ -250,7 +250,7 @@
     "id": "nHVrZaPlCbM",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 APEX 】CRカップの顔合わせる！ w/ 4rmyさん ぷーさん【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/nHVrZaPlCbM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/nHVrZaPlCbM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=nHVrZaPlCbM",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-30T12:00:00Z",
@@ -276,7 +276,7 @@
     "id": "0Ho7776VVe8",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【Teamfight Tactics】たぬファイ本番！！千燈組の頭として──【 ぶいすぽっ！ / 千燈ゆうひ 】",
-    "thumbnail": "https://i.ytimg.com/vi/0Ho7776VVe8/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/0Ho7776VVe8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=0Ho7776VVe8",
     "platform": "youtube",
     "scheduledStartTime": "2026-09-30T09:00:00Z",
@@ -338,6 +338,19 @@
     "streamerId": "remia_aotsuki"
   },
   {
+    "id": "5SarhnVfy3g",
+    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
+    "title": "【MINECRAFT】muted zoo building !!【#VSPOEN #AryaKuroha】",
+    "thumbnail": "https://i.ytimg.com/vi/5SarhnVfy3g/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=5SarhnVfy3g",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-09-30T20:20:00Z",
+    "startTime": "2026-09-30T20:26:27Z",
+    "endTime": "2026-09-30T22:52:31Z",
+    "ttl": "2026-10-07T20:20:00.000Z",
+    "streamerId": "arya_kuroha"
+  },
+  {
     "id": "y2ihvdFoysw",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【BOMBANANA!】FRENCH, KOREAN AND TAGALOG???【#VSPOEN #RikoSolari】",
@@ -367,12 +380,12 @@
     "id": "316516420465",
     "channelId": "asumisena",
     "title": "暇だから居残りTFT",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asumisena-320x180.jpg",
-    "url": "https://www.twitch.tv/asumisena",
-    "scheduledStartTime": "2026-09-30T18:14:43Z",
-    "startTime": "2026-09-30T18:14:43Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/06f920593b93462f50d4_asumisena_316516420465_1790792083//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2888243282",
+    "scheduledStartTime": "2026-09-30T18:14:50Z",
+    "startTime": "2026-09-30T18:14:50Z",
     "platform": "twitch",
-    "ttl": "2026-10-07T18:14:43.000Z",
+    "ttl": "2026-10-07T18:14:50.000Z",
     "streamerId": "asumi_sena"
   },
   {
@@ -398,5 +411,17 @@
     "platform": "twitch",
     "ttl": "2026-10-07T13:00:46.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "321769542875",
+    "channelId": "aryakuroha",
+    "title": "✦ muted building !",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/748a05cb80e59f5359c9_aryakuroha_321769542875_1790799921//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2888345684",
+    "scheduledStartTime": "2026-09-30T20:25:28Z",
+    "startTime": "2026-09-30T20:25:28Z",
+    "platform": "twitch",
+    "ttl": "2026-10-07T20:25:28.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
