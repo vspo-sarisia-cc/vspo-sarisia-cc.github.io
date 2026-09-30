@@ -26,19 +26,6 @@
     "streamerId": "ichinose_uruha"
   },
   {
-    "id": "ymXxfMdZl04",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】オリンパスソロで少しやってみるか！【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/ymXxfMdZl04/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ymXxfMdZl04",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-23T06:50:00Z",
-    "startTime": "2026-09-23T07:03:26Z",
-    "endTime": "2026-09-23T10:00:09Z",
-    "ttl": "2026-09-30T06:50:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "F8tyTnMkEsI",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Apex Legends 】 ぬおーーーーw/リサ、VDK【ぶいすぽっ！/橘ひなの】",
@@ -169,19 +156,6 @@
     "streamerId": "amayui_moka"
   },
   {
-    "id": "yAroYS23cdI",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【テイルズ オブ ジ アビス】#7 テイルズシリーズ完全初見！少し時間が空いてしまった…！ TALES OF THE ABYSS【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/yAroYS23cdI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=yAroYS23cdI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-23T05:00:00Z",
-    "startTime": "2026-09-23T05:00:19Z",
-    "endTime": "2026-09-23T11:13:25Z",
-    "ttl": "2026-09-30T05:00:00.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
     "id": "Y9j0etwmwOE",
     "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
     "title": "◤  Teamfight Tactics  ◢　たぬファイDチームのコーチ ふぁんでるさんと一緒にやります   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
@@ -228,18 +202,6 @@
     "startTime": "2026-09-23T11:37:19Z",
     "platform": "twitch",
     "ttl": "2026-09-30T11:37:19.000Z",
-    "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316495688690",
-    "channelId": "akarindao",
-    "title": "20時から見猿聞か猿言わ猿やるので今は話そう",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/6dfa8c3d0ab8830cd72f_akarindao_316495688690_1790148971//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2881733619",
-    "scheduledStartTime": "2026-09-23T07:36:16Z",
-    "startTime": "2026-09-23T07:36:16Z",
-    "platform": "twitch",
-    "ttl": "2026-09-30T07:36:16.000Z",
     "streamerId": "yumeno_akari"
   }
 ]
