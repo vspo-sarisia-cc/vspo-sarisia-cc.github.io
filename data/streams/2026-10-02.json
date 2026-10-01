@@ -1,5 +1,27 @@
 [
   {
+    "id": "Uxa7zH4zADs",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【#エムホールデム】復刻コラボイベント来るぞ！運も来い！！！！【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/Uxa7zH4zADs/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=Uxa7zH4zADs",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-02T11:00:00Z",
+    "ttl": "2026-10-09T11:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "yTzkcFh_lgw",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 m HOLD’EM 】復刻コラボイベントがくるらしいぞ！【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/yTzkcFh_lgw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=yTzkcFh_lgw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-02T11:00:00Z",
+    "ttl": "2026-10-09T11:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "ktKmjGJHmAU",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "5周年記念グッズ発売中！★受注生産10/2まで！★",
@@ -8,6 +30,17 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-10-02T14:45:00Z",
     "ttl": "2026-10-09T14:45:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "dNoHoT0wsN4",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【m HOLD’EM】m HOLD’EM×ぶいすぽの復刻コラボイベントが始まる！✨【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/dNoHoT0wsN4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=dNoHoT0wsN4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-02T11:00:00Z",
+    "ttl": "2026-10-09T11:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
