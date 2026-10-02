@@ -91,6 +91,19 @@
     "streamerId": "tachibana_hinano"
   },
   {
+    "id": "IP_nEvVjpZ0",
+    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
+    "title": "【APEX】チーム２２/デュクシ、山P【ぶいすぽっ！/英リサ】",
+    "thumbnail": "https://i.ytimg.com/vi/IP_nEvVjpZ0/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=IP_nEvVjpZ0",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-01T11:16:00Z",
+    "startTime": "2026-10-01T11:17:24Z",
+    "endTime": "2026-10-01T15:18:37Z",
+    "ttl": "2026-10-08T11:16:00.000Z",
+    "streamerId": "hanabusa_lisa"
+  },
+  {
     "id": "g-poX_pybXY",
     "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
     "title": "眠ってないので、まだ夜",
@@ -101,19 +114,6 @@
     "startTime": "2026-10-01T20:05:43Z",
     "endTime": "2026-10-01T22:21:38Z",
     "ttl": "2026-10-08T20:05:00.000Z",
-    "streamerId": "hanabusa_lisa"
-  },
-  {
-    "id": "IP_nEvVjpZ0",
-    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
-    "title": "【APEX】チーム２２/デュクシ、山P【ぶいすぽっ！/英リサ】",
-    "thumbnail": "https://i.ytimg.com/vi/IP_nEvVjpZ0/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=IP_nEvVjpZ0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-10-01T11:16:00Z",
-    "startTime": "2026-10-01T11:17:24Z",
-    "endTime": "2026-10-01T15:18:37Z",
-    "ttl": "2026-10-08T11:16:00.000Z",
     "streamerId": "hanabusa_lisa"
   },
   {
@@ -268,6 +268,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-10-01T12:00:00Z",
     "startTime": "2026-10-01T13:00:55Z",
+    "endTime": "2026-10-01T17:28:46Z",
     "ttl": "2026-10-08T12:00:00.000Z",
     "streamerId": "riko_solari"
   },

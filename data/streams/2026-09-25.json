@@ -234,19 +234,6 @@
     "streamerId": "jira_jisaki"
   },
   {
-    "id": "UTD1eqEo_Ac",
-    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
-    "title": "【ZATSU】tadaima!! japan yap!!【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/UTD1eqEo_Ac/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=UTD1eqEo_Ac",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-25T03:00:00Z",
-    "startTime": "2026-09-25T03:01:29Z",
-    "endTime": "2026-09-25T06:38:30Z",
-    "ttl": "2026-10-02T03:00:00.000Z",
-    "streamerId": "jira_jisaki"
-  },
-  {
     "id": "P-R9Fi3lAjw",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【APEX LEGENDS】フルパランクw/つな先輩、ダシュ！！！【#VSPOEN #RikoSolari】",
@@ -294,17 +281,5 @@
     "platform": "twitch",
     "ttl": "2026-10-02T13:46:14.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "316503500658",
-    "channelId": "choyahanabi",
-    "title": "【スト６】マリーザひとつまみ！ 【ぶいすぽっ！/ 蝶屋はなび】©︎CAPCOM",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/076ebcd1a31a5b1587c2_choyahanabi_316503500658_1790307764//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2883345443",
-    "scheduledStartTime": "2026-09-25T03:42:50Z",
-    "startTime": "2026-09-25T03:42:50Z",
-    "platform": "twitch",
-    "ttl": "2026-10-02T03:42:50.000Z",
-    "streamerId": "choya_hanabi"
   }
 ]
