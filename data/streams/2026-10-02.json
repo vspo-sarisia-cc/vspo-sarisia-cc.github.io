@@ -37,18 +37,6 @@
     "streamerId": "ichinose_uruha"
   },
   {
-    "id": "JawD7Ojzwvg",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】CRカップスクリム２日目！ #わんちゃんWIN 【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/JawD7Ojzwvg/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=JawD7Ojzwvg",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-10-02T12:15:00Z",
-    "startTime": "2026-10-02T12:06:31Z",
-    "ttl": "2026-10-09T12:15:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "yTzkcFh_lgw",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 m HOLD’EM 】復刻コラボイベントがくるらしいぞ！【 ぶいすぽっ！胡桃のあ 】",
@@ -62,14 +50,27 @@
     "streamerId": "kurumi_noah"
   },
   {
+    "id": "JawD7Ojzwvg",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】CRカップスクリム２日目！ #わんちゃんWIN 【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/JawD7Ojzwvg/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=JawD7Ojzwvg",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-02T12:15:00Z",
+    "startTime": "2026-10-02T12:06:31Z",
+    "ttl": "2026-10-09T12:15:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
     "id": "OW7LrJpp-dE",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【LoL】大好きなアカリが今、強いと聞いて。【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/OW7LrJpp-dE/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/OW7LrJpp-dE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=OW7LrJpp-dE",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-02T12:30:00Z",
     "startTime": "2026-10-02T12:31:17Z",
+    "endTime": "2026-10-02T15:39:42Z",
     "ttl": "2026-10-09T12:30:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -111,6 +112,17 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "3QD3EBhEPDA",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "2人の中二エピソードを聞いて爆笑してしまうエマ【ぶいすぽっ！/ 藍沢エマ/緋月ゆい/夕刻ロベル/APEX/ちる部】",
+    "thumbnail": "https://i.ytimg.com/vi/3QD3EBhEPDA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=3QD3EBhEPDA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-02T22:00:00Z",
+    "ttl": "2026-10-09T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "dNoHoT0wsN4",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【m HOLD’EM】m HOLD’EM×ぶいすぽの復刻コラボイベントが始まる！✨【ぶいすぽっ！/ 藍沢エマ】",
@@ -137,17 +149,6 @@
     "streamerId": "aizawa_ema"
   },
   {
-    "id": "ktKmjGJHmAU",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "5周年記念グッズ発売中！★受注生産10/2まで！★",
-    "thumbnail": "https://i.ytimg.com/vi/ktKmjGJHmAU/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=ktKmjGJHmAU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-10-02T14:45:00Z",
-    "ttl": "2026-10-09T14:45:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
     "id": "jOsI8gGkwSc",
     "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
     "title": "【APEX】CRカップスクリム２日目！一番の強敵はラグ【ぶいすぽ / 猫汰つな】",
@@ -168,6 +169,7 @@
     "platform": "youtube",
     "scheduledStartTime": "2026-10-02T12:00:00Z",
     "startTime": "2026-10-02T11:13:22Z",
+    "endTime": "2026-10-02T16:00:24Z",
     "ttl": "2026-10-09T12:00:00.000Z",
     "streamerId": "komori_met"
   },
@@ -184,14 +186,28 @@
     "streamerId": "tsumugi_kokage"
   },
   {
+    "id": "WyqtXFygJAU",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【League of Legends】ふぁ～みんなでランク w/神楽めあ,Ceros,たかやスペシャル,Evi【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/WyqtXFygJAU/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=WyqtXFygJAU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-02T13:00:00Z",
+    "startTime": "2026-10-02T12:59:57Z",
+    "endTime": "2026-10-02T16:21:53Z",
+    "ttl": "2026-10-09T13:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
     "id": "USjeBkXBpRo",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "#3【 鬼武者 Way of the Sword 】　五輪書はもったか？？？？！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/USjeBkXBpRo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/USjeBkXBpRo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=USjeBkXBpRo",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-02T09:45:00Z",
     "startTime": "2026-10-02T09:42:48Z",
+    "endTime": "2026-10-02T14:35:13Z",
     "ttl": "2026-10-09T09:45:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -211,11 +227,13 @@
   {
     "id": "-BAwsfoqQAQ",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "【MACHINE PARTY】 party! party! games! gore party!! 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/-BAwsfoqQAQ/mqdefault_live.jpg",
+    "title": "【MACHINE PARTY】 party! games! gore party! @jirajisaki @rikosolari @Polypuff  【#VSPOEN #RemiaAotsuki】",
+    "thumbnail": "https://i.ytimg.com/vi/-BAwsfoqQAQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=-BAwsfoqQAQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-02T14:00:00Z",
+    "startTime": "2026-10-02T14:00:43Z",
+    "endTime": "2026-10-02T16:58:15Z",
     "ttl": "2026-10-09T14:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -223,10 +241,12 @@
     "id": "X0kO1RWaef0",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【Machine Party】i've played these games BEFORE【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/X0kO1RWaef0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/X0kO1RWaef0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=X0kO1RWaef0",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-02T14:00:00Z",
+    "startTime": "2026-10-02T13:59:44Z",
+    "endTime": "2026-10-02T17:03:03Z",
     "ttl": "2026-10-09T14:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
@@ -234,23 +254,73 @@
     "id": "xhEwO5BZu0I",
     "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
     "title": "【MACHINE PARTY】Last man standing.【#VSPOEN #RikoSolari】",
-    "thumbnail": "https://i.ytimg.com/vi/xhEwO5BZu0I/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/xhEwO5BZu0I/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=xhEwO5BZu0I",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-02T14:00:00Z",
+    "startTime": "2026-10-02T14:00:16Z",
+    "endTime": "2026-10-02T16:48:24Z",
     "ttl": "2026-10-09T14:00:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "316536504690",
+    "channelId": "ramuneshiranami",
+    "title": "【スト６】中パン入れろ",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramuneshiranami-320x180.jpg",
+    "url": "https://www.twitch.tv/ramuneshiranami",
+    "scheduledStartTime": "2026-10-02T13:53:39Z",
+    "startTime": "2026-10-02T13:53:39Z",
+    "platform": "twitch",
+    "ttl": "2026-10-09T13:53:39.000Z",
+    "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316593131507",
+    "channelId": "akarindao",
+    "title": "CRCUP スクリム2日目rpr&rusan coach moyashi9san",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-10-02T16:26:39Z",
+    "startTime": "2026-10-02T16:26:39Z",
+    "platform": "twitch",
+    "ttl": "2026-10-09T16:26:39.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316593319283",
+    "channelId": "emtsmaru",
+    "title": "デイリー",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_emtsmaru-320x180.jpg",
+    "url": "https://www.twitch.tv/emtsmaru",
+    "scheduledStartTime": "2026-10-02T17:35:15Z",
+    "startTime": "2026-10-02T17:35:15Z",
+    "platform": "twitch",
+    "ttl": "2026-10-09T17:35:15.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "316591855091",
     "channelId": "akarindao",
     "title": "CRCUP スクリム2日目rpr&rusan coach moyashi9san",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-10-02T11:42:56Z",
-    "startTime": "2026-10-02T11:42:56Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/218834642eefa59cce6a_akarindao_316591855091_1790941376//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2889710851",
+    "scheduledStartTime": "2026-10-02T11:43:01Z",
+    "startTime": "2026-10-02T11:43:01Z",
     "platform": "twitch",
-    "ttl": "2026-10-09T11:42:56.000Z",
+    "ttl": "2026-10-09T11:43:01.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "316053891921",
+    "channelId": "remiaaotsuki",
+    "title": "scary gorey party ><",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/f79a94a00ee4470892ca_remiaaotsuki_316053891921_1790949634//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2889787905",
+    "scheduledStartTime": "2026-10-02T14:00:43Z",
+    "startTime": "2026-10-02T14:00:43Z",
+    "platform": "twitch",
+    "ttl": "2026-10-09T14:00:43.000Z",
+    "streamerId": "remia_aotsuki"
   }
 ]
