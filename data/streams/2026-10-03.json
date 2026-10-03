@@ -7,6 +7,7 @@
     "url": "https://www.youtube.com/watch?v=pRGcQq8Jq3E",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-03T11:00:00Z",
+    "startTime": "2026-10-03T11:00:36Z",
     "ttl": "2026-10-10T11:00:00.000Z",
     "streamerId": "kaga_sumire"
   },
@@ -18,8 +19,105 @@
     "url": "https://www.youtube.com/watch?v=__jcJTe8vco",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-03T11:00:00Z",
+    "startTime": "2026-10-03T11:00:59Z",
     "ttl": "2026-10-10T11:00:00.000Z",
     "streamerId": "kogara_toto"
+  },
+  {
+    "id": "67MMEUIV_EA",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【APEX】CRカップ スクリム 最終日(^^)/【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/67MMEUIV_EA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=67MMEUIV_EA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-03T12:00:00Z",
+    "startTime": "2026-10-03T12:01:14Z",
+    "ttl": "2026-10-10T12:00:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "izeUKJg8BtQ",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】CRカップスクリム３日目！ #わんちゃんWIN 【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/izeUKJg8BtQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=izeUKJg8BtQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-03T12:00:00Z",
+    "ttl": "2026-10-10T12:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "uEGSj4aqVek",
+    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
+    "title": "【VALORANT 】そろこんぺ【ぶいすぽ/兎咲ミミ】",
+    "thumbnail": "https://i.ytimg.com/vi/uEGSj4aqVek/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=uEGSj4aqVek",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-03T08:00:00Z",
+    "startTime": "2026-10-03T08:13:55Z",
+    "endTime": "2026-10-03T11:37:22Z",
+    "ttl": "2026-10-10T08:00:00.000Z",
+    "streamerId": "tosaki_mimi"
+  },
+  {
+    "id": "-DyueUeSWiw",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 Apex Legends 】 CRCUP スクリム day3 #蟹かきWIN【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/-DyueUeSWiw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=-DyueUeSWiw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-03T12:00:00Z",
+    "startTime": "2026-10-03T12:00:24Z",
+    "ttl": "2026-10-10T12:00:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "YakU-fUjgaY",
+    "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+    "title": "【APEX】 CRcupスクリム3日目🍺 #べてらんWIN   w/kamito 渋谷ハル【ぶいすぽ/八雲べに】",
+    "thumbnail": "https://i.ytimg.com/vi/YakU-fUjgaY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=YakU-fUjgaY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-03T12:00:00Z",
+    "startTime": "2026-10-03T11:59:16Z",
+    "ttl": "2026-10-10T12:00:00.000Z",
+    "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "TYyz29rNX2U",
+    "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+    "title": "【APEX】CRカップスクリム最終日！#半リミットWin【ぶいすぽ / 猫汰つな】",
+    "thumbnail": "https://i.ytimg.com/vi/TYyz29rNX2U/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=TYyz29rNX2U",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-03T11:00:00Z",
+    "startTime": "2026-10-03T11:06:39Z",
+    "ttl": "2026-10-10T11:00:00.000Z",
+    "streamerId": "nekota_tsuna"
+  },
+  {
+    "id": "mgSpugSIgw4",
+    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
+    "title": "【 APEX 】CRカップ スクリムラスト！ w/ 4rmyさん ぷーさん 4rufaさん【 ぶいすぽっ！ / 小森めと 】",
+    "thumbnail": "https://i.ytimg.com/vi/mgSpugSIgw4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=mgSpugSIgw4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-03T12:00:00Z",
+    "startTime": "2026-10-03T11:03:29Z",
+    "ttl": "2026-10-10T12:00:00.000Z",
+    "streamerId": "komori_met"
+  },
+  {
+    "id": "cCjc1SR66A4",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【APEX】カスタム→21時～CRカップスクリム3日目【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/cCjc1SR66A4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=cCjc1SR66A4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-03T09:15:00Z",
+    "startTime": "2026-10-03T09:04:27Z",
+    "ttl": "2026-10-10T09:15:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "K7ogxc8fXOE",
@@ -38,13 +136,39 @@
     "id": "KnjRr-o-7jc",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【スト6】おんぶにだっこ！！PC Watch杯ストリートファイター6 デュオ祭り/KEI.Bさんと【 ぶいすぽっ！甘結もか 】",
-    "thumbnail": "https://i.ytimg.com/vi/KnjRr-o-7jc/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/KnjRr-o-7jc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=KnjRr-o-7jc",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-03T05:45:00Z",
     "startTime": "2026-10-03T05:35:12Z",
+    "endTime": "2026-10-03T08:59:20Z",
     "ttl": "2026-10-10T05:45:00.000Z",
     "streamerId": "amayui_moka"
+  },
+  {
+    "id": "E3C7fTCuHlA",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【スト6】フレームフレームフレーム重ね重ね重ね【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/E3C7fTCuHlA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=E3C7fTCuHlA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-03T08:00:00Z",
+    "startTime": "2026-10-03T08:01:00Z",
+    "endTime": "2026-10-03T10:16:10Z",
+    "ttl": "2026-10-10T08:00:00.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "gVvPkRS1hN8",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　rank5v5一緒にいかせていただきます！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/gVvPkRS1hN8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=gVvPkRS1hN8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-03T11:00:00Z",
+    "startTime": "2026-10-03T11:02:31Z",
+    "ttl": "2026-10-10T11:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "LySUz97a12A",
@@ -56,5 +180,17 @@
     "scheduledStartTime": "2026-10-03T14:00:00Z",
     "ttl": "2026-10-10T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316596521459",
+    "channelId": "akarindao",
+    "title": "CRCUP スクリム最後rpr&rusan coach moyashi9san",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-10-03T11:57:17Z",
+    "startTime": "2026-10-03T11:57:17Z",
+    "platform": "twitch",
+    "ttl": "2026-10-10T11:57:17.000Z",
+    "streamerId": "yumeno_akari"
   }
 ]
