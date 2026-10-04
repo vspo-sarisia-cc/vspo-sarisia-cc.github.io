@@ -13,58 +13,6 @@
     "streamerId": "kaga_nazuna"
   },
   {
-    "id": "gufZjFzU_BE",
-    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
-    "title": "【APEX】今宵もやるんだよ/らむち、あかちゃん【ぶいすぽっ！/英リサ】",
-    "thumbnail": "https://i.ytimg.com/vi/gufZjFzU_BE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=gufZjFzU_BE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-27T15:45:00Z",
-    "startTime": "2026-09-27T15:46:41Z",
-    "endTime": "2026-09-27T22:07:57Z",
-    "ttl": "2026-10-04T15:45:00.000Z",
-    "streamerId": "hanabusa_lisa"
-  },
-  {
-    "id": "mBPtv5LYV2Q",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "【雑談】よるざッ【ぶいすぽっ！/ 藍沢エマ】",
-    "thumbnail": "https://i.ytimg.com/vi/mBPtv5LYV2Q/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=mBPtv5LYV2Q",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-27T14:50:00Z",
-    "startTime": "2026-09-27T14:53:50Z",
-    "endTime": "2026-09-27T17:30:58Z",
-    "ttl": "2026-10-04T14:50:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "gB7ToJ6c4ak",
-    "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
-    "title": "〖 OW 〗よふかし in the night。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
-    "thumbnail": "https://i.ytimg.com/vi/gB7ToJ6c4ak/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=gB7ToJ6c4ak",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-27T16:30:00Z",
-    "startTime": "2026-09-27T16:35:15Z",
-    "endTime": "2026-09-27T18:59:59Z",
-    "ttl": "2026-10-04T16:30:00.000Z",
-    "streamerId": "yano_kuromu"
-  },
-  {
-    "id": "c9KPDMSGwW8",
-    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
-    "title": "【APEX】エペムズイ【ぶいすぽっ！ / 紡木こかげ】",
-    "thumbnail": "https://i.ytimg.com/vi/c9KPDMSGwW8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=c9KPDMSGwW8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-27T17:00:00Z",
-    "startTime": "2026-09-27T16:53:08Z",
-    "endTime": "2026-09-27T19:47:07Z",
-    "ttl": "2026-10-04T17:00:00.000Z",
-    "streamerId": "tsumugi_kokage"
-  },
-  {
     "id": "j5nhdK7f-Y4",
     "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
     "title": "【トルネコの大冒険 不思議のダンジョン　ちょっとステキなリマスター】１クレ、いいですか？　ネタバレ注意【 ぶいすぽっ！甘結もか 】",
@@ -89,30 +37,5 @@
     "endTime": "2026-09-27T22:50:39Z",
     "ttl": "2026-10-04T21:30:00.000Z",
     "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "bK6Kxcz6aR8",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Wuthering Waves◢ RESONATOR SHOWCASE FIRST TIME REACT ! | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/bK6Kxcz6aR8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=bK6Kxcz6aR8",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-27T14:00:00Z",
-    "startTime": "2026-09-27T14:00:42Z",
-    "endTime": "2026-09-27T17:20:38Z",
-    "ttl": "2026-10-04T14:00:00.000Z",
-    "streamerId": "juno_umezono"
-  },
-  {
-    "id": "316503438705",
-    "channelId": "akarindao",
-    "title": "本気のペクシュ",
-    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/b89bd22e725d18ada56d_akarindao_316503438705_1790524041//thumb/thumb0-320x180.jpg",
-    "url": "https://www.twitch.tv/videos/2885572700",
-    "scheduledStartTime": "2026-09-27T15:47:26Z",
-    "startTime": "2026-09-27T15:47:26Z",
-    "platform": "twitch",
-    "ttl": "2026-10-04T15:47:26.000Z",
-    "streamerId": "yumeno_akari"
   }
 ]
