@@ -224,11 +224,12 @@
     "id": "28q24mbudCo",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【MINECRAFT】zoo building !! (for real this time)【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/28q24mbudCo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/28q24mbudCo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=28q24mbudCo",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-03T22:00:00Z",
     "startTime": "2026-10-03T22:01:14Z",
+    "endTime": "2026-10-04T02:02:04Z",
     "ttl": "2026-10-10T22:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -244,18 +245,6 @@
     "endTime": "2026-10-03T19:20:44Z",
     "ttl": "2026-10-10T14:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "321697214042",
-    "channelId": "aryakuroha",
-    "title": "✦ chill zoo building !",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-10-03T22:01:00Z",
-    "startTime": "2026-10-03T22:01:00Z",
-    "platform": "twitch",
-    "ttl": "2026-10-10T22:01:00.000Z",
-    "streamerId": "arya_kuroha"
   },
   {
     "id": "316596611955",
@@ -280,5 +269,17 @@
     "platform": "twitch",
     "ttl": "2026-10-10T11:57:22.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "321697214042",
+    "channelId": "aryakuroha",
+    "title": "✦ chill zoo building !",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/8ed14188c745273aacd7_aryakuroha_321697214042_1791064860//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2891153310",
+    "scheduledStartTime": "2026-10-03T22:01:09Z",
+    "startTime": "2026-10-03T22:01:09Z",
+    "platform": "twitch",
+    "ttl": "2026-10-10T22:01:09.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
