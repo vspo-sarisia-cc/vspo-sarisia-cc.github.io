@@ -1,13 +1,27 @@
 [
   {
+    "id": "9T5DzDFxLkk",
+    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
+    "title": "【APEX】第11回 CRCUP本番 inVS ~戦いの中で~ #たなかWIN【ぶいすぽっ！/花芽すみれ】",
+    "thumbnail": "https://i.ytimg.com/vi/9T5DzDFxLkk/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=9T5DzDFxLkk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-04T08:30:00Z",
+    "startTime": "2026-10-04T08:42:57Z",
+    "endTime": "2026-10-04T13:21:28Z",
+    "ttl": "2026-10-11T08:30:00.000Z",
+    "streamerId": "kaga_sumire"
+  },
+  {
     "id": "uz0u5O__cH0",
     "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
     "title": "【歌枠】おはようございま…！♪ウワ【ぶいすぽ/花芽なずな】",
-    "thumbnail": "https://i.ytimg.com/vi/uz0u5O__cH0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/uz0u5O__cH0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=uz0u5O__cH0",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-04T06:45:00Z",
     "startTime": "2026-10-04T06:48:37Z",
+    "endTime": "2026-10-04T08:39:22Z",
     "ttl": "2026-10-11T06:45:00.000Z",
     "streamerId": "kaga_nazuna"
   },
@@ -19,19 +33,33 @@
     "url": "https://www.youtube.com/watch?v=O27-JhgoxKE",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-04T08:30:00Z",
+    "startTime": "2026-10-04T08:40:17Z",
     "ttl": "2026-10-11T08:30:00.000Z",
     "streamerId": "ichinose_uruha"
   },
   {
     "id": "4dag7xEw-lg",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】優勝する配信 #わんちゃんWIN 【 ぶいすぽっ！胡桃のあ 】",
+    "title": "【 APEX→Fall Guys 】優勝する配信 #わんちゃんWIN 遅延あり【 ぶいすぽっ！胡桃のあ 】",
     "thumbnail": "https://i.ytimg.com/vi/4dag7xEw-lg/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=4dag7xEw-lg",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-04T08:30:00Z",
+    "startTime": "2026-10-04T08:21:12Z",
     "ttl": "2026-10-11T08:30:00.000Z",
     "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "J0G96r3ghHQ",
+    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
+    "title": "【PUBG】メンバーとあそぶ会【ぶいすぽ/兎咲ミミ】",
+    "thumbnail": "https://i.ytimg.com/vi/J0G96r3ghHQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=J0G96r3ghHQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-04T13:00:00Z",
+    "startTime": "2026-10-04T13:02:26Z",
+    "ttl": "2026-10-11T13:00:00.000Z",
+    "streamerId": "tosaki_mimi"
   },
   {
     "id": "1iW-YTYcpaw",
@@ -40,9 +68,22 @@
     "thumbnail": "https://i.ytimg.com/vi/1iW-YTYcpaw/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=1iW-YTYcpaw",
     "platform": "youtube",
-    "scheduledStartTime": "2026-10-04T08:30:00Z",
-    "ttl": "2026-10-11T08:30:00.000Z",
+    "scheduledStartTime": "2026-10-04T08:45:00Z",
+    "startTime": "2026-10-04T08:45:22Z",
+    "ttl": "2026-10-11T08:45:00.000Z",
     "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "M1-huHX_pPQ",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【PUBG】久しぶりにドンカツ食いに行きます🍳【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/M1-huHX_pPQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=M1-huHX_pPQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-04T13:00:00Z",
+    "startTime": "2026-10-04T13:04:05Z",
+    "ttl": "2026-10-11T13:00:00.000Z",
+    "streamerId": "kaminari_qpi"
   },
   {
     "id": "ZKuG8cNhrx4",
@@ -51,9 +92,22 @@
     "thumbnail": "https://i.ytimg.com/vi/ZKuG8cNhrx4/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=ZKuG8cNhrx4",
     "platform": "youtube",
-    "scheduledStartTime": "2026-10-04T08:45:00Z",
-    "ttl": "2026-10-11T08:45:00.000Z",
+    "scheduledStartTime": "2026-10-04T08:15:00Z",
+    "startTime": "2026-10-04T08:07:26Z",
+    "ttl": "2026-10-11T08:15:00.000Z",
     "streamerId": "yakumo_beni"
+  },
+  {
+    "id": "FGSHO6l_x4o",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【PUBG】ぱぶじベイビー練習します【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/FGSHO6l_x4o/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=FGSHO6l_x4o",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-04T13:00:00Z",
+    "startTime": "2026-10-04T13:02:03Z",
+    "ttl": "2026-10-11T13:00:00.000Z",
+    "streamerId": "aizawa_ema"
   },
   {
     "id": "AD7-4FsGQkA",
@@ -63,6 +117,7 @@
     "url": "https://www.youtube.com/watch?v=AD7-4FsGQkA",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-04T08:00:00Z",
+    "startTime": "2026-10-04T08:19:25Z",
     "ttl": "2026-10-11T08:00:00.000Z",
     "streamerId": "nekota_tsuna"
   },
@@ -74,8 +129,22 @@
     "url": "https://www.youtube.com/watch?v=aQTE0W7xQ60",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-04T08:00:00Z",
+    "startTime": "2026-10-04T08:00:27Z",
+    "endTime": "2026-10-04T13:20:13Z",
     "ttl": "2026-10-11T08:00:00.000Z",
     "streamerId": "komori_met"
+  },
+  {
+    "id": "so4CHTGmqUU",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【APEX】CRカップ本番！#青ドクWIN【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/so4CHTGmqUU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=so4CHTGmqUU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-04T08:50:00Z",
+    "startTime": "2026-10-04T08:43:44Z",
+    "ttl": "2026-10-11T08:50:00.000Z",
+    "streamerId": "tsumugi_kokage"
   },
   {
     "id": "WlwFP-WPkQM",
@@ -90,6 +159,41 @@
     "streamerId": "sendo_yuuhi"
   },
   {
+    "id": "k28L2ocGeG4",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【 PUBG 】　やる気あります！！！！！！！！！！w/ミミ先輩、きゅぴちゃま、エマ先輩　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/k28L2ocGeG4/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=k28L2ocGeG4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-04T13:00:00Z",
+    "startTime": "2026-10-04T13:02:21Z",
+    "ttl": "2026-10-11T13:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "rdL57MzJgvE",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  雑談  ◢　寝る前にちょっとお絵かき  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/rdL57MzJgvE/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=rdL57MzJgvE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-04T13:30:00Z",
+    "ttl": "2026-10-11T13:30:00.000Z",
+    "streamerId": "tatsumaki_chise"
+  },
+  {
+    "id": "FzbZPPVxBJw",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【APEX LEGENDS】early bird gets the worm【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/FzbZPPVxBJw/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=FzbZPPVxBJw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-04T10:15:00Z",
+    "startTime": "2026-10-04T10:16:01Z",
+    "ttl": "2026-10-11T10:15:00.000Z",
+    "streamerId": "riko_solari"
+  },
+  {
     "id": "Ks03gaCpopA",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤Wuthering Waves 3.1◢ GUNDAM WAIFU? FINALLY STARTING 3.1 !!! | #JunoUmezono #VSPOEN",
@@ -101,15 +205,27 @@
     "streamerId": "juno_umezono"
   },
   {
+    "id": "316600430195",
+    "channelId": "akarindao",
+    "title": "CRCUP 本番!!rpr&rusan coach moyashi9san",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
+    "url": "https://www.twitch.tv/akarindao",
+    "scheduledStartTime": "2026-10-04T08:34:32Z",
+    "startTime": "2026-10-04T08:34:32Z",
+    "platform": "twitch",
+    "ttl": "2026-10-11T08:34:32.000Z",
+    "streamerId": "yumeno_akari"
+  },
+  {
     "id": "316532115441",
     "channelId": "shinomiya_runa",
-    "title": "ゆっくりノマ",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinomiya_runa-320x180.jpg",
-    "url": "https://www.twitch.tv/shinomiya_runa",
-    "scheduledStartTime": "2026-10-04T05:15:08Z",
-    "startTime": "2026-10-04T05:15:08Z",
+    "title": "デスクトップのアイコン？急にでかくなってて嫌すぎる人",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/58bc742e045edc098c85_shinomiya_runa_316532115441_1791090908//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2891461932",
+    "scheduledStartTime": "2026-10-04T05:15:13Z",
+    "startTime": "2026-10-04T05:15:13Z",
     "platform": "twitch",
-    "ttl": "2026-10-11T05:15:08.000Z",
+    "ttl": "2026-10-11T05:15:13.000Z",
     "streamerId": "shinomiya_runa"
   }
 ]
