@@ -1,57 +1,5 @@
 [
   {
-    "id": "VjPEpjbigkY",
-    "channelId": "UCuI5XaO-6VkOEhHao6ij7JA",
-    "title": "【無料パート＆敵チーム同時視聴配信】クイズ激ロー！秋の陣【ぶいすぽ激ロー】",
-    "thumbnail": "https://i.ytimg.com/vi/VjPEpjbigkY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=VjPEpjbigkY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-28T10:50:00Z",
-    "startTime": "2026-09-28T10:50:47Z",
-    "endTime": "2026-09-28T13:03:22Z",
-    "ttl": "2026-10-05T10:50:00.000Z",
-    "streamerId": "vspo_official"
-  },
-  {
-    "id": "LFbFmjVPu3o",
-    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
-    "title": "【APEX】たのしくなってきたああ/プティめと【ぶいすぽっ！/花芽すみれ】",
-    "thumbnail": "https://i.ytimg.com/vi/LFbFmjVPu3o/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=LFbFmjVPu3o",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-28T08:00:00Z",
-    "startTime": "2026-09-28T08:01:05Z",
-    "endTime": "2026-09-28T11:50:55Z",
-    "ttl": "2026-10-05T08:00:00.000Z",
-    "streamerId": "kaga_sumire"
-  },
-  {
-    "id": "ISCwhS9xuhE",
-    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
-    "title": "【APEX】ぺ【ぶいすぽ/一ノ瀬うるは】",
-    "thumbnail": "https://i.ytimg.com/vi/ISCwhS9xuhE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ISCwhS9xuhE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-28T09:30:00Z",
-    "startTime": "2026-09-28T09:37:16Z",
-    "endTime": "2026-09-28T13:05:38Z",
-    "ttl": "2026-10-05T09:30:00.000Z",
-    "streamerId": "ichinose_uruha"
-  },
-  {
-    "id": "2nz9F90qViE",
-    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
-    "title": "【 APEX 】美が呼んでいます【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/2nz9F90qViE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=2nz9F90qViE",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-28T04:30:00Z",
-    "startTime": "2026-09-28T04:27:49Z",
-    "endTime": "2026-09-28T06:45:40Z",
-    "ttl": "2026-10-05T04:30:00.000Z",
-    "streamerId": "kurumi_noah"
-  },
-  {
     "id": "bpiD6EQNSMc",
     "channelId": "UCvUc0m317LWTTPZoBQV479A",
     "title": "【 Apex Legends 】 やる【ぶいすぽっ！/橘ひなの】",
@@ -63,19 +11,6 @@
     "endTime": "2026-09-28T21:50:39Z",
     "ttl": "2026-10-05T14:20:00.000Z",
     "streamerId": "tachibana_hinano"
-  },
-  {
-    "id": "3RMbGzKaCi4",
-    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
-    "title": "【APEX】おいフルパ　ブロークンムーンが来る/うるは先輩、釈迦さん【ぶいすぽっ！/英リサ】",
-    "thumbnail": "https://i.ytimg.com/vi/3RMbGzKaCi4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=3RMbGzKaCi4",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-28T09:36:00Z",
-    "startTime": "2026-09-28T09:37:13Z",
-    "endTime": "2026-09-28T13:14:43Z",
-    "ttl": "2026-10-05T09:36:00.000Z",
-    "streamerId": "hanabusa_lisa"
   },
   {
     "id": "b4Jepe_orCw",
@@ -104,19 +39,6 @@
     "streamerId": "nekota_tsuna"
   },
   {
-    "id": "0q2IUb9FcsI",
-    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
-    "title": "【 APEX 】うおおおおおおお w/ すみー ぷーさん【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/0q2IUb9FcsI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=0q2IUb9FcsI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-28T08:00:00Z",
-    "startTime": "2026-09-28T08:01:48Z",
-    "endTime": "2026-09-28T11:50:57Z",
-    "ttl": "2026-10-05T08:00:00.000Z",
-    "streamerId": "komori_met"
-  },
-  {
     "id": "tnobPgvaVBI",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【Big Walk】デ　　カ　　歩　　き　　部　#3 【 ぶいすぽっ！ / 千燈ゆうひ 】",
@@ -128,32 +50,6 @@
     "endTime": "2026-09-28T22:34:23Z",
     "ttl": "2026-10-05T13:10:00.000Z",
     "streamerId": "sendo_yuuhi"
-  },
-  {
-    "id": "8vp44yj-cT0",
-    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
-    "title": "【#ちーサイがビッグになるまで】ぶいすぽっ！理解度クイズ【ぶいすぽっ！ 銀城サイネ・龍巻ちせ・八雲べに】",
-    "thumbnail": "https://i.ytimg.com/vi/8vp44yj-cT0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=8vp44yj-cT0",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-28T11:00:00Z",
-    "startTime": "2026-09-28T11:00:32Z",
-    "endTime": "2026-09-28T13:02:02Z",
-    "ttl": "2026-10-05T11:00:00.000Z",
-    "streamerId": "ginjo_saine"
-  },
-  {
-    "id": "804fKIbHkXU",
-    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
-    "title": "◤Apex Legends◢ ranked w/ my mom & leo porte (ANGRY FACE) | #JunoUmezono #VSPOEN",
-    "thumbnail": "https://i.ytimg.com/vi/804fKIbHkXU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=804fKIbHkXU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-09-28T06:00:00Z",
-    "startTime": "2026-09-28T05:52:07Z",
-    "endTime": "2026-09-28T11:19:10Z",
-    "ttl": "2026-10-05T06:00:00.000Z",
-    "streamerId": "juno_umezono"
   },
   {
     "id": "316506479857",
