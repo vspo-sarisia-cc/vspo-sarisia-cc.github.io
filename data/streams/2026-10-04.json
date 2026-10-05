@@ -42,7 +42,7 @@
     "id": "4dag7xEw-lg",
     "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
     "title": "【 APEX→Fall Guys 】優勝する配信 #わんちゃんWIN 遅延あり【 ぶいすぽっ！胡桃のあ 】",
-    "thumbnail": "https://i.ytimg.com/vi/4dag7xEw-lg/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/4dag7xEw-lg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4dag7xEw-lg",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-04T08:30:00Z",
@@ -211,11 +211,12 @@
     "id": "C0hR8exM0sQ",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【MINECRAFT】zoo building pt. 2 !!!【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/C0hR8exM0sQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/C0hR8exM0sQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=C0hR8exM0sQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-04T23:00:00Z",
     "startTime": "2026-10-04T23:01:13Z",
+    "endTime": "2026-10-05T01:09:23Z",
     "ttl": "2026-10-11T23:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -231,18 +232,6 @@
     "endTime": "2026-10-04T19:53:05Z",
     "ttl": "2026-10-11T14:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "321667724505",
-    "channelId": "aryakuroha",
-    "title": "✦ chill zoo building !",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-10-04T23:00:54Z",
-    "startTime": "2026-10-04T23:00:54Z",
-    "platform": "twitch",
-    "ttl": "2026-10-11T23:00:54.000Z",
-    "streamerId": "arya_kuroha"
   },
   {
     "id": "316532115441",
@@ -279,5 +268,17 @@
     "platform": "twitch",
     "ttl": "2026-10-11T14:05:30.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "321667724505",
+    "channelId": "aryakuroha",
+    "title": "✦ chill zoo building !",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/d45152346773abdd0053_aryakuroha_321667724505_1791154854//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2892145656",
+    "scheduledStartTime": "2026-10-04T23:01:00Z",
+    "startTime": "2026-10-04T23:01:00Z",
+    "platform": "twitch",
+    "ttl": "2026-10-11T23:01:00.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
