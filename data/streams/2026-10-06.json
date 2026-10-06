@@ -68,7 +68,7 @@
     "id": "OqRY5HnYwtw",
     "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
     "title": "【PUBG】明日に向けてのれんしう　参加型カスタム【ぶいすぽっ！/英リサ】",
-    "thumbnail": "https://i.ytimg.com/vi/OqRY5HnYwtw/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/OqRY5HnYwtw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=OqRY5HnYwtw",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-06T13:20:00Z",
@@ -76,6 +76,19 @@
     "endTime": "2026-10-06T17:49:03Z",
     "ttl": "2026-10-13T13:20:00.000Z",
     "streamerId": "hanabusa_lisa"
+  },
+  {
+    "id": "CcLJekPjgEI",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 APEX 】ﾌﾞｰﾝ w/ハセシン、心白てと【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/CcLJekPjgEI/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=CcLJekPjgEI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-06T12:00:00Z",
+    "startTime": "2026-10-06T12:01:18Z",
+    "endTime": "2026-10-06T16:40:18Z",
+    "ttl": "2026-10-13T12:00:00.000Z",
+    "streamerId": "shinomiya_runa"
   },
   {
     "id": "PjpTBccpSAA",
@@ -88,19 +101,6 @@
     "startTime": "2026-10-06T05:08:40Z",
     "endTime": "2026-10-06T10:10:52Z",
     "ttl": "2026-10-13T05:05:00.000Z",
-    "streamerId": "shinomiya_runa"
-  },
-  {
-    "id": "CcLJekPjgEI",
-    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
-    "title": "【 APEX 】ﾌﾞｰﾝ w/ハセシン、心白てと【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/CcLJekPjgEI/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=CcLJekPjgEI",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-10-06T12:00:00Z",
-    "startTime": "2026-10-06T12:01:18Z",
-    "endTime": "2026-10-06T16:40:18Z",
-    "ttl": "2026-10-13T12:00:00.000Z",
     "streamerId": "shinomiya_runa"
   },
   {
@@ -156,6 +156,18 @@
     "streamerId": "yano_kuromu"
   },
   {
+    "id": "XRUDgra8E-c",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【朝活雑談】　あさ！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/XRUDgra8E-c/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=XRUDgra8E-c",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-06T21:30:00Z",
+    "startTime": "2026-10-06T21:28:41Z",
+    "ttl": "2026-10-13T21:30:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "sy-yMvD2g9Y",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【ストリートファイターリーグ JAPAN 2026】　Div.F 第3節ミラー配信！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
@@ -166,17 +178,6 @@
     "startTime": "2026-10-06T09:38:19Z",
     "endTime": "2026-10-06T13:53:20Z",
     "ttl": "2026-10-13T09:40:00.000Z",
-    "streamerId": "choya_hanabi"
-  },
-  {
-    "id": "XRUDgra8E-c",
-    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
-    "title": "【朝活雑談】　あさ！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/XRUDgra8E-c/mqdefault_live.jpg",
-    "url": "https://www.youtube.com/watch?v=XRUDgra8E-c",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-10-06T22:00:00Z",
-    "ttl": "2026-10-13T22:00:00.000Z",
     "streamerId": "choya_hanabi"
   },
   {
@@ -208,12 +209,13 @@
   {
     "id": "7xqXnDPwsOk",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
-    "title": "【Nexon Maplestory: Classic World】 Starting our new adventure! 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/7xqXnDPwsOk/mqdefault_live.jpg",
+    "title": "【VARIETY/ZATSU】  made my MS chara 3 hours in lol【#VSPOEN #RemiaAotsuki】",
+    "thumbnail": "https://i.ytimg.com/vi/7xqXnDPwsOk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=7xqXnDPwsOk",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-06T18:00:00Z",
     "startTime": "2026-10-06T17:58:07Z",
+    "endTime": "2026-10-06T21:04:39Z",
     "ttl": "2026-10-13T18:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -225,6 +227,7 @@
     "url": "https://www.youtube.com/watch?v=mNIGaeQd564",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-06T22:00:00Z",
+    "startTime": "2026-10-06T22:00:42Z",
     "ttl": "2026-10-13T22:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -255,16 +258,28 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316068236113",
+    "id": "317957407075",
     "channelId": "remiaaotsuki",
-    "title": "wow it's the new old classic! (chill stream)",
+    "title": "it's working?! (chill stream)",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_remiaaotsuki-320x180.jpg",
     "url": "https://www.twitch.tv/remiaaotsuki",
-    "scheduledStartTime": "2026-10-06T17:59:39Z",
-    "startTime": "2026-10-06T17:59:39Z",
+    "scheduledStartTime": "2026-10-06T22:03:58Z",
+    "startTime": "2026-10-06T22:03:58Z",
     "platform": "twitch",
-    "ttl": "2026-10-13T17:59:39.000Z",
+    "ttl": "2026-10-13T22:03:58.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "321737788506",
+    "channelId": "aryakuroha",
+    "title": "✦ WHO IS HSIN AND WHY DOES SHE MAKE ME FEEL THINGS ?! [I AM A NOOB] #sponsored",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-10-06T22:00:14Z",
+    "startTime": "2026-10-06T22:00:14Z",
+    "platform": "twitch",
+    "ttl": "2026-10-13T22:00:14.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "316608116083",
@@ -289,5 +304,17 @@
     "platform": "twitch",
     "ttl": "2026-10-13T14:23:42.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316068236113",
+    "channelId": "remiaaotsuki",
+    "title": "wow it's the new old classic! (chill stream)",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/48e97f40fa5358d14b97_remiaaotsuki_316068236113_1791309579//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2893589966",
+    "scheduledStartTime": "2026-10-06T17:59:49Z",
+    "startTime": "2026-10-06T17:59:49Z",
+    "platform": "twitch",
+    "ttl": "2026-10-13T17:59:49.000Z",
+    "streamerId": "remia_aotsuki"
   }
 ]
