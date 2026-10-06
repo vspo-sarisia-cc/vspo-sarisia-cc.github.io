@@ -1,5 +1,16 @@
 [
   {
+    "id": "0mkjCEkFFxc",
+    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
+    "title": "【PUBG】-記憶の追跡者- /エマ３ぜろすと３よしなま３【ぶいすぽっ！/花芽すみれ】",
+    "thumbnail": "https://i.ytimg.com/vi/0mkjCEkFFxc/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=0mkjCEkFFxc",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-07T09:00:00Z",
+    "ttl": "2026-10-14T09:00:00.000Z",
+    "streamerId": "kaga_sumire"
+  },
+  {
     "id": "DqWSaZKhOZA",
     "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
     "title": "【神視点】ぶいすぽGG 英リサ presents PUBG【#ぶいすぽGG】",
@@ -31,5 +42,16 @@
     "scheduledStartTime": "2026-10-07T03:00:00Z",
     "ttl": "2026-10-14T03:00:00.000Z",
     "streamerId": "jira_jisaki"
+  },
+  {
+    "id": "VItuE1E-yeU",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤APEX LEGENDS◢ RANKED GRIND w/ @DubsteP_ch @kugaleo_Q | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/VItuE1E-yeU/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=VItuE1E-yeU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-07T06:00:00Z",
+    "ttl": "2026-10-14T06:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
