@@ -1,15 +1,51 @@
 [
   {
+    "id": "PjpTBccpSAA",
+    "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
+    "title": "【 PUBG 】れんしゅ w/すもも、龍巻ちせ、白雪レイド【 ぶいすぽっ！/紫宮るな 】",
+    "thumbnail": "https://i.ytimg.com/vi/PjpTBccpSAA/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=PjpTBccpSAA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-06T05:05:00Z",
+    "startTime": "2026-10-06T05:08:40Z",
+    "ttl": "2026-10-13T05:05:00.000Z",
+    "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "sy-yMvD2g9Y",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【ストリートファイターリーグ JAPAN 2026】　Div.F 第3節ミラー配信！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/sy-yMvD2g9Y/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=sy-yMvD2g9Y",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-06T09:40:00Z",
+    "ttl": "2026-10-13T09:40:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
     "id": "oS8P2ViIC_I",
     "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
     "title": "【スト6】寝れなかったからハンバーグ食べた【ぶいすぽっ！ #銀城サイネ 】",
-    "thumbnail": "https://i.ytimg.com/vi/oS8P2ViIC_I/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/oS8P2ViIC_I/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=oS8P2ViIC_I",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-06T00:00:00Z",
     "startTime": "2026-10-06T00:02:37Z",
+    "endTime": "2026-10-06T02:54:54Z",
     "ttl": "2026-10-13T00:00:00.000Z",
     "streamerId": "ginjo_saine"
+  },
+  {
+    "id": "OPqkSOcjtS8",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  PUBG: BATTLEGROUNDS  ◢　ご一緒にやらせていただきます！！  ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/OPqkSOcjtS8/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=OPqkSOcjtS8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-06T05:00:00Z",
+    "startTime": "2026-10-06T05:05:43Z",
+    "ttl": "2026-10-13T05:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "7xqXnDPwsOk",
@@ -32,5 +68,17 @@
     "scheduledStartTime": "2026-10-06T14:00:00Z",
     "ttl": "2026-10-13T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316608116083",
+    "channelId": "hinanotachiba7",
+    "title": "昼活",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hinanotachiba7-320x180.jpg",
+    "url": "https://www.twitch.tv/hinanotachiba7",
+    "scheduledStartTime": "2026-10-06T05:15:48Z",
+    "startTime": "2026-10-06T05:15:48Z",
+    "platform": "twitch",
+    "ttl": "2026-10-13T05:15:48.000Z",
+    "streamerId": "tachibana_hinano"
   }
 ]
