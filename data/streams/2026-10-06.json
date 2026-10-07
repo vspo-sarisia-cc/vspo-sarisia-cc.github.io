@@ -159,11 +159,12 @@
     "id": "XRUDgra8E-c",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【朝活雑談】　あさ！！！！！！！！！！　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/XRUDgra8E-c/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/XRUDgra8E-c/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=XRUDgra8E-c",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-06T21:30:00Z",
     "startTime": "2026-10-06T21:28:41Z",
+    "endTime": "2026-10-07T00:15:23Z",
     "ttl": "2026-10-13T21:30:00.000Z",
     "streamerId": "choya_hanabi"
   },
@@ -223,11 +224,12 @@
     "id": "mNIGaeQd564",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【WUTHERING WAVES】WHO IS HSIN AND WHY DOES SHE MAKE ME FEEL THINGS ?!【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/mNIGaeQd564/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/mNIGaeQd564/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=mNIGaeQd564",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-06T22:00:00Z",
     "startTime": "2026-10-06T22:00:42Z",
+    "endTime": "2026-10-07T00:21:16Z",
     "ttl": "2026-10-13T22:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -258,30 +260,6 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "317957407075",
-    "channelId": "remiaaotsuki",
-    "title": "it's working?! (chill stream)",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_remiaaotsuki-320x180.jpg",
-    "url": "https://www.twitch.tv/remiaaotsuki",
-    "scheduledStartTime": "2026-10-06T22:03:58Z",
-    "startTime": "2026-10-06T22:03:58Z",
-    "platform": "twitch",
-    "ttl": "2026-10-13T22:03:58.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
-    "id": "321737788506",
-    "channelId": "aryakuroha",
-    "title": "✦ WHO IS HSIN AND WHY DOES SHE MAKE ME FEEL THINGS ?! [I AM A NOOB] #sponsored",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-10-06T22:00:14Z",
-    "startTime": "2026-10-06T22:00:14Z",
-    "platform": "twitch",
-    "ttl": "2026-10-13T22:00:14.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
     "id": "316608116083",
     "channelId": "hinanotachiba7",
     "title": "昼活",
@@ -306,6 +284,18 @@
     "streamerId": "shiranami_ramune"
   },
   {
+    "id": "317957407075",
+    "channelId": "remiaaotsuki",
+    "title": "wow it's the new old classic! (chill stream)",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/0d73c6160ee0f45e3c6a_remiaaotsuki_317957407075_1791324238//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2893778992",
+    "scheduledStartTime": "2026-10-06T22:04:05Z",
+    "startTime": "2026-10-06T22:04:05Z",
+    "platform": "twitch",
+    "ttl": "2026-10-13T22:04:05.000Z",
+    "streamerId": "remia_aotsuki"
+  },
+  {
     "id": "316068236113",
     "channelId": "remiaaotsuki",
     "title": "wow it's the new old classic! (chill stream)",
@@ -316,5 +306,17 @@
     "platform": "twitch",
     "ttl": "2026-10-13T17:59:49.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "321737788506",
+    "channelId": "aryakuroha",
+    "title": "✦ WHO IS HSIN AND WHY DOES SHE MAKE ME FEEL THINGS ?! [I AM A NOOB] #sponsored",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/2dab2949248f01ec1cf3_aryakuroha_321737788506_1791324014//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2893775809",
+    "scheduledStartTime": "2026-10-06T22:00:23Z",
+    "startTime": "2026-10-06T22:00:23Z",
+    "platform": "twitch",
+    "ttl": "2026-10-13T22:00:23.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
