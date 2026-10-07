@@ -22,6 +22,28 @@
     "streamerId": "arya_kuroha"
   },
   {
+    "id": "AXwXbGnuPeM",
+    "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+    "title": "【JIKAMA DAY】lets play together!!【#VSPOEN #JiraJisaki】",
+    "thumbnail": "https://i.ytimg.com/vi/AXwXbGnuPeM/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=AXwXbGnuPeM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-08T02:00:00Z",
+    "ttl": "2026-10-15T02:00:00.000Z",
+    "streamerId": "jira_jisaki"
+  },
+  {
+    "id": "n5_2KAnW6gY",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【TEACH MY LITTLE SISTER HOW TO DRIVE】I don't even have a license myself LOL【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/n5_2KAnW6gY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=n5_2KAnW6gY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-08T12:00:00Z",
+    "ttl": "2026-10-15T12:00:00.000Z",
+    "streamerId": "riko_solari"
+  },
+  {
     "id": "eyJzZWdtZW50SUQiOiJkMTlhMGQ5MC04NjZjLTQ3MDItYjQ2Yy0xZjlkMDIyNjQ2MGMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0MX0=",
     "channelId": "remiaaotsuki",
     "title": "EU faceit elo gain?",
