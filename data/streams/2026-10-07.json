@@ -279,8 +279,9 @@
     "thumbnail": "https://i.ytimg.com/vi/LZ8a-653NYo/mqdefault_live.jpg",
     "url": "https://www.youtube.com/watch?v=LZ8a-653NYo",
     "platform": "youtube",
-    "scheduledStartTime": "2026-10-07T22:00:00Z",
-    "ttl": "2026-10-14T22:00:00.000Z",
+    "scheduledStartTime": "2026-10-07T23:30:00Z",
+    "startTime": "2026-10-07T23:30:36Z",
+    "ttl": "2026-10-14T23:30:00.000Z",
     "streamerId": "arya_kuroha"
   },
   {
@@ -310,16 +311,16 @@
     "streamerId": "juno_umezono"
   },
   {
-    "id": "316558117746",
-    "channelId": "akarindao",
-    "title": "浅く考えろ、世の中舐めろ、保身に走るな、勝っても攻めろ 以上 では質問どうぞ",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-10-07T13:34:14Z",
-    "startTime": "2026-10-07T13:34:14Z",
+    "id": "321753126746",
+    "channelId": "aryakuroha",
+    "title": "✦ chill zoo building !!",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-10-07T23:30:24Z",
+    "startTime": "2026-10-07T23:30:24Z",
     "platform": "twitch",
-    "ttl": "2026-10-14T13:34:14.000Z",
-    "streamerId": "yumeno_akari"
+    "ttl": "2026-10-14T23:30:24.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "316614534899",
@@ -344,6 +345,18 @@
     "platform": "twitch",
     "ttl": "2026-10-14T09:11:06.000Z",
     "streamerId": "shiranami_ramune"
+  },
+  {
+    "id": "316558117746",
+    "channelId": "akarindao",
+    "title": "浅く考えろ、世の中舐めろ、保身に走るな、勝っても攻めろ 以上 では質問どうぞ",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/4b0a45253d9c096857d4_akarindao_316558117746_1791380054//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2894264866",
+    "scheduledStartTime": "2026-10-07T13:34:19Z",
+    "startTime": "2026-10-07T13:34:19Z",
+    "platform": "twitch",
+    "ttl": "2026-10-14T13:34:19.000Z",
+    "streamerId": "yumeno_akari"
   },
   {
     "id": "316118397523",
