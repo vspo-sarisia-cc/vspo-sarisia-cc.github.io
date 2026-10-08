@@ -276,11 +276,12 @@
     "id": "LZ8a-653NYo",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【MINECRAFT】zoo building pt. 3 !!!【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/LZ8a-653NYo/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/LZ8a-653NYo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=LZ8a-653NYo",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-07T23:30:00Z",
     "startTime": "2026-10-07T23:30:36Z",
+    "endTime": "2026-10-08T01:34:42Z",
     "ttl": "2026-10-14T23:30:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -309,18 +310,6 @@
     "endTime": "2026-10-07T09:59:59Z",
     "ttl": "2026-10-14T06:00:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "321753126746",
-    "channelId": "aryakuroha",
-    "title": "✦ chill zoo building !!",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-10-07T23:30:24Z",
-    "startTime": "2026-10-07T23:30:24Z",
-    "platform": "twitch",
-    "ttl": "2026-10-14T23:30:24.000Z",
-    "streamerId": "arya_kuroha"
   },
   {
     "id": "316614534899",
@@ -369,5 +358,17 @@
     "platform": "twitch",
     "ttl": "2026-10-14T13:00:27.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "321753126746",
+    "channelId": "aryakuroha",
+    "title": "✦ chill zoo building !!",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/cd62338e0a8361877d55_aryakuroha_321753126746_1791415824//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2894704075",
+    "scheduledStartTime": "2026-10-07T23:30:32Z",
+    "startTime": "2026-10-07T23:30:32Z",
+    "platform": "twitch",
+    "ttl": "2026-10-14T23:30:32.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]

@@ -1,5 +1,30 @@
 [
   {
+    "id": "wW0c1AHHM8Q",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【スト6】まったり・・・だよ？【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/wW0c1AHHM8Q/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=wW0c1AHHM8Q",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-08T05:20:00Z",
+    "startTime": "2026-10-08T05:21:07Z",
+    "endTime": "2026-10-08T07:17:52Z",
+    "ttl": "2026-10-15T05:20:00.000Z",
+    "streamerId": "amayui_moka"
+  },
+  {
+    "id": "BJDPXh0twdI",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【スト6】昨日よりオレは強い【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/BJDPXh0twdI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=BJDPXh0twdI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-08T07:15:00Z",
+    "startTime": "2026-10-08T07:16:08Z",
+    "ttl": "2026-10-15T07:15:00.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
     "id": "qM64VjD3bOM",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【Counter-Strike 2】 Co-op gaming with the girls! 【#VSPOEN #RemiaAotsuki】",
@@ -25,10 +50,12 @@
     "id": "AXwXbGnuPeM",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【JIKAMA DAY】lets play together!!【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/AXwXbGnuPeM/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/AXwXbGnuPeM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=AXwXbGnuPeM",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-08T02:00:00Z",
+    "startTime": "2026-10-08T02:11:54Z",
+    "endTime": "2026-10-08T06:06:05Z",
     "ttl": "2026-10-15T02:00:00.000Z",
     "streamerId": "jira_jisaki"
   },
