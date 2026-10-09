@@ -150,6 +150,7 @@
     "url": "https://www.youtube.com/watch?v=__DoRIFpAG0",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-08T22:00:00Z",
+    "startTime": "2026-10-08T22:01:35Z",
     "ttl": "2026-10-15T22:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -190,6 +191,18 @@
     "platform": "twitch",
     "ttl": "2026-10-15T12:09:45.000Z",
     "streamerId": "yumeno_akari"
+  },
+  {
+    "id": "321886029147",
+    "channelId": "aryakuroha",
+    "title": "✦ wingmen customs !!",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
+    "url": "https://www.twitch.tv/aryakuroha",
+    "scheduledStartTime": "2026-10-08T22:00:15Z",
+    "startTime": "2026-10-08T22:00:15Z",
+    "platform": "twitch",
+    "ttl": "2026-10-15T22:00:15.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "316122286803",
