@@ -146,11 +146,12 @@
     "id": "__DoRIFpAG0",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【APEX LEGENDS】Wingmen Custom Viewer Games !【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/__DoRIFpAG0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/__DoRIFpAG0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=__DoRIFpAG0",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-08T22:00:00Z",
     "startTime": "2026-10-08T22:01:35Z",
+    "endTime": "2026-10-09T00:46:31Z",
     "ttl": "2026-10-15T22:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -184,25 +185,13 @@
     "id": "316561824882",
     "channelId": "akarindao",
     "title": "雑談→ろりらんく",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-320x180.jpg",
-    "url": "https://www.twitch.tv/akarindao",
-    "scheduledStartTime": "2026-10-08T12:09:45Z",
-    "startTime": "2026-10-08T12:09:45Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d39fbdacd078996cc484_akarindao_316561824882_1791461385//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2895085145",
+    "scheduledStartTime": "2026-10-08T12:09:51Z",
+    "startTime": "2026-10-08T12:09:51Z",
     "platform": "twitch",
-    "ttl": "2026-10-15T12:09:45.000Z",
+    "ttl": "2026-10-15T12:09:51.000Z",
     "streamerId": "yumeno_akari"
-  },
-  {
-    "id": "321886029147",
-    "channelId": "aryakuroha",
-    "title": "✦ wingmen customs !!",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-10-08T22:00:15Z",
-    "startTime": "2026-10-08T22:00:15Z",
-    "platform": "twitch",
-    "ttl": "2026-10-15T22:00:15.000Z",
-    "streamerId": "arya_kuroha"
   },
   {
     "id": "316122286803",
@@ -215,5 +204,17 @@
     "platform": "twitch",
     "ttl": "2026-10-15T16:00:44.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "321886029147",
+    "channelId": "aryakuroha",
+    "title": "✦ wingmen customs !!",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/0c4d853c9a28eed4400a_aryakuroha_321886029147_1791496815//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2895502423",
+    "scheduledStartTime": "2026-10-08T22:00:24Z",
+    "startTime": "2026-10-08T22:00:24Z",
+    "platform": "twitch",
+    "ttl": "2026-10-15T22:00:24.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]

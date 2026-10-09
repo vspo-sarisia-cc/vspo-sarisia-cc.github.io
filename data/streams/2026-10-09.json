@@ -11,6 +11,19 @@
     "streamerId": "komori_met"
   },
   {
+    "id": "T-t0U8H8ebY",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】うえーんうわーんうおーん【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/T-t0U8H8ebY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=T-t0U8H8ebY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-09T04:00:00Z",
+    "startTime": "2026-10-09T03:49:08Z",
+    "endTime": "2026-10-09T05:51:52Z",
+    "ttl": "2026-10-16T04:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "AZbkNH5Z5-I",
     "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
     "title": "【#LTK】顔合わせー！初日ー！（ほぼ）無限！【 ぶいすぽっ！ / 千燈ゆうひ 】",
@@ -33,13 +46,26 @@
     "streamerId": "remia_aotsuki"
   },
   {
+    "id": "tc_n4TRSFDQ",
+    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
+    "title": "【A WAY OUT】WILL WE ESCAPE SCOT-FREE ?! [FINALE]【#VSPOEN #AryaKuroha】",
+    "thumbnail": "https://i.ytimg.com/vi/tc_n4TRSFDQ/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=tc_n4TRSFDQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-09T21:00:00Z",
+    "ttl": "2026-10-16T21:00:00.000Z",
+    "streamerId": "arya_kuroha"
+  },
+  {
     "id": "R5-WbRDzO-0",
     "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
     "title": "【Outlast Trials】first time in prison kinda nervous :3【#VSPOEN #JiraJisaki】",
-    "thumbnail": "https://i.ytimg.com/vi/R5-WbRDzO-0/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/R5-WbRDzO-0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=R5-WbRDzO-0",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-09T03:00:00Z",
+    "startTime": "2026-10-09T03:03:02Z",
+    "endTime": "2026-10-09T05:43:29Z",
     "ttl": "2026-10-16T03:00:00.000Z",
     "streamerId": "jira_jisaki"
   },

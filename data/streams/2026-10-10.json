@@ -20,5 +20,16 @@
     "scheduledStartTime": "2026-10-10T05:00:00Z",
     "ttl": "2026-10-17T05:00:00.000Z",
     "streamerId": "yano_kuromu"
+  },
+  {
+    "id": "QAIUWy_iSBI",
+    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
+    "title": "【SILENT HILL 2】trying to find my way around this weird town !!【#VSPOEN #AryaKuroha】",
+    "thumbnail": "https://i.ytimg.com/vi/QAIUWy_iSBI/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=QAIUWy_iSBI",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-10T22:00:00Z",
+    "ttl": "2026-10-17T22:00:00.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
