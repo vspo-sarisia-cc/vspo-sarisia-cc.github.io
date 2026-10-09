@@ -31,5 +31,16 @@
     "scheduledStartTime": "2026-10-10T22:00:00Z",
     "ttl": "2026-10-17T22:00:00.000Z",
     "streamerId": "arya_kuroha"
+  },
+  {
+    "id": "hiVK9LNXNaY",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Wuthering Waves◢ HOLOGRAMS ON A DEV ACCOUNT ?! | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/hiVK9LNXNaY/mqdefault_live.jpg",
+    "url": "https://www.youtube.com/watch?v=hiVK9LNXNaY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-10-10T14:00:00Z",
+    "ttl": "2026-10-17T14:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
