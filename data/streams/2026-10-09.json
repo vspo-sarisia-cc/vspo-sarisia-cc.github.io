@@ -224,11 +224,12 @@
     "id": "gLZk78lDTig",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【Final Part: A WAY OUT】 We made (it) out!!! 【#VSPOEN #RemiaAotsuki】",
-    "thumbnail": "https://i.ytimg.com/vi/gLZk78lDTig/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/gLZk78lDTig/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=gLZk78lDTig",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-09T21:00:00Z",
     "startTime": "2026-10-09T21:03:50Z",
+    "endTime": "2026-10-09T23:58:06Z",
     "ttl": "2026-10-16T21:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -236,11 +237,12 @@
     "id": "tc_n4TRSFDQ",
     "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
     "title": "【A WAY OUT】WILL WE ESCAPE SCOT-FREE ?! [FINALE]【#VSPOEN #AryaKuroha】",
-    "thumbnail": "https://i.ytimg.com/vi/tc_n4TRSFDQ/mqdefault_live.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/tc_n4TRSFDQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=tc_n4TRSFDQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-10-09T21:00:00Z",
     "startTime": "2026-10-09T21:03:52Z",
+    "endTime": "2026-10-09T23:57:05Z",
     "ttl": "2026-10-16T21:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -271,30 +273,6 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "321899086811",
-    "channelId": "aryakuroha",
-    "title": "✦ ESCAPING PRISON TOGETHER [FINALE] !!",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryakuroha-320x180.jpg",
-    "url": "https://www.twitch.tv/aryakuroha",
-    "scheduledStartTime": "2026-10-09T21:03:37Z",
-    "startTime": "2026-10-09T21:03:37Z",
-    "platform": "twitch",
-    "ttl": "2026-10-16T21:03:37.000Z",
-    "streamerId": "arya_kuroha"
-  },
-  {
-    "id": "316080897105",
-    "channelId": "remiaaotsuki",
-    "title": "Finishing this game w/ @aryakuroha",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_remiaaotsuki-320x180.jpg",
-    "url": "https://www.twitch.tv/remiaaotsuki",
-    "scheduledStartTime": "2026-10-09T21:04:14Z",
-    "startTime": "2026-10-09T21:04:14Z",
-    "platform": "twitch",
-    "ttl": "2026-10-16T21:04:14.000Z",
-    "streamerId": "remia_aotsuki"
-  },
-  {
     "id": "316565308146",
     "channelId": "ren_kisaragi__",
     "title": "Evoフランスミラーするぞ～～",
@@ -317,5 +295,29 @@
     "platform": "twitch",
     "ttl": "2026-10-16T16:15:48.000Z",
     "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "316080897105",
+    "channelId": "remiaaotsuki",
+    "title": "Finishing this game w/ @aryakuroha",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/92a73bda7306af5d3887_remiaaotsuki_316080897105_1791579854//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2896353311",
+    "scheduledStartTime": "2026-10-09T21:04:23Z",
+    "startTime": "2026-10-09T21:04:23Z",
+    "platform": "twitch",
+    "ttl": "2026-10-16T21:04:23.000Z",
+    "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "321899086811",
+    "channelId": "aryakuroha",
+    "title": "✦ ESCAPING PRISON TOGETHER [FINALE] !!",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/eb6010a82d28ce7bb571_aryakuroha_321899086811_1791579817//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2896352835",
+    "scheduledStartTime": "2026-10-09T21:03:46Z",
+    "startTime": "2026-10-09T21:03:46Z",
+    "platform": "twitch",
+    "ttl": "2026-10-16T21:03:46.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
