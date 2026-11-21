@@ -45,12 +45,6 @@
       "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/fb946378-e1b9-434b-b1cb-783156b29a64-profile_image-300x300.png",
       "platform": "twitch"
     },
-    "twitCasting": {
-      "id": "sumire_kaga",
-      "name": "花芽すみれ",
-      "icon": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/2059036534641504256/TI1rsLx4_bigger.jpg",
-      "platform": "twitCasting"
-    },
     "icon": "https://yt3.ggpht.com/62gVOJZDVb-9pPCbljnoRlwqEuvcGk0pNl32GNi_GA_KQS3N7X6-B660Pk3crHh3zi1XSzHMNQ=s88-c-k-c0x00ffffff-no-rj"
   },
   "kaga_nazuna": {
@@ -67,12 +61,6 @@
       "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/14bd6209-94ce-4d53-80bd-87453a678421-profile_image-300x300.png",
       "platform": "twitch"
     },
-    "twitCasting": {
-      "id": "nazuna_kaga",
-      "name": "花芽なずな🍣",
-      "icon": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/2039328932944891904/ldQhBKdI_bigger.jpg",
-      "platform": "twitCasting"
-    },
     "icon": "https://yt3.ggpht.com/AiM0dD6-tajxuBeozH1YberZhKAANawzH_WDwLo9zLaqlGaen_nxW6q1RQt7k79FXEeQLXPFOIM=s88-c-k-c0x00ffffff-no-rj"
   },
   "kogara_toto": {
@@ -82,12 +70,6 @@
       "name": "小雀とと / Toto Kogara",
       "icon": "https://yt3.ggpht.com/ytc/AIdro_lEifEusAxSkqQg12z_wUO1bGfGIqo9Vv4OYz6X5BhCIg=s88-c-k-c0x00ffffff-no-rj",
       "platform": "youtube"
-    },
-    "twitCasting": {
-      "id": "toto_kogara",
-      "name": "小雀とと🔫🐥",
-      "icon": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/1686689020120793089/55BvQZmY_bigger.jpg",
-      "platform": "twitCasting"
     },
     "icon": "https://yt3.ggpht.com/ytc/AIdro_lEifEusAxSkqQg12z_wUO1bGfGIqo9Vv4OYz6X5BhCIg=s88-c-k-c0x00ffffff-no-rj"
   },
@@ -105,12 +87,6 @@
       "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d6c2939-45ec-4413-933e-67c8a062fa82-profile_image-300x300.png",
       "platform": "twitch"
     },
-    "twitCasting": {
-      "id": "uruha_ichinose",
-      "name": "一ノ瀬うるは🌠",
-      "icon": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/1520776129736773633/cf1ERDRx_bigger.jpg",
-      "platform": "twitCasting"
-    },
     "icon": "https://yt3.ggpht.com/ytc/AIdro_myySkwnJbRZM78Ct6Zqok5H0oegoEjLOtg6sdq117VRAM=s88-c-k-c0x00ffffff-no-rj"
   },
   "kurumi_noah": {
@@ -127,12 +103,6 @@
       "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd836144-5d38-4228-8456-1a8aa24bd24b-profile_image-300x300.png",
       "platform": "twitch"
     },
-    "twitCasting": {
-      "id": "n0ah_kurumi",
-      "name": "胡桃のあ🧸♔",
-      "icon": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/1907727455085015045/PBwEYx6D_bigger.jpg",
-      "platform": "twitCasting"
-    },
     "icon": "https://yt3.ggpht.com/P0TCuLWSv_bK-G6p7j-wY2XM6w78G8Z-vtZ-XxkuIXfjFuScBCL3_LLCl1W6dgdMe3GcikiskQ=s88-c-k-c0x00ffffff-no-rj"
   },
   "tosaki_mimi": {
@@ -142,12 +112,6 @@
       "name": "兎咲ミミ / Tosaki Mimi",
       "icon": "https://yt3.ggpht.com/9cJ6zJabky32vTsNMD4NdQQrCIttzqpmC_kW55tKwJuh6OUiCs8MVziidVYfJOa9dBLlgcNwHw=s88-c-k-c0x00ffffff-no-rj",
       "platform": "youtube"
-    },
-    "twitCasting": {
-      "id": "mimi_tosaki",
-      "name": "兎咲ミミ🐰🍭",
-      "icon": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/1740718382113312768/yGujOCML_bigger.jpg",
-      "platform": "twitCasting"
     },
     "icon": "https://yt3.ggpht.com/9cJ6zJabky32vTsNMD4NdQQrCIttzqpmC_kW55tKwJuh6OUiCs8MVziidVYfJOa9dBLlgcNwHw=s88-c-k-c0x00ffffff-no-rj"
   },
@@ -165,12 +129,6 @@
       "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb25e9c0-e515-4d08-a719-fab528efac57-profile_image-300x300.png",
       "platform": "twitch"
     },
-    "twitCasting": {
-      "id": "sena_asumi",
-      "name": "空澄セナ🗝♠",
-      "icon": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/2086259513313869824/4LONmKHY_bigger.jpg",
-      "platform": "twitCasting"
-    },
     "icon": "https://yt3.ggpht.com/lBR2WoXWscLmYRBvwkwJBQR8-hkPl3aWzEZWzIlRLLG2hJMY-JZxwQ7Cc_EGqcyxqbzfMEzi=s88-c-k-c0x00ffffff-no-rj"
   },
   "tachibana_hinano": {
@@ -186,12 +144,6 @@
       "name": "橘ひなの",
       "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/cda793c5-a533-4b7c-9412-d4f364a732d2-profile_image-300x300.png",
       "platform": "twitch"
-    },
-    "twitCasting": {
-      "id": "hinano_tachiba7",
-      "name": "橘ひなの🍫💘",
-      "icon": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/1941584710591000576/-QPqvSMd_bigger.jpg",
-      "platform": "twitCasting"
     },
     "icon": "https://yt3.ggpht.com/qBHwrzfOske0YrfKhyd-tCBGcsoka2h1tHdX09EOdx7uAmAYpYeIEldA-aYYhBROPvADi9_4FA=s88-c-k-c0x00ffffff-no-rj"
   },
@@ -209,12 +161,6 @@
       "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/831018ec-c640-43c7-93b6-7a756a0d69a4-profile_image-300x300.png",
       "platform": "twitch"
     },
-    "twitCasting": {
-      "id": "lisa_hanabusa",
-      "name": "英(はなぶさ) リサ💐＠ぶいすぽ",
-      "icon": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/1874097043301699584/zi7RmmP3_bigger.jpg",
-      "platform": "twitCasting"
-    },
     "icon": "https://yt3.ggpht.com/ytc/AIdro_nDEKrUIjF9DlTu-bEc-DenqIj-md5YkUqhGhqwyBLBgQ=s88-c-k-c0x00ffffff-no-rj"
   },
   "kisaragi_ren": {
@@ -230,12 +176,6 @@
       "name": "如月れん",
       "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb8cf0ff-e964-40c3-95dd-9d4e34fcd8e8-profile_image-300x300.png",
       "platform": "twitch"
-    },
-    "twitCasting": {
-      "id": "ren_kisaragi__",
-      "name": "如月れん⏰",
-      "icon": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/1400855433833631745/Q5-IJJg0_bigger.jpg",
-      "platform": "twitCasting"
     },
     "icon": "https://yt3.ggpht.com/l2mkMKBJ9OKCEKuY2HhDx_i0oKYWvjXQontI0pi3_AZwisv6FOQArd13bNpU4ko_rMhfdR-v7zU=s88-c-k-c0x00ffffff-no-rj"
   },
@@ -269,12 +209,6 @@
       "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/b35a57ae-005b-44ec-8e52-c5821f2e882b-profile_image-300x300.png",
       "platform": "twitch"
     },
-    "twitCasting": {
-      "id": "beni_yakumo",
-      "name": "八雲べに💄💚",
-      "icon": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/2086087536687095809/Mok7MtvQ_bigger.jpg",
-      "platform": "twitCasting"
-    },
     "icon": "https://yt3.ggpht.com/3DKslDQ-fYLyIA5WNS3cl3Hesu6QRWD74C1kU1MYgoLtzenCSdkz1H4mOmFJ3HT_3ZlhNfFR=s88-c-k-c0x00ffffff-no-rj"
   },
   "aizawa_ema": {
@@ -284,18 +218,6 @@
       "name": "藍沢エマ / Aizawa Ema",
       "icon": "https://yt3.ggpht.com/wuec9EJq49vLP5Urd_Jtr-2-UcRnKA_Z0VffwgIV5OCkrdiYqKURoN8q431M6MxCnGzMGDtlLw=s88-c-k-c0x00ffffff-no-rj",
       "platform": "youtube"
-    },
-    "twitch": {
-      "id": "emtsmaru",
-      "name": "藍沢エマです",
-      "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/af5a0b69-22c1-48b6-96c1-fe964f89b1e3-profile_image-300x300.png",
-      "platform": "twitch"
-    },
-    "twitCasting": {
-      "id": "ema_aizawa",
-      "name": "藍沢エマ🥞💫",
-      "icon": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/2008150120018415617/hl-RM_7S_bigger.jpg",
-      "platform": "twitCasting"
     },
     "icon": "https://yt3.ggpht.com/wuec9EJq49vLP5Urd_Jtr-2-UcRnKA_Z0VffwgIV5OCkrdiYqKURoN8q431M6MxCnGzMGDtlLw=s88-c-k-c0x00ffffff-no-rj"
   },
@@ -313,12 +235,6 @@
       "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/512b8442-9e10-4b8d-8cd0-45020a098d13-profile_image-300x300.png",
       "platform": "twitch"
     },
-    "twitCasting": {
-      "id": "runa_shinomiya",
-      "name": "紫宮るな☪️🐾",
-      "icon": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/1839045768423817216/549FecAA_bigger.jpg",
-      "platform": "twitCasting"
-    },
     "icon": "https://yt3.ggpht.com/Rgt9lslf7OZntxcW8A9mMFWDdXTG1IxqCq4tZ14Rd7rB1rm4gxQZPTc5kM9LdGTPmXGWkfyzWw=s88-c-k-c0x00ffffff-no-rj"
   },
   "nekota_tsuna": {
@@ -334,12 +250,6 @@
       "name": "猫汰つな",
       "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b2ded97-6695-4306-a55c-79bcd753d190-profile_image-300x300.png",
       "platform": "twitch"
-    },
-    "twitCasting": {
-      "id": "tsuna_nekota",
-      "name": "猫汰つな🍒✨",
-      "icon": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/1609277467843518464/Atyx3dmd_bigger.jpg",
-      "platform": "twitCasting"
     },
     "icon": "https://yt3.ggpht.com/t8oKW3u3BqieOUZ4j3d_qxV2fBEypIpVkq3vY2SYlOD2gblH-4fSjBOGW9O5eiOagOhhuUzA=s88-c-k-c0x00ffffff-no-rj"
   },
@@ -357,12 +267,6 @@
       "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e3eb29d-ea92-4268-84b6-12c3384c834b-profile_image-300x300.png",
       "platform": "twitch"
     },
-    "twitCasting": {
-      "id": "ramune_shirana3",
-      "name": "白波らむね🐻‍❄️🏖",
-      "icon": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/1612507315902746625/jtEN02Gh_bigger.jpg",
-      "platform": "twitCasting"
-    },
     "icon": "https://yt3.ggpht.com/zkGtVL-NEnjNR53Bf02AeO5AlzwxXOcrTBbaY62YY9wQoQh7S13ASJdMGMsPXyw2U2zxNFUysg=s88-c-k-c0x00ffffff-no-rj"
   },
   "komori_met": {
@@ -379,12 +283,6 @@
       "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/7e8a0187-880f-485d-ae5d-a3ef5fcea1e9-profile_image-300x300.png",
       "platform": "twitch"
     },
-    "twitCasting": {
-      "id": "met_komori",
-      "name": "小森めと🪐",
-      "icon": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/1820415780326080512/iYjBDarQ_bigger.jpg",
-      "platform": "twitCasting"
-    },
     "icon": "https://yt3.ggpht.com/8km4MzJjHfYgZ7gbACC42-p2iwGFjmRFL-mppdpn4y35mIWhDTg2qVxmrGV1WQCqrjV7ZB9_Bw=s88-c-k-c0x00ffffff-no-rj"
   },
   "yumeno_akari": {
@@ -400,12 +298,6 @@
       "name": "夢野あかり",
       "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/d92ee667-de20-403c-9871-718c8887098c-profile_image-300x300.png",
       "platform": "twitch"
-    },
-    "twitCasting": {
-      "id": "akarindaooo",
-      "name": "夢野あかり",
-      "icon": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/1804138636423892995/8e6VfxvB_bigger.jpg",
-      "platform": "twitCasting"
     },
     "icon": "https://yt3.ggpht.com/hW-Z9l93zqxXn56bdRyo4OgVHn9XIMq7T991dsmnwJ-LTWACf306bVYRb8GSbWEATM3UNhqklw=s88-c-k-c0x00ffffff-no-rj"
   },
@@ -455,12 +347,6 @@
       "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/6610f630-9035-4342-b841-5bc73df400f4-profile_image-300x300.png",
       "platform": "twitch"
     },
-    "twitCasting": {
-      "id": "c:sendoyuuhi",
-      "name": "千燈ゆうひ",
-      "icon": "https://twitcasting.tv/img/twitcas_bigger_0.png",
-      "platform": "twitCasting"
-    },
     "icon": "https://yt3.ggpht.com/LwrClvbMurf6c81aevjCuKoy8CKwQbuChZlNExzHHeWfaeQQ1kQpbMZPjqBu24TmVeg0RBH7Cg=s88-c-k-c0x00ffffff-no-rj"
   },
   "choya_hanabi": {
@@ -503,12 +389,6 @@
       "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/e5620a85-bede-40f4-8d6b-8892ad0c515a-profile_image-300x300.png",
       "platform": "twitch"
     },
-    "twitCasting": {
-      "id": "saine_ginjo",
-      "name": "銀城サイネ🎈",
-      "icon": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/2059604005437972480/tAF1EGZU_bigger.jpg",
-      "platform": "twitCasting"
-    },
     "icon": "https://yt3.ggpht.com/1GsQmWJZ_ABGy-QkyuVM59_5F-iOPMMk5r5dR8bBVwRWjfY2u_Y-vuQptYrnezEvcDiTqXU7=s88-c-k-c0x00ffffff-no-rj"
   },
   "tatsumaki_chise": {
@@ -526,7 +406,7 @@
     "youtube": {
       "id": "UCCra1t-eIlO3ULyXQQMD9Xw",
       "name": "Remia Aotsuki 【VSPO! EN】",
-      "icon": "https://yt3.ggpht.com/3ijdlJDJlBXXM_tF00irAxHiltUx4TcDLLGr739wr4dXhUODAuC9CJHI_plUeSB1kQKwzstaYg=s88-c-k-c0x00ffffff-no-rj",
+      "icon": "https://yt3.ggpht.com/ffvhq1qySN1UZZpsfzXKewO7IqpI1l-19UCHVFhykmIY6Uhflua0u8tOLjEdz-fbJnclNxW_=s88-c-k-c0x00ffffff-no-rj",
       "platform": "youtube"
     },
     "twitch": {
@@ -535,7 +415,7 @@
       "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/00adf055-c8d7-45b5-b54a-59e8930f0741-profile_image-300x300.png",
       "platform": "twitch"
     },
-    "icon": "https://yt3.ggpht.com/3ijdlJDJlBXXM_tF00irAxHiltUx4TcDLLGr739wr4dXhUODAuC9CJHI_plUeSB1kQKwzstaYg=s88-c-k-c0x00ffffff-no-rj"
+    "icon": "https://yt3.ggpht.com/ffvhq1qySN1UZZpsfzXKewO7IqpI1l-19UCHVFhykmIY6Uhflua0u8tOLjEdz-fbJnclNxW_=s88-c-k-c0x00ffffff-no-rj"
   },
   "arya_kuroha": {
     "order": 29,
@@ -574,7 +454,7 @@
     "youtube": {
       "id": "UCKSpM183c85d5V2cW5qaUjA",
       "name": "Narin Mikure【VSPO! EN】",
-      "icon": "https://yt3.ggpht.com/7-NgqeR4Woc8D_SNKQk3lAZqFYYDy0U6Bi2mgORrJPbAUYuCnMjey2Kyh6NxQZ2hG-IaR2Mt=s88-c-k-c0x00ffffff-no-rj",
+      "icon": "https://yt3.ggpht.com/lapDvSvc2_Jb8XKiB7QRUsCiVsAENtyS1pR7fzjMV0znEJpcIVx4f-M8FeIviph5EOcqHU9sww=s88-c-k-c0x00ffffff-no-rj",
       "platform": "youtube"
     },
     "twitch": {
@@ -583,7 +463,7 @@
       "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/e05b0d29-f9d9-4ff7-8c50-95f1cecea0c3-profile_image-300x300.png",
       "platform": "twitch"
     },
-    "icon": "https://yt3.ggpht.com/7-NgqeR4Woc8D_SNKQk3lAZqFYYDy0U6Bi2mgORrJPbAUYuCnMjey2Kyh6NxQZ2hG-IaR2Mt=s88-c-k-c0x00ffffff-no-rj"
+    "icon": "https://yt3.ggpht.com/lapDvSvc2_Jb8XKiB7QRUsCiVsAENtyS1pR7fzjMV0znEJpcIVx4f-M8FeIviph5EOcqHU9sww=s88-c-k-c0x00ffffff-no-rj"
   },
   "riko_solari": {
     "order": 32,
