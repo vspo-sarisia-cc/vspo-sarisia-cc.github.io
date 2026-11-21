@@ -9,5 +9,16 @@
     "scheduledStartTime": "2026-11-22T22:00:00Z",
     "ttl": "2026-11-29T22:00:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "acwvcdZqdtY",
+    "channelId": "@erissuzukami",
+    "title": "【歌枠 / karaoke】 1st anniversary special karaoke :3 【#VSPOEN #ErisSuzukami #ErisFirstSteps】",
+    "thumbnail": "https://i.ytimg.com/vi/acwvcdZqdtY/mqdefault.jpg?v=6afc7aee",
+    "url": "https://www.youtube.com/watch?v=acwvcdZqdtY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-22T06:30:00Z",
+    "ttl": "2026-11-29T06:30:00.000Z",
+    "streamerId": "eris_suzukami"
   }
 ]

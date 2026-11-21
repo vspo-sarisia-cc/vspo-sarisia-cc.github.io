@@ -483,13 +483,19 @@
   },
   "eris_suzukami": {
     "order": 33,
+    "youtube": {
+      "id": "@erissuzukami",
+      "name": "Eris Suzukami 【VSPO! EN】",
+      "icon": "https://yt3.ggpht.com/jKrNovQP35Hum7uCdjVaYAHNmm3pZtY19JTW1_ThHdQK8TayZevDwDmdnwN93XFwIlNsgeATQA=s88-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube"
+    },
     "twitch": {
       "id": "erissuzukami",
       "name": "erissuzukami",
       "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a2f6876-8faa-4448-8e98-ad9615fe0722-profile_image-300x300.png",
       "platform": "twitch"
     },
-    "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a2f6876-8faa-4448-8e98-ad9615fe0722-profile_image-300x300.png"
+    "icon": "https://yt3.ggpht.com/jKrNovQP35Hum7uCdjVaYAHNmm3pZtY19JTW1_ThHdQK8TayZevDwDmdnwN93XFwIlNsgeATQA=s88-c-k-c0x00ffffff-no-rj"
   },
   "juno_umezono": {
     "order": 34,
