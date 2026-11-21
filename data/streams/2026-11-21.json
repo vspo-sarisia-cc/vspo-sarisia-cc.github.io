@@ -98,6 +98,8 @@
     "url": "https://www.youtube.com/watch?v=hGkAnIDid6M",
     "platform": "youtube",
     "scheduledStartTime": "2026-11-21T21:00:00Z",
+    "startTime": "2026-11-21T21:00:11Z",
+    "endTime": "2026-11-21T21:15:24Z",
     "ttl": "2026-11-28T21:00:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -131,13 +133,26 @@
     "id": "nhQaRVEOot4",
     "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
     "title": "【 VALORANT 】久しぶり w/兎咲ミミ、Ras、小森めと、ありさか→DUO【 ぶいすぽっ！/紫宮るな 】",
-    "thumbnail": "https://i.ytimg.com/vi/nhQaRVEOot4/mqdefault.jpg?v=6b016aa2",
+    "thumbnail": "https://i.ytimg.com/vi/nhQaRVEOot4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=nhQaRVEOot4",
     "platform": "youtube",
     "scheduledStartTime": "2026-11-21T10:00:00Z",
     "startTime": "2026-11-21T10:05:29Z",
+    "endTime": "2026-11-21T19:29:03Z",
     "ttl": "2026-11-28T10:00:00.000Z",
     "streamerId": "shinomiya_runa"
+  },
+  {
+    "id": "B8hfc0VWDzU",
+    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
+    "title": "【 ニチアサ 】朝は起きる！！！！！！！！！！！！【 ぶいすぽっ！ / 小森めと 】",
+    "thumbnail": "https://i.ytimg.com/vi/B8hfc0VWDzU/mqdefault.jpg?v=6b019a0b",
+    "url": "https://www.youtube.com/watch?v=B8hfc0VWDzU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-21T23:00:00Z",
+    "startTime": "2026-11-21T23:00:08Z",
+    "ttl": "2026-11-28T23:00:00.000Z",
+    "streamerId": "komori_met"
   },
   {
     "id": "rh1sYamtNLc",
@@ -150,17 +165,6 @@
     "startTime": "2026-11-21T10:04:19Z",
     "endTime": "2026-11-21T13:13:45Z",
     "ttl": "2026-11-28T10:00:00.000Z",
-    "streamerId": "komori_met"
-  },
-  {
-    "id": "B8hfc0VWDzU",
-    "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
-    "title": "【 ニチアサ 】朝は起きる！！！！！！！！！！！！【 ぶいすぽっ！ / 小森めと 】",
-    "thumbnail": "https://i.ytimg.com/vi/B8hfc0VWDzU/mqdefault.jpg?v=6b019a0b",
-    "url": "https://www.youtube.com/watch?v=B8hfc0VWDzU",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-11-21T23:00:00Z",
-    "ttl": "2026-11-28T23:00:00.000Z",
     "streamerId": "komori_met"
   },
   {
@@ -262,6 +266,7 @@
     "url": "https://www.youtube.com/watch?v=mWotFIEquvc",
     "platform": "youtube",
     "scheduledStartTime": "2026-11-21T22:00:00Z",
+    "startTime": "2026-11-21T22:09:41Z",
     "ttl": "2026-11-28T22:00:00.000Z",
     "streamerId": "remia_aotsuki"
   },
@@ -273,6 +278,7 @@
     "url": "https://www.youtube.com/watch?v=OHmNaTXog8k",
     "platform": "youtube",
     "scheduledStartTime": "2026-11-21T23:00:00Z",
+    "startTime": "2026-11-21T23:00:52Z",
     "ttl": "2026-11-28T23:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
@@ -280,12 +286,25 @@
     "id": "IkmehOFgSlQ",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤GTA VI #3◢ LUCIA MY LOVE ! (18+ only) | #JunoUmezono #VSPO",
-    "thumbnail": "https://i.ytimg.com/vi/IkmehOFgSlQ/mqdefault.jpg?v=6b016405",
+    "thumbnail": "https://i.ytimg.com/vi/IkmehOFgSlQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=IkmehOFgSlQ",
     "platform": "youtube",
     "scheduledStartTime": "2026-11-21T14:00:00Z",
     "startTime": "2026-11-21T14:01:18Z",
+    "endTime": "2026-11-21T19:09:37Z",
     "ttl": "2026-11-28T14:00:00.000Z",
     "streamerId": "juno_umezono"
+  },
+  {
+    "id": "316277111891",
+    "channelId": "remiaaotsuki",
+    "title": "⌖ showing @rararocora cs2 for the first time!",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_remiaaotsuki-320x180.jpg",
+    "url": "https://www.twitch.tv/remiaaotsuki",
+    "scheduledStartTime": "2026-11-21T22:09:34Z",
+    "startTime": "2026-11-21T22:09:34Z",
+    "platform": "twitch",
+    "ttl": "2026-11-28T22:09:34.000Z",
+    "streamerId": "remia_aotsuki"
   }
 ]
