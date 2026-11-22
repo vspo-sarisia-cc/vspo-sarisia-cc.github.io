@@ -1,5 +1,29 @@
 [
   {
+    "id": "Wec0QGmjYgY",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【APEX】ぶいすぽGGスクリム！麻倉シノ、サイネ！！！！！【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/Wec0QGmjYgY/mqdefault.jpg?v=6b02b7fd",
+    "url": "https://www.youtube.com/watch?v=Wec0QGmjYgY",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-22T09:45:00Z",
+    "startTime": "2026-11-22T09:46:55Z",
+    "ttl": "2026-11-29T09:45:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "LYi5Z6LMi9M",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【APEX】ぶいすぽGGすくりむだ！！【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/LYi5Z6LMi9M/mqdefault.jpg?v=6b02736b",
+    "url": "https://www.youtube.com/watch?v=LYi5Z6LMi9M",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-22T10:30:00Z",
+    "startTime": "2026-11-22T10:38:00Z",
+    "ttl": "2026-11-29T10:30:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
     "id": "dKvuNVAfHA0",
     "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
     "title": "おぱ",
@@ -13,6 +37,54 @@
     "streamerId": "ichinose_uruha"
   },
   {
+    "id": "fChQXlJgh54",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 APEX 】ぶいすぽGG スクリムやります！/ベリーちゃん、エマちゃん【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/fChQXlJgh54/mqdefault.jpg?v=6b02b769",
+    "url": "https://www.youtube.com/watch?v=fChQXlJgh54",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-22T10:00:00Z",
+    "startTime": "2026-11-22T09:57:56Z",
+    "ttl": "2026-11-29T10:00:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "h294J7xYRfw",
+    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
+    "title": "【#ぶいすぽGG】チーム５！スクリム！BANあり！ヨロシク！【ぶいすぽっ！/英リサ】",
+    "thumbnail": "https://i.ytimg.com/vi/h294J7xYRfw/mqdefault.jpg?v=6b02b15a",
+    "url": "https://www.youtube.com/watch?v=h294J7xYRfw",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-22T09:15:00Z",
+    "startTime": "2026-11-22T09:15:44Z",
+    "ttl": "2026-11-29T09:15:00.000Z",
+    "streamerId": "hanabusa_lisa"
+  },
+  {
+    "id": "lOQSQ7sfyiQ",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【APEX】えぺぺぺぺぺぺぺぶいすぽGGすくりむ【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/lOQSQ7sfyiQ/mqdefault.jpg?v=6b02b67c",
+    "url": "https://www.youtube.com/watch?v=lOQSQ7sfyiQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-22T10:00:00Z",
+    "startTime": "2026-11-22T10:03:48Z",
+    "ttl": "2026-11-29T10:00:00.000Z",
+    "streamerId": "kaminari_qpi"
+  },
+  {
+    "id": "Jg0izloSZIQ",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【APEX】のあエマベリーぶいすぽGG スクリム！【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/Jg0izloSZIQ/mqdefault.jpg?v=6b02a0f2",
+    "url": "https://www.youtube.com/watch?v=Jg0izloSZIQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-22T10:00:00Z",
+    "startTime": "2026-11-22T09:57:13Z",
+    "ttl": "2026-11-29T10:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "cWgmk22JFzU",
     "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
     "title": "【 APEX 】ぶいすぽGG！スクリムいくぞ~💥🔫【 ぶいすぽっ！ / 小森めと 】",
@@ -20,8 +92,44 @@
     "url": "https://www.youtube.com/watch?v=cWgmk22JFzU",
     "platform": "youtube",
     "scheduledStartTime": "2026-11-22T10:00:00Z",
+    "startTime": "2026-11-22T09:53:56Z",
     "ttl": "2026-11-29T10:00:00.000Z",
     "streamerId": "komori_met"
+  },
+  {
+    "id": "kI8wjJR5X38",
+    "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
+    "title": "【 APEX 】　ぶいすぽGGスクリムDAY！！！！！w/めと先輩、りんしゃんつかいさん 【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+    "thumbnail": "https://i.ytimg.com/vi/kI8wjJR5X38/mqdefault.jpg?v=6b02b5a7",
+    "url": "https://www.youtube.com/watch?v=kI8wjJR5X38",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-22T10:00:00Z",
+    "startTime": "2026-11-22T09:58:43Z",
+    "ttl": "2026-11-29T10:00:00.000Z",
+    "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "Q0G3sTBVce4",
+    "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
+    "title": "【APEX】ぶいすぽGGスクリム・顔合わせ/　緋八マナさん、ハセシンさん　【 ぶいすぽっ！甘結もか 】",
+    "thumbnail": "https://i.ytimg.com/vi/Q0G3sTBVce4/mqdefault.jpg?v=6b02a52c",
+    "url": "https://www.youtube.com/watch?v=Q0G3sTBVce4",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-22T09:00:00Z",
+    "startTime": "2026-11-22T09:09:27Z",
+    "ttl": "2026-11-29T09:00:00.000Z",
+    "streamerId": "amayui_moka"
+  },
+  {
+    "id": "RETsWRy3RZo",
+    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
+    "title": "【GTA VI】WE'RE IN VICE CITY BABY !!! [PART 5]【#VSPOEN #AryaKuroha】",
+    "thumbnail": "https://i.ytimg.com/vi/RETsWRy3RZo/mqdefault.jpg?v=6b028c4d",
+    "url": "https://www.youtube.com/watch?v=RETsWRy3RZo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-22T23:00:00Z",
+    "ttl": "2026-11-29T23:00:00.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "1uoPOit0XHY",
@@ -35,17 +143,6 @@
     "streamerId": "riko_solari"
   },
   {
-    "id": "acwvcdZqdtY",
-    "channelId": "@erissuzukami",
-    "title": "【歌枠 / karaoke】 1st anniversary special karaoke :3 【#VSPOEN #ErisSuzukami #ErisFirstSteps】",
-    "thumbnail": "https://i.ytimg.com/vi/acwvcdZqdtY/mqdefault.jpg?v=6afc7aee",
-    "url": "https://www.youtube.com/watch?v=acwvcdZqdtY",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-11-22T06:30:00Z",
-    "ttl": "2026-11-29T06:30:00.000Z",
-    "streamerId": "eris_suzukami"
-  },
-  {
     "id": "iZC5OzTJdiU",
     "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
     "title": "◤GTA VI #4◢ IT'S TIME FOR CRIME ! CHAPTER 2 START ! (18+ only) | #JunoUmezono #VSPO",
@@ -55,17 +152,5 @@
     "scheduledStartTime": "2026-11-22T12:53:00Z",
     "ttl": "2026-11-29T12:53:00.000Z",
     "streamerId": "juno_umezono"
-  },
-  {
-    "id": "315714611823",
-    "channelId": "erissuzukami",
-    "title": "im supposed to be doing something important right now",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
-    "url": "https://www.twitch.tv/erissuzukami",
-    "scheduledStartTime": "2026-11-22T01:42:09Z",
-    "startTime": "2026-11-22T01:42:09Z",
-    "platform": "twitch",
-    "ttl": "2026-11-29T01:42:09.000Z",
-    "streamerId": "eris_suzukami"
   }
 ]
