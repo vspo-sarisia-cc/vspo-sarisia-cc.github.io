@@ -107,11 +107,12 @@
     "id": "XK_jbl9Lqws",
     "channelId": "UCF_U2GCKHvDz52jWdizppIA",
     "title": "【LoL】CC優勝したよ。次試合に向けてソロ二次会   #LTK【空澄セナ/ぶいすぽっ！】",
-    "thumbnail": "https://i.ytimg.com/vi/XK_jbl9Lqws/mqdefault.jpg?v=6b03073b",
+    "thumbnail": "https://i.ytimg.com/vi/XK_jbl9Lqws/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=XK_jbl9Lqws",
     "platform": "youtube",
     "scheduledStartTime": "2026-11-22T15:20:00Z",
     "startTime": "2026-11-22T15:23:59Z",
+    "endTime": "2026-11-22T22:37:55Z",
     "ttl": "2026-11-29T15:20:00.000Z",
     "streamerId": "asumi_sena"
   },
@@ -201,6 +202,7 @@
     "url": "https://www.youtube.com/watch?v=RETsWRy3RZo",
     "platform": "youtube",
     "scheduledStartTime": "2026-11-22T23:00:00Z",
+    "startTime": "2026-11-22T23:00:59Z",
     "ttl": "2026-11-29T23:00:00.000Z",
     "streamerId": "arya_kuroha"
   },
