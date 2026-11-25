@@ -11,6 +11,43 @@
     "streamerId": "vspo_official"
   },
   {
+    "id": "JqyW51rS5U8",
+    "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
+    "title": "【 魔法少女ノ魔女裁判 】#5 誰も失いたくない【 ぶいすぽっ！胡桃のあ 】",
+    "thumbnail": "https://i.ytimg.com/vi/JqyW51rS5U8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=JqyW51rS5U8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-25T04:30:00Z",
+    "startTime": "2026-11-25T04:33:11Z",
+    "endTime": "2026-11-25T06:35:38Z",
+    "ttl": "2026-12-02T04:30:00.000Z",
+    "streamerId": "kurumi_noah"
+  },
+  {
+    "id": "KXm6Z2QHWiM",
+    "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
+    "title": "【Potato Please】芋を剥けと言われました。【ぶいすぽ/兎咲ミミ】",
+    "thumbnail": "https://i.ytimg.com/vi/KXm6Z2QHWiM/mqdefault.jpg?v=6b067406",
+    "url": "https://www.youtube.com/watch?v=KXm6Z2QHWiM",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-25T06:00:00Z",
+    "startTime": "2026-11-25T05:57:01Z",
+    "ttl": "2026-12-02T06:00:00.000Z",
+    "streamerId": "tosaki_mimi"
+  },
+  {
+    "id": "mp4edeRWxqo",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】高みのシノさんDUO 私は弱かったら去りますゆえ。【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/mp4edeRWxqo/mqdefault.jpg?v=6b066dce",
+    "url": "https://www.youtube.com/watch?v=mp4edeRWxqo",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-25T05:45:00Z",
+    "startTime": "2026-11-25T05:47:37Z",
+    "ttl": "2026-12-02T05:45:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
     "id": "MH2i_MSwhc4",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【Counter-Strike 2】 maybe 27k today | Premier【#VSPOEN #RemiaAotsuki】",
