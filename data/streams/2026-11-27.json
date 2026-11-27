@@ -22,6 +22,18 @@
     "streamerId": "nekota_tsuna"
   },
   {
+    "id": "ENmnOFvJstQ",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【ドラゴンクエストVII Reimagined】いろいろ思い出しながらやっていこう #12 【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/ENmnOFvJstQ/mqdefault.jpg?v=6b08cd7d",
+    "url": "https://www.youtube.com/watch?v=ENmnOFvJstQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-27T00:30:00Z",
+    "startTime": "2026-11-27T00:30:21Z",
+    "ttl": "2026-12-04T00:30:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
     "id": "pRC-11N5MBA",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【Counter-Strike 2】 trying our best in red rank | Premier【#VSPOEN #RemiaAotsuki】",
@@ -31,5 +43,27 @@
     "scheduledStartTime": "2026-11-27T15:00:00Z",
     "ttl": "2026-12-04T15:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "b_ISIvi9AnU",
+    "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
+    "title": "【JUST VOLLEYBALL】GAME IS OUT, TIME TO GRIND【#VSPOEN #RikoSolari】",
+    "thumbnail": "https://i.ytimg.com/vi/b_ISIvi9AnU/mqdefault.jpg?v=6b08a69f",
+    "url": "https://www.youtube.com/watch?v=b_ISIvi9AnU",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-27T13:00:00Z",
+    "ttl": "2026-12-04T13:00:00.000Z",
+    "streamerId": "riko_solari"
+  },
+  {
+    "id": "0SNP6i_8ezQ",
+    "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
+    "title": "◤Deadlock◢ pp gang deadlocking | #JunoUmezono #VSPOEN",
+    "thumbnail": "https://i.ytimg.com/vi/0SNP6i_8ezQ/mqdefault.jpg?v=6b08902b",
+    "url": "https://www.youtube.com/watch?v=0SNP6i_8ezQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-27T06:00:00Z",
+    "ttl": "2026-12-04T06:00:00.000Z",
+    "streamerId": "juno_umezono"
   }
 ]
