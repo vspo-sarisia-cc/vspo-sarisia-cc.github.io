@@ -9,5 +9,16 @@
     "scheduledStartTime": "2026-12-01T15:00:00Z",
     "ttl": "2026-12-08T15:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "2SCSpT8x_2g",
+    "channelId": "UCKSpM183c85d5V2cW5qaUjA",
+    "title": "【VALORANT】 VSPO! EN Party Rumble ft. FNC 【#VSPOEN #NarinMikure】",
+    "thumbnail": "https://i.ytimg.com/vi/2SCSpT8x_2g/mqdefault.jpg?v=6b09181d",
+    "url": "https://www.youtube.com/watch?v=2SCSpT8x_2g",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-12-01T09:00:00Z",
+    "ttl": "2026-12-08T09:00:00.000Z",
+    "streamerId": "narin_mikure"
   }
 ]

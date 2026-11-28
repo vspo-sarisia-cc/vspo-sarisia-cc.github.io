@@ -1,15 +1,126 @@
 [
   {
+    "id": "zp3ioncr55U",
+    "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
+    "title": "【歌枠】メジャーなアニソン縛り（私調べ）【ぶいすぽ/花芽なずな】",
+    "thumbnail": "https://i.ytimg.com/vi/zp3ioncr55U/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=zp3ioncr55U",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-28T06:05:00Z",
+    "startTime": "2026-11-28T06:04:59Z",
+    "endTime": "2026-11-28T08:53:45Z",
+    "ttl": "2026-12-05T06:05:00.000Z",
+    "streamerId": "kaga_nazuna"
+  },
+  {
+    "id": "MeJgzSUHsHQ",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "【APEX】病み上がりの逞しいAIMキボンヌ(^^)/【ぶいすぽ/一ノ瀬うるは】",
+    "thumbnail": "https://i.ytimg.com/vi/MeJgzSUHsHQ/mqdefault.jpg?v=6b0a915f",
+    "url": "https://www.youtube.com/watch?v=MeJgzSUHsHQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-28T08:45:00Z",
+    "startTime": "2026-11-28T08:51:32Z",
+    "ttl": "2026-12-05T08:45:00.000Z",
+    "streamerId": "ichinose_uruha"
+  },
+  {
+    "id": "Em5dsa2qKi8",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "【 Apex Legends 】ブロムン・・・😭 w / うるは、りんたん 【ぶいすぽっ！/橘ひなの】",
+    "thumbnail": "https://i.ytimg.com/vi/Em5dsa2qKi8/mqdefault.jpg?v=6b0a923e",
+    "url": "https://www.youtube.com/watch?v=Em5dsa2qKi8",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-28T08:45:00Z",
+    "startTime": "2026-11-28T08:50:42Z",
+    "ttl": "2026-12-05T08:45:00.000Z",
+    "streamerId": "tachibana_hinano"
+  },
+  {
+    "id": "WcHOZFKAlUA",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "【SF6】格付けスト6、です・・か。(非常にまずい)【ぶいすぽっ！/神成きゅぴ】",
+    "thumbnail": "https://i.ytimg.com/vi/WcHOZFKAlUA/mqdefault.jpg?v=6b0aa8e2",
+    "url": "https://www.youtube.com/watch?v=WcHOZFKAlUA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-28T12:00:00Z",
+    "ttl": "2026-12-05T12:00:00.000Z",
+    "streamerId": "kaminari_qpi"
+  },
+  {
+    "id": "c8aJv4PaUac",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "【スト6】格付けスト6です、道着１です、か.......【ぶいすぽっ！/ 藍沢エマ】",
+    "thumbnail": "https://i.ytimg.com/vi/c8aJv4PaUac/mqdefault.jpg?v=6b0ab2d3",
+    "url": "https://www.youtube.com/watch?v=c8aJv4PaUac",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-28T12:00:00Z",
+    "ttl": "2026-12-05T12:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
+    "id": "ifAWrlzIqtk",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】2cプレミア本番参加します！少し緊張【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/ifAWrlzIqtk/mqdefault.jpg?v=6b0a623d",
+    "url": "https://www.youtube.com/watch?v=ifAWrlzIqtk",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-28T11:00:00Z",
+    "startTime": "2026-11-28T11:04:26Z",
+    "ttl": "2026-12-05T11:00:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "Cm5tVoDiYgE",
+    "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
+    "title": "【VALORANT】絶対に怒ったりしません。なぜならこんなに良い笑顔をしているのだから【ぶいすぽっ！ / 紡木こかげ】",
+    "thumbnail": "https://i.ytimg.com/vi/Cm5tVoDiYgE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Cm5tVoDiYgE",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-28T05:15:00Z",
+    "startTime": "2026-11-28T05:19:06Z",
+    "endTime": "2026-11-28T09:36:36Z",
+    "ttl": "2026-12-05T05:15:00.000Z",
+    "streamerId": "tsumugi_kokage"
+  },
+  {
+    "id": "lPj4DczlnXQ",
+    "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+    "title": "【League of Legends】ふるぱゴーゴー！不思議面子【 ぶいすぽっ！ / 千燈ゆうひ 】",
+    "thumbnail": "https://i.ytimg.com/vi/lPj4DczlnXQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=lPj4DczlnXQ",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-28T05:00:00Z",
+    "startTime": "2026-11-28T05:00:58Z",
+    "endTime": "2026-11-28T08:27:08Z",
+    "ttl": "2026-12-05T05:00:00.000Z",
+    "streamerId": "sendo_yuuhi"
+  },
+  {
     "id": "n5oziwbPE6A",
     "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
     "title": "【 APEX 】　シルバーいくぞおおおおお！！！＃夏こい 【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
-    "thumbnail": "https://i.ytimg.com/vi/n5oziwbPE6A/mqdefault.jpg?v=6b0a26d9",
+    "thumbnail": "https://i.ytimg.com/vi/n5oziwbPE6A/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=n5oziwbPE6A",
     "platform": "youtube",
     "scheduledStartTime": "2026-11-28T01:15:00Z",
     "startTime": "2026-11-28T01:12:50Z",
+    "endTime": "2026-11-28T03:20:23Z",
     "ttl": "2026-12-05T01:15:00.000Z",
     "streamerId": "choya_hanabi"
+  },
+  {
+    "id": "0cm5lZWualA",
+    "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
+    "title": "◤  League of Legends  ◢　5人でフレックスとかなんかやらせていただく！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+    "thumbnail": "https://i.ytimg.com/vi/0cm5lZWualA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=0cm5lZWualA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-28T05:00:00Z",
+    "startTime": "2026-11-28T05:02:03Z",
+    "endTime": "2026-11-28T08:34:40Z",
+    "ttl": "2026-12-05T05:00:00.000Z",
+    "streamerId": "tatsumaki_chise"
   },
   {
     "id": "VIX4iYcT_sM",
@@ -32,5 +143,17 @@
     "scheduledStartTime": "2026-11-28T12:00:00Z",
     "ttl": "2026-12-05T12:00:00.000Z",
     "streamerId": "riko_solari"
+  },
+  {
+    "id": "315723220590",
+    "channelId": "erissuzukami",
+    "title": "fnatic got nothin on this vtuber right here",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erissuzukami-320x180.jpg",
+    "url": "https://www.twitch.tv/erissuzukami",
+    "scheduledStartTime": "2026-11-28T10:26:44Z",
+    "startTime": "2026-11-28T10:26:44Z",
+    "platform": "twitch",
+    "ttl": "2026-12-05T10:26:44.000Z",
+    "streamerId": "eris_suzukami"
   }
 ]
