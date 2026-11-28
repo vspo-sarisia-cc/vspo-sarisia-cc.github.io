@@ -104,6 +104,19 @@
     "streamerId": "yakumo_beni"
   },
   {
+    "id": "ZqvkKjrnveA",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "あることが理由で呼ばれ方を気にしてないのあちゃん【ぶいすぽっ！/ 藍沢エマ/胡桃のあ/早乙女ベリー/APEX/ぶいすぽGG】",
+    "thumbnail": "https://i.ytimg.com/vi/ZqvkKjrnveA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=ZqvkKjrnveA",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-27T22:00:00Z",
+    "startTime": "2026-11-27T22:00:11Z",
+    "endTime": "2026-11-27T22:19:58Z",
+    "ttl": "2026-12-04T22:00:00.000Z",
+    "streamerId": "aizawa_ema"
+  },
+  {
     "id": "rynxybZiaUc",
     "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
     "title": "【スト6】格付けやばい（長尾さんの企画に出させていただくことになりました！）【ぶいすぽっ！/ 藍沢エマ】",
@@ -114,17 +127,6 @@
     "startTime": "2026-11-27T15:30:44Z",
     "endTime": "2026-11-27T18:13:41Z",
     "ttl": "2026-12-04T15:25:00.000Z",
-    "streamerId": "aizawa_ema"
-  },
-  {
-    "id": "ZqvkKjrnveA",
-    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
-    "title": "あることが理由で呼ばれ方を気にしてないのあちゃん【ぶいすぽっ！/ 藍沢エマ/胡桃のあ/早乙女ベリー/APEX/ぶいすぽGG】",
-    "thumbnail": "https://i.ytimg.com/vi/ZqvkKjrnveA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ZqvkKjrnveA",
-    "platform": "youtube",
-    "scheduledStartTime": "2026-11-27T22:00:00Z",
-    "ttl": "2026-12-04T22:00:00.000Z",
     "streamerId": "aizawa_ema"
   },
   {
@@ -232,6 +234,19 @@
     "streamerId": "choya_hanabi"
   },
   {
+    "id": "iDzQUkdOL58",
+    "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+    "title": "【スト6】寝て、寝すぎて、朝。【ぶいすぽっ！ #銀城サイネ 】",
+    "thumbnail": "https://i.ytimg.com/vi/iDzQUkdOL58/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=iDzQUkdOL58",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-27T22:00:00Z",
+    "startTime": "2026-11-27T22:01:16Z",
+    "endTime": "2026-11-28T00:34:13Z",
+    "ttl": "2026-12-04T22:00:00.000Z",
+    "streamerId": "ginjo_saine"
+  },
+  {
     "id": "pRC-11N5MBA",
     "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
     "title": "【Counter-Strike 2】 trying our best in red rank | Premier【#VSPOEN #RemiaAotsuki】",
@@ -243,6 +258,19 @@
     "endTime": "2026-11-27T18:02:39Z",
     "ttl": "2026-12-04T15:00:00.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "2Qm0bOp7sks",
+    "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
+    "title": "【APEX LEGENDS】solo un-washing !!【#VSPOEN #AryaKuroha】",
+    "thumbnail": "https://i.ytimg.com/vi/2Qm0bOp7sks/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=2Qm0bOp7sks",
+    "platform": "youtube",
+    "scheduledStartTime": "2026-11-27T23:00:00Z",
+    "startTime": "2026-11-27T23:01:04Z",
+    "endTime": "2026-11-28T01:20:41Z",
+    "ttl": "2026-12-04T23:00:00.000Z",
+    "streamerId": "arya_kuroha"
   },
   {
     "id": "b_ISIvi9AnU",
@@ -327,5 +355,17 @@
     "platform": "twitch",
     "ttl": "2026-12-04T15:03:03.000Z",
     "streamerId": "remia_aotsuki"
+  },
+  {
+    "id": "322454801881",
+    "channelId": "aryakuroha",
+    "title": "✦ washed central !!",
+    "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/23274574f445ed030da0_aryakuroha_322454801881_1795820451//thumb/thumb0-320x180.jpg",
+    "url": "https://www.twitch.tv/videos/2942695237",
+    "scheduledStartTime": "2026-11-27T23:01:00Z",
+    "startTime": "2026-11-27T23:01:00Z",
+    "platform": "twitch",
+    "ttl": "2026-12-04T23:01:00.000Z",
+    "streamerId": "arya_kuroha"
   }
 ]
